@@ -122,9 +122,9 @@ Today the financial system is very different, and what we consider "normal" -- m
 
 
 (slide 37)
-Gold is amazing because you can keep it, bury it or leave it forgotten for years: once you get it back, it will still have value. It's like in pirate movies, where a chest full of gold coins is often buried. Whoever finds this treasure, even centuries later, will be able to use it, because gold never loses its value, no matter how much time passes.
+Gold allows you to keep it, bury it or leave it forgotten for years: once you get it back, it will still have value. It's like in pirate movies, where a chest full of gold coins is often buried. Whoever finds this treasure, even centuries later, will be able to use it, because gold retains value, no matter how much time passes.
 
-This durability is one of the reasons why gold has been so widely used as money throughout human history. It doesn't rely on governments or banks for its value. It won't rust when buried in the ground. That's why gold has been used as money for millennia.
+This durability is one of the reasons why gold has been so widely used as money throughout human history. It doesn't rely on governments or banks to have value. It won't rust when buried in the ground. That's why gold has been used as money for millennia.
 
 
 (slide 38)
@@ -138,7 +138,7 @@ If you compare the performance of government-issued currencies with gold over ti
 
 But why is that? The answer lies in the nature of gold and how it differs from fiat currencies, those issued by governments. Gold is relatively scarce, and its supply cannot be increased easily or arbitrarily. Before the emergence of Bitcoin, gold was the most difficult commodity to expand the supply of. Extracting gold from the earth is expensive, laborious and limited by natural reserves. This has created a stable and tamper-resistant offer for many years, preserving value over time.
 
-In addition, gold has atomic stability. This means that, even with the advances in science, recreating gold in a laboratory is economically unfeasible and practically impossible, since it's so expensive. 
+In addition, gold has atomic stability. This means that, even with the advances in science, recreating gold in a laboratory is economically unfeasible, since it's so expensive. 
 
 So gold became the most widely used money in history; upon becoming money, it took on 3 functions:
 
@@ -152,22 +152,21 @@ With coinage, it became obvious to price goods and services in quantities of gol
 
 
 (slide 41)
-But just as stones, shells and salt were used as money in the past and were eventually replaced, gold has also been replaced as the monetary standard. All money can be demonetized if something with better monetary properties comes along. This is part of the natural evolution of money, which follows people's needs and improvements in the characteristics that make something useful as a medium of exchange, store of value and unit of measurement.
+But just as stones, shells and salt were used as money in the past and were eventually replaced, gold has also been replaced as the monetary standard. All money can be demonetized if something with better monetary properties comes along. This is part of the natural evolution of money, which follows people's needs and improvements in the characteristics that make something useful as a medium of exchange, store of value and unit of account.
 
 The evolution of money has always been linked to the improvement of these properties. Millennia ago, for example, shells were used as money. They were valuable because they were scarce in certain regions, such as the mountains. But when people began to move and take shells from the coast to these regions, they lost their scarcity and, consequently, their value. The result? The shells no longer functioned as money because they could no longer preserve value.
 
-A fascinating story that helps to understand this evolution is that of rai stones, which were used as money on the island of Yap in Micronesia until 1871. The rai stones were large limestone disks with a hole in the middle, varying in size and shape. They were not only a form of money, but also a status symbol. The families who had the biggest and most beautiful stones were considered the richest on the island.
+A fascinating story that helps to understand this evolution is that of Rai Stones, which were used as money on the island of Yap in Micronesia until 1871. The Rai Stones were large limestone disks with a hole in the middle, varying in size and shape. They were not only a form of money, but also a status symbol. The families who had the biggest and most beautiful stones were considered the richest on the island.
 
-The limestone needed to make these stones simply did not exist on the island of Yap. For this reason, the stones had to be sourced from neighboring islands, which made their production an extremely laborious and time-consuming process. Moving a rai stone required effort, energy and planning, which limited production and thus helped maintain the value of the stones as money. This process, which involved significant work to create and transport the stones, is a precursor to the concept of proof of work, which we will explore later in this course.
+The limestone needed to make these stones simply did not exist on the island of Yap. For this reason, the stones had to be sourced from neighboring islands, which made their production an extremely laborious and time-consuming process. Moving a Rai Stone required effort, energy and planning, which limited production and thus helped maintain the value of the stones as money. This process, which involved significant work to create and transport the stones, is a precursor to the concept of proof of work, which we will explore later in this course.
 
-For a while, rai stones worked well as money. They were difficult to counterfeit, their production was limited and they required effort. All of these are important characteristics for preserving value. 
+For a while, Rai Stones worked well as money. They were difficult to counterfeit, their production was limited and they required effort. All of these are important characteristics for preserving value. 
 
 
 (slide 42)
-Whenever a giant stone arrived on the island, the whole village knew who owned it because everyone had to work together to carry it. If the stone was used in a trade, the Yapese would only announce who the new owner was. This is a fine example of decentralized money recording, the difference being that it was analog and not digital.
+Whenever a giant stone arrived on the island, the whole village knew who owned it because everyone had to work together to carry it. If the stone was used in a trade, the Yapese would only announce who the new owner was. This is a fine example of decentralized money ledger, the difference being that it was analog and not digital.
 
-
-However, the arrival of an Irish businessman on the island put an end to this monetary standard. The Irishman noticed that the Yapese produced a lot of coconut and wanted to trade it with the locals, but they wouldn't accept foreign money, only rai stones. Now look at what the Irishman did. He took explosives and metal tools to the neighboring islands, mined a lot of rai stones with way less effort than usual, took them to the island of Yap and bought up all the coconut stocks. 
+However, the arrival of an Irish businessman on the island put an end to this monetary standard. The Irishman noticed that the Yapese produced a lot of coconut and wanted to trade it with the locals, but they wouldn't accept foreign money, only Rai Stones. Now look at what the Irishman did. He took explosives and metal tools to the neighboring islands, mined a lot of Rai Stones with way less effort than usual, took them to the island of Yap and bought up all the coconut stocks. 
 
 
 (slide 43)
@@ -211,7 +210,7 @@ But how does this work? To print money, governments issue debt securities, which
 
 This mechanism allows governments to spend without limits, simply by increasing how much they owe. In the case of the United States, this debt has become the foundation of the global financial system. Confidence in the dollar and the American economy ensures that bonds are widely accepted as "the new gold", or "a risk-free asset" by global markets.
 
-However, this model has a weak point: trust. If at some point the US fails to pay its debt or even delays payments, confidence in the American economy could collapse. This would have devastating effects, since many countries and institutions depend directly on the stability of the dollar and US bonds. A crisis of confidence in this system could contaminate the entire global economy, triggering a new financial crisis.
+However, this model has a weak point: trust. If at some point the US fails to pay its debt or even delays payments, confidence in the US economy could collapse. This would have devastating effects, since many countries and institutions depend directly on the stability of the dollar and US bonds. A crisis of confidence in this system could contaminate the entire global economy, triggering a new financial crisis.
 
 This scenario makes us reflect on the fragility of a system based on infinite debt and trust in the "power of the money printers". Unlike gold, which was a tangible and scarce asset, today's money and the global financial system are built on something intangible and infinitely expandable: debt.
 
