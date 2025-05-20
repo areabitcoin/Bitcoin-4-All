@@ -1,4 +1,4 @@
-Script Class 5 - Inside Bitcoin: how does Bitcoin work? (mining, halving and cycles)
+# Script Class 5 - Inside Bitcoin: how does Bitcoin work? (mining, halving and cycles)
 
 (slide 120)
 Now that you've understood how the Bitcoin blockchain works and that it needs consensus from the participants for decentralized coordination, let's understand how the network agrees with each other through a mechanism called Proof of Work (PoW).
@@ -26,7 +26,7 @@ This means that mining is a process that is difficult to defraud and at the same
 (slide 124)
 The entire mining and consensus process when registering the Bitcoin blockchain works like this:
 
-Miners use computing power, buying powerful machines with huge computing power to try and find the nonce of the block as quickly as possible. When they find it, they create the hash, show it to the network, and the nodes check that the proposed block is following the rules. If everything is OK, the block is added into the blockchain and propagated through the network; the block is inserted into all participants' copies of the blockchain. Afterwards, the miners receive Bitcoin as a reward for completing the task.
+Miners use computing power, buying powerful machines with huge computing power to try and find the nonce of the block as quickly as possible. When they find it, they create the hash, show it to the network, and the nodes check that the proposed block is following the rules. If everything is OK, the block is added into the blockchain and propagated through the network; the block is inserted into all participants' copies of the blockchain (timechain). Afterwards, the miners receive Bitcoin as a reward for completing the task.
 
 This whole process is known as proof of work.
 
@@ -44,11 +44,10 @@ Trying to randomly match a hash and break SHA-256 encryption is practically impo
 
 That's where the story of the quantum computer comes in! People always ask us if a quantum computer could break Bitcoin's encryption. This is one of the great hopes of Bitcoin haters, but the truth is that no quantum computer would be able to kill Bitcoin.
 
-A copy of an article that explains this is available after this lesson.
+I will leave an article that better explains whether quantum computers are a threat here in the description of this class.
+[Quantum Computers article](https://blog.areabitcoin.co/quantum-computers-end-bitcoin/)
 
 (slide 128)
-<https://codebeautify.org/sha256-hash-generator>
-
 Now it's time to show you a very cool [site](https://codebeautify.org/sha256-hash-generator). It's this one, called Code Beautify. This site allows you to experiment and convert any information into a SHA-256 function.
 
 Let's type Bitcoin4All here. See how the code in the box below changes with every letter, space or punctuation mark. This is what happens to the Bitcoin network's block hash if any information is modified. Note how fast it happened: it didn't require mega computing power to find this hash. If it was that easy to create a hash right here on this site, why does it take 10 minutes on the Bitcoin network? And why is it no longer possible to mine from your home computer?
@@ -57,9 +56,9 @@ Let's type Bitcoin4All here. See how the code in the box below changes with ever
 (slide 129)
 This has to do with a mechanism called difficulty adjustment.
 
-The difficulty adjustment has the role of regulating the issuance of new bitcoins. It is this adjustment that ensures that the average time taken to create new blocks, followed by the reward delivered by the network, is 10 minutes. This is because every 2016 blocks mined, about 15 days on average, there is an algorithm that will analyze the amount of computing power in the network and increase or decrease the difficulty of finding the block hash.
+The difficulty adjustment has the role of regulating the issuance of new bitcoin. It is this adjustment that ensures that the average time taken to create new blocks, followed by the reward delivered by the network, is 10 minutes. This is because every 2016 blocks mined, about 15 days on average, there is an algorithm that will analyze the amount of computing power in the network and increase or decrease the difficulty of finding the block hash.
 
-If the number of miners suddenly increases, the network will regulate itself to increase the difficulty of mining so as not to speed up the rate at which new blocks are created and consequently not speed up the rate at which new bitcoins are created. 
+If the number of miners suddenly increases, the network will regulate itself to increase the difficulty of mining so as not to speed up the rate at which new blocks are created and consequently not speed up the rate at which new bitcoin are created. 
 
 
 (slide 130)
@@ -71,7 +70,7 @@ This is how the network regulates itself as demand increases so that it never lo
 (slide 131)
 You can tell the difficulty level of mining each block by the number of zeros that appear before the block's hash number. This block, for example, has 24 zeros in front of the hash code. It was mined in October 2022, being one of the most difficult blocks to mine at the time.
 
-The miner's goal is to assemble a block where the hash code is smaller than the current target (penultimate blank line). The smaller the target, the harder it is to find a valid block. The more miners on the network, the harder this search gets.
+The miner's goal is to assemble a block where the hash code is smaller than the current target. The smaller the target, the harder it is to find a valid block. The more miners on the network, the harder this search gets.
 
 
 (slide 132)
@@ -83,13 +82,13 @@ It's because of the difficulty setting that mining has evolved and it's no longe
 
 As the level of difficulty increased, more tech savvy people began to use more powerful machines: GPUs, which are widely used in gaming computers. Bitcoin continued to attract more and more people wanting to mine, until a machine was created with this specific purpose: ASICs.
 
-This type of machine is much more powerful and beats CPUs and GPUs at the speed of finding the block's hash. Mining has become a giant and dedicated industry, tirelessly seeking efficiency. In other words, it aims to produce as many bitcoins as possible with as little or as little energy as possible.
+This type of machine is much more powerful and beats CPUs and GPUs at the speed of finding the block's hash. Mining has become a giant and dedicated industry, tirelessly seeking efficiency. In other words, it aims to produce as many bitcoin as possible with as little or as little energy as possible.
 
-That's why the price doesn't matter. Bitcoin could reach 10 billion dollars. The speed at which new bitcoins are issued does not change. Even an increase in the power of the hashrate cannot lead to more bitcoins being issued than is planned for each halving cycle. Bringing more miners into the network doesn't produce more bitcoins, but it does make the network more secure and decentralized.
+That's why the price doesn't matter in this case. Bitcoin could reach 10 billion dollars. The speed at which new bitcoin are issued does not change. Even an increase in the power of the hashrate cannot lead to more bitcoin being issued than is planned for each halving cycle. Bringing more miners into the network doesn't produce more bitcoin, but it does make the network more secure and decentralized.
 
 
 (slide 134)
-And why does this mechanism make the network more secure? Well, because the greater the computing power, the harder it is to attack the network. In this graph, the line represents the hashrate, the computing power, and the redder colors represent the difficulty of mining each block. The difficulty and hashrate have increased exponentially since the Bitcoin network began to circulate. As the line turns orange, the harder it is to mine a block. The greater the computing power, the more the network has adapted to protect Bitcoin's properties. That's why Bitcoin has no competitor in mining: it's the protocol with the most miners distributed around the planet and the most computing power of all.
+And why does this mechanism make the network more secure? Well, because the greater the computing power, the harder it is to attack the network. In this graph, the line represents the hashrate, the computing power, and the redder colors represent the difficulty of mining each block. The difficulty and hashrate have increased exponentially since the Bitcoin network strated hashing. As the line turns orange, the harder it is to mine a block. The greater the computing power, the more the network has adapted to protect Bitcoin's properties. That's why Bitcoin has no competitor in mining: it's the protocol with the most miners distributed around the planet and the most computing power of all.
 
 
 (slide 135)
@@ -111,7 +110,7 @@ That's why pools work like a system where everyone chips in with computing power
 
 
 (slide 139)
-Nowadays the Bitcoin network has dozens of pools, but five of them are the largest and aggregate most of the hashrate: Foundry, Antpool, F2Pool, ViaBTC and Mara. Although many people say that this could be classified as a centralization mechanism, in reality miners can leave the pool at any time and go to another one. They can even mine solo if they want to try their luck. In other words, the concentration in these five largest pools was a natural market movement of the miners' will to stay in pools with greater odds of finding blocks and share the rewards. The pools don't run the network, since it's the nodes that check and decide whether the mined blocks are valid or not.
+Nowadays the Bitcoin network has dozens of pools, but five of them are the largest and aggregate most of the hashrate: Foundry, Antpool, F2Pool, ViaBTC and Mara. Although many people say that this could be classified as a centralization mechanism, in reality miners can leave the pool at any time and go to another one. They can even mine solo if they want to try their luck. The concentration in these five largest pools was a natural market movement of the miners' will to stay in pools with greater odds of finding blocks and share the rewards. The pools don't rule the network, since it's the nodes that check and decide whether the mined blocks are valid or not.
 
 Another essential point in the functioning of Bitcoin is the halving, which has everything to do with mining. As time goes by, Bitcoin becomes more and more scarce. Growing scarcity coupled with growing demand is what has caused Bitcoin's parabolic upward price movements. It is the halving that causes Bitcoin to gradually become scarcer and at the same time creates cycles of appreciation that have been repeated.
 
@@ -120,9 +119,9 @@ Halving comes from the word "halfing". The Bitcoin halving means that, for every
 
 
 (slide 141)
-The first halving took place on November 28, 2012, at the very beginning of the network. At the time, the Bitcoin network produced 50 bitcoins per block of information processed. In other words, for every 10 minutes on average at that time, miners received 50 bitcoins as a reward. With the 2012 halving, miners were paid 25 bitcoins per mined block.
+The first halving took place on November 28, 2012, at the very beginning of the network. At the time, the Bitcoin network produced 50 bitcoin per block of information processed. In other words, for every 10 minutes on average at that time, miners received 50 bitcoin as a reward. With the 2012 halving, miners were paid 25 bitcoin per mined block.
 
-In 2016, the second halving took place, in the 420,000 block, and the emission was halved again. Instead of receiving 25 bitcoins per block, each miner now receives 12.5 bitcoins per mined block. The third halving took place in 2020, on May 11, in block 630,000. From then on, miners received 6.25 bitcoin per block until the next halving.
+In 2016, the second halving took place, in the 420,000 block, and the emission was halved again. Instead of receiving 25 bitcoin per block, each miner now receives 12.5 bitcoin per mined block. The third halving took place in 2020, on May 11, in block 630,000. From then on, miners received 6.25 bitcoin per block until the next halving.
 
 The last recorded halving, the fourth, took place in April 2024 at block 840,000. The next one will be in 2028. The best thing about all this is that we know in advance which block it's going to be: at the time of the 1.50 million block. The new reward will be 1.5625 bitcoin for miners.
 
@@ -132,13 +131,13 @@ This image shows how, at each halving -- a step upwards of the orange line --, B
 
 That's quite an amazing image: it illustrates how Bitcoin is transparent, programmable and has a predictable monetary policy that cannot be expanded or modified. These aspects are very different from other assets or currencies that change their rules or monetary policies at any given time.
 
-The last satoshi will be mined in the year 2140: that's when the issuance of new bitcoins will end. Network fees will be the only source of revenue for miners to pay for operating costs.
+The last satoshi will be mined in the year 2140: that's when the issuance of new bitcoin will end. Network fees will be the only source of revenue for miners to pay for operating costs.
 
 
 (slide 143)
 This table here is another way of showing the same thing. This table shows Bitcoin's entire monetary policy: from the first satoshi and the first halving to the last halving in 2140.
 
-We can see that more than 90% of bitcoins have already been issued and that, by the year 2036, 99% of all bitcoins to ever exist will have been mined. The rest, the final 1%, will be created between 2036 and 2140. It takes 110 years to mine 1% of the Bitcoin supply!
+We can see that more than 90% of bitcoin have already been issued and that, by the year 2036, 99% of all bitcoin to ever exist will have been mined. The rest, the final 1%, will be created between 2036 and 2140. It takes 110 years to mine 1% of the remaining Bitcoin supply!
 
 The year 2030 is probably when the biggest source of income for miners will be fees. At this point, Bitcoin's demand should be very high, to the point where the fees charged by miners sustain their operation, including machine maintenance and energy costs, instead of depending on the block reward.
 
@@ -153,7 +152,7 @@ And why is the halving so important?
 
 
 (slide 145)
-Halvings create a "supply shock": fewer bitcoins become available while demand remains the same. With each halving, the number of bitcoins created per block is cut in half. This reduces supply, which pushes up the price. If a lot of people want to buy bitcoins and you can't create more units, the only way to convince hodlers to sell is to offer a higher price.
+Halvings create a "supply shock": fewer bitcoin become available while demand remains the same. With each halving, the number of bitcoin mined per block is cut in half. This reduces supply, which pushes up the price. If a lot of people want to buy bitcoin and you can't create more units, the only way to convince hodlers to sell is to offer a higher price.
 
 
 (slide 145)
@@ -161,7 +160,7 @@ Halvings create a "supply shock": fewer bitcoins become available while demand r
 
 This rise forms parabolic movements and attracts everyone's attention: Bitcoin makes the news, further increasing demand. That's when the hallucinatory euphoria of the bull run begins.
 
-This is because the only way to have the same liquidity to satisfy new buyers is to increase the premium so that those who have Bitcoin change their minds and want to sell. It's the simplest law of economics: the law of supply and demand. If there is too much demand and supply is reduced, prices rise. As the number of Bitcoin is limited to 21 million units and there is no way to issue more, when demand increases, the only way for supply to meet demand is for the price to rise.
+This is because the only way to have the same liquidity to satisfy new buyers is to increase the premium so that those who have Bitcoin change their minds and want to sell. It's the simplest law of economics: the law of supply and demand. If there is too much demand and supply is reduced, prices rise. As the number of Bitcoin is limited to 21 million units and there is no way to issue more, when demand increases, the only way for supply to meet demand is for the price to go up.
 
 Halvings cause supply shocks that make Bitcoin's price to rise until a new price breakthrough. This whole process creates cyclical movements of appreciation and contraction until the new price is set. 
 
