@@ -1,12 +1,12 @@
-Script Class 6 - Why should Bitcoin continue to appreciate?
+# Script Class 6 - Why should Bitcoin continue to appreciate?
 
-Have you ever heard the phrase "Bitcoin has no top because fiat has no bottom"? Bitcoin tends to continue appreciating in value over the long term, even with intense volatility. That's because solid money is part of everyone's wants and needs. Nobody wants money that loses value year after year, right?
+Have you ever heard the phrase "Bitcoin has no top because fiat has no bottom"? Bitcoin tends to continue appreciating in value over the long term, even with intense volatility. That's because sound money is part of everyone's wants and needs. Nobody wants money that loses value year after year, right?
 
-In addition to being solid money, Bitcoin manages to digitize trust. What the world demands most is a reliable way of conserving energy and value. Even before Bitcoin the fiat system didn't provide any certainty that its money would not be diluted, modified or have its properties manipulated. Bitcoin will continue to grow and be adopted because it has brought mathematical certainty to the economy.
+In addition to being sound money, Bitcoin manages to digitize trust. What the world demands most is a reliable way of conserving energy and value. Even before Bitcoin the fiat system didn't provide any certainty that its money would not be diluted, modified or have its properties manipulated. Bitcoin will continue to grow and be adopted because it has brought mathematical certainty to the economy.
 
 
 (slide 151)
-This calculation summarizes the economic incentives behind Bitcoin. The total number of coins that can exist is the sum of the number of bitcoins mined in each block. For every 210,000 blocks that the network processes, which happens on average every 4 years, this reward per block is cut in half. A total of 32 halvings are projected to take place and this progression ends at block 6,930,000, when all bitcoins will have been mined.
+This calculation summarizes the economic incentives behind Bitcoin. The total number of coins that can exist is the sum of the number of bitcoin mined in each block. For every 210,000 blocks that the network processes, which happens on average every 4 years, this reward per block is cut in half. A total of 32 halvings are projected to take place and this progression ends at block 6,930,000, when all bitcoin will have been mined.
 
 This gives a result of: 20,999,000 bitcoin and 97,690,000 satoshis. The so-called 21 million limit is a mental rounding off so as not to make it difficult to speak or explain.
 
@@ -41,11 +41,11 @@ That's why, as Bitcoin is adopted, theories of valuation begin to emerge.
 
 
 (slide 156)
-The Stock-to-Flow (S2F) model measures the scarcity of an asset by calculating the ratio between the current stock (stock) and the annual production flow of new units (flow). In other words, it compares how much has already been produced with how much remains to be produced. The higher the S2F, the scarcer the asset. This model was originally used to assess the scarcity of precious metals such as gold and silver. 
+The Stock-to-Flow (S2F) model measures the scarcity of an asset by calculating the ratio between the current stock (stock) and the annual production flow of new units (flow). It compares how much has already been produced with how much remains to be produced. The higher the S2F, the scarcer the asset. This model was originally used to assess the scarcity of precious metals such as gold and silver. 
 
 
 (slide 157)
-In the case of Bitcoin, the S2F model has become popular because Bitcoin has a higher and much more predictable S2F ratio than any other asset. It was only a matter of time before a model emerged trying to project the price of Bitcoin based on its degree of scarcity. Known as PlanB, the creator of Bitcoin's S2F model argues that there is a historical correlation between the increase in S2F and the price of Bitcoin, suggesting that scarcity drives appreciation. 
+In the case of Bitcoin, the S2F model has become popular because Bitcoin has a higher and much more predictable S2F ratio than any other assets. It was only a matter of time before a model emerged trying to project the price of Bitcoin based on its degree of scarcity. Known as PlanB, the creator of Bitcoin's S2F model argues that there is a historical correlation between the increase in S2F and the price of Bitcoin, suggesting that scarcity drives appreciation. 
 
 However, while on the one hand this model is visually useful for understanding the growing scarcity deriving from halvings and the dynamics of Bitcoin throughout the cycles, on the other hand it is not a predictor of the price's future. The model has been modified several times as well. This image on the screen dates back to the creator's initial projection. 
 
@@ -73,14 +73,12 @@ Absorption theories are theories stating that Bitcoin will suck up liquidity and
 
 
 (slide 160)
-According to Jesse Meyers, Bitcoin could capture 25% of global wealth and could be worth 10 million dollars in the future. <https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation>
+According to Jesse Meyers, Bitcoin could capture 25% of global wealth and could be worth 10 million dollars in the future. [onceinaspecies](https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation)
 
 He posted this in the article "Bitcoin's Full Potential Valuation".
 
 
 (slide 161)
-<https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation>
-
 He explains that Bitcoin competes for liquidity with all assets, as this image shows. It competes with assets that lose value, such as vehicles and products, as well as with inflationary assets, such as fiat currencies. It competes with scarce assets, such as gold, real estate and collectibles, and with equities which include scarce assets. It also competes with assets that pay returns on growth. Bitcoin tends to outgrow all other assets, since it mixes all of this into a single asset at an early stage of appreciation and growth.
 
 
@@ -93,7 +91,7 @@ Bitcoin had a market cap of 400 billion dollars when Jesse made this calculation
 
 
 (slide 164)
-And now, for some classic baker's math circulating on the Internet since the days when Hal Finney exchanged messages with Satoshi Nakamoto.
+And now, some freestyle math circulating on the Internet since the days when Hal Finney exchanged messages with Satoshi Nakamoto.
 
 
 (slide 165)
@@ -101,7 +99,7 @@ In email exchanges between Hal Finney and Satoshi, they even calculated how much
 
 
 (slide 166)
-Today, the world's wealth is around 900 trillion dollars. Divided by 21 million, it would be equivalent to 40 million dollars per bitcoin unit. I'm not even discounting lost bitcoins, which would further increase the scarcity and value of a single bitcoin in this calculation. 
+Today, the world's wealth is around 900 trillion dollars. Divided by 21 million, it would be equivalent to 40 million dollars per bitcoin unit. I'm not even discounting lost bitcoin, which would further increase the scarcity and value of a single bitcoin in this calculation. 
 
 
 (slide 167)
@@ -149,7 +147,7 @@ This shows how volatility and sudden drops do not mean risk, but rather great bu
 (slide 174)
 It's because of the greater understanding of Bitcoin and all other aspects we've explained so far on Bitcoin4All that people, companies and countries are accumulating and inserting themselves into the Bitcoin industry.
 
-Steve Wozniak (founder of Apple), Stanley Druckenmiller (renowned investor), Cathie Wood (manager of Ark Investments), Robert Kiyosaki (author of the book "Rich Dad, Poor Dad") and Jack Dorsey (founder of Twitter, now X), are examples of entrepreneurs in different niches who support Bitcoin. Companies such as MicroStrategy, Block, Tesla and Rumble have also added Bitcoin to their tills. Even countries already have Bitcoin, either by buying or mining it, as is the case in El Salvador and Bhutan, or even indirectly through seizures, as is the case in the USA and China.
+Steve Wozniak (founder of Apple), Stanley Druckenmiller (renowned investor), Cathie Wood (manager of Ark Investments), Robert Kiyosaki (author of the book "Rich Dad, Poor Dad") and Jack Dorsey (founder of Twitter, now X), are examples of entrepreneurs in different niches who support Bitcoin. Companies such as MicroStrategy, Block, Tesla and Rumble have also added Bitcoin to their balance sheet. Even countries already have Bitcoin, either by buying or mining it, as is the case in El Salvador and Bhutan, or even indirectly through seizures, as is the case in the USA and China.
 
 
 (slide 175)
