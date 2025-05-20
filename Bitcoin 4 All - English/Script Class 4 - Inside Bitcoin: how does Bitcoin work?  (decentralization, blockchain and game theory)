@@ -1,4 +1,4 @@
-Script Class 4 - Inside Bitcoin: how does Bitcoin work?  (decentralization, blockchain and game theory)
+# Script Class 4 - Inside Bitcoin: how does Bitcoin work?  (decentralization, blockchain and game theory)
 
 In this lesson you'll dive into how Bitcoin works, learning about its characteristics, how the blockchain works, mining, halvings and fundamental technical concepts. Don't worry if you don't understand everything at first. Having to revise and rewatch a few times in order to consolidate your learning is absolutely normal. Over time, the concepts will fit together and make more and more sense.
 
@@ -10,7 +10,7 @@ As you saw in lesson 1, Bitcoin is the combination of several technologies and c
 (slide 101)
 And what has been happening in recent decades is the action of two technological forces acting at the same time: decentralization and the dematerialization of things. Dematerialization began in the 1990s with computers and smartphones, which condensed and dematerialized various devices that we previously only knew in physical form. Radios, diaries, televisions, cameras, calculators, faxes -- all of this has been dematerialized and digitized in the palm of your hand, on your cell phone, in just 20 years. It became all in one.
 
-Bitcoin continues this evolutionary and technological change, bringing both of these effects to the economy and to money. In other words, Bitcoin decentralizes access to value for anyone anywhere in the world without access restrictions and also dematerializes the banking financial system of branches, safes, ATMs and strong boxes. And if the internet has already decentralized information and changed the world, imagine what Bitcoin can do by decentralizing value and decision-making power. In addition to dematerializing central banks, commercial banks and the properties of sound money. 
+Bitcoin continues this evolutionary and technological change, bringing both of these effects to the economy and to money. In other words, Bitcoin decentralizes access to value for anyone anywhere in the world without access restrictions and also dematerializes the banking financial system of branches, vaults, ATMs and armored trucks. And if the internet has already decentralized information and changed the world, imagine what Bitcoin can do by decentralizing value and decision-making power. In addition to dematerializing central banks, commercial banks and the properties of sound money. 
 
 
 (slide 102)
@@ -20,7 +20,7 @@ Bitcoin is decentralized because it is a peer-to-peer network. It's made up of c
 
 
 (slide 103)
-In practice, this means that there are no intermediaries in Bitcoin. Each person can connect to the network without depending on anyone else, without having to ask permission and without the possibility of being prevented by third parties. This is the opposite of fiat money, which is centralized and makes you depend on numerous entities -- the Minister of the Economy, the head of the Central Bank, payment institutions, the mint, banks and so on to access the system.
+In practice, this means that there are no intermediaries in Bitcoin. Each person can connect to the network without depending on anyone else, without having to ask permission and without the possibility of being prevented by third parties. This is the opposite of fiat money, which is centralized and makes you depend on numerous entities -- the Minister of the Economy, the head of the Central Bank, payment institutions, banks and so on to access the system.
 
 Central banks determine monetary policies and you don't have the option of not following the rules, you are forced to follow them. Hence the expression "forced course". Commercial banks, on the other hand, provide access to the system. To participate you need to ask their permission. If you don't meet the requirements, you may not be allowed to create a bank account or they may even close your current one.
 
@@ -39,15 +39,15 @@ The Bitcoin network is made up of the code, the miners and the nodes. The code i
 
 You can check out Bitcoin's github, where developers discuss updates and where you can also contribute if you wish. I'll leave the link to Bitcoin's [Github](https://github.com/bitcoin/bitcoin) here under the lesson. The code works through software and the most widely used is Bitcoin Core, an implementation of the original version created by Satoshi Nakamoto.
 
-Miners, on the other hand, are the participants who propose the blocks, insert the transactions and defend the network from attacks through computing power. They are the first to receive bitcoins from the network with each mined block.
+Miners, on the other hand, are the participants who propose the blocks, insert the transactions and defend the network from attacks through computing power. They are the first to receive bitcoin from the network with each mined block.
 
-The third type of network participant are the nodes. Nodes are ordinary computers that check that the miners are following the consensus determined by the code. Nodes are powerful agents of decentralization. After all, it's from nodes that anyone can have a copy of the Bitcoin blockchain on their own computer, decide which version of the code to run and also be part of the Bitcoin network with the autonomy to send their own transactions without depending on anyone else. Even if miners get together to attack Bitcoin, the nodes are the ones that have the power to prevent this attack from being effective. This even happened in the so-called [block wars ](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM)which took place in 2016.
+The third type of network participant are the nodes. Nodes are ordinary computers that check that the miners are following the consensus determined by the code. Nodes are powerful agents of decentralization. After all, it's from nodes that anyone can have a copy of the Bitcoin blockchain on their own computer, decide which version of the code to run and also be part of the Bitcoin network with the autonomy to send their own transactions without depending on anyone else. Even if miners get together to attack Bitcoin, the nodes are the ones that have the power to prevent this attack from being effective. This even happened in the so-called [Blocksize Wars](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM)which took place in 2016.
 
 
 (slide 106)
-According to the website [Bitnodes](https://bitnodes.io/), there are more than 65,000 Bitcoin nodes operating globally. Most of them -- 65% -- do not have an exact location identified. These thousands of nodes on ordinary computers connected to each other are the ones that make the Bitcoin network the strongest, most resilient and accessible computer system for anyone anywhere in the world to check. Anyone can run a node and the cost is low. You can even run a node on an old computer you have at home.
+According to the website [Bitnodes](https://bitnodes.io/), there are more than 65,000 Bitcoin nodes operating globally. Most of them -- 65% -- do not have an exact location identified. These thousands of nodes on ordinary computers connected to each other are the ones that make the Bitcoin network the strongest, most resilient and accessible computer system for anyone anywhere in the world to verify. Anyone can run a node and the cost is low. You can even run a node on an old computer you have at home.
 
-The nodes check the logs all the time. This is why the Bitcoin network's accounting is a closed loop, because the nodes constantly check that transactions are closed and that the number of coins circulating is correct. It's a distributed system of records, where the accounts always match up, which is also rather powerful and unique.
+The nodes verify the blocks all the time. This is why the Bitcoin network's accounting is a closed loop, because the nodes constantly verify blocks, transactions and that the number of coins circulating is correct. It's a distributed system of records, where the accounts always match up, which is also rather powerful and unique.
 
 
 (slide 107)
@@ -65,11 +65,11 @@ Many protocols even claim to be decentralized, but when you look deeply they are
 
 
 (slide 108)
-Even though there have been hundreds of copies, none of them have managed to overtake Bitcoin -- not even any other cryptocurrency that has emerged since. This image shows the forks, the copies that have already been made of Bitcoin from 2015 to 2018. Many call themselves "the real Bitcoin" and have tried to steal its narrative, visibility and liquidity, but none have really succeeded. No project can steal the properties and network effect that Bitcoin has. Any level of centralization is already a point of mutability, a monopoly of decision-making power and also a potential point of failure that can be exploited by attackers.
+Even though there have been hundreds of copies, none of them have managed to overtake Bitcoin -- not even any other cryptocurrency that has emerged since. This image shows the forks, the copies that have already been made of Bitcoin from 2015 to 2018. Many called themselves "the real Bitcoin" and have tried to steal its narrative, visibility and liquidity, but none have really succeeded. No project can steal the properties and network effect that Bitcoin has. Any level of centralization is already a point of mutability, a monopoly of decision-making power and also a potential point of failure that can be exploited by attackers.
 
 
 (slide 109)
-Satoshi knew from the start that decentralization was the key to Bitcoin and one of the main reasons why previous digital money projects failed. He even wrote in 2009: "A lot of people automatically dismiss digital currencies because so many companies have failed since the 90s. I hope it's obvious that it was the centralized nature that controlled these systems that caused this failure." 
+Satoshi knew from the start that decentralization was the key to Bitcoin and one of the main reasons why previous digital money projects failed. He even wrote in 2009: "A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's.  I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we're trying a decentralized, non-trust-based system". 
 
 
 (slide 110)
@@ -77,7 +77,7 @@ Bitcoin's decentralization is the result of a unique combination of factors that
 
 In Bitcoin game theory, collaboration is always more profitable than sabotage. Miners, validators and other participants have financial and structural incentives to act in favor of the network, since any attempt to attack it would be extremely expensive and, in most cases, futile.
 
-Furthermore, to make this collaboration possible and reliable, Bitcoin operates with total transparency. Its code is open source: it is open and accessible to everyone, allowing continuous auditing and ensuring that no rules are changed without the consensus of the network. This alignment between decentralization, economic incentives and transparency is what makes Bitcoin the most robust and secure monetary network ever created.
+Furthermore, to make this collaboration possible and reliable, Bitcoin operates with total transparency. Its code is open source: it is public and accessible to everyone, allowing continuous auditing and ensuring that no rules are changed without the consensus of the network. This alignment between decentralization, economic incentives and transparency is what makes Bitcoin the most robust and secure monetary network ever created.
 
 Satoshi managed to connect the dots by solving one of the oldest problems: the problem of the Byzantine generals.
 
@@ -101,11 +101,11 @@ We just talked about proof of work and consensus mechanisms: these terms are the
 
 
 (slide 113)
-All of this works by recording information in a chained, distributed and undeletable system called a blockchain. Satoshi used timestamps and timechain to describe this mechanism in the Bitcoin whitepaper. 
+All of this works by recording information in a chained, distributed and undeletable system called a blockchain or timechain. Satoshi used timestamps and timechain to describe this mechanism in the Bitcoin whitepaper. 
 
 
 (slide 114)
-There are people who say that blockchain is the real innovation behind Bitcoin, but that's nonsense. Blockchain is important, but on its own and without other properties, it's just a slow, expensive database that is just as centralized as a company's Excel!
+There are people who say that blockchain is the real innovation behind Bitcoin, but that's nonsense. Blockchain is important, but on its own and without other properties, it's just a slow, expensive database that is just as centralized as a company's Excel spread sheet!
 
 
 (slide 115)
@@ -119,7 +119,7 @@ It's like a digital seam. If you pull the thread out of the middle of a seam, it
 
 So let's say we're looking at the Bitcoin blockchain right now. Each mined block contains information about the financial transactions made on the network and about the block itself where they were recorded. But the network summarizes all these formations in a code called "hash". The hash is the cryptographic phrase that summarizes all the information inside the block of information. It is from the hash that the linking takes place.
 
-Once the hash 1 of block 1 has been created, it will be inserted along with the contents of the next block, block 2. It will be mixed randomly to form the hash 2.
+Once the hash 1 of block 1 has been created, it will be inserted along with the contents of the next block, block 2. It will be "mixed randomly" to form the hash 2.
 
 Hash 2 summarizes all the content of its block and also of the previous block, because Hash 1 was inserted inside the content of block 2 and so on.
 
@@ -131,7 +131,7 @@ It's because of this chain of information that the network keeps confirming ever
 
 This mechanism makes it absurdly easy to check if there has been an attack on the transaction history, while making it very difficult to edit past records effectively. This is because both nodes and miners have copies of the Bitcoin blockchain, so if any information from the past is changed and doesn't match the copies that exist on their computers, they will be easily identified and won't accept that block as valid.
 
-This is one of the constant verification factors that makes the Bitcoin network very secure and difficult to hack. It's a network that manages to decentralize trust, because everything is perfect: nothing has changed. All the information matches. This ease of verification and difficulty of manipulation is what makes the records on the Bitcoin blockchain immutable.
+This is one of the constant verification factors that makes the Bitcoin network very secure and difficult to hack. It's a network that manages to decentralize trust, because everything fits togheter: nothing has changed. All the information matches. This ease of verification and difficulty of manipulation is what makes the records on the Bitcoin blockchain immutable.
 
 Even so, if someone decides to change the way the network works, they could cause a fork.
 
@@ -145,7 +145,7 @@ Forks comes from ramification, so you'll see images of, well, forks whenever som
 (slide 119)
 So what's the difference between these two types of forks?
 
-Soft forks are when the network performs an update in such a way that both those running the old version of the code or software and those running the new version can coordinate. It is a backward compatible and optional fork; it does not change the consensus mechanism. It's still the same network and the same currency, just with a few different details in the versions.
+Soft forks are when the network performs an update in such a way that both those running the old version of the code or software and those running the new version can coordinate. It is a backward compatible and optional update; it does not change the consensus mechanism. It's still the same network and the same currency, just with a few different details in the versions.
 
 Hard forks, on the other hand, are when radical updates are made, to the point of changing protocol consensus. Those running the old version are unable to coordinate with those running the new version. Old users can't join the new network if they don't update. As a result, a new currency and a new network are created. This type of update forces users to upgrade to the new version.
 
