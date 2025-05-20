@@ -1,4 +1,4 @@
-Script Class 7 - How to get bitcoin?
+#Script Class 7 - How to get bitcoin?
 
 
 The race to own bitcoin has already begun and if you're thinking of owning a whole bitcoin, you'd better hurry up, because time is running out and it's going to get harder and harder. But the good news is that there are 2.1 quadrillion satoshis and you can gradually accumulate fractions of bitcoin until you reach your entire bitcoin.
@@ -8,11 +8,11 @@ Today, the world has around 8 billion people. As Bitcoin has a maximum issuance 
 
 There isn't enough bitcoin for everyone in the world, not even for all the millionaires. But there are plenty of satoshis to be distributed among all the inhabitants of the Earth. That's because 1 bitcoin is made up of 100 million satoshis, which makes a whole bitcoin just a form of rounding.
 
-Remember that this estimate is based on a limit of 21 million bitcoins. However, it's unlikely that all these bitcoins are actually available, since around 20% of them have been lost and are in inaccessible wallets. This makes bitcoin even more scarce than you might think. 
+Remember that this estimate is based on a limit of 21 million bitcoin. However, it's unlikely that all these bitcoin are actually available, since around 20% of them have been lost and are in inaccessible wallets. This makes bitcoin even more scarce than you might think. 
 
 
 (slide)
-There are three ways to own bitcoin. The first and most classic form is mining. It is through mining that new bitcoins enter the market and it is a way for you to receive bitcoins directly from the network by doing work for it. You employ computing power, help mine a block and receive bitcoin as a reward. Of course, nowadays you need powerful equipment to mine a large amount of bitcoin, but it's something you can study, specialize in and start competing in mining.
+There are three ways to own bitcoin. The first and most classic form is mining. It is through mining that new bitcoin enter the market and it is a way for you to receive bitcoin directly from the network by doing work for it. You employ computing power, help mine a block and receive bitcoin as a reward. Of course, nowadays you need powerful equipment to mine a large amount of bitcoin, but it's something you can study, specialize in and start competing in mining.
 
 The second way to own bitcoin is to buy it from someone who owns it. Today there are also platforms that facilitate this purchase, such as exchanges, platforms, vouchers and even banks that sell bitcoin. Today it's much easier to buy bitcoin than it was 10 years ago.
 
@@ -28,15 +28,14 @@ You don't need a large mining facility to get started. It is possible to mine Bi
 
 
 (slide)
-Nowadays, there are machines like the Bitaxe and the Nerdminer, which have reduced computing power compared to the powerful ASICs. Nevertheless, they can be connected to a mining pool to receive small rewards in satoshis or even used to try their luck at solo mining. Mining soil and finding a block is like hitting the lottery -- the odds are slim, but the prize is worth it.
+Nowadays, there are machines like the Bitaxe and the Nerdminer, which have reduced computing power compared to the powerful ASICs. Nevertheless, they can be connected to a mining pool to receive small rewards in satoshis or even used to try their luck at solo mining. Mining solo and finding a block is like hitting the lottery -- the odds are slim, but the prize is worth it.
 
 Bitcoin mining is constantly evolving, and who knows, maybe in the future even kitchen appliances will be helping to mine Bitcoin!
-
 In addition to mining, you can also buy bitcoin from another person or company that has it.
 
 
 (slide)
-And when it comes to buying bitcoin, there are several ways to do it. You can buy through platforms that work like digital currency exchanges. You can buy from someone else who has bitcoin, the famous P2P (peer-to-peer). You can buy vouchers or gift certificates that can be redeemed in Bitcoin. You can buy through social networks that have channels for buying and selling bitcoin, such as Telegram or Nostr. And finally, even banks now sell Bitcoin and you can buy through them.
+And when it comes to buying bitcoin, there are several ways to do it. You can buy through platforms that work like digital currency exchanges. You can buy from someone else who has bitcoin, the famous P2P (peer-to-peer). You can buy vouchers or giftcards that can be redeemed in Bitcoin. You can buy through social networks that have channels for buying and selling bitcoin, such as Telegram or Nostr. And finally, even banks now sell Bitcoin and you can buy through them.
 
 But what are the advantages and disadvantages of each?
 
@@ -48,7 +47,7 @@ Exchanges are companies that connect buyers and sellers, ensuring that both side
 (slide)
 So, for example, here we have Ana and John. They both have accounts at the same exchange and they don't know each other and won't meet. Ana wants to buy bitcoin and John wants to sell bitcoin. The two put the exchange in order.
 
-Ana placed an order to buy bitcoin at 100 thousand dollars and John placed an order to sell bitcoin at 100 thousand dollars. So, here in this example, one wants to buy and the other wants to sell at the same value as the price per bitcoin at that moment. And so this negotiation was a match. Both parties' orders are executed at the broker, John's bitcoin balance is settled in fiat and Ana receives the bitcoin balance that was previously John's in her account at the exchange.
+Ana placed an order to buy bitcoin at 100 thousand dollars and John placed an order to sell bitcoin at 100 thousand dollars. So, here in this example, one wants to buy and the other wants to sell at the same value as the price per bitcoin at that moment. And so this negotiation was a match. Both parties' orders are executed at hte order book, John's bitcoin balance is settled in fiat and Ana receives the bitcoin balance that was previously John's in her account at the exchange.
 
 
 (slide)
@@ -68,11 +67,11 @@ The idea of regulation is to eliminate bad actors from the market, but it still 
 
 
 (slide)
-Another risk is bankruptcy. In the event that the partners and managers don't know how to manage the business, or carry out illegal operations, as happened with FTX, and the exchange goes bankrupt. If a hacker attack takes place or the broker goes bankrupt, it could take years of legal proceedings to get your money back. You might as well never get your bitcoin back. Many people have lost their bitcoins this way.
+Another risk is bankruptcy. In the event that the partners and managers don't know how to manage the business, or carry out illegal operations, as happened with FTX, and the exchange goes bankrupt. If a hacker attack takes place or the exchange goes bankrupt, it could take years of legal proceedings to get your money back. You might as well never get your bitcoin back. Many people have lost their bitcoins this way.
 
 
 (slide)
-That's why exchanges are not wallets and you shouldn't leave your bitcoins in them for prolonged periods of time. An exchange is an access platform just for you to buy and withdraw Bitcoin for your own custody. Leaving your bitcoin on an exchange means exposing yourself to the risk of the platform going bankrupt or being hacked and taking your coins with it.
+That's why exchanges are not wallets and you shouldn't leave your bitcoin in them for prolonged periods of time. An exchange is an access platform just for you to buy and withdraw Bitcoin for your own custody. Leaving your bitcoin on an exchange means exposing yourself to the risk of the platform going bankrupt or being hacked and taking your coins with it.
 
 These are platforms that facilitate exchanges between people, but they don't provide the private keys of their clients' wallets, only the address. That is why bitcoin isn't yours on the exchange, since you don't have the private keys that allow you to move your coins independently. We'll talk more about this in the following lessons on desks and sovereignty.
 
@@ -86,11 +85,9 @@ Do you remember the Bitcoin whitepaper? What was written on it? Satoshi wrote in
 (slide)
 The biggest advantage of buying P2P is that there is less bureaucracy and a little more privacy. So, for example, when buying via P2P you don't need to send all the documents that an exchange often asks for, do facial recognition or send proof of income and address. Some exchanges are as bureaucratic as banks.
 
-Another advantage is that P2P sends the bitcoin balance directly to the address, which could be your cold wallet, for example. It's very practical and one less step for you to take. On the other hand, it has disadvantages and risks. As everything is usually done directly online, there is no intermediary company, so you have to make sure that the P2P you choose is trustworthy. You need to trust that the person won't disappear with your money and that you'll get the bitcoin equivalent back in your wallet. There are P2Ps who have been working in the market for a long time and who are honest people, but there are also scammers, as is the case with every market.
+Another advantage is that P2P sends the bitcoin balance directly to the address, which could be your cold wallet, for example. It's very practical and one less step for you to take. On the other hand, it has also some disadvantages and risks. As everything is usually done directly online, there is no intermediary company, so you have to make sure that the P2P you choose is trustworthy. You need to trust that the person won't disappear with your money and that you'll get the bitcoin equivalent back in your wallet. There are P2Ps who have been working in the market for a long time and who are honest people, but there are also scammers, as is the case with every market.
 
-So how do you detect that a P2P is a scammer? Firstly, a P2P will never contact you via Facebook Messenger, Instagram, Telegram or even WhatsApp offering bitcoin. No serious P2P does that. If they contact you in this way, there's a good chance it's a scam.
-
-Another situation that can happen, if it's a scammer, is that you send the money to the P2P's bank account and the person simply disappears with your money. The scammer will block you on your cell phone and social networks and disappear with your money.
+So how do you detect that a P2P is a scammer? Firstly, a P2P will never contact you via Facebook Messenger, Instagram, Telegram or even WhatsApp offering bitcoin. No serious P2P does that. If they contact you in this way, there's a good chance it's a scam. 
 
 But where can you find reliable P2P sellers and buyers? Anyone can sell you bitcoin, whether it's a friend who has bitcoin and needs fiat or someone who does it for a living. Many P2Ps work on their own, with their own website or connected to an exchange, but it's best to find a referral from someone you trust. Another way is to buy on platforms such as Bisq and Hodl Hodl, which connect people to each other.
 
@@ -100,13 +97,13 @@ There are a total of 4 steps to buying via P2P.
 
 The first is to already have an address in a Bitcoin wallet. You'll learn how to do this in the next Bitcoin4All lessons.
 
-Secondly, you'll contact a trusted P2P and ask for a quote for the amount you want to buy. Once the quote has been approved, you send the amount in fiat and your bitcoin address so that the P2P can send you the balance. Finally, you wait for the shipment and monitor receipt via a tracking code on the Bitcoin network that the P2P will provide you with. That's it!
+Secondly, you'll contact a trusted P2P and ask for a quote for the amount you want to buy. Once the quote has been approved, you send the amount in fiat and your bitcoin address so that the P2P can send you the balance. Finally, you wait for the receipt and monitor via a tracking code on the Bitcoin network that the P2P will provide you with, a transaction ID. That's it!
 
 Another way to buy Bitcoin is by using vouchers.
 
 
 (slide)
-Vouchers are gift cards. With them, you can buy an amount and redeem it in your digital wallet, as is the case with AZTECO and Bitrefill. Buying Bitcoin through vouchers is more private than through exchanges and you receive the redeemed balance directly in your wallet. 
+Vouchers are giftcards. With them, you can buy an amount and redeem it in your digital wallet, as is the case with AZTECO and Bitrefill. Buying Bitcoin through vouchers is more private than through exchanges and you receive the redeemed balance directly in your wallet. 
 
 
 (slide)
@@ -125,21 +122,21 @@ It's 2025 and traditional financial institutions are vying to offer Bitcoin ETFs
 
 Bitcoin spot ETFs aim to replicate the price of Bitcoin on the spot market by tracking its price. The main advantage of Bitcoin ETFs is that they offer a regulated way for companies and investors, who normally wouldn't or couldn't hold Bitcoin in their own custody, to gain indirect exposure to Bitcoin. 
 
-These ETFs have created a bridge between Bitcoin and the traditional financial market, establishing Bitcoin as a new recognized asset class in this environment. In addition, ETFs increase the demand for Bitcoin, since, theoretically, funds need to buy and sell Bitcoin as investors acquire or dispose of ETF shares. In other words, they could not operate with Bitcoin without these transactions being backed up by purchases or sales of real Bitcoin on the market.
+These ETFs have created a bridge between Bitcoin and the traditional financial market, establishing Bitcoin as a new recognized asset class in this environment. In addition, ETFs increase the demand for Bitcoin, since, theoretically, funds need to buy and sell Bitcoin as investors acquire or dispose of ETF shares. In other words, they could not operate with Bitcoin without these transactions being backed up by purchases or sales of real Bitcoin on the spot market.
 
 
 (slide)
 Just be careful! ETFs are not real Bitcoin. They are paper Bitcoin that only represent the price of Bitcoin. It has neither the monetary properties nor the network effect of Bitcoin. They need a manager to issue these papers and they need to trust these institutions.
 
-You can't withdraw your bitcoin to your wallet, you have to sell it and convert it to fiat. At least so far, there's no way to buy an ETF and withdraw bitcoin to your own wallet. This means that when you buy an ETF you don't actually own bitcoin, you're depending on intermediaries to do the custody for you. This defeats the whole purpose of Bitcoin. You end up being exposed only to the price, but you don't have the freedom to trade your currencies.
+You can't withdraw your bitcoin to your wallet, you have to sell it and convert it to fiat. At least so far, there's no way to buy an ETF and withdraw bitcoin to your own wallet. This means that when you buy an ETF you don't actually own bitcoin, you're depending on intermediaries to do the custody for you. This defeats the whole purpose of Bitcoin. You end up being exposed only to the price, but you don't have the freedom to use your money as you wish.
 
 In addition, there are cash redemption and trading deadlines within the opening hours of the exchanges, during business hours. Bitcoin, on the other hand, works 24 hours a day, every day of the week. If the price falls or rises over the weekend, the ETF will only reflect this on Monday. You spend the weekend and holidays unable to buy or sell.
 
 This time gap is an eternity if tense news breaks about the possibility of bankruptcy or something similar.
 
-Another risk is rehypothecation, whereby issuers carry out risky transactions with their clients' bitcoins, which may only turn up years later and be a headache. It would be something like using their clients' BTC as collateral for loans to buy other assets. That's not such an unrealistic thing to happen: in fact, that's basically how FTX went bankrupt in 2022. This type of operation, using clients' money, is obviously illegal, but the market does things backstage that we can't even imagine. In this rehypothecation situation, if the price of Bitcoin plummets, they could be liquidated and lose their customers' BTC.
+Another risk is rehypothecation, whereby issuers carry out risky transactions with their clients' bitcoin, which may only turn up years later and be a headache. It would be something like using their clients' BTC as collateral for loans to buy other assets. That's not such an unrealistic thing to happen: in fact, that's basically how FTX went bankrupt in 2022. This type of operation, using clients' money, is obviously illegal, but the market does things backstage that we can't even imagine. In this rehypothecation situation, if the price of Bitcoin plummets, they could be liquidated and lose their customers' BTC.
 
-Another risk is the mismanagement of the bitcoin private keys they have under management. Some managers custody their clients' bitcoins, but most ETFs use exchanges to custody the bitcoins they sell. Coinbase, for example, holds the bitcoins of most American ETFs. In these cases, the risk is that these third-party custodians, these exchanges, go bankrupt or mismanage the keys.
+Another risk is the mismanagement of the bitcoin private keys they have under management. Some managers custody their clients' bitcoin, but most ETFs use exchanges to custody the bitcoin they sell. Coinbase, for example, holds the bitcoin of most American ETFs. In these cases, the risk is that these third-party custodians, these exchanges, go bankrupt or mismanage the keys.
 
 Another risk is the government's apprehension. If Bitcoin becomes a global reserve asset and this threatens global hegemonies, a government could easily confiscate the BTC of these regulated players. It's easier to confiscate money from these intermediaries than from people who keep their own keys. From one day to the next they can make up a national holiday and people might lose access to their own assets. When it comes to bitcoin in regulated banks and management companies, it's quite easy for governments to confiscate it.
 
@@ -153,7 +150,7 @@ You can offer your services to other bitcoiners you know and start your own loca
 
 
 (slide)
-Accepting bitcoin as a form of payment offers several advantages that can modernize and simplify financial operations. One of the main ones is the lack of KYC (Know Your Customer). The Bitcoin network doesn't force anyone to identify themselves. You can just download a wallet and start receiving bitcoin. It also has the advantage of using the current exchange rate. When you receive payments in bitcoin, the amount is transferred immediately, at the current rate, avoiding the huge spreads and delays common in transactions that depend on financial intermediaries.
+Accepting bitcoin as payment offers several advantages that can modernize and simplify financial operations. One of the main ones is the lack of KYC (Know Your Customer). The Bitcoin network doesn't force anyone to identify themselves. You can just download a wallet and start receiving bitcoin. It also has the advantage of using the current exchange rate. When you receive payments in bitcoin, the amount is transferred immediately, at the current rate, avoiding the huge spreads and delays common in transactions that depend on financial intermediaries.
 
 The Lightning Network also makes life much easier, as it enables fast transactions with extremely low fees, making it especially advantageous for small payments. Compared to the fees charged by credit cards or other payment gateways, this represents huge savings in fees for merchants who can pass them on as a discount to customers. 
 
@@ -177,6 +174,6 @@ Instead of converting your Bitcoin into fiat currency, you can use Bitcoin direc
 
 This continuous cycle of payments and receipts reduces the need for conversions to fiat and increases the use of Bitcoin as money.
 
-Bitcoin's circular economy concept is a natural evolution of adoption, increasing financial independence, strengthening local economies and economic sustainability. For communities that embrace this model, Bitcoin becomes not only a tool of exchange, but also a catalyst for innovation and economic resilience.
+Bitcoin's circular economy concept is a natural evolution of adoption, increasing financial independence, strengthening local economies and economic sustainability. For communities that embrace this model, Bitcoin becomes not only a medium of exchange, but also a catalyst for innovation and economic resilience.
 
 Well, I hope this lesson has helped you understand that there are multiple ways to own Bitcoin. Now it's up to you to experiment and see which of these ways suits you best. The best thing about it is that you can use all these mechanisms to keep accumulating. I'll see you in the next class.
