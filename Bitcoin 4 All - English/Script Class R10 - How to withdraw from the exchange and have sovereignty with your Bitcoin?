@@ -1,9 +1,9 @@
-Script Class R10 - How to withdraw from the exchange and have sovereignty with your Bitcoin? 
+# Script Class 10 - How to withdraw from the exchange and have sovereignty with your Bitcoin? 
 
 
-Bitcoin is a game changer. It allows anyone to take custody of their own assets and move them whenever and however they want, without anyone being able to stop them. No company or government can stop you from moving your own money or take it from you if you guard it with sovereignty.
+Bitcoin is a game changer. It allows anyone to take custody of their own money and move it whenever and however they want, without anyone being able to stop them. No company or government can stop you from moving your own money or take it from you if you store it with sovereignty.
 
-Sovereignty is the word here. You are your own bank. But to actually do this, you need to know how to use tools, wallets, and how to get your Bitcoin out of the hands of these intermediaries.
+Sovereignty is the word here. You are your own bank. But to actually do this, you need to know how to use tools, wallets, and how to get your Bitcoin out of the hands of intermediaries.
 
 In the previous lesson you learned what Bitcoin wallets are and why it's important to keep your seeds safe so that you always have access to your balance. The next step is to fill this wallet with bitcoin and start accumulating for the future. So in this lesson we'll consider that you already have bitcoin and want to send it from the exchange address to your wallet address.
 
@@ -15,7 +15,7 @@ When you set up your bitcoin wallet, it generates a list of words called a "seed
 
 The private key is a sequence of letters and numbers that allows you to sign transactions and control your wallet balance. With it you can move bitcoin from one address to another or import a specific balance. When you send bitcoin from one wallet to another, it is the private key that authorizes the balance to be moved. That's why you shouldn't share your seed or private wallet keys with anyone. That's why it has this name: it's private, it's information that you should keep to yourself.
 
-The big difference between a seed and a private key is that a seed phrase (a list of 12, 18 or 24 words) can retrieve several private keys from several linked balances, while a private key only retrieves the balances of the addresses it generated. It's in these addresses that you will receive bitcoin.
+The big difference between a seed and a private key is that a seed phrase (a list of 12 or 24 words) can retrieve several private keys from several linked balances, while a private key only retrieves the balances of the addresses it generated. It's in these addresses that you will receive bitcoin.
 
 The addresses are generated from these keys and are public. When you make a transaction, they appear on the blockchain for anyone to verify your transaction. It is not possible to find out the seed or the private key from an address, even if it appears on the Bitcoin blockchain. But if you don't take good care of the seeds or private keys, then the person will have access not only to your bitcoin, but to all the keys and addresses they generate.
 
@@ -23,15 +23,15 @@ The addresses are generated from these keys and are public. When you make a tran
 (slide)
 A wallet can generate thousands of different addresses from the public key. Its function is to generate addresses. One of the best practices with Bitcoin is to never reuse addresses. Wallets are always generating new addresses after you've made a transaction, precisely to give you more privacy and prevent reuse. If you've ever used a Bitcoin wallet, you'll notice that the address changes with each transaction -- this feature is there on purpose. After all, once a transaction has been made, the addresses are publicly visible on the blockchain and it would be easier to track balances by association.
 
-In short, a private key unlocks the wallet owner's right to spend, move and trade the coins associated with that wallet. As the name implies, it's private and you shouldn't show it to other people. The address is where you will send Bitcoin when you make a transaction. No one can guess your private key from your address.
+In short, a private key unlocks the wallet owner's "right to spend", move and trade the coins associated with that wallet. As the name implies, it's private and you shouldn't show it to other people. The address is where you will send Bitcoin when you make a transaction. No one can guess your private key from your address.
 
 
 (slide)
-You can think of the address as your home address. You share it with other people, it's relatively public, but you don't go around with a megaphone telling everyone where you live. Sometimes you need to show your address to receive a delivery, but that doesn't mean that anyone else will be able to access your home. For that, you need the keys to the door. In the case of wallets: private keys.
+You can think of the address as your home address. You share it with other people, it's relatively public, but you don't go around with a megaphone telling everyone where you live. Sometimes you need to show your address to receive a delivery, but that doesn't mean that anyone else will be able to access your home. For that, you need the keys to the door. In the case of wallets: the private keys.
 
 So the address is like your home address and the private keys are what gives you access to what's inside: your bitcoin balance.
 
-Remember that your bitcoins are not stored in wallets. They are always on the blockchain. Bitcoins are always in an address on the blockchain network and not inside the device itself. When you make a transfer, you tell the network that you want to move "X amount" in bitcoin from one address to another address. The wallets have the function of authorizing these transactions that take bitcoins from one address to another through a digital signature made with the private key.
+Remember that your bitcoin are not stored inside the wallets. They are always on the blockchain. Bitcoin are always in an address on the blockchain network and not inside the device itself. When you make a transfer, you tell the network that you want to move "X amount" in bitcoin from one address to another address. The wallets have the function of authorizing these transactions that take bitcoin from one address to another through a digital signature made with the private key.
 
 But how does a transaction work?
 
@@ -51,7 +51,7 @@ Let's show you how to set up a wallet from scratch, withdraw bitcoin from the ex
 
 For this tutorial we chose to use the Sparrow Wallet. It is a very versatile and complete wallet for both beginners and advanced users. It is self-custodial, open source and works very well as a coordinating wallet between various hardware wallet brands: Jade, Ledger, Trezor, Coldcard, Seed Signer, Krux... That is, practically all hardware wallets work with Sparrow. The difference is that wallets that have their own software, such as Ledger and Trezor, require you to download their software, Ledger Live or Trezor Suite, in order to update the device's firmware before connecting to Sparrow.
 
-It also offers features such as creating multisigs, making air gapped transactions, PSBTs, managing and consolidating UTXOs, possibilities that focus on increasing wallet security and privacy. Remember that Sparrow is a desktop wallet only. It doesn't have a mobile app for iOS or Android. We'll leave the link here on the screen for you to download, alongside with a list of other wallets for you to try out and see which one suits you best. 
+It also offers features such as creating multisigs, making air gapped transactions, PSBTs, managing and consolidating UTXOs, possibilities that focus on increasing wallet security and privacy. Remember that Sparrow is a desktop wallet only. It doesn't have a mobile app for iOS or Android. We'll leave the link here [Sparrow Wallet](https://sparrowwallet.com/) on the screen for you to download, alongside with a list of other wallets for you to try out and see which one suits you best. 
 
 Let's start by configuring Sparrow. The first step is to download Sparrow and install the software. 
 
@@ -203,7 +203,7 @@ Clicking on it shows the balance I transferred from Coinbase.
 
 That's one of the wonderful things about Bitcoin: since it's open source, you can recover your balance on any device that follows the same initial rules you used when generating your keys.
 
-Now that you've been through all the Bitcoin4All lessons, you're ready to get your hands dirty and start accumulating and exploring the world of Bitcoin.
+Now that you've been through all the Bitcoin4All lessons, you're ready to start accumulating and exploring the world of Bitcoin.
 
 I hope you enjoyed Bitcoin4All and that this was just the beginning of your learning journey. After all, Bitcoin isn't just a technology, it's a universe of concepts that unites economics, cryptography, decentralized networks and continuous innovation. Every single day, new developments and ideas emerge, challenging our traditional notions of money and sovereignty.
 
