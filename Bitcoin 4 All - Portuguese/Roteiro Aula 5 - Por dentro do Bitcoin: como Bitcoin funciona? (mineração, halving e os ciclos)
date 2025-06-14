@@ -10,7 +10,7 @@ A mineração de Bitcoin é uma analogia para o processo de busca por algo preci
 Com o Bitcoin acontece algo muito parecido. Na rede bitcoin, os mineradores ficam competindo entre si, através de tentativa e erro, para ver quem chega primeiro no hash que fecha cada bloco de informação.
 
 
-!(slide 110https://github.com/areabitcoin/Bitcoin-4-All/blob/d04005ed63f756f0a60807071eb6a303b56c8080/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%205/Sem%20ti%CC%81tulo-12-03.jpg
+!(slide 110)[https://github.com/areabitcoin/Bitcoin-4-All/blob/d04005ed63f756f0a60807071eb6a303b56c8080/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%205/Sem%20ti%CC%81tulo-12-03.jpg
 Lembra que o bloco é formado por vários componentes? O hash do bloco anterior, um carimbo de data e hora chamado timestamp e todos os dados das transações?
 
 Junto com essas informações também tem um dado chamado "nonce". Nonce significa "number used only once" -  número que só pode ser usado uma vez. Quando os mineradores usam poder computacional para minerar o bloco significa que eles estão, numa velocidade computacional absurda, tentando achar esse número que só pode ser usado uma vez pela rede. É esse número que todos os mineradores ficam competindo para encontrar.
