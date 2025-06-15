@@ -1,3 +1,5 @@
+# Roteiro Aula 10 - Como sacar da exchange e ter soberania com o seu Bitcoin?
+
 Bitcoin é um divisor de águas. Ele permite que qualquer pessoa faça a própria custódia do seu próprio patrimônio e possa movimentar quando e como bem entender sem que ninguém possa impedir isso. Nenhuma empresa ou governo pode impedir que você movimente o seu próprio dinheiro ou consiga tirar de você se você guarda com soberania.
 
 Soberania é a palavra aqui. Você é o seu próprio banco. Mas para fazer isso de fato, você precisa saber como usar ferramentas, carteiras e como sacar o seu Bitcoin das mãos desses intermediários.
@@ -7,7 +9,7 @@ Na aula anterior você aprendeu o que são carteiras de Bitcoin e porque é impo
 Mas antes de fazer isso na prática, vamos entender o que são endereços e como funciona uma transação na rede bitcoin.
 
 
-(slide 257)
+!(slide 256)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a66022c5d1064d32c1f3bb62c9168c1634d83c0b/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-01.jpg]
 Quando você configura a sua carteira bitcoin ela gera uma lista de palavras chamada "seed phrase". Essas palavras representam códigos que permitem que você receba, armazene e envie bitcoin. A partir das seeds, a sua carteira vai gerar outros códigos criptografados chamados chaves públicas e privadas.
 
 A chave privada é uma sequência de letras e números que permite assinar transações e controlar o saldo da sua carteira. Com ela você pode mover bitcoin de um endereço para outro ou importar um saldo específico. Quando você envia bitcoin de uma carteira pra outra, é a chave privada que autoriza o saldo a ser movimentado. Por isso você não deve compartilhar com ninguém a sua seed e nem as suas chaves privadas da carteira. Ela tem esse nome por isso: é privada, é uma informação que deve ficar só pra você.
@@ -17,13 +19,13 @@ A grande diferença entre seed e chave privada é que uma seed phrase (a lista d
 Os endereços são gerados a partir dessas chaves e eles são públicos. Quando você faz uma transação, eles aparecem na blockchain pra qualquer pessoa verificar a sua transação. Não é possível descobrir a seed e nem a chave privada a partir de um endereço, mesmo que ele esteja aparente na blockchain bitcoin. Mas se você não cuidar bem das seeds ou chaves privadas ai sim a pessoa vai ter acesso não só aos seus Bitcoin, mas a todas as chaves e endereços gerados por ela.
 
 
-(slide 258)
+!(slide 257)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a66022c5d1064d32c1f3bb62c9168c1634d83c0b/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-02.jpg]
 Uma carteira pode gerar milhares de endereços diferentes a partir da chave pública. A função dela é gerar endereços. Inclusive uma das boas práticas com bitcoin é nunca reutilizar endereços. As carteiras tão sempre gerando novos endereços depois que você faz uma transação, para justamente ter mais privacidade e evitar a reutilização. Se você já usou uma carteira de bitcoin vai perceber que a cada transação o endereço muda, isso é de propósito. Afinal, depois de feita uma transação, os endereços ficam publicamente visíveis na blockchain e seria mais fácil rastrear saldos por associação.
 
 Em resumo a chave privada desbloqueia o direito do dono da carteira gastar, mexer, transacionar as moedas associadas àquela carteira. Como o nome diz, é privada e você não deve mostrar pra outras pessoas. Já o endereço é pra onde você vai enviar Bitcoin quando fizer uma transação. Ninguém pode adivinhar a sua chave privada a partir do seu endereço.
 
 
-(slide 259)
+!(slide 258)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a66022c5d1064d32c1f3bb62c9168c1634d83c0b/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-03.jpg]
 Eu gosto de pensar que o endereço é como se fosse o endereço da sua casa. Você até compartilha com outras pessoas, é algo relativamente público, mas também não sai com um megafone por aí contando pra todo mundo onde você mora. Você as vezes precisa mostrar o seu endereço pra receber uma entrega, mas isso não quer dizer que as pessoas vão conseguir acessar a sua casa, pra isso é preciso ter as chaves da porta. No caso das carteiras: as chaves privadas.
 
 Então o endereço é como se fosse o endereço da sua casa e as chaves privadas é o que dá acesso ao que tem dentro dela: seu saldo em bitcoin.
@@ -34,12 +36,12 @@ Mas então como funciona uma transação?
 
 
 
-(slide 260)
+!(slide 259)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a66022c5d1064d32c1f3bb62c9168c1634d83c0b/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-04.jpg]
 Você abre a sua carteira, digita o valor que quer enviar, cola o endereço do recebedor e clica em enviar. Quando você clica em enviar, você está assinando a transação com a sua chave privada. É isso o que acontece por trás dos códigos da carteira.
 
 
 
-(slide 261)
+!(slide 260)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a66022c5d1064d32c1f3bb62c9168c1634d83c0b/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-05.jpg]
 Quando você assina a transação provando pra rede bitcoin que é o verdadeiro dono da chave privada do endereço da carteira, essa transação vai para uma sala de espera, conhecida como mempool. Essa é a sala de espera das transações que ficam aguardando até serem inseridas em um bloco pelos mineradores. As transações são registradas em blockchain quando um minerador seleciona as transações para fazerem parte do bloco de informação. Assim que um minerador inserir a transação em um bloco, esse bloco é verificado pela rede e ela atualiza os seus registros da blockchain. Aí então esse bloco é propagado por toda a rede como um bloco válido, com a transação dentro dele.
 
 Quando uma transação é inserida em um bloco se fala que ela teve uma confirmação. Conforme mais blocos são minerados, mais confirmações acontecem. Geralmente uma transação é considerada irreversível depois de 6 confirmações, quando seis blocos se passam. Quando as confirmações acontecem, a carteira notifica o usuário, a transação é considerada recebida e o saldo fica disponível para ser gasto. É assim que as transações on chain acontecem quando você faz um envio de bitcoin.
@@ -48,11 +50,12 @@ Bom, agora que você já entendeu a teoria, vamos pra prática!
 
 Eu vou mostrar agora pra você como configurar uma carteira do zero, sacar Bitcoin da exchange para essa carteira e recuperar o saldo usando a seed phrase.
 
-Pra esse tutorial nós escolhemos usar a Sparrow Wallet, porque é uma carteira muito versátil e completa tanto para iniciantes quanto para usuários avançados. Ela é auto custodial, de código aberto e funciona muito bem como carteira coordenadora entre diversas marcas de carteiras hardware: jade, ledger, trezor, coldcard, seed signer, krux... enfim... praticamente todas as hardwares funcionam com a Sparrow. A diferença é que as carteiras que tem um software próprio como ledger e trezor, de qualquer forma pedem que você baixe o software ledger live ou o trezor suite para fazer as atualizações de firmware do dispositivo antes de conectar com a Sparrow.
+Pra esse tutorial nós escolhemos usar a Sparrow Wallet ![https://sparrowwallet.com/], porque é uma carteira muito versátil e completa tanto para iniciantes quanto para usuários avançados. Ela é auto custodial, de código aberto e funciona muito bem como carteira coordenadora entre diversas marcas de carteiras hardware: jade, ledger, trezor, coldcard, seed signer, krux... enfim... praticamente todas as hardwares funcionam com a Sparrow. A diferença é que as carteiras que tem um software próprio como ledger e trezor, de qualquer forma pedem que você baixe o software ledger live ou o trezor suite para fazer as atualizações de firmware do dispositivo antes de conectar com a Sparrow.
 
 Ela também oferece recursos como criar multisigs, fazer transações air gapped, PSBT, gerenciar e consolidar UTXO, possibilidades que focam em aumentar segurança e privacidade da carteira. Lembrando então que a Sparrow é uma carteira apenas de desktop, não tem um aplicativo para celulares nem IOS e nem Android. Eu vou deixar o link aqui na tela para você baixar e também uma lista com outras carteiras para você testar e ver qual você se adapta melhor. 
 
 Vamos começar configurando a Sparrow. O primeiro passo é baixar a Sparrow e instalar o software. 
+
 
 (vídeo tutorial Sparrow)
 
