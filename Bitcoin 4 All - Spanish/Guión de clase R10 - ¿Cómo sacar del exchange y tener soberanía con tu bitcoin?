@@ -8,7 +8,7 @@ En la lección anterior aprendiste qué son las billeteras Bitcoin y por qué es
 
 Pero antes de hacerlo en la práctica, entendamos qué son las direcciones y cómo funciona una transacción en la red Bitcoin.
 
-(slide)
+!(slide 257)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a2a95151922fbb9dc8614da059004d5b4a70ee31/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%2010/Sem%20ti%CC%81tulo-24-01.jpg]
 Cuando configuras tu billetera bitcoin, ésta genera una lista de palabras llamada "frase semilla" ("seed phrase"). Esas palabras representan códigos que te permiten recibir, almacenar y enviar bitcoin. A partir de la frase semilla, tu monedero generará otros códigos encriptados llamados claves pública y privada.
 
 La clave privada es una secuencia de letras y números que te permite firmar transacciones y controlar el saldo de tu billetera. Con ella puedes mover bitcoin de una dirección a otra o importar un saldo específico. Cuando envías bitcoin de una billetera a otra, es la clave privada la que autoriza el traslado del saldo. Por eso no debes compartir tu frase semilla ni tus claves privadas con nadie. Por eso tiene este nombre: es privada, es información que debes guardarte para ti.
@@ -18,13 +18,13 @@ La gran diferencia entre una frase semilla y una clave privada es que una frase 
 Las direcciones se generan a partir de esas claves y son públicas. Cuando realizas una transacción, ésta aparece en la blockchain para que cualquiera pueda verificarla. No es posible averiguar la semilla o la clave privada a partir de una dirección, aunque aparezca en la blockchain de Bitcoin. Pero si no cuidas bien las semillas o claves privadas, terceros pueden tener acceso no sólo a tu bitcoin, sino a todas las claves y direcciones que generen.
 
 
-(slide)
+!(slide 258)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a2a95151922fbb9dc8614da059004d5b4a70ee31/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%2010/Sem%20ti%CC%81tulo-24-02.jpg]
 Una billetera puede generar miles de direcciones diferentes a partir de la clave pública. Su función es generar direcciones. Una de las mejores prácticas con Bitcoin es no reutilizar nunca las direcciones. Las billeteras siempre generan nuevas direcciones después de que hayas realizado una transacción, precisamente para darte más privacidad y evitar la reutilización. Si alguna vez has utilizado una billetera de Bitcoin, te darás cuenta de que la dirección cambia con cada transacción. Al fin y al cabo, una vez realizada una transacción, las direcciones son visibles públicamente en la blockchain y sería más fácil hacer un seguimiento de los saldos por asociación.
 
 En pocas palabras, la clave privada desbloquea el derecho del propietario de la billetera para gastar, mover e intercambiar las monedas asociadas a esa billetera. Como su nombre indica, es privada y no debes mostrársela a otras personas. La dirección es donde envías bitcoin cuando realizas una transacción. Nadie puede adivinar tu clave privada a partir de tu dirección.
 
 
-(slide)
+!(slide 259)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a2a95151922fbb9dc8614da059004d5b4a70ee31/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%2010/Sem%20ti%CC%81tulo-24-03.jpg]
 Podemos pensar en la dirección como si fuera la dirección de tu casa. La compartes con otras personas, es relativamente pública, pero no vas por ahí con un megáfono diciendo a todo el mundo dónde vives. A veces necesitas mostrar tu dirección para recibir una entrega, pero eso no significa que puedan acceder a tu casa. Para eso necesitas las llaves de la puerta. En el caso de las billeteras: las claves privadas.
 
 Así que la dirección es como tu domicilio y las claves privadas son las que te dan acceso a lo que hay dentro: tu saldo de bitcoins.
@@ -34,11 +34,11 @@ Recuerda que tus bitcoins no se almacenan dentro de las billeteras. Siempre est�
 Pero ¿cómo funciona una transacción?
 
 
-(slide)
+!(slide 260)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a2a95151922fbb9dc8614da059004d5b4a70ee31/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%2010/Sem%20ti%CC%81tulo-24-04.jpg]
 Abres tu billetera, tecleas la cantidad que quieres enviar, pegas la dirección del destinatario y haces clic en enviar. Cuando pulsas enviar, estás firmando la transacción con tu clave privada. Eso es lo que ocurre detrás de los códigos de la billetera.
 
 
-(slide)
+!(slide 261)[https://github.com/areabitcoin/Bitcoin-4-All/blob/a2a95151922fbb9dc8614da059004d5b4a70ee31/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%2010/Sem%20ti%CC%81tulo-24-05.jpg]
 Cuando firmas la transacción demostrando a la red Bitcoin que eres el verdadero propietario de la clave privada de la dirección de la billetera, esa transacción va a una sala de espera, conocida como mempool. Es la sala de espera de las transacciones que esperan ser insertadas en un bloque por los mineros. Las transacciones se registran en la blockchain cuando un minero las selecciona para que formen parte del bloque de información. En cuanto un minero introduce una transacción en un bloque, éste es verificado por la red, que actualiza sus registros en el blockchain. A continuación, el bloque se propaga por toda la red como un bloque válido, con la transacción en su interior.
 
 Cuando una transacción se inserta en un bloque, se dice que ha sido confirmada. A medida que se minan más bloques, se producen más confirmaciones. Generalmente, una transacción se considera irreversible después de 6 confirmaciones, cuando han pasado seis bloques. Cuando se realizan las confirmaciones, la billetera lo notifica al usuario, la transacción se considera recibida y el saldo está disponible para ser gastado. Así es como se producen las transacciones en la cadena cuando envías bitcoin.
