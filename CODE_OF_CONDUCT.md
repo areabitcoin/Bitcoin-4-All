@@ -1,47 +1,47 @@
-# Código de Conduta do Contribuidor
+# Contributor Code of Conduct
 
-## Nosso Compromisso
+## Our Commitment
 
-No interesse de promover um ambiente aberto e acolhedor, nós, como contribuidores e mantenedores, nos comprometemos a tornar a participação em nosso projeto e nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, tamanho corporal, deficiência, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## Nossos Padrões
+## Our Standards
 
-Exemplos de comportamentos que contribuem para criar um ambiente positivo incluem:
+Examples of behavior that contributes to creating a positive environment include:
 
-* ✅ Usar linguagem acolhedora e inclusiva
-* ✅ Respeitar pontos de vista e experiências diferentes
-* ✅ Aceitar críticas construtivas com elegância
-* ✅ Focar no que é melhor para a comunidade
-* ✅ Mostrar empatia com outros membros da comunidade
+* Using welcoming and inclusive language
+* Respecting differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-Exemplos de comportamentos inaceitáveis incluem:
+Examples of unacceptable behavior include:
 
-* ❌ Uso de linguagem ou imagens sexualizadas e atenção ou avanços sexuais indesejados
-* ❌ Comentários trolls, insultuosos/depreciativos e ataques pessoais ou políticos
-* ❌ Assédio público ou privado
-* ❌ Publicar informações privadas de outros sem permissão explícita
-* ❌ Outras condutas inadequadas em um ambiente profissional
+* Use of sexualized language or imagery and unwelcome sexual attention or advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
-## Nossas Responsabilidades
+## Our Responsibilities
 
-Os mantenedores do projeto são responsáveis por esclarecer os padrões de comportamento aceitável e devem tomar ações corretivas apropriadas em resposta a comportamentos inaceitáveis.
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-## Escopo
+## Scope
 
-Este Código de Conduta se aplica tanto em espaços do projeto quanto em espaços públicos quando um indivíduo está representando o projeto ou sua comunidade.
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
 
-## Aplicação
+## Enforcement
 
-Casos de comportamento abusivo podem ser reportados entrando em contato com a equipe do projeto. Todas as reclamações serão analisadas e investigadas.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue in this repository. All complaints will be reviewed and investigated.
 
-## Atribuição
+## Attribution
 
-Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org), versão 1.4.
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4.
 
 ---
 
-## 🧡 Sobre o Bitcoin 4 All
+## About Bitcoin 4 All
 
-O Bitcoin 4 All é um projeto educacional que acredita na importância de criar um ambiente inclusivo e respeitoso para que todos possam aprender e ensinar sobre Bitcoin.
+Bitcoin 4 All is an educational project that believes in the importance of creating an inclusive and respectful environment where everyone can learn and teach about Bitcoin.
 
-**Obrigado por ajudar a manter este ambiente positivo!**
+**Thank you for helping maintain this positive environment!**

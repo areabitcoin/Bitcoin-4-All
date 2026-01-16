@@ -5,22 +5,22 @@
 <h1 align="center">Bitcoin 4 All</h1>
 
 <p align="center">
-  <strong>🎓 Curso gratuito e open source de Bitcoin para todos</strong>
+  <strong>Free and open source Bitcoin course for everyone</strong>
 </p>
 
 <p align="center">
-  <a href="#-sobre">Sobre</a> •
-  <a href="#-idiomas-disponíveis">Idiomas</a> •
-  <a href="#-conteúdo-do-curso">Conteúdo</a> •
-  <a href="#-materiais">Materiais</a> •
-  <a href="#-como-usar">Como Usar</a> •
-  <a href="#-contribuir">Contribuir</a>
+  <a href="#-about">About</a> 
+  <a href="#-available-languages">Languages</a> 
+  <a href="#-course-content">Content</a> 
+  <a href="#-materials">Materials</a> 
+  <a href="#-how-to-use">How to Use</a> 
+  <a href="#-contribute">Contribute</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Licença-CC%20BY--SA%204.0-orange?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/Idiomas-3-blue?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/Aulas-10-green?style=for-the-badge" alt="Classes">
+  <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Languages-3-blue?style=for-the-badge" alt="Languages">
+  <img src="https://img.shields.io/badge/Classes-10-green?style=for-the-badge" alt="Classes">
   <img src="https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge" alt="Open Source">
 </p>
 
@@ -31,139 +31,139 @@
 
 ---
 
-## 📖 Sobre
+## About
 
-**Bitcoin 4 All** é um curso gratuito e open source criado pela [Area Bitcoin](https://areabitcoin.com.br).
+**Bitcoin 4 All** is a free and open source course created by [Area Bitcoin](https://areabitcoin.com.br).
 
-O objetivo é ajudar mais pessoas a entenderem Bitcoin e inspirar qualquer um a ser um multiplicador do conhecimento sobre Bitcoin. Qualquer pessoa, independentemente do seu nível de conhecimento ou formação, pode aprender e ensinar sobre essa tecnologia revolucionária de forma simples, direta e prática.
+The goal is to help more people understand Bitcoin and inspire anyone to become a multiplier of Bitcoin knowledge. Anyone, regardless of their level of knowledge or background, can learn and teach about this revolutionary technology in a simple, direct, and practical way.
 
-> 🚀 **Vai além de um simples curso.** É uma ferramenta que pode ser usada para ensinar, organizar meetups ou até mesmo personalizar materiais para realidades locais.
+> **Goes beyond a simple course.** It's a tool that can be used to teach, organize meetups, or even customize materials for local realities.
 
-### ✨ Destaques
+### Highlights
 
-- 🆓 **100% Gratuito** - Acesso livre a todo conteúdo
-- 🌍 **Multilíngue** - Disponível em Português, Inglês e Espanhol
-- 📚 **Completo** - 10 aulas cobrindo do básico ao avançado
-- 🎨 **Materiais Prontos** - Slides, ebooks e roteiros inclusos
-- 🔓 **Open Source** - Adapte e personalize livremente
-- 👥 **Para Multiplicadores** - Ideal para meetups e educadores
-
----
-
-## 🌐 Idiomas Disponíveis
-
-| Idioma | Pasta | Status |
-|--------|-------|--------|
-| 🇧🇷 Português | [Bitcoin 4 All - Portuguese](./Bitcoin%204%20All%20-%20Portuguese) | ✅ Completo |
-| 🇺🇸 English | [Bitcoin 4 All - English](./Bitcoin%204%20All%20-%20English) | ✅ Completo |
-| 🇪🇸 Español | [Bitcoin 4 All - Spanish](./Bitcoin%204%20All%20-%20Spanish) | ✅ Completo |
-
-> 💡 **Quer traduzir para outro idioma?** Veja o [guia de contribuição](CONTRIBUTING.md)!
+- **100% Free** - Open access to all content
+- **Multilingual** - Available in Portuguese, English, and Spanish
+- **Complete** - 10 classes covering basics to advanced topics
+- **Ready Materials** - Slides, ebooks, and scripts included
+- **Open Source** - Adapt and customize freely
+- **For Multipliers** - Ideal for meetups and educators
 
 ---
 
-## 📚 Conteúdo do Curso
+## Available Languages
 
-### Grade Curricular
+| Language | Folder | Status |
+|----------|--------|--------|
+| Portuguese | [Bitcoin 4 All - Portuguese](./Bitcoin%204%20All%20-%20Portuguese) | Complete |
+| English | [Bitcoin 4 All - English](./Bitcoin%204%20All%20-%20English) | Complete |
+| Spanish | [Bitcoin 4 All - Spanish](./Bitcoin%204%20All%20-%20Spanish) | Complete |
 
-| # | Aula | Descrição |
-|---|------|-----------|
-| 1 | **O que é Bitcoin e por que foi criado?** | Introdução ao Bitcoin, contexto histórico e a motivação por trás da criação |
-| 2 | **O problema do dinheiro fiat** | Como funciona o sistema monetário atual e seus problemas fundamentais |
-| 3 | **Por que Bitcoin é um dinheiro melhor** | As propriedades que fazem do Bitcoin um dinheiro superior |
-| 4 | **Como Bitcoin funciona (Parte 1)** | Descentralização, blockchain e teoria dos jogos |
-| 5 | **Como Bitcoin funciona (Parte 2)** | Mineração, halving e os ciclos de mercado |
-| 6 | **Por que Bitcoin deve continuar valorizando?** | Fundamentos econômicos e perspectivas de longo prazo |
-| 7 | **Como ter bitcoin?** | Mineração, exchanges, P2P e economias circulares |
-| 8 | **Rebatendo FUDs sobre Bitcoin** | Desmistificando as principais críticas e mitos |
-| 9 | **Carteiras e armazenamento** | Tipos de carteiras e melhores práticas de segurança |
-| 10 | **Soberania e autocustódia** | Como sacar da exchange e ter controle total do seu Bitcoin |
+> **Want to translate to another language?** Check the [contribution guide](CONTRIBUTING.md)!
 
 ---
 
-## 📦 Materiais Disponíveis
+## Course Content
 
-Cada idioma possui os seguintes materiais:
+### Curriculum
 
-### 📝 Roteiros/Scripts
-Textos completos de cada aula, prontos para serem usados como base para apresentações ou estudos.
-
-### 🎞️ Slides
-Apresentações visuais profissionais para cada aula, ideais para meetups e workshops.
-
-### 📖 Ebooks
-Material em formato PDF para leitura e distribuição.
-
-### 🎬 Vídeos
-Links para as videoaulas gravadas.
-
-### 🎨 Recursos Visuais
-Na pasta [Visuals](./Visuals) você encontra:
-- 🖼️ **Logos** - Logotipos do projeto
-- 🎨 **Backgrounds** - Fundos para apresentações
-- 🔤 **Fontes** - Tipografia oficial
-- 📋 **Guia Visual** - Manual de identidade visual
+| # | Class | Description |
+|---|-------|-------------|
+| 1 | **What is Bitcoin and why was it created?** | Introduction to Bitcoin, historical context, and motivation behind its creation |
+| 2 | **The problem with fiat money** | How the current monetary system works and its fundamental problems |
+| 3 | **Why Bitcoin is better money** | The properties that make Bitcoin superior money |
+| 4 | **How Bitcoin works (Part 1)** | Decentralization, blockchain, and game theory |
+| 5 | **How Bitcoin works (Part 2)** | Mining, halving, and market cycles |
+| 6 | **Why should Bitcoin continue to appreciate?** | Economic fundamentals and long-term perspectives |
+| 7 | **How to get bitcoin?** | Mining, exchanges, P2P, and circular economies |
+| 8 | **Rebutting FUDs about Bitcoin** | Demystifying the main criticisms and myths |
+| 9 | **Wallets and storage** | Types of wallets and security best practices |
+| 10 | **Sovereignty and self-custody** | How to withdraw from exchanges and have full control of your Bitcoin |
 
 ---
 
-## 🚀 Como Usar
+## Available Materials
 
-### Para Estudar
-1. Escolha seu idioma na tabela acima
-2. Comece pela **Introdução** e **Conteúdo Programático**
-3. Siga as aulas na ordem (1 a 10)
-4. Use os ebooks para aprofundamento
+Each language has the following materials:
 
-### Para Ensinar/Organizar Meetups
-1. Baixe os **slides** da aula desejada
-2. Use o **roteiro** como guia de apresentação
-3. Distribua os **ebooks** como material de apoio
-4. Adapte o conteúdo para sua realidade local
+### Scripts
+Complete texts for each class, ready to be used as a base for presentations or studies.
 
-### Para Personalizar
-1. Faça um **fork** deste repositório
-2. Use os recursos da pasta **Visuals**
-3. Adapte os materiais mantendo os créditos
-4. Compartilhe suas melhorias via Pull Request
+### Slides
+Professional visual presentations for each class, ideal for meetups and workshops.
 
----
+### Ebooks
+Material in PDF format for reading and distribution.
 
-## 🤝 Contribuir
+### Videos
+Links to recorded video lessons.
 
-Adoramos contribuições! Existem várias formas de ajudar:
-
-| Tipo | Descrição |
-|------|-----------|
-| 🌍 **Tradução** | Traduza para novos idiomas |
-| ✍️ **Revisão** | Corrija erros ou melhore textos |
-| 🎨 **Design** | Crie novos materiais visuais |
-| 📢 **Divulgação** | Compartilhe o projeto |
-| 💡 **Sugestões** | Abra uma issue com ideias |
-
-👉 Leia o [CONTRIBUTING.md](CONTRIBUTING.md) para detalhes.
+### Visual Resources
+In the [Visuals](./Visuals) folder you'll find:
+- **Logos** - Project logos
+- **Backgrounds** - Backgrounds for presentations
+- **Fonts** - Official typography
+- **Visual Guide** - Visual identity manual
 
 ---
 
-## 📜 Licença
+## How to Use
+
+### To Study
+1. Choose your language from the table above
+2. Start with the **Introduction** and **Program Content**
+3. Follow the classes in order (1 to 10)
+4. Use the ebooks for deeper learning
+
+### To Teach/Organize Meetups
+1. Download the **slides** for the desired class
+2. Use the **script** as a presentation guide
+3. Distribute the **ebooks** as supporting material
+4. Adapt the content to your local reality
+
+### To Customize
+1. **Fork** this repository
+2. Use the resources from the **Visuals** folder
+3. Adapt the materials while keeping the credits
+4. Share your improvements via Pull Request
+
+---
+
+## Contribute
+
+We love contributions! There are several ways to help:
+
+| Type | Description |
+|------|-------------|
+| **Translation** | Translate to new languages |
+| **Review** | Fix errors or improve texts |
+| **Design** | Create new visual materials |
+| **Promotion** | Share the project |
+| **Suggestions** | Open an issue with ideas |
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+---
+
+## License
 
 <p align="center">
   <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="CC BY-SA 4.0">
 </p>
 
-Este projeto está sob a licença **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+This project is under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
 
-Você tem liberdade para:
-- ✅ **Compartilhar** — copiar e redistribuir o material em qualquer meio
-- ✅ **Adaptar** — remixar, transformar e criar a partir do material
+You are free to:
+- **Share** - copy and redistribute the material in any medium
+- **Adapt** - remix, transform, and build upon the material
 
-Sob as seguintes condições:
-- 📝 **Atribuição** — Deve dar crédito ao **Bitcoin 4 All** da **Area Bitcoin**
-- 🔄 **ShareAlike** — Se adaptar, deve distribuir sob a mesma licença
-- 🎓 **Uso Educacional** — Deve ser usado para fins educacionais, nunca comerciais
+Under the following conditions:
+- **Attribution** - You must give credit to **Bitcoin 4 All** from **Area Bitcoin**
+- **ShareAlike** - If you adapt, you must distribute under the same license
+- **Educational Use** - Must be used for educational purposes, never commercial
 
 ---
 
-## 🙏 Agradecimentos
+## Acknowledgments
 
 <p align="center">
   <a href="https://opensats.org">
@@ -172,37 +172,33 @@ Sob as seguintes condições:
 </p>
 
 <p align="center">
-  <strong>Obrigado à <a href="https://opensats.org">OpenSats</a> por tornar este projeto possível!</strong>
+  <strong>Thank you to <a href="https://opensats.org">OpenSats</a> for making this project possible!</strong>
 </p>
 
-A OpenSats apoia a educação sobre Bitcoin em múltiplos idiomas, tornando-a mais acessível em todo o mundo.
+OpenSats supports Bitcoin education in multiple languages, making it more accessible worldwide.
 
 ---
 
-## 🔗 Links Úteis
+## Useful Links
 
 <p align="center">
   <a href="https://areabitcoin.com.br">
-    <img src="https://img.shields.io/badge/Area_Bitcoin-Site-orange?style=for-the-badge" alt="Site">
+    <img src="https://img.shields.io/badge/Area_Bitcoin-Website-orange?style=for-the-badge" alt="Website">
   </a>
-  </p>
+</p>
 
 ---
 
 <p align="center">
-  <strong>Acreditamos que a educação sobre Bitcoin precisa ser universal e acessível a todos.</strong>
+  <strong>We believe that Bitcoin education needs to be universal and accessible to everyone.</strong>
 </p>
 
 <p align="center">
-  Bitcoin é uma ferramenta poderosa. Não importa se você está começando ou já sabe um pouco sobre o assunto, <br>
-  o <strong>Bitcoin 4 All</strong> foi criado para fazer você se sentir parte desta revolução <br>
-  e ajudá-lo a entender, adotar e espalhar essa ideia transformadora.
+  Bitcoin is a powerful tool. It doesn't matter if you're just starting out or already know a bit about the subject,<br>
+  <strong>Bitcoin 4 All</strong> was created to make you feel part of this revolution<br>
+  and help you understand, adopt, and spread this transformative idea.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/₿-Bitcoin_4_All-F7931A?style=for-the-badge" alt="Bitcoin 4 All">
-</p>
-
-<p align="center">
-  Feito com 🧡 pela <a href="https://areabitcoin.com.br">Area Bitcoin</a>
+  Made with love by <a href="https://areabitcoin.com.br">Area Bitcoin</a>
 </p>

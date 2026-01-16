@@ -1,21 +1,22 @@
-## 📝 Descrição
+## Description
+Brief description of the changes made.
 
-Descreva brevemente as mudanças deste PR.
+## Type of Change
+- [ ] Bug fix (error correction)
+- [ ] New content (new lesson, module, etc.)
+- [ ] Translation
+- [ ] Improvement to existing content
+- [ ] Documentation
+- [ ] Other (describe)
 
-## 🔗 Issue Relacionada
+## Related Issue
+Closes #(issue number)
 
-Fixes #(número da issue)
+## Checklist
+- [ ] I have reviewed my content for grammatical and technical errors
+- [ ] I have followed the repository's guidelines
+- [ ] The content is accurate and verified
+- [ ] I have added appropriate credits/references (if applicable)
 
-## 📋 Tipo de Mudança
-
-- [ ] 🐛 Correção de erro (bug fix)
-- [ ] ✨ Novo conteúdo (new feature)
-- [ ] 🌍 Tradução (translation)
-- [ ] 📝 Documentação (documentation)
-
-## ✅ Checklist
-
-- [ ] Meu código segue o guia de estilo deste projeto
-- [ ] Revisei meu próprio código
-- [ ] Minha contribuição não contém erros ortográficos
-- [ ] Mantive os créditos e atribuições necessárias
+## Additional Notes
+Any other relevant information about this PR.

@@ -1,33 +1,42 @@
 # Security Policy
 
-## Reporting a Vulnerability
+## About This Repository
 
-The Bitcoin 4 All project is an educational repository containing course materials (documents, slides, ebooks). It does not contain executable code or software.
+This repository contains **educational materials about Bitcoin** and does not include any code that processes sensitive data or manages cryptographic assets.
 
-However, if you find any of the following issues, please let us know:
+## Reporting Issues
 
-### What to Report
+If you find:
 
-- **Broken or malicious links** - Links that lead to harmful websites
-- **Exposed personal information** - Any personal data that shouldn't be public
-- **Copyright violations** - Content that violates copyright
+### Incorrect or Outdated Content
+- Information that could mislead readers about security practices
+- Outdated links or references
+- Errors in technical explanations
 
-### How to Report
+**How to report:** Open a regular [Issue](../../issues) describing the problem.
 
-Open an issue in this repository with the tag `security`.
+### Inappropriate Links or Content
+- Links to suspicious or malicious websites
+- Inappropriate content that has been inserted
 
-## Security Best Practices for Users
+**How to report:** Open an Issue with the **urgent** label.
 
-When using Bitcoin 4 All materials:
+## What Does NOT Apply Here
 
-1. Always download from the official GitHub repository
-2. Verify you're on the correct URL (github.com/areabitcoin/Bitcoin-4-All)
-3. Be cautious of unofficial copies or mirrors
+Since this is an educational repository without executable code:
 
-## Disclaimer
+- There are no code vulnerabilities to report
+- There is no private data to protect
+- There are no APIs or services running
 
-The educational content in this repository is for informational purposes only. Always do your own research (DYOR) before making any decisions related to Bitcoin.
+## Response
+
+The team commits to:
+
+1. Respond to reports within **7 days**
+2. Update incorrect content as soon as possible
+3. Maintain content quality and accuracy
 
 ---
 
-Thank you for helping keep Bitcoin 4 All safe for everyone!
+**Thank you for helping keep Bitcoin 4 All safe and accurate!**

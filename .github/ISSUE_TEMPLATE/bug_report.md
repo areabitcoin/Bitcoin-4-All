@@ -1,34 +1,27 @@
 ---
-name: 🐛 Reportar Erro
-about: Reporte um erro no conteúdo do curso
-title: '[ERRO] '
-labels: bug
+name: Bug Report / Error in Content
+about: Report an error in the educational material
+title: '[BUG] '
+labels: 'bug, needs-review'
 assignees: ''
 ---
 
-## 📋 Descrição do Erro
+## Error Description
+A clear and concise description of the error found.
 
-Descreva claramente o erro encontrado.
+## Location
+- **File:** [e.g., Lesson_1/aula_1_1.md]
+- **Section:** [e.g., "How mining works"]
+- **Specific line (if applicable):** [line number]
 
-## 📍 Localização
+## What's wrong?
+Describe the current information that is incorrect.
 
-- **Idioma:** [ ] Português [ ] English [ ] Español
-- **Arquivo/Aula:** 
-- **Seção/Parágrafo:** 
+## Suggested Correction
+If you know the correct information, describe it here.
 
-## ❌ Conteúdo Atual (com erro)
+## References
+Links or sources that support the correction.
 
-```
-Cole aqui o texto com erro
-```
-
-## ✅ Correção Sugerida
-
-```
-Cole aqui a correção sugerida
-```
-
-## ✔️ Checklist
-
-- [ ] Verifiquei que este erro ainda não foi reportado
-- [ ] Verifiquei que o erro ainda existe na versão mais recente
+## Additional Context
+Add any other relevant context about the error.

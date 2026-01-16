@@ -1,43 +1,29 @@
 ---
-name: 🌍 Nova Tradução
-about: Proponha ou inicie uma tradução para novo idioma
-title: '[TRADUÇÃO] Novo idioma: '
-labels: translation, enhancement
+name: New Translation
+about: Propose or contribute a translation to a new language
+title: '[TRANSLATION] '
+labels: 'translation, enhancement'
 assignees: ''
 ---
 
-## 🌐 Idioma Proposto
+## Target Language
+Which language do you want to translate to?
 
-- **Idioma:** 
-- **Código ISO:** (ex: fr, de, it, ja)
+## Current Status
+- [ ] I am offering to translate
+- [ ] I am requesting a translation (cannot do it myself)
 
-## 👤 Tradutor(es)
+## Availability
+If you are offering to translate, indicate:
+- How many lessons/modules can you translate?
+- What is your estimated timeline?
 
-- GitHub: @
-- Nível de proficiência no idioma: [ ] Nativo [ ] Fluente [ ] Avançado
+## Experience
+- Do you have prior translation experience?
+- Do you have technical knowledge about Bitcoin?
 
-## 📋 Plano de Tradução
+## Relevant Material
+If there are materials in that language that could be used as reference, list them here.
 
-### Fase 1 - Conteúdo Principal
-- [ ] Intro
-- [ ] Program Content
-- [ ] Script Class 1
-- [ ] Script Class 2
-- [ ] Script Class 3
-- [ ] Script Class 4
-- [ ] Script Class 5
-- [ ] Script Class 6
-- [ ] Script Class 7
-- [ ] Script Class 8
-- [ ] Script Class 9
-- [ ] Script Class R10
-
-### Fase 2 - Materiais Complementares
-- [ ] Ebooks
-- [ ] Slides
-
-## ✔️ Checklist
-
-- [ ] Li o guia de contribuição (CONTRIBUTING.md)
-- [ ] Verifiquei que não existe tradução para este idioma
-- [ ] Tenho disponibilidade para completar a tradução
+## Additional Comments
+Any additional information you would like to share.

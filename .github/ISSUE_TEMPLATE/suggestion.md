@@ -1,24 +1,29 @@
 ---
-name: 💡 Sugestão
-about: Sugira uma melhoria para o projeto
-title: '[SUGESTÃO] '
-labels: enhancement
+name: Suggestion / Improvement
+about: Suggest an improvement for the course
+title: '[SUGGESTION] '
+labels: 'enhancement'
 assignees: ''
 ---
 
-## 💡 Descrição da Sugestão
+## Suggestion Type
+- [ ] New content
+- [ ] Improvement to existing content
+- [ ] Visual resources (images, diagrams)
+- [ ] Organization / Structure
+- [ ] Other
 
-Descreva sua sugestão de forma clara e concisa.
+## Description
+Clear and detailed description of your suggestion.
 
-## 🎯 Problema/Motivação
+## Justification
+Why do you believe this suggestion would improve the course?
 
-Qual problema esta sugestão resolve? Por que seria útil?
+## Implementation (optional)
+If you have ideas on how to implement this, describe here.
 
-## 📋 Solução Proposta
+## Relevant Examples
+Links or references that can illustrate the suggestion.
 
-Descreva como você imagina a implementação desta sugestão.
-
-## ✔️ Checklist
-
-- [ ] Verifiquei que esta sugestão ainda não foi proposta
-- [ ] Esta sugestão está alinhada com os objetivos educacionais do projeto
+## Additional Information
+Any other context or information.

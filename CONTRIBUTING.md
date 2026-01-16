@@ -1,151 +1,122 @@
-# 🤝 Guia de Contribuição
+# Contribution Guide
 
-Obrigado pelo interesse em contribuir com o **Bitcoin 4 All**! Este guia vai te ajudar a entender como você pode participar deste projeto de educação sobre Bitcoin.
+Thank you for your interest in contributing to **Bitcoin 4 All**! This guide will help you understand how you can participate in this Bitcoin education project.
 
-## 📋 Índice
+## Code of Conduct
 
-- [Código de Conduta](#código-de-conduta)
-- [Como Posso Contribuir?](#como-posso-contribuir)
-- [Traduzindo para Novos Idiomas](#traduzindo-para-novos-idiomas)
-- [Reportando Erros](#reportando-erros)
-- [Sugerindo Melhorias](#sugerindo-melhorias)
-- [Enviando Pull Requests](#enviando-pull-requests)
+This project adopts a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to follow this code.
 
 ---
 
-## 📜 Código de Conduta
+## How Can I Contribute?
 
-Este projeto adota um [Código de Conduta](CODE_OF_CONDUCT.md). Ao participar, espera-se que você siga este código.
+### Translation
+Translate the course to new languages and help Bitcoin education reach more people around the world.
 
----
+### Content Review
+- Fix spelling or grammar errors
+- Improve text clarity
+- Update outdated information
 
-## 🎯 Como Posso Contribuir?
+### Design and Visual
+- Create new slides
+- Improve existing visual materials
+- Infographics and illustrations
 
-### 🌍 Tradução
-Traduza o curso para novos idiomas e ajude a educação sobre Bitcoin alcançar mais pessoas ao redor do mundo.
+### Promotion
+- Share the project on social media
+- Use the materials at meetups and events
+- Write about the project
 
-### ✍️ Revisão de Conteúdo
-- Correção de erros ortográficos ou gramaticais
-- Melhoria na clareza dos textos
-- Atualização de informações desatualizadas
-
-### 🎨 Design e Visual
-- Criação de novos slides
-- Melhoria dos materiais visuais existentes
-- Infográficos e ilustrações
-
-### 📢 Divulgação
-- Compartilhe o projeto nas redes sociais
-- Use os materiais em meetups e eventos
-- Escreva sobre o projeto
-
-### 💡 Sugestões
-- Novas aulas ou tópicos
-- Melhorias na estrutura do curso
-- Novos formatos de conteúdo
+### Suggestions
+- New classes or topics
+- Improvements to the course structure
+- New content formats
 
 ---
 
-## 🌐 Traduzindo para Novos Idiomas
+## Translating to New Languages
 
-Quer traduzir o Bitcoin 4 All para um novo idioma? Siga estes passos:
+Want to translate Bitcoin 4 All to a new language? Follow these steps:
 
-### 1. Verifique se já não existe
-Confira se já não há uma tradução em andamento para o idioma desejado nas [Issues](https://github.com/areabitcoin/Bitcoin-4-All/issues).
+### 1. Check if it doesn't already exist
+Check if there's already a translation in progress for your desired language in the [Issues](https://github.com/areabitcoin/Bitcoin-4-All/issues).
 
-### 2. Abra uma Issue
-Crie uma issue informando que você quer iniciar a tradução para determinado idioma.
+### 2. Open an Issue
+Create an issue informing that you want to start the translation.
 
-### 3. Estrutura da Pasta
-Crie uma pasta seguindo o padrão:
-```
-Bitcoin 4 All - [Nome do Idioma em Inglês]/
-├── Ebooks/
-├── Slides/
-├── Video lessons/
-├── Intro
-├── Program Content
-├── Script Class 1 - [Título traduzido]
-└── ... (demais aulas)
-```
+### 3. Folder Structure
+Create a folder following the pattern:
+`
+Bitcoin 4 All - [Language Name]/
+ Ebooks/
+ Slides/
+ Video lessons/
+ Intro
+ Program Content
+ Script Class 1 - [Translated title]
+ ... (other classes)
+`
 
-### 4. Glossário de Termos
+### 4. Glossary of Terms
 
-Alguns termos devem ser mantidos em inglês:
-- Bitcoin (nunca traduzir)
+Some terms should be kept in English:
+- Bitcoin (never translate)
 - Blockchain
 - Hash/Hashing
 - Halving
 - Fork
 - Node
 - Proof of Work
-- Wallet (pode traduzir para "carteira")
+- Wallet (can translate)
 
 ---
 
-## 🐛 Reportando Erros
+## Reporting Errors
 
-Encontrou um erro? Ajude-nos a corrigir!
+Found an error? Help us fix it!
 
-1. Verifique se o erro já não foi reportado nas [Issues](https://github.com/areabitcoin/Bitcoin-4-All/issues)
-2. Abra uma nova Issue com:
-   - Idioma do material (PT/EN/ES)
-   - Nome do arquivo
-   - Descrição do erro
-   - Correção sugerida
-
----
-
-## 💡 Sugerindo Melhorias
-
-1. Abra uma [Issue](https://github.com/areabitcoin/Bitcoin-4-All/issues/new)
-2. Use a tag `enhancement` ou `suggestion`
-3. Descreva sua sugestão em detalhes
+1. Check if the error hasn't already been reported in [Issues](https://github.com/areabitcoin/Bitcoin-4-All/issues)
+2. Open a new Issue with:
+   - Material language (PT/EN/ES)
+   - File name
+   - Error description
+   - Suggested correction
 
 ---
 
-## 📤 Enviando Pull Requests
+## Suggesting Improvements
 
-### Processo
-
-1. **Fork** o repositório
-2. **Clone** seu fork localmente
-3. **Crie uma branch** para sua contribuição
-   ```bash
-   git checkout -b minha-contribuicao
-   ```
-4. **Faça suas alterações**
-5. **Commit** com mensagens claras
-   ```bash
-   git commit -m "docs: corrige erro ortográfico na aula 3 (PT)"
-   ```
-6. **Push** para seu fork
-   ```bash
-   git push origin minha-contribuicao
-   ```
-7. Abra um **Pull Request**
-
-### Convenção de Commits
-
-| Prefixo | Uso |
-|---------|-----|
-| `docs:` | Alterações em documentação |
-| `fix:` | Correções de erros |
-| `feat:` | Novas funcionalidades ou conteúdos |
-| `translate:` | Traduções |
+1. Open an [Issue](https://github.com/areabitcoin/Bitcoin-4-All/issues/new)
+2. Use the tag `enhancement` or `suggestion`
+3. Describe your suggestion in detail
 
 ---
 
-## 🙏 Agradecimento
+## Submitting Pull Requests
 
-Cada contribuição, por menor que seja, faz diferença! 
+### Process
 
-Ao contribuir, você está ajudando a espalhar a educação sobre Bitcoin pelo mundo. 
+1. **Fork** the repository
+2. **Clone** your fork locally
+3. **Create a branch** for your contribution
+4. **Make your changes**
+5. **Commit** with clear messages
+6. **Push** to your fork
+7. Open a **Pull Request**
 
-**Muito obrigado! 🧡**
+---
+
+## Thank You
+
+Every contribution, no matter how small, makes a difference!
+
+By contributing, you're helping spread Bitcoin education worldwide.
+
+**Thank you!**
 
 ---
 
 <p align="center">
-  <strong>Bitcoin 4 All</strong> - Educação Bitcoin para Todos
+  <strong>Bitcoin 4 All</strong> - Bitcoin Education for Everyone
 </p>
