@@ -31,40 +31,40 @@
 
 ---
 
-##  About
+## :book: About
 
-**Bitcoin 4 All** is a free and open source course created by [Area Bitcoin](https://areabitcoin.com.br).
+**Bitcoin 4 All** is a free and open source course created by [Area Bitcoin](https://areabitcoin.co).
 
 The goal is to help more people understand Bitcoin and inspire anyone to become a multiplier of Bitcoin knowledge. Anyone, regardless of their level of knowledge or background, can learn and teach about this revolutionary technology in a simple, direct, and practical way.
 
->  **Goes beyond a simple course.** It's a tool that can be used to teach, organize meetups, or even customize materials for local realities.
+> :bulb: **Goes beyond a simple course.** It's a tool that can be used to teach, organize meetups, or even customize materials for local realities.
 
-###  Highlights
+### :sparkles: Highlights
 
--  **100% Free** - Open access to all content
--  **Multilingual** - Available in Portuguese, English, and Spanish
--  **Complete** - 10 classes covering basics to advanced topics
--  **Ready Materials** - Slides, ebooks, and scripts included
--  **Open Source** - Adapt and customize freely
--  **For Multipliers** - Ideal for meetups and educators
+- :free: **100% Free** - Open access to all content
+- :globe_with_meridians: **Multilingual** - Available in Portuguese, English, and Spanish
+- :books: **Complete** - 10 classes covering basics to advanced topics
+- :art: **Ready Materials** - Slides, ebooks, and scripts included
+- :unlock: **Open Source** - Adapt and customize freely
+- :busts_in_silhouette: **For Multipliers** - Ideal for meetups and educators
 
 ---
 
-##  Available Languages
+## :earth_americas: Available Languages
 
 | Language | Folder | Status |
 |----------|--------|--------|
-|  Portuguese | [Bitcoin 4 All - Portuguese](./Bitcoin%204%20All%20-%20Portuguese) |  Complete |
-|  English | [Bitcoin 4 All - English](./Bitcoin%204%20All%20-%20English) |  Complete |
-|  Spanish | [Bitcoin 4 All - Spanish](./Bitcoin%204%20All%20-%20Spanish) |  Complete |
+| :brazil: Portuguese | [Bitcoin 4 All - Portuguese](./Bitcoin%204%20All%20-%20Portuguese) | :white_check_mark: Complete |
+| :us: English | [Bitcoin 4 All - English](./Bitcoin%204%20All%20-%20English) | :white_check_mark: Complete |
+| :es: Spanish | [Bitcoin 4 All - Spanish](./Bitcoin%204%20All%20-%20Spanish) | :white_check_mark: Complete |
 
->  **Want to translate to another language?** Check the [contribution guide](CONTRIBUTING.md)!
+> :star: **Want to translate to another language?** Check the [contribution guide](CONTRIBUTING.md)!
 
 ---
 
-##  Course Content
+## :books: Course Content
 
-###  Curriculum
+### :dart: Curriculum
 
 | # | Class | Description |
 |---|-------|-------------|
@@ -81,23 +81,23 @@ The goal is to help more people understand Bitcoin and inspire anyone to become 
 
 ---
 
-##  Available Materials
+## :package: Available Materials
 
 Each language has the following materials:
 
-###  Scripts
+### :memo: Scripts
 Complete texts for each class, ready to be used as a base for presentations or studies.
 
-###  Slides
+### :art: Slides
 Professional visual presentations for each class, ideal for meetups and workshops.
 
-###  Ebooks
+### :iphone: Ebooks
 Material in PDF format for reading and distribution.
 
-###  Videos
+### :clapper: Videos
 Links to recorded video lessons.
 
-###  Visual Resources
+### :framed_picture: Visual Resources
 In the [Visuals](./Visuals) folder you'll find:
 - **Logos** - Project logos
 - **Backgrounds** - Backgrounds for presentations
@@ -106,21 +106,21 @@ In the [Visuals](./Visuals) folder you'll find:
 
 ---
 
-##  How to Use
+## :rocket: How to Use
 
-###  To Study
+### :book: To Study
 1. Choose your language from the table above
 2. Start with the **Introduction** and **Program Content**
 3. Follow the classes in order (1 to 10)
 4. Use the ebooks for deeper learning
 
-###  To Teach/Organize Meetups
+### :man_teacher: To Teach/Organize Meetups
 1. Download the **slides** for the desired class
 2. Use the **script** as a presentation guide
 3. Distribute the **ebooks** as supporting material
 4. Adapt the content to your local reality
 
-###  To Customize
+### :wrench: To Customize
 1. **Fork** this repository
 2. Use the resources from the **Visuals** folder
 3. Adapt the materials while keeping the credits
@@ -128,23 +128,23 @@ In the [Visuals](./Visuals) folder you'll find:
 
 ---
 
-##  Contribute
+## :handshake: Contribute
 
 We love contributions! There are several ways to help:
 
 | Type | Description |
 |------|-------------|
-|  **Translation** | Translate to new languages |
-|  **Review** | Fix errors or improve texts |
-|  **Design** | Create new visual materials |
-|  **Promotion** | Share the project |
-|  **Suggestions** | Open an issue with ideas |
+| :globe_with_meridians: **Translation** | Translate to new languages |
+| :memo: **Review** | Fix errors or improve texts |
+| :art: **Design** | Create new visual materials |
+| :loudspeaker: **Promotion** | Share the project |
+| :bulb: **Suggestions** | Open an issue with ideas |
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
-##  License
+## :scroll: License
 
 <p align="center">
   <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="CC BY-SA 4.0">
@@ -163,7 +163,7 @@ Under the following conditions:
 
 ---
 
-##  Acknowledgments
+## :pray: Acknowledgments
 
 <p align="center">
   <a href="https://opensats.org">
@@ -179,10 +179,10 @@ OpenSats supports Bitcoin education in multiple languages, making it more access
 
 ---
 
-##  Useful Links
+## :link: Useful Links
 
 <p align="center">
-  <a href="https://areabitcoin.com.br">
+  <a href="https://areabitcoin.co">
     <img src="https://img.shields.io/badge/Area_Bitcoin-Website-orange?style=for-the-badge" alt="Website">
   </a>
 </p>
@@ -200,5 +200,5 @@ OpenSats supports Bitcoin education in multiple languages, making it more access
 </p>
 
 <p align="center">
-  Made with  by <a href="https://areabitcoin.com.br">Area Bitcoin</a>
+  Made with :orange_heart: by <a href="https://areabitcoin.co">Area Bitcoin</a>
 </p>
