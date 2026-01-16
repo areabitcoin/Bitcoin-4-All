@@ -5,6 +5,7 @@
   * [About the Course](about.md)
 
 * **:brazil: Portugues**
+  * [Introducao](pt/intro.md)
   * [Aula 1 - O que e Bitcoin](pt/aula-1.md)
   * [Aula 2 - Problema do dinheiro fiat](pt/aula-2.md)
   * [Aula 3 - Por que Bitcoin e melhor](pt/aula-3.md)
@@ -17,6 +18,7 @@
   * [Aula 10 - Soberania](pt/aula-10.md)
 
 * **:us: English**
+  * [Introduction](en/intro.md)
   * [Class 1 - What is Bitcoin](en/class-1.md)
   * [Class 2 - Problem with fiat](en/class-2.md)
   * [Class 3 - Why Bitcoin is better](en/class-3.md)
@@ -29,6 +31,7 @@
   * [Class 10 - Sovereignty](en/class-10.md)
 
 * **:es: Espanol**
+  * [Introduccion](es/intro.md)
   * [Clase 1 - Que es Bitcoin](es/clase-1.md)
   * [Clase 2 - Problema del dinero fiat](es/clase-2.md)
   * [Clase 3 - Por que Bitcoin es mejor](es/clase-3.md)
