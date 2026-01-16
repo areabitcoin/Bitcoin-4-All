@@ -1,0 +1,52 @@
+﻿/* Bitcoin 4 All - Custom Marp Theme */
+/* Save as bitcoin.css */
+
+@import 'default';
+
+section {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  color: #ffffff;
+}
+
+section h1, section h2 {
+  color: #f7931a;
+}
+
+section a {
+  color: #f7931a;
+}
+
+section code {
+  background: #2d2d44;
+  color: #f7931a;
+}
+
+section table {
+  border-collapse: collapse;
+}
+
+section table th {
+  background: #f7931a;
+  color: #1a1a2e;
+}
+
+section table td {
+  border: 1px solid #f7931a33;
+}
+
+section blockquote {
+  border-left: 4px solid #f7931a;
+  background: #f7931a11;
+  padding: 1em;
+}
+
+section.lead {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+section.lead h1 {
+  font-size: 3em;
+}
