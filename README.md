@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="Visuals/Logos/Logo.png" alt="Bitcoin 4 All Logo" width="400">
 </p>
 
@@ -31,40 +31,40 @@
 
 ---
 
-## About
+##  About
 
 **Bitcoin 4 All** is a free and open source course created by [Area Bitcoin](https://areabitcoin.com.br).
 
 The goal is to help more people understand Bitcoin and inspire anyone to become a multiplier of Bitcoin knowledge. Anyone, regardless of their level of knowledge or background, can learn and teach about this revolutionary technology in a simple, direct, and practical way.
 
-> **Goes beyond a simple course.** It's a tool that can be used to teach, organize meetups, or even customize materials for local realities.
+>  **Goes beyond a simple course.** It's a tool that can be used to teach, organize meetups, or even customize materials for local realities.
 
-### Highlights
+###  Highlights
 
-- **100% Free** - Open access to all content
-- **Multilingual** - Available in Portuguese, English, and Spanish
-- **Complete** - 10 classes covering basics to advanced topics
-- **Ready Materials** - Slides, ebooks, and scripts included
-- **Open Source** - Adapt and customize freely
-- **For Multipliers** - Ideal for meetups and educators
+-  **100% Free** - Open access to all content
+-  **Multilingual** - Available in Portuguese, English, and Spanish
+-  **Complete** - 10 classes covering basics to advanced topics
+-  **Ready Materials** - Slides, ebooks, and scripts included
+-  **Open Source** - Adapt and customize freely
+-  **For Multipliers** - Ideal for meetups and educators
 
 ---
 
-## Available Languages
+##  Available Languages
 
 | Language | Folder | Status |
 |----------|--------|--------|
-| Portuguese | [Bitcoin 4 All - Portuguese](./Bitcoin%204%20All%20-%20Portuguese) | Complete |
-| English | [Bitcoin 4 All - English](./Bitcoin%204%20All%20-%20English) | Complete |
-| Spanish | [Bitcoin 4 All - Spanish](./Bitcoin%204%20All%20-%20Spanish) | Complete |
+|  Portuguese | [Bitcoin 4 All - Portuguese](./Bitcoin%204%20All%20-%20Portuguese) |  Complete |
+|  English | [Bitcoin 4 All - English](./Bitcoin%204%20All%20-%20English) |  Complete |
+|  Spanish | [Bitcoin 4 All - Spanish](./Bitcoin%204%20All%20-%20Spanish) |  Complete |
 
-> **Want to translate to another language?** Check the [contribution guide](CONTRIBUTING.md)!
+>  **Want to translate to another language?** Check the [contribution guide](CONTRIBUTING.md)!
 
 ---
 
-## Course Content
+##  Course Content
 
-### Curriculum
+###  Curriculum
 
 | # | Class | Description |
 |---|-------|-------------|
@@ -81,23 +81,23 @@ The goal is to help more people understand Bitcoin and inspire anyone to become 
 
 ---
 
-## Available Materials
+##  Available Materials
 
 Each language has the following materials:
 
-### Scripts
+###  Scripts
 Complete texts for each class, ready to be used as a base for presentations or studies.
 
-### Slides
+###  Slides
 Professional visual presentations for each class, ideal for meetups and workshops.
 
-### Ebooks
+###  Ebooks
 Material in PDF format for reading and distribution.
 
-### Videos
+###  Videos
 Links to recorded video lessons.
 
-### Visual Resources
+###  Visual Resources
 In the [Visuals](./Visuals) folder you'll find:
 - **Logos** - Project logos
 - **Backgrounds** - Backgrounds for presentations
@@ -106,21 +106,21 @@ In the [Visuals](./Visuals) folder you'll find:
 
 ---
 
-## How to Use
+##  How to Use
 
-### To Study
+###  To Study
 1. Choose your language from the table above
 2. Start with the **Introduction** and **Program Content**
 3. Follow the classes in order (1 to 10)
 4. Use the ebooks for deeper learning
 
-### To Teach/Organize Meetups
+###  To Teach/Organize Meetups
 1. Download the **slides** for the desired class
 2. Use the **script** as a presentation guide
 3. Distribute the **ebooks** as supporting material
 4. Adapt the content to your local reality
 
-### To Customize
+###  To Customize
 1. **Fork** this repository
 2. Use the resources from the **Visuals** folder
 3. Adapt the materials while keeping the credits
@@ -128,23 +128,23 @@ In the [Visuals](./Visuals) folder you'll find:
 
 ---
 
-## Contribute
+##  Contribute
 
 We love contributions! There are several ways to help:
 
 | Type | Description |
 |------|-------------|
-| **Translation** | Translate to new languages |
-| **Review** | Fix errors or improve texts |
-| **Design** | Create new visual materials |
-| **Promotion** | Share the project |
-| **Suggestions** | Open an issue with ideas |
+|  **Translation** | Translate to new languages |
+|  **Review** | Fix errors or improve texts |
+|  **Design** | Create new visual materials |
+|  **Promotion** | Share the project |
+|  **Suggestions** | Open an issue with ideas |
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
-## License
+##  License
 
 <p align="center">
   <img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="CC BY-SA 4.0">
@@ -163,7 +163,7 @@ Under the following conditions:
 
 ---
 
-## Acknowledgments
+##  Acknowledgments
 
 <p align="center">
   <a href="https://opensats.org">
@@ -179,7 +179,7 @@ OpenSats supports Bitcoin education in multiple languages, making it more access
 
 ---
 
-## Useful Links
+##  Useful Links
 
 <p align="center">
   <a href="https://areabitcoin.com.br">
@@ -200,5 +200,5 @@ OpenSats supports Bitcoin education in multiple languages, making it more access
 </p>
 
 <p align="center">
-  Made with love by <a href="https://areabitcoin.com.br">Area Bitcoin</a>
+  Made with  by <a href="https://areabitcoin.com.br">Area Bitcoin</a>
 </p>
