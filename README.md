@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Visuals/Logos/logo-bitcoin4all.png" alt="Bitcoin 4 All Logo" width="400">
+  <img src="Visuals/Logos/Logo.png" alt="Bitcoin 4 All Logo" width="400">
 </p>
 
 <h1 align="center">Bitcoin 4 All</h1>
@@ -185,13 +185,7 @@ A OpenSats apoia a educação sobre Bitcoin em múltiplos idiomas, tornando-a ma
   <a href="https://areabitcoin.com.br">
     <img src="https://img.shields.io/badge/Area_Bitcoin-Site-orange?style=for-the-badge" alt="Site">
   </a>
-  <a href="https://twitter.com/aaborges__">
-    <img src="https://img.shields.io/badge/Twitter-@aaborges__-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://youtube.com/@areabitcoin">
-    <img src="https://img.shields.io/badge/YouTube-Area_Bitcoin-red?style=for-the-badge&logo=youtube" alt="YouTube">
-  </a>
-</p>
+  </p>
 
 ---
 

@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 🌐 Area Bitcoin
+  - name: Area Bitcoin
     url: https://areabitcoin.com.br
-    about: Visite o site da Area Bitcoin para mais conteúdo
-  - name: 🐦 Twitter
-    url: https://twitter.com/aaborges__
-    about: Siga no Twitter para novidades
+    about: Visite o site da Area Bitcoin para mais conteudo
