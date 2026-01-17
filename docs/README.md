@@ -2,13 +2,11 @@
 
 **Free and open source Bitcoin course for everyone!**
 
-_Curso gratuito e de codigo aberto sobre Bitcoin para todos!_
-
 ***
 
 ## Choose Your Language / Escolha seu Idioma
 
-|   :brazil: Portugues   |     :us: English     |       :es: Espanol      |
+|         Portugues      |          English     |            Espanol      |
 | :--------------------: | :------------------: | :---------------------: |
 | [Comecar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
 
