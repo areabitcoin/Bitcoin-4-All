@@ -1,28 +1,17 @@
-﻿{
+{
   "title": "Bitcoin 4 All",
   "description": "Free and open source Bitcoin course for everyone",
   "author": "Area Bitcoin",
   "language": "en",
   "gitbook": ">=3.0.0",
+  "root": "./docs",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
   "links": {
     "sidebar": {
       "Area Bitcoin": "https://areabitcoin.co"
-    }
-  },
-  "plugins": [
-    "theme-default",
-    "search",
-    "fontsettings",
-    "sharing"
-  ],
-  "pluginsConfig": {
-    "theme-default": {
-      "showLevel": true
-    },
-    "sharing": {
-      "twitter": true,
-      "facebook": false,
-      "all": ["twitter"]
     }
   }
 }
