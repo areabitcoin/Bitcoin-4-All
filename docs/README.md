@@ -2,15 +2,15 @@
 
 **Free and open source Bitcoin course for everyone!**
 
-*Curso gratuito e de código aberto sobre Bitcoin para todos!*
+*Curso gratuito e de codigo aberto sobre Bitcoin para todos!*
 
 ---
 
 ## :world_map: Choose Your Language / Escolha seu Idioma
 
-| :brazil: Português | :us: English | :es: Español |
+| :brazil: Portugues | :us: English | :es: Espanol |
 |:------------------:|:------------:|:------------:|
-| [Começar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
+| [Comecar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
 
 ---
 
@@ -20,29 +20,25 @@
 
 ### What you will learn:
 
-| Topic |
-|:------|
-| :question: What is Bitcoin and why was it created |
-| :moneybag: Problems with fiat money |
-| :chart_with_upwards_trend: Why Bitcoin is better money |
-| :gear: How Bitcoin works (decentralization, blockchain, mining) |
-| :rocket: Why Bitcoin should continue to appreciate |
-| :shopping_cart: How to get bitcoin |
-| :shield: Debunking FUDs about Bitcoin |
-| :key: How to store Bitcoin safely |
-| :crown: Financial sovereignty through self-custody |
+- :question: What is Bitcoin and why was it created
+- :moneybag: Problems with fiat money
+- :chart_with_upwards_trend: Why Bitcoin is better money
+- :gear: How Bitcoin works (decentralization, blockchain, mining)
+- :rocket: Why Bitcoin should continue to appreciate
+- :shopping_cart: How to get bitcoin
+- :shield: Debunking FUDs about Bitcoin
+- :key: How to store Bitcoin safely
+- :crown: Financial sovereignty through self-custody
 
 ---
 
 ## :link: Links
 
-| | |
-|:---|:---|
-| :globe_with_meridians: **Website** | [areabitcoin.co](https://areabitcoin.co) |
-| :bird: **Twitter/X** | [@areabitcoin](https://x.com/areabitcoin) |
-| :tv: **YouTube** | [Area Bitcoin](https://youtube.com/@AreaBitcoin) |
-| :camera: **Instagram** | [@area.bitcoin](https://instagram.com/area.bitcoin) |
-| :octopus: **GitHub** | [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All) |
+- :globe_with_meridians: **Website**: [areabitcoin.co](https://areabitcoin.co)
+- :bird: **Twitter/X**: [@areabitcoin](https://x.com/areabitcoin)
+- :tv: **YouTube**: [Area Bitcoin](https://youtube.com/@AreaBitcoin)
+- :camera: **Instagram**: [@area.bitcoin](https://instagram.com/area.bitcoin)
+- :octopus: **GitHub**: [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All)
 
 ---
 
