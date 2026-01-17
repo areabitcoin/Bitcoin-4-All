@@ -182,6 +182,9 @@ OpenSats supports Bitcoin education in multiple languages, making it more access
 ## :link: Useful Links
 
 <p align="center">
+  <a href="https://areabitcoin.gitbook.io/bitcoin-4-all-book">
+    <img src="https://img.shields.io/badge/📖_GitBook-Bitcoin_4_All-blue?style=for-the-badge" alt="GitBook">
+  </a>
   <a href="https://areabitcoin.co">
     <img src="https://img.shields.io/badge/Area_Bitcoin-Website-orange?style=for-the-badge" alt="Website">
   </a>
