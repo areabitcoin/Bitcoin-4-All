@@ -1,19 +1,18 @@
-# 1 Aula 1 - O que é o Bitcoin e por que ele foi criado?
+# Aula 1 - O que é o Bitcoin e por que ele foi criado?
 
-## :movie_camera: Video da Aula
+### :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/6Ly0L8_9Pu8/maxresdefault.jpg)](https://www.youtube.com/watch?v=6Ly0L8_9Pu8)
 
-:point_right: **[Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=6Ly0L8_9Pu8)**
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=6Ly0L8_9Pu8)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/6Ly0L8_9Pu8?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Roteiro Completo
+### Roteiro Completo
 
-# 1- O que é o Bitcoin e por que ele foi criado?
+## 1- O que é o Bitcoin e por que ele foi criado?
 
 Há mais de 15 anos, o Bitcoin nasceu como uma ideia revolucionária, e desde então, ele passou de algo desconhecido para se tornar um dos temas mais comentados no mundo. Hoje, muita gente já ouviu falar de Bitcoin ou tem alguma opinião sobre ele. Mas, infelizmente, para muitos, ele ainda é visto apenas como uma coisa de gente nerd, um investimento arriscado ou algo que só serve para especulação financeira. Essa visão limitada acaba ignorando o verdadeiro propósito e o enorme potencial do Bitcoin: ser um dinheiro acessível pra todos.
 
@@ -23,10 +22,9 @@ Hoje, mais do que nunca, é importante entender como Bitcoin pode fazer diferen�
 
 Bitcoin não é só uma moeda e uma tecnologia, é também um convite pra gente repensar nossa relação com o dinheiro e como podemos construir um novo sistema financeiro mais livre, seguro e acessível pra todos.
 
-
 ![Slide 1](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-01.jpg)
 
-A maioria das pessoas quando pensa em dinheiro, logo imagina as notas de papel ou o saldo na conta do banco. Ou seja, a ideia de dinheiro que a maioria das pessoas entende  como verdadeira está diretamente ligada a algo controlado por terceiros, como bancos, corretoras ou valores criados por governos através dos bancos centrais nas notas de papel.
+A maioria das pessoas quando pensa em dinheiro, logo imagina as notas de papel ou o saldo na conta do banco. Ou seja, a ideia de dinheiro que a maioria das pessoas entende como verdadeira está diretamente ligada a algo controlado por terceiros, como bancos, corretoras ou valores criados por governos através dos bancos centrais nas notas de papel.
 
 O Bitcoin é diferente. Ele é um dinheiro digital que não depende de governos ou bancos, e você não precisa confiar nessas instituições que, ao longo da história, já falharam muitas vezes. Embora a ideia de um dinheiro digital possa parecer nova, na verdade ela é resultado de séculos de pesquisas, tentativas, erros e aprendizados.
 
@@ -36,20 +34,17 @@ Tesla e Henry Ford anteviram a criação de um dinheiro apoiado em energia que p
 
 Então perceba que Bitcoin, de certa forma, sempre esteve presente como uma ideia esperando a hora certa para se tornar realidade. Mas o que esses gênios do passado não sabiam era como exatamente esse dinheiro digital seria criado ou quais avanços tecnológicos o tornariam possível.
 
-
 ![Slide 2](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-02.jpg)
 
-Quem deu os primeiros passos na direção do Bitcoin foram os cypherpunks do passado. Desde os anos 70, esses criptógrafos já tentavam criar um dinheiro que pudesse ser usado na internet. Só que nenhum dos projetos funcionou como esperado. É por isso que se diz que Bitcoin não surgiu de uma hora para outra, ele é uma descoberta que estava pronta para acontecer. Bitcoin é resultado de 40 anos de pesquisas e tentativas anteriores. Diversos projetos ao longo do tempo pavimentaram o caminho para a criação do Bitcoin, cada um contribuindo com uma peça do quebra-cabeça que Satoshi Nakamoto finalmente montou  em 2008.
+Quem deu os primeiros passos na direção do Bitcoin foram os cypherpunks do passado. Desde os anos 70, esses criptógrafos já tentavam criar um dinheiro que pudesse ser usado na internet. Só que nenhum dos projetos funcionou como esperado. É por isso que se diz que Bitcoin não surgiu de uma hora para outra, ele é uma descoberta que estava pronta para acontecer. Bitcoin é resultado de 40 anos de pesquisas e tentativas anteriores. Diversos projetos ao longo do tempo pavimentaram o caminho para a criação do Bitcoin, cada um contribuindo com uma peça do quebra-cabeça que Satoshi Nakamoto finalmente montou em 2008.
 
 Por isso que muitas pessoas falam que Satoshi Nakamoto, o criador do Bitcoin, não inventou nada, mas sim descobriu o Bitcoin. Isso porque ele aprendeu com as falhas e sucessos desses projetos anteriores e esse conhecimento foi crucial para que Satoshi conseguisse criar algo que realmente funcionasse.
 
 Ok, mas então como Bitcoin surgiu?
 
-
 ![Slide 3](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-03.jpg)
 
-Os primeiros registros do Bitcoin começam com um email no dia 31 de outubro de 2008. Nesse dia, um cypherpunk anônimo chamado Satoshi nakamoto divulgou em uma lista de discussão sobre criptografia, que ele estava trabalhando em um artigo sobre um sistema de  dinheiro eletrônico totalmente ponto a ponto (P2P), ou seja, sem a necessidade de intermediários confiáveis.
-
+Os primeiros registros do Bitcoin começam com um email no dia 31 de outubro de 2008. Nesse dia, um cypherpunk anônimo chamado Satoshi nakamoto divulgou em uma lista de discussão sobre criptografia, que ele estava trabalhando em um artigo sobre um sistema de dinheiro eletrônico totalmente ponto a ponto (P2P), ou seja, sem a necessidade de intermediários confiáveis.
 
 ![Slide 4](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-04.jpg)
 
@@ -61,29 +56,27 @@ A palavra Bitcoin aparece apenas duas vezes no whitepaper: no título e no link 
 
 Satoshi também disponibilizou o whitepaper do bitcoin no site [bitcoin.org](https://bitcoin.org/pt_BR/), onde ele continua disponível até hoje, traduzido para o português e mais de 40 idiomas. Uma curiosidade é que o domínio bitcoin.org foi registrado em 18 de agosto de 2008, poucos meses antes da publicação do whitepaper, o que mostra como Satoshi já estava preparando o terreno para apresentar sua criação ao mundo.
 
-Geralmente é possível descobrir quem registrou e é o dono de um domínio, mas Satoshi pensou em tudo e manteve essa informação anônima. A decisão de Satoshi Nakamoto de permanecer no anonimato é um dos aspectos mais intrigantes do surgimento do Bitcoin. As  razões exatas por trás dessa escolha são desconhecidas, mas várias teorias foram levantadas. Até hoje ninguém sabe quem é Satoshi, se é uma pessoa ou um grupo de pessoas, e isso no fim das contas pouco importa. O fato do Bitcoin não ter um criador conhecido é na verdade algo positivo, porque reduz qualquer ruído entre sua vida pessoal e o Bitcoin. O anonimato de Satoshi ajudou o Bitcoin a crescer como um sistema verdadeiramente global, descentralizado e orgânico, sem a necessidade de depender ou estar atrelado a uma figura central.
+Geralmente é possível descobrir quem registrou e é o dono de um domínio, mas Satoshi pensou em tudo e manteve essa informação anônima. A decisão de Satoshi Nakamoto de permanecer no anonimato é um dos aspectos mais intrigantes do surgimento do Bitcoin. As razões exatas por trás dessa escolha são desconhecidas, mas várias teorias foram levantadas. Até hoje ninguém sabe quem é Satoshi, se é uma pessoa ou um grupo de pessoas, e isso no fim das contas pouco importa. O fato do Bitcoin não ter um criador conhecido é na verdade algo positivo, porque reduz qualquer ruído entre sua vida pessoal e o Bitcoin. O anonimato de Satoshi ajudou o Bitcoin a crescer como um sistema verdadeiramente global, descentralizado e orgânico, sem a necessidade de depender ou estar atrelado a uma figura central.
 
 Satoshi Nakamoto permaneceu por mais alguns anos trabalhando no código e trocando ideias com outros criptógrafos em torno do Bitcoin. Então, em abril de 2011, ele entregou o controle do site bitcoin.org, e repositório do bitcoin, para o desenvolvedor Gavin Andresen. Satoshi subiu no ombro de gigantes ao mesclar projetos cypherpunks do passado e ir mais longe ao tornar Bitcoin uma realidade.
 
 Bitcoin é o resultado da combinação de várias tecnologias. Separadamente, essas tecnologias não teriam as mesmas características e propriedades que tornam o Bitcoin único. É essa união que possibilitou a criação de algo tão revolucionário.
 
-
 ![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-05.jpg)
 
-A primeira tecnologia que Satoshi usou foi timestamps, carimbos de data e hora que criam uma linha do tempo (uma timechain) que não pode ser modificada.  Essa linha do tempo é essencial para garantir que os registros não possam ser alterados. Muita gente conhece essa linha do tempo como "blockchain", onde blocos de informações são conectados uns aos outros. Esses blocos registram as transações de forma imutável e na ordem em que elas acontecem, garantindo a integridade e a transparência do sistema.
+A primeira tecnologia que Satoshi usou foi timestamps, carimbos de data e hora que criam uma linha do tempo (uma timechain) que não pode ser modificada. Essa linha do tempo é essencial para garantir que os registros não possam ser alterados. Muita gente conhece essa linha do tempo como "blockchain", onde blocos de informações são conectados uns aos outros. Esses blocos registram as transações de forma imutável e na ordem em que elas acontecem, garantindo a integridade e a transparência do sistema.
 
 Satoshi também usou criptografia e algorítmos criptográficos, como a SHA-256, para que a rede funcionasse de forma segura e através de códigos e enigmas. Isso significa que apenas quem tem a "chave" correta, ou seja, só quem sabe a resposta desse enigma, pode mover fundos. A criptografia é uma tecnologia fundamental na rede Bitcoin como um todo.
 
-Além disso, Satoshi incorporou conceitos de rede P2P (peer to peer), onde qualquer pessoa pode rodar um node e se conectar à rede sem precisar pedir permissão para ninguém e é nesse princípio que tá a base da descentralização e da arquitetura de rede. Os nodes se conectam entre si para formar uma rede distribuída de verificação e armazenamento dos  registros das transações, sem depender de instituições ou intermediários. Essa arquitetura é o que garante a independência e a resiliência do sistema.
+Além disso, Satoshi incorporou conceitos de rede P2P (peer to peer), onde qualquer pessoa pode rodar um node e se conectar à rede sem precisar pedir permissão para ninguém e é nesse princípio que tá a base da descentralização e da arquitetura de rede. Os nodes se conectam entre si para formar uma rede distribuída de verificação e armazenamento dos registros das transações, sem depender de instituições ou intermediários. Essa arquitetura é o que garante a independência e a resiliência do sistema.
 
 Satoshi também usou prova de trabalho, que garante que não é possivel criar dinheiro do nada. Voce previsa provar para a rede que resolveu um problema, seguiu o mecanismo de consenso e que merece receber as moedas como recompensa por ter prestado um serviço á rede empregando o seu poder computacional. Não tem como falsificar prova de trabalho, e é isso que traz confiança pra rede. Ela assegura que as regras para a criação de cada bloco de informações foram seguidas de acordo com o consenso que toda a rede segue. Esse mecanismo é a base da integridade do Bitcoin.
 
 Satoshi estabeleceu um limite máximo de moedas que podem ser criadas: 21 milhões de unidades. Esse limite é alcançado por meio de um mecanismo chamado halving, em que a cada 4 anos em média a emissão de novas moedas cai pela metade até que o último bitcoin seja criado. Esse limite máximo é o que dá ao Bitcoin propriedades monetárias únicas, além das suas características digitais. Ele reflete conceitos econômicos fundamentais, como a escassez, garantindo que o Bitcoin não possa ser inflacionado de forma arbitrária, como acontece com as moedas emitidas por governos. Essa característica faz do Bitcoin uma reserva de valor sólida e previsível.
 
-Por fim, Satoshi também manteve todo o projeto do Bitcoin open source, ou seja, de código aberto e público. Isso significa que qualquer pessoa pode verificar, colaborar no seu desenvolvimento e até mesmo copiar o código. Essa decisão tornou o Bitcoin radicalmente transparente, algo que nenhum banco central ou sistema monetário tradicional oferece. A  transparência é o que permite verificação pública e livre acesso para qualquer pessoa em qualquer lugar do universo. Bitcoin é a rede mais acessível, inclusiva e aberta já criada, oferecendo oportunidades iguais para todos que quiserem participar.
+Por fim, Satoshi também manteve todo o projeto do Bitcoin open source, ou seja, de código aberto e público. Isso significa que qualquer pessoa pode verificar, colaborar no seu desenvolvimento e até mesmo copiar o código. Essa decisão tornou o Bitcoin radicalmente transparente, algo que nenhum banco central ou sistema monetário tradicional oferece. A transparência é o que permite verificação pública e livre acesso para qualquer pessoa em qualquer lugar do universo. Bitcoin é a rede mais acessível, inclusiva e aberta já criada, oferecendo oportunidades iguais para todos que quiserem participar.
 
 Antes de Satoshi ninguém tinha misturado todas essas tecnologias em um protocolo só. Na aula 4 sobre como Bitcoin funciona você vai entender melhor cada um desses pontos.
-
 
 ![Slide 6](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-06.jpg)
 
@@ -93,15 +86,13 @@ Esse primeiro bloco minerado no dia 3 de janeiro de 2009 é chamado de "bloco g�
 
 "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" - Chanceler à beira do segundo resgate aos bancos. Este é o título da capa do jornal britânico The Times do dia 03 de janeiro de 2009. Essa capa aqui:
 
-
 ![Slide 7](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-07.jpg)
 
 Ela mostra como a história do bitcoin está diretamente ligada às grandes crises globais recentes. Bitcoin surge justamente quando estoura a crise de 2008, como uma resposta à manipulação da economia e à centralização feita pelos bancos centrais e comerciais. A citação do jornal The Times não foi à toa: ela reforça a crítica ao sistema financeiro tradicional.
 
 Essa reportagem apontava que em 2009 o chanceler britânico iria resgatar pela segunda vez um banco falido. Isso nos dá várias pistas sobre os motivos que levaram Satoshi a criar o bitcoin e o que ele pensava sobre o sistema financeiro.
 
-Nas mensagens escritas nos fóruns da internet, Satoshi demonstrou o quanto tinha  profundo conhecimento sobre o funcionamento da economia e como ele enxergava o Bitcoin como uma alternativa completamente oposta ao sistema tradicional. Ele criou uma moeda descentralizada, que não pode ser confiscada, monopolizada ou desvalorizada por nenhum governo ou banco. 
-
+Nas mensagens escritas nos fóruns da internet, Satoshi demonstrou o quanto tinha profundo conhecimento sobre o funcionamento da economia e como ele enxergava o Bitcoin como uma alternativa completamente oposta ao sistema tradicional. Ele criou uma moeda descentralizada, que não pode ser confiscada, monopolizada ou desvalorizada por nenhum governo ou banco.
 
 ![Slide 8](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-08.jpg)
 
@@ -115,15 +106,13 @@ Bitcoin funcionou durante quase um ano e meio sem ter valor monetário algum, va
 
 O crescimento da rede Bitcoin foi totalmente orgânico porque não teve financiamento inicial, não teve participação de venture capital e não teve expectativa de lucro. Era um protocolo mantido por cypherpunks que estavam descobrindo como toda aquela pilha de códigos poderia funcionar e evoluir.
 
-E ao contrário de todos os outros fundadores de projetos de moedas digitais que surgiram depois, não se tem registros de que Satoshi tenha vendido sequer um Bitcoin.  Ele criou o Bitcoin e, depois de construir as bases do protocolo, desapareceu sem nunca realizar lucro. Satoshi deixou o Bitcoin como um legado de valor inestimável para a humanidade, sem levar nada em troca.
-
+E ao contrário de todos os outros fundadores de projetos de moedas digitais que surgiram depois, não se tem registros de que Satoshi tenha vendido sequer um Bitcoin. Ele criou o Bitcoin e, depois de construir as bases do protocolo, desapareceu sem nunca realizar lucro. Satoshi deixou o Bitcoin como um legado de valor inestimável para a humanidade, sem levar nada em troca.
 
 ![Slide 9](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-09.jpg)
 
 Desde então, o Bitcoin que inicialmente não valia nada, tem batido novas máximas a cada ciclo de valorização. Chegou a 99 mil dólares no momento que estou gravando essa aula e valorizou mais de 7 bilhões por cento em dólares desde 2010, quando começou a ser negociado e precificado pelas primeiras plataformas online.
 
 O preço do Bitcoin chama a atenção, desperta curiosidade, encantamento e ganância, mas na verdade é um reflexo do crescimento da adoção de um novo sistema financeiro. Pela primeira vez na história da humanidade, estamos testemunhando e documentando o nascimento de um dinheiro completamente digital, independente de governos e bancos. A grande valorização do Bitcoin reflete sua crescente demanda e com isso o preço também pode conta uma a história. Ele mostra os altos e baixos do Bitcoin, mas, acima de tudo, simboliza o impacto dessa tecnologia revolucionária ao longo do tempo.
-
 
 ![Slide 10](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-10.jpg)
 
@@ -139,20 +128,17 @@ Outro marco importante na história do Bitcoin aconteceu em outubro de 2013, qua
 
 Criada por Ross Ulbricht, a Silk Road tinha como objetivo ser um mercado verdadeiramente livre, onde os usuários pudessem negociar anonimamente qualquer coisa, se apoiando nos princípios de consentimento e privacidade. Foi um experimento ousado de um mercado sem restrições, onde as pessoas tinham liberdade para trocar bens e serviços sem interferência de governos ou corporações.
 
-
 ![Slide 11](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-11.jpg)
 
-A Silk Road oferecia centenas de produtos, equipamentos, serviços e até mesmo drogas.  Todos os produtos e quem trabalhava na plataforma era pago 100% em Bitcoin. Na época bitcoin valia algo em torno de 50 centavos de dólar. O objetivo era ser uma Amazon ou Ebay, só que totalmente livre e apoiado em Bitcoin.
+A Silk Road oferecia centenas de produtos, equipamentos, serviços e até mesmo drogas. Todos os produtos e quem trabalhava na plataforma era pago 100% em Bitcoin. Na época bitcoin valia algo em torno de 50 centavos de dólar. O objetivo era ser uma Amazon ou Ebay, só que totalmente livre e apoiado em Bitcoin.
 
-Porém o sucesso da plataforma chamou a atenção das autoridades. A Silk Road acabou sendo fechada, e seu fundador, Ross Ulbricht, foi preso e condenado à prisão perpétua. Isso porque, embora Ross tivesse boas intenções, a Silk Road rapidamente virou um mercado para negociação de drogas e produtos ilegais, ainda que tivessem regras internas que proibiam a comercialização desses itens. 
+Porém o sucesso da plataforma chamou a atenção das autoridades. A Silk Road acabou sendo fechada, e seu fundador, Ross Ulbricht, foi preso e condenado à prisão perpétua. Isso porque, embora Ross tivesse boas intenções, a Silk Road rapidamente virou um mercado para negociação de drogas e produtos ilegais, ainda que tivessem regras internas que proibiam a comercialização desses itens.
 
 Durante a operação, o governo americano apreendeu mais de 200 mil bitcoins da Silk Road, e com isso se tornou, ironicamente, um dos maiores detentores de Bitcoin no mundo. A sentença de Ross é vista como desproporcional, injusta e politicamente motivada, especialmente porque penas mais leves foram aplicadas em casos semelhantes.
 
-O caso de Ross também levantou um debate global sobre a responsabilidade de um proprietário de site pelo comportamento dos seus usuários. Apesar da familia do Ross ter conseguido levantar 1 milhão de dólares para pagar a fiança dele, juízes americanos não aprovaram a libertação dele mesmo assim. 
+O caso de Ross também levantou um debate global sobre a responsabilidade de um proprietário de site pelo comportamento dos seus usuários. Apesar da familia do Ross ter conseguido levantar 1 milhão de dólares para pagar a fiança dele, juízes americanos não aprovaram a libertação dele mesmo assim.
 
-
-!(slide 10 - de novo)[https://github.com/areabitcoin/Bitcoin-4-All/blob/16760f78e75a6c691e8ea53298261b36fdff5b60/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-10.jpg]
-Outro grande marco na história do Bitcoin foi o lançamento do whitepaper da Lightning Network, uma solução de segunda camada para pagamentos rápidos e baratos apoiada no Bitcoin. A rede lightning começou a rodar em 2017, após a atualização Segwit, permitindo que ele fosse usado como moeda no dia a dia, reduzindo custos de transação e aumentando a velocidade, sem sacrificar a segurança e a descentralização da rede principal.
+!(slide 10 - de novo)\[https://github.com/areabitcoin/Bitcoin-4-All/blob/16760f78e75a6c691e8ea53298261b36fdff5b60/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-10.jpg] Outro grande marco na história do Bitcoin foi o lançamento do whitepaper da Lightning Network, uma solução de segunda camada para pagamentos rápidos e baratos apoiada no Bitcoin. A rede lightning começou a rodar em 2017, após a atualização Segwit, permitindo que ele fosse usado como moeda no dia a dia, reduzindo custos de transação e aumentando a velocidade, sem sacrificar a segurança e a descentralização da rede principal.
 
 Em 2017, a atualização SegWit (Segregated Witness), foi uma das mudanças mais significativas no protocolo Bitcoin. Essa melhoria trouxe maior escalabilidade, segurança e flexibilidade para a rede. O SegWit reduziu o peso das transações, o que diminuiu as taxas e abriu caminho para o desenvolvimento da Lightning Network. A ativação do SegWit foi resultado de anos de debates e apesar de ser uma mudança significativa, ela não alterou as propriedades fundamentais do Bitcoin, já que foi implementada como um soft fork, garantindo compatibilidade com as regras anteriores do protocolo.
 
@@ -164,7 +150,6 @@ Já em 2023, o protocolo NOSTR começou a ganhar tração. Inspirado pelos princ
 
 Em 2024, dois grandes acontecimentos marcaram a história do Bitcoin. O primeiro foi o lançamento do primeiro ETF de Bitcoin nos EUA, que bateu recordes de negociação e crescimento, consolidando ainda mais o Bitcoin como um ativo financeiro mainstream. O segundo foi uma declaração histórica do então ex-presidente dos EUA, Donald Trump, que prometeu criar uma reserva estratégica de Bitcoin, destacando o reconhecimento global do Bitcoin como uma ferramenta econômica e estratégica.
 
-
 ![Slide 12](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-12.jpg)
 
 Em apenas 15 anos, o Bitcoin cresceu muito mais rápido do que qualquer empresa, commodity ou país. Ao mesmo tempo em que resgata propriedades monetárias milenares, ele tem registrado uma adoção exponencial, mais acelerada até do que a própria internet. É o que aparece nessa imagem: as barras cinza-escuro mostram o crescimento do Bitcoin, enquanto as barras cinza-claro representam a adoção da internet desde os anos 1990. Hoje, o Bitcoin já tem o mesmo número de usuários que a internet tinha em 1999.
@@ -173,34 +158,29 @@ E se a internet se transformou na principal ferramenta para acessar informação
 
 Mesmo crescendo mais rápido que a internet, Bitcoin ainda está nos primeiros estágios da sua adoção.
 
-
 ![Slide 13](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-13.jpg)
 
-O Gráfico do Abismo da Adoção é um modelo clássico usado para explicar como novas tecnologias são adotadas ao longo do tempo pelas pessoas. Ele divide os usuários em cinco grupos: inovadores, adotantes iniciais, maioria inicial, maioria tardia e retardatários. 
+O Gráfico do Abismo da Adoção é um modelo clássico usado para explicar como novas tecnologias são adotadas ao longo do tempo pelas pessoas. Ele divide os usuários em cinco grupos: inovadores, adotantes iniciais, maioria inicial, maioria tardia e retardatários.
 
-O ponto mais desafiador desse modelo é o "abismo" (ou chasm, em inglês), que aparece entre os adotantes iniciais e a maioria inicial. Esse "abismo" representa o momento crítico em que uma inovação precisa deixar de ser algo de nicho e se transformar em uma tecnologia amplamente aceita e usada no dia a dia. Muitas tecnologias nem chegam a  cruzar esse ponto do abismo.
+O ponto mais desafiador desse modelo é o "abismo" (ou chasm, em inglês), que aparece entre os adotantes iniciais e a maioria inicial. Esse "abismo" representa o momento crítico em que uma inovação precisa deixar de ser algo de nicho e se transformar em uma tecnologia amplamente aceita e usada no dia a dia. Muitas tecnologias nem chegam a cruzar esse ponto do abismo.
 
 No caso do Bitcoin, o "abismo" representa a transição entre aqueles que adotam o Bitcoin por ideologia, curiosidade ou interesses específicos (como inovadores e entusiastas do mercado) e a grande massa de usuários que só adotarão a tecnologia quando ela for percebida como segura, útil e fácil de usar. Bitcoin está nesse ponto crítico, no início do processo de cruzar o abismo.
 
-
 ![Slide 14](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-14.jpg)
 
-Inclusive, quando comparamos Bitcoin com outras classes de ativos, fica claro o quão pequeno ele ainda é e o enorme potencial de crescimento em capitalização de mercado,  conforme mais pessoas adotam bitcoin como ativo e como dinheiro.
+Inclusive, quando comparamos Bitcoin com outras classes de ativos, fica claro o quão pequeno ele ainda é e o enorme potencial de crescimento em capitalização de mercado, conforme mais pessoas adotam bitcoin como ativo e como dinheiro.
 
-Aqui nessa imagem vemos como Bitcoin tem apenas dois trilhões de dólares em capitalização de mercado, enquanto outras classes de ativos, como imóveis, ações e ouro,  tem dezenas ou centenas de trilhões de dólares. 
+Aqui nessa imagem vemos como Bitcoin tem apenas dois trilhões de dólares em capitalização de mercado, enquanto outras classes de ativos, como imóveis, ações e ouro, tem dezenas ou centenas de trilhões de dólares.
 
 Bitcoin é um novo tipo de ativo, de dinheiro e um novo sistema financeiro, descentralizado e open source. Se continuar nessa trajetória, Bitcoin pode alcançar ou até superar o valor de mercado de outras classes de ativos tradicionais.
-
 
 ![Slide 15](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-15.jpg)
 
 Mas o principal ponto é que Bitcoin tende a continuar valorizando porque é um dinheiro melhor.
 
-
 ![Slide 16](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-16.jpg)
 
 Para entender por que o Bitcoin é um dinheiro melhor, é importante olhar para a evolução do dinheiro ao longo da história e como ele foi perdendo algumas de suas propriedades fundamentais. Bitcoin tem o potencial de resgatar essas propriedades essenciais e transformar profundamente nossa relação com o dinheiro. Ele pode revolucionar a forma como economizamos, investimos e transacionamos, oferecendo uma alternativa que é transparente, resistente à manipulação e acessível para todos.
-
 
 ![Slide 17](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-17.jpg)
 
@@ -210,14 +190,13 @@ Na próxima aula, vamos explorar em detalhes esses problemas e você vai entende
 
 Até a próxima aula!
 
+***
 
----
+### Material Complementar
 
-##  Material Complementar
+* [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
+* [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201)
 
-- [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
-- [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201)
+***
 
----
-
-[ Anterior](pt/intro.md) | [Próxima ](pt/aula-2.md)
+[Anterior](pt/intro.md) | [Próxima](pt/aula-2.md)

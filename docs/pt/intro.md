@@ -1,21 +1,14 @@
-#  Bitcoin 4 All
+# Introdução
 
 Bem-vindo ao curso **Bitcoin 4 All**! Uma jornada completa, gratuita e de código aberto para entender Bitcoin do zero.
 
-##  Apresentação do Curso
+## Apresentação do Curso
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/pTgQ6Z_ozf0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Intro"></iframe></div>
+## Todos os Vídeos do Curso
 
+***
 
-
-##  Todos os Vídeos do Curso
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/pTgQ6Z_ozf0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Intro"></iframe></div>
-
-
----
-
-##  Roteiro Completo
+## Roteiro Completo
 
 Olá! Seja muito bem-vindo ao Bitcoin4All, um curso gratuito e open source criado pela Area Bitcoin.
 
@@ -27,60 +20,60 @@ Você vai perceber que Bitcoin é muito mais do que números na tela: é sobre l
 
 ### Como funciona o Bitcoin4All?
 
-Como o Bitcoin4All é open source, ele vai além de um simples curso. É uma ferramenta que você pode usar para ensinar outras pessoas, organizar encontros como meetups, criar seus próprios vídeos ou até personalizar os materiais para a sua realidade. Sob a licença Creative Commons BY-SA 4.0, você tem liberdade para adaptar tudo  desde que os créditos sejam dados ao Bitcoin4All da Area Bitcoin e com a condição de ser usado para fins educativos, nunca comerciais, beleza?
+Como o Bitcoin4All é open source, ele vai além de um simples curso. É uma ferramenta que você pode usar para ensinar outras pessoas, organizar encontros como meetups, criar seus próprios vídeos ou até personalizar os materiais para a sua realidade. Sob a licença Creative Commons BY-SA 4.0, você tem liberdade para adaptar tudo desde que os créditos sejam dados ao Bitcoin4All da Area Bitcoin e com a condição de ser usado para fins educativos, nunca comerciais, beleza?
 
 A gente acredita que o conhecimento sobre Bitcoin precisa ser universal e acessível a todos, porque ele é uma ferramenta poderosa para mudar vidas. Então não importa se você está começando agora ou já entende um pouco sobre o assunto, o Bitcoin4All é feito para que você se sinta parte dessa revolução.
 
----
+***
 
-##  Conteúdo Programático
+## Conteúdo Programático
 
 Nós preparamos um curso com **10 aulas**, cada uma com cerca de 10 minutos, para te guiar pelos principais conceitos e responder às dúvidas mais comuns sobre o Bitcoin.
 
-| Aula | Tema |
-|------|------|
-| 1 | O que é o Bitcoin e por que ele foi criado? |
-| 2 | Qual o problema do dinheiro atual? |
-| 3 | Por que o Bitcoin é um dinheiro melhor? |
-| 4 | Por dentro do Bitcoin: como ele funciona? |
-| 5 | Por que o Bitcoin deve continuar valorizando? |
-| 6 | Formas de ter Bitcoin: Exchange, P2P ou economias circulares |
-| 7 | Rebatendo mentiras (FUDs) sobre Bitcoin |
-| 8 | Por que fazer autocustódia e não deixar tudo na exchange ou banco? |
-| 9 | O que são e como usar carteiras de Bitcoin? |
-| 10 | Como sacar da Exchange e conquistar soberania financeira com o Bitcoin? |
+| Aula | Tema                                                                    |
+| ---- | ----------------------------------------------------------------------- |
+| 1    | O que é o Bitcoin e por que ele foi criado?                             |
+| 2    | Qual o problema do dinheiro atual?                                      |
+| 3    | Por que o Bitcoin é um dinheiro melhor?                                 |
+| 4    | Por dentro do Bitcoin: como ele funciona?                               |
+| 5    | Por que o Bitcoin deve continuar valorizando?                           |
+| 6    | Formas de ter Bitcoin: Exchange, P2P ou economias circulares            |
+| 7    | Rebatendo mentiras (FUDs) sobre Bitcoin                                 |
+| 8    | Por que fazer autocustódia e não deixar tudo na exchange ou banco?      |
+| 9    | O que são e como usar carteiras de Bitcoin?                             |
+| 10   | Como sacar da Exchange e conquistar soberania financeira com o Bitcoin? |
 
----
+***
 
-##  O que você pode fazer?
+## O que você pode fazer?
 
- **Aprenda**: assista ao curso no seu ritmo e descubra como o Bitcoin funciona, por que ele é importante e como proteger bem seus satoshis.
+**Aprenda**: assista ao curso no seu ritmo e descubra como o Bitcoin funciona, por que ele é importante e como proteger bem seus satoshis.
 
- **Compartilhe**: mostre esse material para amigos, família ou para aquele colega curioso que sempre te pergunta "o que é Bitcoin mesmo?".
+**Compartilhe**: mostre esse material para amigos, família ou para aquele colega curioso que sempre te pergunta "o que é Bitcoin mesmo?".
 
- **Ensine**: use o conteúdo para levar o Bitcoin adiante. Quem sabe você não organiza um meetup ou ajuda a formar uma nova geração de bitcoiners?
+**Ensine**: use o conteúdo para levar o Bitcoin adiante. Quem sabe você não organiza um meetup ou ajuda a formar uma nova geração de bitcoiners?
 
----
+***
 
-Todos os arquivos  vídeos, slides e outros materiais  estão disponíveis no site [areabitcoin.co](https://areabitcoin.co) e no [GitHub da Area Bitcoin](https://github.com/areabitcoin/Bitcoin-4-All). Você pode acessar tudo de forma prática e gratuita, seja para aprender, compartilhar ou ensinar.
+Todos os arquivos vídeos, slides e outros materiais estão disponíveis no site [areabitcoin.co](https://areabitcoin.co) e no [GitHub da Area Bitcoin](https://github.com/areabitcoin/Bitcoin-4-All). Você pode acessar tudo de forma prática e gratuita, seja para aprender, compartilhar ou ensinar.
 
 Estamos aqui para te ajudar a entender, adotar e espalhar essa ideia transformadora.
 
-**Pronto para começar? Então bora!** 
+**Pronto para começar? Então bora!**
 
----
+***
 
-##  Começar Agora
+## Começar Agora
 
-[Começar Aula 1 ](pt/aula-1.md)
+[Começar Aula 1](pt/aula-1.md)
 
----
+***
 
-##  Links
+## Links
 
--  [Area Bitcoin](https://areabitcoin.co)
-- :bird: [Twitter/X](https://x.com/areabitcoin)
-- :tv: [YouTube](https://youtube.com/@AreaBitcoin)
-- :camera: [Instagram](https://instagram.com/area.bitcoin)
+* [Area Bitcoin](https://areabitcoin.co)
+* :bird: [Twitter/X](https://x.com/areabitcoin)
+* :tv: [YouTube](https://youtube.com/@AreaBitcoin)
+* :camera: [Instagram](https://instagram.com/area.bitcoin)
 
-:cc: Conteúdo sob licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Conteúdo sob licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

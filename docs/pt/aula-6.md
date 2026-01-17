@@ -1,24 +1,22 @@
-# 6 Aula 6 - Por que Bitcoin deve continuar valorizando?
+# Aula 6 - Por que Bitcoin deve continuar valorizando?
 
-## :movie_camera: Video da Aula
+## :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/RIMKaC3xiQU/maxresdefault.jpg)](https://www.youtube.com/watch?v=RIMKaC3xiQU)
 
-:point_right: **[Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=RIMKaC3xiQU)**
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=RIMKaC3xiQU)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/RIMKaC3xiQU?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Roteiro Completo
+## Roteiro Completo
 
-#Roteiro Aula 6 - Por que Bitcoin deve continuar valorizando?
+## Aula 6 - Por que Bitcoin deve continuar valorizando?
 
 Você já escutou a frase "Bitcoin não tem topo porque fiat não tem fundo"? Bitcoin tende a continuar valorizando cada vez mais no longo prazo, mesmo com muita volatilidade. Isso porque todo mundo precisa e demanda por dinheiro sólido. Ninguém quer um dinheiro que perde valor ano após ano, certo?
 
 Além de ser um dinheiro sólido, Bitcoin consegue digitalizar a confiança. O que o mundo mais demanda é formas confiáveis de conservar energia e valor. Até antes do Bitcoin não havia certeza no sistema fiat que o dinheiro não seria diluído, modificado ou teria suas propriedades manipuladas. Bitcoin tende a continuar crescendo e sendo adotado porque trouxe certeza matemática para a economia.
-
 
 ![Slide 138](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-01.jpg)
 
@@ -32,13 +30,11 @@ Não existe nada, nenhum sistema financeiro no mundo que tenha um grau de previs
 
 A maioria das pessoas nunca se deparou com um dinheiro deflacionário, independente, incensurável e digital. No fim das contas Bitcoin é uma tecnologia monetária, um dinheiro que tem tecnologia e propriedades superiores. Por isso, o preço do Bitcoin reflete o processo de adoção dele.
 
-
 ![Slide 139](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-02.jpg)
 
 Tem a ver com a velocidade com que novas tecnologias são adotadas. Tecnologias mais antigas demoraram cerca de 100 anos para serem usadas por quase 100% da população, como o telefone, a luz e o carro. Essa demora para ter adoção, forma a conhecida curva em S de adoção, como aparece ali na linha da luz elétrica ou do telefone.
 
 Já novas tecnologias como a internet, celular e smartphones demoraram cerca de 10 a 20 anos para serem adotadas. A curva em S se transformou em uma curva em J ou em I, onde a adoção é vertical e mais rápida.
-
 
 ![Slide 140](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-03.jpg)
 
@@ -50,7 +46,6 @@ Jurrien Timmer que é o diretor da Global Macro da Fidelity Investments, postou 
 
 Ou seja, dependendo da demanda e comparando com a adoção de outras tecnologias do passado, dá pra ter uma ideia da velocidade de adoção e consequente valorização do bitcoin.
 
-
 ![Slide 142](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-05.jpg)
 
 Bitcoin já está dando sinais de como a adoção dele é mais rápida que outras tecnologias financeiras. O próprio ETF de Bitcoin quando lançado em 2024 fez em 8 meses o que o ETF de ouro demorou 19 anos para fazer: atingir 33 bilhões de dólares em valor de ativos sob gestão. Observa como Bitcoin atingiu essa marca em uma linha vertical, enquanto o ETF de ouro fez a tal curva em S clássica de tecnologias mais antigas.
@@ -59,27 +54,23 @@ Bitcoin tende a continuar valorizando porque ele é uma tecnologia financeira su
 
 Por isso que conforme Bitcoin é adotado, teorias de valorização começam a surgir.
 
-
 ![Slide 143](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-06.jpg)
 
-O modelo Stock-to-Flow (S2F) mede a escassez de um ativo ao calcular a relação entre o estoque atual (stock) e o fluxo anual de produção de novas unidades (flow). Ou seja, ele compara o quanto já foi produzido com o quanto ainda tem para produzir. Quanto maior o S2F, mais escasso o ativo é. Esse modelo foi originalmente usado para avaliar a escassez de metais preciosos como o ouro e a prata. 
-
+O modelo Stock-to-Flow (S2F) mede a escassez de um ativo ao calcular a relação entre o estoque atual (stock) e o fluxo anual de produção de novas unidades (flow). Ou seja, ele compara o quanto já foi produzido com o quanto ainda tem para produzir. Quanto maior o S2F, mais escasso o ativo é. Esse modelo foi originalmente usado para avaliar a escassez de metais preciosos como o ouro e a prata.
 
 ![Slide 144](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-07.jpg)
 
-No caso do Bitcoin, o modelo S2F ficou popular porque ele tem uma relação S2F maior e muito mais previsível que qualquer outro ativo. Foi questão de tempo até surgir um modelo que tenta projetar o preço do Bitcoin a partir do seu grau de escassez. Conhecido como PlanB, o criador do modelo S2F do Bitcoin argumenta que existe uma correlação histórica entre o aumento no S2F e o preço do Bitcoin, sugerindo que a escassez impulsiona a valorização. 
+No caso do Bitcoin, o modelo S2F ficou popular porque ele tem uma relação S2F maior e muito mais previsível que qualquer outro ativo. Foi questão de tempo até surgir um modelo que tenta projetar o preço do Bitcoin a partir do seu grau de escassez. Conhecido como PlanB, o criador do modelo S2F do Bitcoin argumenta que existe uma correlação histórica entre o aumento no S2F e o preço do Bitcoin, sugerindo que a escassez impulsiona a valorização.
 
-Porém, se por um lado o modelo é útil visualmente para entender a escassez crescente com os halvings e a dinâmica do Bitcoin ao longo dos ciclos, por outro não é um previsão de futuro do preço. Até porque o modelo foi modificado várias vezes e essa imagem na tela remonta a projeção inicial do criador. 
+Porém, se por um lado o modelo é útil visualmente para entender a escassez crescente com os halvings e a dinâmica do Bitcoin ao longo dos ciclos, por outro não é um previsão de futuro do preço. Até porque o modelo foi modificado várias vezes e essa imagem na tela remonta a projeção inicial do criador.
 
 Mas é importante lembrar que a escassez, a imutabilidade e a tendência de demanda crescente por um dinheiro que se valoriza são o que conduzem o Bitcoin para patamares cada vez maiores no longo prazo.
-
 
 ![Slide 145](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-08.jpg)
 
 A Ark Investments, uma outra gestora bem famosa globalmente por ter fundos com diversos tipos de tecnologia, também fez uma projeção de preço pro Bitcoin no início de 2023.
 
 Segundo o relatório deles, Bitcoin é uma oportunidade de longo prazo e que, apesar do ano de 2022 ter sido turbulento, bitcoin seguiu firme e forte. Seus fundamentos se fortaleceram e os hodlers desenvolveram a visão de longo prazo. O efeito contágio que aconteceu em 2022 com a falência da Celsius e FTX deixaram ainda mais evidente a proposta de valor do Bitcoin como descentralização e transparência. E mencionaram ainda que Bitcoin poderia passar de um milhão de dólares na próxima década.
-
 
 ![Slide 146](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-09.jpg)
 
@@ -91,28 +82,23 @@ No base case, o cenário mediano, Bitcoin teria um CAGR de 60% ao ano e um preç
 
 É a partir dessa perspectiva do Bitcoin absorvendo valor de outras classes de ativos que surgem vários cálculos que tratam Bitcoin como uma esponja financeira.
 
-
 ![Slide 147](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-10.jpg)
 
 As teorias de absorção são as teorias de que bitcoin vai sugar liquidez e valor que iria para outros ativos, conforme investidores toparem se expor cada vez mais a ele e inserir no portfólio. Essas teorias consideram Bitcoin uma esponja que aos poucos vai sugando liquidez do sistema fiat cheio de investimentos ruins e juros negativos.
 
-
 ![Slide 148](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-11.jpg)
 
-Segundo Jesse Meyers, Bitcoin pode capturar 25% da riqueza global e pode valer 10 milhões de dólares no futuro. <https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation>
+Segundo Jesse Meyers, Bitcoin pode capturar 25% da riqueza global e pode valer 10 milhões de dólares no futuro. [https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation](https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation)
 
 Ele postou isso no artigo "Bitcoin's Full Potential Valuation - o potencial total de valorização do bitcoin".
-
 
 ![Slide 149](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-12.jpg)
 
 Ele explica que bitcoin compete por liquidez com todos os ativos, como mostra essa imagem. Compete com ativos que perdem valor como veículos e produtos, compete com ativos inflacionários como as moedas fiat, compete com ativos escassos como ouro, imóveis e colecionáveis, compete com equities que engloba ativos escassos e também os que pagam retornos sobre crescimento. Bitcoin tende a crescer mais que todos, porque ele mistura tudo isso em um único ativo em estágio inicial de valorização e crescimento.
 
-
 ![Slide 150](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-13.jpg)
 
-Segundo levantamentos que o Jesse fez, bitcoin pode absorver 50% da capitalização de mercado do ouro, 5% da capitalização de mercado de colecionáveis, 5% do mercado de arte, 15% do mercado de ações, 15 % do mercado de imóveis, 30% dos títulos de governos e 30% do valor em dinheiro. O que poderia levar bitcoin a uma capitalização de mercado de 10 trilhões de dólares, aproximadamente 10 milhões de dólares por Bitcoin, ou, 50 milhões de reais por unidade de bitcoin. 
-
+Segundo levantamentos que o Jesse fez, bitcoin pode absorver 50% da capitalização de mercado do ouro, 5% da capitalização de mercado de colecionáveis, 5% do mercado de arte, 15% do mercado de ações, 15 % do mercado de imóveis, 30% dos títulos de governos e 30% do valor em dinheiro. O que poderia levar bitcoin a uma capitalização de mercado de 10 trilhões de dólares, aproximadamente 10 milhões de dólares por Bitcoin, ou, 50 milhões de reais por unidade de bitcoin.
 
 ![Slide 151](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-14.jpg)
 
@@ -122,23 +108,19 @@ Bitcoin tinha um market cap de 400 bilhões de dólares quando o Jesse fez esse 
 
 E agora alguns cálculos de padeiro clássicos que circulam na internet desde a época em que Hal Finney trocava mensagens com Satoshi Nakamoto.
 
-
 ![Slide 153](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-16.jpg)
 
-Nas trocas de email entre Hal Finney e Satoshi, eles chegaram a calcular quanto poderia valer uma unidade de bitcoin se ele absorvesse toda a riqueza do mundo. Na época, a riqueza do mundo era algo entre 100 a 300 trilhões de dólares. Dividindo isso por 21 milhões de unidades, daria cerca de 10 milhões de dólares por Bitcoin. 
-
+Nas trocas de email entre Hal Finney e Satoshi, eles chegaram a calcular quanto poderia valer uma unidade de bitcoin se ele absorvesse toda a riqueza do mundo. Na época, a riqueza do mundo era algo entre 100 a 300 trilhões de dólares. Dividindo isso por 21 milhões de unidades, daria cerca de 10 milhões de dólares por Bitcoin.
 
 ![Slide 154](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-17.jpg)
 
-Hoje a riqueza no mundo gira em torno de 900 trilhões de dólares, dividido por 21 milhões equivaleria a 40 milhões de dólares por unidade de bitcoin. Isso que eu nem estou  descontando os bitcoins perdidos, o que elevaria ainda mais a escassez e o valor do bitcoin nesse cálculo. 
-
+Hoje a riqueza no mundo gira em torno de 900 trilhões de dólares, dividido por 21 milhões equivaleria a 40 milhões de dólares por unidade de bitcoin. Isso que eu nem estou descontando os bitcoins perdidos, o que elevaria ainda mais a escassez e o valor do bitcoin nesse cálculo.
 
 ![Slide 155](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-18.jpg)
 
 Outra teoria que vem ganhando força é que bitcoin pode desmonetizar bonds, títulos de governos, pela queda na confiança neles. Conforme investidores e as pessoas perderem a confiança em governos, que eles podem pagar suas dívidas com credores e nas suas impressoras, é possível que a liquidez que iria para ativos de governos deixe de ir. Lembrando que títulos de governos são considerados os mais seguros e livres de risco. O que não é verdade, governos quebram o tempo todo no mundo.
 
 Como bitcoin é muito mais transparente, auditável, verificável e imutável que políticos é provável que as pessoas passem a confiar muito mais nele do que em governantes que agem de acordo com seus próprios interesses. É por isso que a Cathie Wood da Ark Investments e o Greg Foos que é gestor de risco tem falado sobre como bitcoin pode absorver valor dos bonds e até substituir os títulos no futuro.
-
 
 ![Slide 156](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-19.jpg)
 
@@ -148,18 +130,15 @@ O mercado de bonds, de títulos de governos, vale cerca de 400T de dólares, sã
 
 Isso apenas com uma pequena mudança de percepção de risco pelas pessoas. Se o mundo perceber que as fiat são uma bolha, isso pode acontecer ainda mais rápido.
 
-
 ![Slide 157](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-20.jpg)
 
 Michael Saylor, fundador da Microstrategy também projetou Bitcoin em três cenários diferentes: pessimista (bear), base ou otimista (bull). Nesse calculo ele projetou o preço do Bitcoin até 2045 caso ele absorvesse 2%, 7% ou 22% de valor de ativos globais. Segundo do Saylor, no pior cenário se Bitcoin absorver apenas 2% do valor que está em outras classes de ativos ele pode chegar a 3 milhões de dólares por BTC nos próximos 20 anos. No caso base chegaria a 13 milhões e no caso bullish chegaria a impressionantes 49 milhões de dólares por unidade.
 
 Por isso que olhar Bitcoin a 100k dólares nos patamares atuais parece extremamente barato quando comparado com o potencial projetado por vários estudos e cálculos.
 
-
 ![Slide 158](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-21.jpg)
 
-Até os simpsons já fizeram previsão de preço do bitcoin em um dos episódios onde passa um letreiro de um telejornal que dá a entender que o preço do bitcoin foi ao infinito. Mas é óbvio que essa projeção ninguém levou a sério, apesar dos Simpsons terem acertado várias já. 
-
+Até os simpsons já fizeram previsão de preço do bitcoin em um dos episódios onde passa um letreiro de um telejornal que dá a entender que o preço do bitcoin foi ao infinito. Mas é óbvio que essa projeção ninguém levou a sério, apesar dos Simpsons terem acertado várias já.
 
 ![Slide 159](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-22.jpg)
 
@@ -167,11 +146,9 @@ Essa previsão dos simpsons do bitcoin ao infinito é basicamente o que mostra o
 
 Por isso FOMO: fear of missing out, ou medo de perder a chance de comprar.
 
-
 ![Slide 160](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-23.jpg)
 
 Parece loucura, mas isso já aconteceu antes, é aquele ditado: a história não se repete mas ela rima. Na alemanha em 1914 com a hiperinflação do marco alemão, o ouro entrou em movimento parabólico vertical. Quando a moeda fiat da época colapsou, o ouro se valorizou igualzinho ao gráfico stock to fomo. Ou seja, bitcoin não precisa explodir em adoção para ter um gráfico como esse. Se as moedas fiat entrarem em hiperinflação, um a um cada país pode ter um gráfico como esse nas suas moedas locais, só que não mais em ouro, mas em bitcoin.
-
 
 ![Slide 161](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-24.jpg)
 
@@ -181,13 +158,11 @@ Parece loucura, mas isso já aconteceu antes, é aquele ditado: a história não
 
 Isso mostra como a volatilidade e as quedas não significam risco, mas sim grandes oportunidades de compra pra quem já está na mentalidade soberana e entende que no longo prazo Bitcoin deve permanecer crescendo em adoção e valor.
 
-
 ![Slide 162](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-25.jpg)
 
 É por causa do maior entendimento sobre bitcoin e tudo o que explicamos até agora que pessoas, empresas e países estão acumulando e se inserindo na industria do Bitcoin.
 
 Steve Wozniak (fundador da Apple), Stanley Druckenmiller (investidor renomado), Cathie Wood (gestora da Ark Investments), Robert Kiyosaki (autor do livro Pai Rico, Pai Pobre) e Jack Dorsey (fundador do Twitter, atual X), são exemplos de empreendedores em diferentes nichos que apoiam Bitcoin. Empresas como Microstrategy, Block, Tesla e o Rumble também inseriram Bitcoin nos seus caixas. Até países já possuem Bitcoin, seja comprando ou minerando como é o caso de El Salvador e o Butão, ou seja de forma indireta através de apreensões como é o caso dos EUA e China.
-
 
 ![Slide 163](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206/Sem%20ti%CC%81tulo-13-26.jpg)
 
@@ -199,14 +174,13 @@ No fim das contas Bitcoin é uma tendência global e de longo prazo. Se preparar
 
 Na próxima aula você vai aprender formas de ter Bitcoin e como começar a acumular.
 
+***
 
----
+## Material Complementar
 
-##  Material Complementar
+* [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
+* [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206)
 
-- [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
-- [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206)
+***
 
----
-
-[ Anterior](pt/aula-5.md) | [Próxima ](pt/aula-7.md)
+[Anterior](pt/aula-5.md) | [Próxima](pt/aula-7.md)

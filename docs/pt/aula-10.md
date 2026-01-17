@@ -1,19 +1,18 @@
-#  Aula 10 - Como sacar da exchange e ter soberania com seu Bitcoin?
+# Aula 10 - Soberania com seu Bitcoin
 
-## :movie_camera: Video da Aula
+### :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/cUTJOPAI0Wg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
-:point_right: **[Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=cUTJOPAI0Wg)**
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/cUTJOPAI0Wg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Roteiro Completo
+### Roteiro Completo
 
-# Roteiro Aula 10 - Como sacar da exchange e ter soberania com o seu Bitcoin?
+## Aula 10 - Como sacar da exchange e ter soberania com o seu Bitcoin?
 
 Bitcoin é um divisor de águas. Ele permite que qualquer pessoa faça a própria custódia do seu próprio patrimônio e possa movimentar quando e como bem entender sem que ninguém possa impedir isso. Nenhuma empresa ou governo pode impedir que você movimente o seu próprio dinheiro ou consiga tirar de você se você guarda com soberania.
 
@@ -22,7 +21,6 @@ Soberania é a palavra aqui. Você é o seu próprio banco. Mas para fazer isso 
 Na aula anterior você aprendeu o que são carteiras de Bitcoin e porque é importante guardar bem as seeds para você sempre ter acesso ao seu saldo. O próximo passo é rechear essa carteira com Bitcoin e começar a acumular para o futuro. Então nessa aula nós vamos considerar que você já tem bitcoin e quer enviar do endereço da exchange para o endereço da sua carteira.
 
 Mas antes de fazer isso na prática, vamos entender o que são endereços e como funciona uma transação na rede bitcoin.
-
 
 ![Slide 256](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-01.jpg)
 
@@ -34,13 +32,11 @@ A grande diferença entre seed e chave privada é que uma seed phrase (a lista d
 
 Os endereços são gerados a partir dessas chaves e eles são públicos. Quando você faz uma transação, eles aparecem na blockchain pra qualquer pessoa verificar a sua transação. Não é possível descobrir a seed e nem a chave privada a partir de um endereço, mesmo que ele esteja aparente na blockchain bitcoin. Mas se você não cuidar bem das seeds ou chaves privadas ai sim a pessoa vai ter acesso não só aos seus Bitcoin, mas a todas as chaves e endereços gerados por ela.
 
-
 ![Slide 257](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-02.jpg)
 
 Uma carteira pode gerar milhares de endereços diferentes a partir da chave pública. A função dela é gerar endereços. Inclusive uma das boas práticas com bitcoin é nunca reutilizar endereços. As carteiras tão sempre gerando novos endereços depois que você faz uma transação, para justamente ter mais privacidade e evitar a reutilização. Se você já usou uma carteira de bitcoin vai perceber que a cada transação o endereço muda, isso é de propósito. Afinal, depois de feita uma transação, os endereços ficam publicamente visíveis na blockchain e seria mais fácil rastrear saldos por associação.
 
 Em resumo a chave privada desbloqueia o direito do dono da carteira gastar, mexer, transacionar as moedas associadas àquela carteira. Como o nome diz, é privada e você não deve mostrar pra outras pessoas. Já o endereço é pra onde você vai enviar Bitcoin quando fizer uma transação. Ninguém pode adivinhar a sua chave privada a partir do seu endereço.
-
 
 ![Slide 258](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-03.jpg)
 
@@ -52,13 +48,9 @@ Lembrando que os seus bitcoin não ficam guardados dentro das carteiras. Eles es
 
 Mas então como funciona uma transação?
 
-
-
 ![Slide 259](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-04.jpg)
 
 Você abre a sua carteira, digita o valor que quer enviar, cola o endereço do recebedor e clica em enviar. Quando você clica em enviar, você está assinando a transação com a sua chave privada. É isso o que acontece por trás dos códigos da carteira.
-
-
 
 ![Slide 260](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-05.jpg)
 
@@ -70,28 +62,27 @@ Bom, agora que você já entendeu a teoria, vamos pra prática!
 
 Eu vou mostrar agora pra você como configurar uma carteira do zero, sacar Bitcoin da exchange para essa carteira e recuperar o saldo usando a seed phrase.
 
-Pra esse tutorial nós escolhemos usar a Sparrow Wallet ![https://sparrowwallet.com/], porque é uma carteira muito versátil e completa tanto para iniciantes quanto para usuários avançados. Ela é auto custodial, de código aberto e funciona muito bem como carteira coordenadora entre diversas marcas de carteiras hardware: jade, ledger, trezor, coldcard, seed signer, krux... enfim... praticamente todas as hardwares funcionam com a Sparrow. A diferença é que as carteiras que tem um software próprio como ledger e trezor, de qualquer forma pedem que você baixe o software ledger live ou o trezor suite para fazer as atualizações de firmware do dispositivo antes de conectar com a Sparrow.
+Pra esse tutorial nós escolhemos usar a Sparrow Wallet !\[https://sparrowwallet.com/], porque é uma carteira muito versátil e completa tanto para iniciantes quanto para usuários avançados. Ela é auto custodial, de código aberto e funciona muito bem como carteira coordenadora entre diversas marcas de carteiras hardware: jade, ledger, trezor, coldcard, seed signer, krux... enfim... praticamente todas as hardwares funcionam com a Sparrow. A diferença é que as carteiras que tem um software próprio como ledger e trezor, de qualquer forma pedem que você baixe o software ledger live ou o trezor suite para fazer as atualizações de firmware do dispositivo antes de conectar com a Sparrow.
 
-Ela também oferece recursos como criar multisigs, fazer transações air gapped, PSBT, gerenciar e consolidar UTXO, possibilidades que focam em aumentar segurança e privacidade da carteira. Lembrando então que a Sparrow é uma carteira apenas de desktop, não tem um aplicativo para celulares nem IOS e nem Android. Eu vou deixar o link aqui na tela para você baixar e também uma lista com outras carteiras para você testar e ver qual você se adapta melhor. 
+Ela também oferece recursos como criar multisigs, fazer transações air gapped, PSBT, gerenciar e consolidar UTXO, possibilidades que focam em aumentar segurança e privacidade da carteira. Lembrando então que a Sparrow é uma carteira apenas de desktop, não tem um aplicativo para celulares nem IOS e nem Android. Eu vou deixar o link aqui na tela para você baixar e também uma lista com outras carteiras para você testar e ver qual você se adapta melhor.
 
-Vamos começar configurando a Sparrow. O primeiro passo é baixar a Sparrow e instalar o software. 
-
+Vamos começar configurando a Sparrow. O primeiro passo é baixar a Sparrow e instalar o software.
 
 (vídeo tutorial Sparrow)
 
-Aí é só abrir a Sparrow e clicar em "new wallet" para criar uma nova carteira. 
+Aí é só abrir a Sparrow e clicar em "new wallet" para criar uma nova carteira.
 
-Agora é só escolher um nome personalizado para essa carteira, vou digitar "btc4all tutorial" e clicar em "create wallet". 
+Agora é só escolher um nome personalizado para essa carteira, vou digitar "btc4all tutorial" e clicar em "create wallet".
 
 Essa é a página inicial da Sparrow. Observa como a coluna da esquerda tá cinza e só as configurações estão em azul. Significa que ela está zerada e é preciso criar uma carteira, importar ou conectar uma para que você consiga acompanhar saldos, receber e enviar Bitcoin.
 
-Ali em "settings" mostra o tipo de configuração: single sig. Essa configuração significa que você precisa de apenas uma chave para assinar as transações dessa carteira e apenas uma lista de palavras para recuperar o saldo. Abaixo aparece o tipo de script e mais alguns detalhes técnicos. 
+Ali em "settings" mostra o tipo de configuração: single sig. Essa configuração significa que você precisa de apenas uma chave para assinar as transações dessa carteira e apenas uma lista de palavras para recuperar o saldo. Abaixo aparece o tipo de script e mais alguns detalhes técnicos.
 
 Observa como no campo keystore aparecem quatro caixas com diferentes opções. Essas são formas de usar a Sparrow. Você pode conectar o seu dispositivo hardware wallet na Sparrow e movimentar os saldos através dela. Você pode criar uam carteira air gapped em que você nunca precisa plugar o dispositivo no computador para assinar as transações. Você pode criar do zero ou importar uma carteira que você já tenha e usar a Sparrow como uma hot wallet ou você pode criar uma carteira watch only, para apenas acompanhar o saldo e não movimentar nada.
 
-Eu vou clicar em "New or imported software wallet" para criar uma carteira do zero e te mostrar como funciona a criação das chaves. 
+Eu vou clicar em "New or imported software wallet" para criar uma carteira do zero e te mostrar como funciona a criação das chaves.
 
-Aqui aparecem algumas formas de criar as palavras de recuperação da carteira. Eu vou clicar na primeira opção Mnemonic Words em "use 24 words". 
+Aqui aparecem algumas formas de criar as palavras de recuperação da carteira. Eu vou clicar na primeira opção Mnemonic Words em "use 24 words".
 
 Aqui aparece a lista de palavras vazias. Vou clicar em "Generate new" para a carteira gerar as minhas palavras.
 
@@ -105,7 +96,6 @@ E depois em "import keystore".
 
 Feito. Os dados da seed que eu gerei e todas as chaves foram importados. Agora é só clicar em "Apply" no canto direito inferior da tela. A carteira vai perguntar se eu quero criar uma senha para proteger a carteira caso alguém tenha acesso ao meu computador. Eu vou clicar "no password", sem senha, mas é indicado que você tenha uma senha para ter mais uma camada de segurança na sua carteira.
 
-
 Observa agora como a coluna da esquerda de repente ficou azul. Quer dizer que agora a carteira está pronta para receber Bitcoin, enviar e gerenciar endereços.
 
 Bom, agora eu vou mostrar como você vai enviar Bitcoin para essa carteira e recuperar ela para testar se está tudo certo antes de enviar valores maiores. É importante fazer isso para você identificar se está tudo funcionando direitinho antes de enviar todo o seu hodl para essa carteira.
@@ -114,24 +104,19 @@ Eu vou clicar em "receive", receber.
 
 E vou copiar esse código que aparece no campo "address". Esse aqui é o meu endereço na rede Bitcoin. E vou mostrar como você vai enviar Bitcoin aqui pra essa carteira recém criada. Pra isso eu vou sacar Bitcoin da exchange. Vou usar a Coinbase apenas como exemplo, mas o mecanismo é o mesmo em outras plataformas.
 
-
 Bom, aqui eu tenho 43 dólares em Bitcoin, cerca de 260 reais, e vou sacar esse valor da corretora.
 
 Pra isso eu vou clicar na grade no canto esquerdo da tela.
 
-
 Depois clicar em "send", enviar.
-
 
 Vou colar o endereço bitcoin da Sparrow, que eu já tinha copiado, aqui nesse campo no topo da página.
 
 Vou selecionar Bitcoin.
 
-
 Depois selecionar pela rede Bitcoin. Todas as outras redes não são Bitcoin, cuidado pra não confundir.
 
 Agora vou Inserir o valor que eu quero sacar e clicar em preview para ver se as informações estão corretas.
-
 
 Tudo certo aqui.
 
@@ -175,20 +160,19 @@ Essa é a maravilha do Bitcoin, como é open source você pode recuperar o seu s
 
 Agora que você já passou por todas as aulas do Bitcoin4All, você está pronto para colocar a mão na massa, começar a acumular e a desbravar o mundo do Bitcoin.
 
-Espero que você tenha gostado do Bitcoin4All e que este tenha sido apenas o começo da sua jornada de aprendizado, afinal, Bitcoin não é apenas uma tecnologia, é um universo de  conceitos que une economia, criptografia, redes descentralizadas e inovação contínua. A cada dia, novos desenvolvimentos e ideias surgem, desafiando nossas noções tradicionais de dinheiro e soberania.
+Espero que você tenha gostado do Bitcoin4All e que este tenha sido apenas o começo da sua jornada de aprendizado, afinal, Bitcoin não é apenas uma tecnologia, é um universo de conceitos que une economia, criptografia, redes descentralizadas e inovação contínua. A cada dia, novos desenvolvimentos e ideias surgem, desafiando nossas noções tradicionais de dinheiro e soberania.
 
 Compartilhe esse curso com amigos, parentes e outras pessoas que também tem curiosidade e querem aprender sobre Bitcoin.
 
 Até uma próxima e Opt Out!
 
+***
 
----
+### Material Complementar
 
-##  Material Complementar
+* [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
+* [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010)
 
-- [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
-- [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010)
+***
 
----
-
-[ Anterior](pt/aula-9.md) | [Próxima ](pt/intro.md)
+[Anterior](pt/aula-9.md) | [Próxima](pt/intro.md)

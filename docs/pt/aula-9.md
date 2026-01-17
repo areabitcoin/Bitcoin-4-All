@@ -1,41 +1,36 @@
-# 9 Aula 9 - Qual a melhor forma de guardar Bitcoin e o que são carteiras?
+# Aula 9 - Carteiras e como guardar Bitcoin
 
-## :movie_camera: Video da Aula
+### :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/cUTJOPAI0Wg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
-:point_right: **[Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=cUTJOPAI0Wg)**
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/cUTJOPAI0Wg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Roteiro Completo
+### Roteiro Completo
 
-# Roteiro Aula 9 - Qual a melhor forma de guardar Bitcoin e o que são carteiras?
+## Aula 9 - Qual a melhor forma de guardar Bitcoin e o que são carteiras?
 
 Por que guardar Bitcoin é tão importante? Se você está começando agora no Bitcoin, essa pergunta faz muito sentido! É normal pensar: "Ué, não é só comprar e esperar o preço subir?" E aí vem a surpresa: também tem que aprender a guardar.
 
 Mas relaxa, guardar Bitcoin não é nenhum bicho de sete cabeças! Mas sim uma parte fundamental para garantir que, daqui a alguns anos, todo o esforço de hoje vai valer a pena e seus Bitcoin ainda estarão com você, seguros e intocados.
 
-
 ![Slide 236](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-01.jpg)
 
 Bitcoin funciona de maneira diferente dos bancos e do sistema financeiro tradicional, pois ele permite que você seja de verdade o dono do seu próprio dinheiro, sem depender de mais ninguém, muito menos de bancos. Isso é algo poderoso e é o oposto de como a maioria das pessoas guarda o seu próprio dinheiro hoje em dia.
 
-No sistema financeiro tradicional, o dinheiro que você tem na conta bancária não está exatamente sob o seu controle. Quem cuida dele, na prática, é o banco, que faz isso sob a promessa de que o SEU dinheiro vai estar seguro com eles. 
-
+No sistema financeiro tradicional, o dinheiro que você tem na conta bancária não está exatamente sob o seu controle. Quem cuida dele, na prática, é o banco, que faz isso sob a promessa de que o SEU dinheiro vai estar seguro com eles.
 
 ![Slide 237](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-02.jpg)
 
-Mas a história tem provado que o dinheiro no banco não está no banco, não é seu e não é dinheiro de verdade. Isso porque os bancos não tem o dinheiro dos clientes: se todo mundo que tem conta bancária resolver sacar o seu próprio dinheiro, os bancos quebram. Eles não suportariam movimentos de saques em massa. 
-
+Mas a história tem provado que o dinheiro no banco não está no banco, não é seu e não é dinheiro de verdade. Isso porque os bancos não tem o dinheiro dos clientes: se todo mundo que tem conta bancária resolver sacar o seu próprio dinheiro, os bancos quebram. Eles não suportariam movimentos de saques em massa.
 
 ![Slide 238](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-03.jpg)
 
 É o que aconteceu na crise bancária em 2023 nos EUA em que bancos quebraram quando clientes correram para sacar com medo da falência desses intermediários. Até o Credit Suisse teve que ser resgatado pelo UBS, senão iria falir. A história tá repleta de provas de como bancos não tem o dinheiro das pessoas caso todos precisem sacar seus saldos de uma hora pra outra.
-
 
 ![Slide 239](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-05.jpg)
 
@@ -59,25 +54,23 @@ Outro caso foi na crise bancária do Chipre em 2013. Os bancos fecharam as porta
 
 Isso significa que, se você tinha 200.000 euros no banco, poderia acordar com apenas 140.000 ou até menos, sem aviso prévio e sem chance de recuperar o que foi tomado. Essa medida foi chamada de bail-in, onde o ônus da crise recaiu sobre a população que tinha dinheiro nos bancos.
 
-Situações como essa deixam claro que, no sistema financeiro tradicional, o dinheiro no banco nunca está 100% sob o seu controle. Com o Bitcoin, por outro lado, você não precisa depender de bancos ou governos para proteger sua riqueza. 
+Situações como essa deixam claro que, no sistema financeiro tradicional, o dinheiro no banco nunca está 100% sob o seu controle. Com o Bitcoin, por outro lado, você não precisa depender de bancos ou governos para proteger sua riqueza.
 
 Esses exemplos mostram que quando o sistema financeiro trava ou entra em colapso, quem acaba pagando o preço são as pessoas comuns, que acreditaram que seu dinheiro estava seguro nessas empresas ou instituições.
 
-
 ![Slide 242](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-08.jpg)
 
-E o dinheiro que você deixa no banco não é dinheiro de verdade. É fiat, é um cubo de gelo sem propriedades monetárias que derrete de valor. Bitcoin é dinheiro de verdade, tem propriedades monetárias sólidas e tende a valorizar ao longo do tempo. Como você não precisa de ninguém pra armazenar, ele devolve às pessoas o controle sobre seu próprio dinheiro. Mas junto com essa liberdade vem também responsabilidades. 
+E o dinheiro que você deixa no banco não é dinheiro de verdade. É fiat, é um cubo de gelo sem propriedades monetárias que derrete de valor. Bitcoin é dinheiro de verdade, tem propriedades monetárias sólidas e tende a valorizar ao longo do tempo. Como você não precisa de ninguém pra armazenar, ele devolve às pessoas o controle sobre seu próprio dinheiro. Mas junto com essa liberdade vem também responsabilidades.
 
 Bitcoin é um ativo ao portador, o que significa que só quem tem as chaves privadas que dão acesso ao saldo pode movimentá-lo. Diferente do sistema tradicional, onde os bancos guardam o seu dinheiro (e decidem o que você pode ou não fazer com ele), no Bitcoin, você é o único responsável. Se perder suas chaves, perde o acesso ao seu saldo para sempre.
 
-Por isso, proteger seu Bitcoin é garantir que ninguém, além de você, vai ter acesso às suas chaves e, consequentemente, ao seu patrimônio. É um poder enorme! 
+Por isso, proteger seu Bitcoin é garantir que ninguém, além de você, vai ter acesso às suas chaves e, consequentemente, ao seu patrimônio. É um poder enorme!
 
 ![Slide 243](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-09.jpg)
 
 Com Bitcoin pela primeira vez na história o seu dinheiro é inacessível para terceiros. Só você pode movimentar. É por isso que fazer a própria custódia é a melhor forma de guardar Bitcoin. Quando você faz isso, você elimina as vulnerabilidades de confiar em terceiros que podem falhar. Seja porque não cuidaram bem ou porque queriam meter a mão no dinheiro alheio propositalmente.
 
 A verdadeira liberdade financeira está de volta nas suas mãos. Então por que não usar esse superpoder que bitcoin oferece, não é mesmo?
-
 
 ![Slide 244](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-10.jpg)
 
@@ -95,7 +88,6 @@ E não foi só a Mt. Gox. Casos mais recentes, como o colapso da FTX, mostram qu
 
 A lição é simples: deixar seus Bitcoin numa corretora é pedir pra jogar com a sorte. O melhor é tirar eles de lá e guardar você mesmo, porque quando você cuida das suas chaves, você cuida do seu dinheiro.
 
-
 ![Slide 246](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-12.jpg)
 
 A FTX foi um dos maiores exemplos do porque não deixar Bitcoin em exchanges. Em 2022, de um dia pro outro, ela revelou ser uma fraude gigantesca. Milhares de clientes perderam o que tinham e estão até hoje brigando na justiça pra tentar recuperar seus fundos. E sabe o pior? Esses processos podem levar anos, e muita gente pode nunca mais ver o dinheiro de volta.
@@ -108,7 +100,6 @@ O último ponto do por que a auto custódia é a melhor forma de guardar bitcoin
 
 Durante a guerra entre a Ucrânia e a Rússia, muitas contas bancárias foram congeladas. Mas quem tinha bitcoin guardado de forma segura conseguiu atravessar fronteiras e levar seu dinheiro junto.
 
-
 ![Slide 248](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-14.jpg)
 
 Teve até o caso de um refugiado que conseguiu viajar para a Polônia com 2 mil dólares em bitcoin, armazenados num simples pendrive. Se não fosse pelo Bitcoin em auto custódia esse refugiado de guerra nunca teria conseguido levar valor nenhum, afinal as contas de todos os cidadãos foram bloqueadas. Coletes a prova de balas, capacetes e mantimentos só conseguiram ser entregues para proteger a população porque doações foram feitas em Bitcoin para quem estava na linha de frente. Enquanto isso, o dinheiro no sistema bancário estava fechado e inacessível para a população local.
@@ -117,16 +108,15 @@ No fim das contas, auto custódia é a única forma de assegurar que seus bitcoi
 
 Ok. agora que você já entendeu que tirar Bitcoin da exchange é importante, vem a dúvida: "onde exatamente eu guardo os meus Bitcoin"?
 
-
 ![Slide 249](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-15.jpg)
 
 A forma mais segura de guardar Bitcoin é na sua própria carteira, ou wallet em inglês.
 
-Existem diversos tipos de carteiras e todas elas cumprem com exatamente a mesma função que é armazenar as suas chaves que permitem movimentar o seu saldo em Bitcoin. Dispositivos dedicados são carteiras que armazenam as chaves offline, fora do computador ou celular, e tem o objetivo de oferecer maior segurança para quem quer guardar Bitcoin pro longo prazo. 
+Existem diversos tipos de carteiras e todas elas cumprem com exatamente a mesma função que é armazenar as suas chaves que permitem movimentar o seu saldo em Bitcoin. Dispositivos dedicados são carteiras que armazenam as chaves offline, fora do computador ou celular, e tem o objetivo de oferecer maior segurança para quem quer guardar Bitcoin pro longo prazo.
 
-Existem também as carteiras de celular, computador ou tablet. São programas de computador ou aplicativos de celular que armazenam as suas chaves. Como elas estão sempre online são carteiras de uso no dia a dia, para transações menores e que precisam de praticidade. Como esses dispositivos no geral ficam sempre conectados à internet e interagindo com outros ambientes digitais, acabam ficando mais suscetíveis a ataques hacker. Por isso esse tipo de carteira não é indicado para guardar grandes quantidades de Bitcoin ou valores que você quer guardar para o futuro com maior segurança. 
+Existem também as carteiras de celular, computador ou tablet. São programas de computador ou aplicativos de celular que armazenam as suas chaves. Como elas estão sempre online são carteiras de uso no dia a dia, para transações menores e que precisam de praticidade. Como esses dispositivos no geral ficam sempre conectados à internet e interagindo com outros ambientes digitais, acabam ficando mais suscetíveis a ataques hacker. Por isso esse tipo de carteira não é indicado para guardar grandes quantidades de Bitcoin ou valores que você quer guardar para o futuro com maior segurança.
 
-O mais incrível é que Bitcoin é informação e informação você pode armazenar em qualquer lugar. Por isso que você pode ter uma carteira de Bitcoin impressa numa folha de papel (uma paper wallet), gravada em um pedaço de metal ou até mesmo decorar essas informações e transformar o seu cérebro em uma carteira de Bitcoin. 
+O mais incrível é que Bitcoin é informação e informação você pode armazenar em qualquer lugar. Por isso que você pode ter uma carteira de Bitcoin impressa numa folha de papel (uma paper wallet), gravada em um pedaço de metal ou até mesmo decorar essas informações e transformar o seu cérebro em uma carteira de Bitcoin.
 
 Cada tipo de carteira tem uma funcionalidade, mas nem todas são indicadas para todas as situações. Então cabe a você escolher qual tipo de carteira usar em cada momento.
 
@@ -136,14 +126,11 @@ Mas tem uma ironia aquiÔÇª.
 
 As carteiras de Bitcoin não tem Bitcoin! Parece piada mas não é! Bitcoin não é armazenado nas carteiras, eles estão sempre na blockchain (ou timechain) e nunca saem dela. O que a carteira faz é armazenar e proteger as chaves que dão acesso ao saldo e permitem mover Bitcoin de um endereço pro outro. Eles estão sempre em um endereço na rede e não dentro do aplicativo ou dispositivo.
 
-
-!(Slide 250[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-17.jpg
-As carteiras são como uma chaveiro digital que armazena os códigos que autorizam transações com o seu saldo, comprovando criptograficamente que você é o verdadeiro dono desse saldo e pode movimentar. Assim como num chaveiro você pode ter diversas chaves que abrem diversas portas de diferentes lugares, na sua carteira digital suas chaves dão acesso a diversos tipos de saldos e operações. É por isso que sua carteira digital funciona como um chaveiro digital.
-
+!(Slide 250\[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-17.jpg As carteiras são como uma chaveiro digital que armazena os códigos que autorizam transações com o seu saldo, comprovando criptograficamente que você é o verdadeiro dono desse saldo e pode movimentar. Assim como num chaveiro você pode ter diversas chaves que abrem diversas portas de diferentes lugares, na sua carteira digital suas chaves dão acesso a diversos tipos de saldos e operações. É por isso que sua carteira digital funciona como um chaveiro digital.
 
 ![Slide 251](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-18.jpg)
 
-Quando você configura uma carteira pela primeira vez, ela vai gerar uma sequência de palavras para você, como esta aqui na tela. Essas palavras são conhecidas como frases-semente, ou seed phrase. São palavras de recuperação da sua carteira. Com elas você pode recuperar seu saldo em qualquer outro dispositivo ou aplicativo, mesmo que seu dispositivo original quebre, seja perdido ou destruído por algum infortúnio inesperado. 
+Quando você configura uma carteira pela primeira vez, ela vai gerar uma sequência de palavras para você, como esta aqui na tela. Essas palavras são conhecidas como frases-semente, ou seed phrase. São palavras de recuperação da sua carteira. Com elas você pode recuperar seu saldo em qualquer outro dispositivo ou aplicativo, mesmo que seu dispositivo original quebre, seja perdido ou destruído por algum infortúnio inesperado.
 
 É por isso que você precisa ter cuidado com essas palavras, são elas que recuperam seu saldo e permitem que você mova seu BTC. Por isso é importante anotar com cuidado, de forma legível, na ordem exata em que elas aparecem e guardar em um local seguro onde só você sabe onde está. Se você armazenar bem suas palavras, sempre vai ter acesso ao seu Bitcoin, mas se não cuidar bem e outra pessoa encontrar, ela vai poder movimentar o seu saldo e pegar seus bitcoin pra ela.
 
@@ -151,20 +138,19 @@ Quando você configura uma carteira pela primeira vez, ela vai gerar uma sequên
 
 Muitas pessoas que começam a acumular Bitcoin acham um pouco arcaico manter as palavras em um pedaço de papel, mas a vantagem de manter suas palavras-semente escritas no papel ou em um material mais resistente como o metal é que esse tipo de backup reduz drasticamente as chances de hacks ou de alguém ter acesso digital ao seu Bitcoin.
 
-Papel ou metal são ÔÇ£tecnologiasÔÇØ antigas que ninguém consegue hackear, porque eles estão sempre offline. Além disso, qualquer pessoa pode escrever uma lista de palavras num pedaço de papel. 
+Papel ou metal são ÔÇ£tecnologiasÔÇØ antigas que ninguém consegue hackear, porque eles estão sempre offline. Além disso, qualquer pessoa pode escrever uma lista de palavras num pedaço de papel.
 
-Bitcoin é informação, você pode até memorizar suas palavras e levar seu Bitcoin para onde quiser em sua mente. Se essas informações estiverem armazenadas em um arquivo de computador, em uma captura de tela do seu celular ou em uma mensagem do WhatsApp, é mais fácil para um invasor roubar seus fundos. Não porque ele invadiu sua carteira, mas porque você deixou essas informações muito mais expostas do que num pedaço de papel que só você tem acesso. É muito mais difícil alguém acessar remotamente. Isso só é possível se a pessoa descobrir onde você deixou essa informação, roubando o papel onde estão anotadas suas palavras-sementes. 
+Bitcoin é informação, você pode até memorizar suas palavras e levar seu Bitcoin para onde quiser em sua mente. Se essas informações estiverem armazenadas em um arquivo de computador, em uma captura de tela do seu celular ou em uma mensagem do WhatsApp, é mais fácil para um invasor roubar seus fundos. Não porque ele invadiu sua carteira, mas porque você deixou essas informações muito mais expostas do que num pedaço de papel que só você tem acesso. É muito mais difícil alguém acessar remotamente. Isso só é possível se a pessoa descobrir onde você deixou essa informação, roubando o papel onde estão anotadas suas palavras-sementes.
 
 ![Slide 253](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-20.jpg)
 
-A expressão frase-semente é intencional. É a partir dela que você pode gerar milhares de diferentes chaves privadas e endereços de bitcoin para diferentes saldos. Da mesma forma que a partir de uma semente na terra é possível fazer crescer uma árvore que se ramifica em milhares de galhos com frutos. 
+A expressão frase-semente é intencional. É a partir dela que você pode gerar milhares de diferentes chaves privadas e endereços de bitcoin para diferentes saldos. Da mesma forma que a partir de uma semente na terra é possível fazer crescer uma árvore que se ramifica em milhares de galhos com frutos.
 
 As palavras-semente também facilitam o armazenamento e evitam erros na auto custódia. Isso porque elas representam um código grande, com letras e números aleatórios e que são muito fáceis de errar na hora de anotar. Já as palavras são mais intuitivas, têm significados, você pode até decorar e são mais fáceis de escrever e com menos chance de erro.
 
-
 ![Slide 254](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-21.jpg)
 
-Só que sempre surge sempre a pergunta: ÔÇ£E se alguém adivinhar as minhas palavras? Conseguiria roubar meu Bitcoin?ÔÇØ A resposta é: não. É absurdamente difícil simplesmente adivinhar a sua frase-semente. 
+Só que sempre surge sempre a pergunta: ÔÇ£E se alguém adivinhar as minhas palavras? Conseguiria roubar meu Bitcoin?ÔÇØ A resposta é: não. É absurdamente difícil simplesmente adivinhar a sua frase-semente.
 
 O número de todas as combinações de seeds que podem existir é tão grande que é quase incompreensível. Existem mais combinações possíveis de palavras-semente de 24 palavras do que átomos no universo! É improvável adivinhar as suas palavras, praticamente impossível.
 
@@ -172,13 +158,13 @@ O número de todas as combinações de seeds que podem existir é tão grande qu
 
 ![Slide 255](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-22.jpg)
 
-Ok, agora que você já entendeu que carteiras dão soberania para que você armazene, receba e envie bitcoin como, quando e onde você bem entender, que elas geram palavras que permitem que você recupere o saldo mesmo se a carteira original pifarÔÇª por último vamos ver quais os tipos de carteira e em que situação usar cada uma delas. 
+Ok, agora que você já entendeu que carteiras dão soberania para que você armazene, receba e envie bitcoin como, quando e onde você bem entender, que elas geram palavras que permitem que você recupere o saldo mesmo se a carteira original pifarÔÇª por último vamos ver quais os tipos de carteira e em que situação usar cada uma delas.
 
 Existem duas categorias principais de carteiras: carteiras frias (cold wallets) e carteiras quentes (hot wallets).
 
 As carteiras quentes são chamadas assim porque estão sempre online conectadas à internet o tempo todo. Esse tipo de carteira é muito prática de usar e movimentar saldos, então quando você precisa fazer uma transação é só abrir e fazer o pagamento ou a transferência. Geralmente elas são aplicativos ou programas que você instala no seu computador, geram as chaves, armazenam e assinam transações. É só abrir o app e usar. Mas essa praticidade traz alguns riscos, esse tipo de carteira é mais vulnerável a ataques hackers ao dispositivo, ou seja, tem uma superfície de ataque maior. Carteiras quentes são recomendadas para armazenar pequenas quantias em bitcoin, aquelas que você vai movimentar no dia a dia.
 
-Já as carteiras frias (cold wallets), são chamadas assim porque ficam offline a maior parte do tempo, o que reduz a superfície de ataque. Esse tipo de carteira é mais segura e funciona como um cofre digital, por isso é recomendada para guardar seu saldo em bitcoin para o futuro. Nessa categoria estão dispositivos de hardware que são fabricados especificamente para gerar e armazenar as suas chaves offline. Alguns modelos permitem que você faça transações air gapped e nunca se conecte com a internet, ou seja, você consegue assinar as transações sem plugar a carteira na internet. São cold wallets as carteiras de papel, hardware wallets, metal wallets e até as brain wallets que são totalmente  analógicas, basta o seu cérebro e uma boa memória para guardar as palavras.
+Já as carteiras frias (cold wallets), são chamadas assim porque ficam offline a maior parte do tempo, o que reduz a superfície de ataque. Esse tipo de carteira é mais segura e funciona como um cofre digital, por isso é recomendada para guardar seu saldo em bitcoin para o futuro. Nessa categoria estão dispositivos de hardware que são fabricados especificamente para gerar e armazenar as suas chaves offline. Alguns modelos permitem que você faça transações air gapped e nunca se conecte com a internet, ou seja, você consegue assinar as transações sem plugar a carteira na internet. São cold wallets as carteiras de papel, hardware wallets, metal wallets e até as brain wallets que são totalmente analógicas, basta o seu cérebro e uma boa memória para guardar as palavras.
 
 As cold wallets são indicadas para guardar valores que você quer proteger para o futuro. Configurar uma cold wallet e usar é o primeiro passo de segurança, mas se você quiser avançar nesse tópico, existe por exemplo a criação de multisigs, assinaturas air gapped, passphrase e outros recursos que você pode aprender como uma continuidade do Bitcoin4All.
 
@@ -188,14 +174,13 @@ Um último ponto importante ao escolher uma carteira é optar por carteiras auto
 
 Então nessa aula você aprendeu porque fazer a própria custódia é importante, o que são carteiras de Bitcoin e como elas funcionam. Na próxima aula vamos dar o primeiro passo na direção da sua soberania e mostrar como configurar uma carteira do zero e sacar os seus Bitcoin da exchange. Até a próxima aula!
 
+***
 
----
+### Material Complementar
 
-##  Material Complementar
+* [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
+* [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209)
 
-- [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
-- [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209)
+***
 
----
-
-[ Anterior](pt/aula-8.md) | [Próxima ](pt/aula-10.md)
+[Anterior](pt/aula-8.md) | [Próxima](pt/aula-10.md)
