@@ -1,96 +1,180 @@
-# Class 6: Why Bitcoin Should Continue to Appreciate
+# :six: Class 6 - Class 6
 
-[:arrow_left: Class 5](class-5.md) | [Class 7 :arrow_right:](class-7.md)
-
----
-
-##  Video Lesson
+## :movie_camera: Video
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086488561?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 6"></iframe></div>
 
 ---
 
-##  Lesson Content
+## :page_facing_up: Full Script
 
-### The Technology Adoption Curve
+# Script Class 6 - Why should Bitcoin continue to appreciate?
 
-New technologies follow a predictable adoption pattern:
+Have you ever heard the phrase "Bitcoin has no top because fiat has no bottom"? Bitcoin tends to continue appreciating in value over the long term, even with intense volatility. That's because sound money is part of everyone's wants and needs. Nobody wants money that loses value year after year, right?
 
-1. **Innovators** (2.5%) - Tech enthusiasts, early Bitcoiners
-2. **Early Adopters** (13.5%) - Visionaries who see potential
-3. **Early Majority** (34%) - Pragmatists following proof
-4. **Late Majority** (34%) - Skeptics who eventually adopt
-5. **Laggards** (16%) - Last to adopt, often forced by necessity
+In addition to being sound money, Bitcoin manages to digitize trust. What the world demands most is a reliable way of conserving energy and value. Even before Bitcoin the fiat system didn't provide any certainty that its money would not be diluted, modified or have its properties manipulated. Bitcoin will continue to grow and be adopted because it has brought mathematical certainty to the economy.
 
-Bitcoin is currently transitioning from **Early Adopters to Early Majority**the most explosive growth phase.
 
-### Network Effects: Metcalfe's Law
+![Slide 139](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-01.jpg)
+This calculation summarizes the economic incentives behind Bitcoin. The total number of coins that can exist is the sum of the number of bitcoin mined in each block. For every 210,000 blocks that the network processes, which happens on average every 4 years, this reward per block is cut in half. A total of 32 halvings are projected to take place and this progression ends at block 6,930,000, when all bitcoin will have been mined.
 
-**Metcalfe's Law** states that a network's value is proportional to the square of its users:
+This gives a result of: 20,999,000 bitcoin and 97,690,000 satoshis. The so-called 21 million limit is a mental rounding off so as not to make it difficult to speak or explain.
 
-> Value = n²
+This calculation is poetic. It is mathematical and historical proof that Bitcoin is the first mathematically scarce, predictable and programmed money from launch until the last satoshi is mined. This means that Bitcoin is the first money in which the rate of monetary inflation and the speed with which new currencies are created are both known decades in advance. Instead of increasing like the case of fiat currencies, monetary inflation in Bitcoin decreases. This is why prices tend to fall in relation to Bitcoin and why Bitcoin rises in value in relation to fiat money.
 
-This means:
-- 10 users = 100 value
-- 100 users = 10,000 value
-- 1,000 users = 1,000,000 value
+There is no other financial system in the world with a degree of predictability like this. So you tell me: how much is that level of trust worth?
 
-Bitcoin benefits from **powerful network effects**:
-- More users  more value
-- More value  more users
-- This creates a virtuous cycle
+Most people have never come across deflationary, independent, uncensorable and digital money. At the end of the day, Bitcoin is a monetary technology. It is money with superior technology and properties. That's why Bitcoin's price reflects its adoption process.
 
-### Supply & Demand Economics
+![Slide 140](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-02.jpg)
+It has to do with the speed with which new technologies are adopted. Older technologies took around 100 years to be used by almost 100% of the population, such as the telephone, electricity and the car. This delay in adoption forms what is known as the S-curve of adoption, as it appears in the electricity or telephone lines.
 
-Bitcoin's price is determined by basic economics:
+New technologies, such as the Internet, cell phones and smartphones, took around 10 to 20 years to be adopted. The S-curve has become a J-curve or an I-curve, where adoption is vertical and faster.
 
-**Supply (Fixed)**
-- 21 million maximum
-- New issuance decreasing every 4 years
-- Many coins permanently lost
 
-**Demand (Growing)**
-- Institutional adoption (ETFs, corporations)
-- Nation-state adoption (El Salvador, others)
-- Individual savings/investment
-- Inflation hedge demand
+![Slide 141](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-03.jpg)
+That's why Bitcoin tends to be adopted more like new technologies, even though it disrupts centuries of money being monopolized by centralized entities. This image shows where we are at the speed of adoption using the performance of ETFs recently launched in the US. The speed of adoption was vertical and higher than any other ETF launched previously. Bitcoin is being adopted in J or I, just like the Internet or cell phone users. That's what this study by Fidelity shows.
 
-When demand increases against fixed supply, price **must** rise.
 
-### Institutional Adoption
+![Slide 142](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-04.jpg)
+Jurien Timmer, head of Global Macro at Fidelity Investments, posted this graph comparing Bitcoin's appreciation models if it followed the speed of adoption of the cell phone or the Internet. If Bitcoin keeps up with the speed of cell phones, its price would move in a pattern similar to the blue line, hitting 239,000 dollars in 2025 and passing one million in 2030. If it keeps up with the speed of the Internet, it would be slower, reaching 100,000 dollars in 2025 and 343,000 dollars in 2023. The most interesting thing is that Bitcoin has remained in the middle: it went to 100,000 dollars in 2024 while Fidelity's projection was between 80,000 dollars if it followed the path of the Internet and 150,000 dollars if it followed the adoption of cell phones.
 
-Major institutions now hold Bitcoin:
-- **MicroStrategy** - 200,000+ BTC
-- **Tesla** - 10,000+ BTC
-- **Bitcoin ETFs** - 1,000,000+ BTC
-- **Countries** - El Salvador, others accumulating
+In other words, depending on demand and compared to the adoption of other technologies in the past, you can get an idea of the speed of adoption and consequent appreciation of Bitcoin.
 
-This is just the beginning.
+
+![Slide 143](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-05.jpg)
+Bitcoin is already showing signs of faster adoption than other financial technologies. The Bitcoin ETF itself, when launched in 2024, did in 8 months what the gold ETF took 19 years to do: reach 33 billion dollars in value of assets under management. Notice how Bitcoin reached this mark in a vertical line, while the gold ETF made the classic S-curve of older technologies.
+
+Bitcoin tends to continue appreciating because it is a superior financial technology with high demand and limited supply, and should continue to do so. After all, the world is just beginning to learn about Bitcoin and to accumulate it.
+
+That's why, as Bitcoin is adopted, theories of valuation begin to emerge.
+
+
+![Slide 144](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-06.jpg)
+The Stock-to-Flow (S2F) model measures the scarcity of an asset by calculating the ratio between the current stock (stock) and the annual production flow of new units (flow). It compares how much has already been produced with how much remains to be produced. The higher the S2F, the scarcer the asset. This model was originally used to assess the scarcity of precious metals such as gold and silver.┬á
+
+
+![Slide 145](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-07.jpg)
+In the case of Bitcoin, the S2F model has become popular because Bitcoin has a higher and much more predictable S2F ratio than any other assets. It was only a matter of time before a model emerged trying to project the price of Bitcoin based on its degree of scarcity. Known as PlanB, the creator of Bitcoin's S2F model argues that there is a historical correlation between the increase in S2F and the price of Bitcoin, suggesting that scarcity drives appreciation.┬á
+
+However, while on the one hand this model is visually useful for understanding the growing scarcity deriving from halvings and the dynamics of Bitcoin throughout the cycles, on the other hand it is not a predictor of the price's future. The model has been modified several times as well. This image on the screen dates back to the creator's initial projection.┬á
+
+It's also important to remember that scarcity, immutability and the trend of increasing demand for money that appreciates in value are the factors driving Bitcoin to ever greater heights in the long term.
+
+
+![Slide 146](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-08.jpg)
+Ark Investments, another globally famous manager for managing funds with different types of technology, has also made a price projection for Bitcoin in early 2023.
+
+According to their report, Bitcoin is a long-term opportunity: they stated that, although 2022 was a turbulent year, Bitcoin remained strong and steady. Its foundations have strengthened and the hodlers have developed a long-term vision. The contagion effect that happened in 2022 with the bankruptcy of Celsius and FTX made Bitcoin's value proposition of decentralization and transparency even more evident. They also mentioned that Bitcoin could pass one million dollars in the next decade.
+
+
+![Slide 147](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-09.jpg)
+In their calculations, they established 3 possible scenarios: the bear case, the base case and the bull case. All of these by the year 2030. They consider these scenarios if Bitcoin absorbs part of the liquidity of other markets, such as gold, institutional investments, as a censorship-resistant asset, as a currency of emerging countries in crisis, as part of the national treasury, as a remittance asset and as an asset on company balance sheets. Shocking how Bitcoin can be part of all these categories. Nothing else can fulfill all these roles...
+
+So let's see what their estimations are. If Bitcoin has a CAGR, an average compound annual growth rate, of 40% per year by 2030, it could be worth 258,000 dollars per unit. Believe me, this is a pessimistic growth: it was stated in the bear case category.
+
+In the base case, the median scenario, Bitcoin would have a CAGR of 60% per year and a price in 2030 of 682,000 dollars per unit. In the bull case, the optimistic scenario, the CAGR would be approximately 75% per year and the price would be 1.48 million dollars per Bitcoin.
+
+It is from this perspective of Bitcoin's absorption of value from other asset classes that various calculations arise considering Bitcoin a sort of financial sponge.
+
+
+![Slide 148](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-10.jpg)
+Absorption theories are theories stating that Bitcoin will suck up liquidity and value that would otherwise go to other assets, as investors become increasingly exposed to it and insert it into their portfolios. These theories consider Bitcoin to be a sponge that gradually sucks liquidity out of the fiat system, which is full of bad investments and negative interest rates.
+
+
+![Slide 149](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-11.jpg)
+According to Jesse Meyers, Bitcoin could capture 25% of global wealth and could be worth 10 million dollars in the future. [onceinaspecies](https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation)
+
+He posted this in the article "Bitcoin's Full Potential Valuation".
+
+
+![Slide 150](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-12.jpg)
+He explains that Bitcoin competes for liquidity with all assets, as this image shows. It competes with assets that lose value, such as vehicles and products, as well as with inflationary assets, such as fiat currencies. It competes with scarce assets, such as gold, real estate and collectibles, and with equities which include scarce assets. It also competes with assets that pay returns on growth. Bitcoin tends to outgrow all other assets, since it mixes all of this into a single asset at an early stage of appreciation and growth.
+
+
+![Slide 151](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-13.jpg)
+According to Jesse's research, Bitcoin could absorb 50% of the market capitalization of gold, 5% of the market capitalization of collectibles, 5% of the art market, 15% of the stock market, 15% of the real estate market, 30% of government bonds and 30% of the value of cash. This could take Bitcoin to a market capitalization of 10 trillion dollars, approximately 10 million dollars per bitcoin.┬á
+
+
+![Slide 152](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-14.jpg)
+Bitcoin had a market cap of 400 billion dollars when Jesse made this calculation in February 2023. If Bitcoin absorbed half the market capitalization of gold, it could multiply by 30 times in value. If it reaches its full potential, the appreciation could be 500 times.
+
+
+![Slide 153](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-15.jpg)
+And now, some freestyle math circulating on the Internet since the days when Hal Finney exchanged messages with Satoshi Nakamoto.
+
+
+![Slide 154](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-16.jpg)
+In email exchanges between Hal Finney and Satoshi, they even calculated how much a unit of bitcoin could be worth if it absorbed all the world's wealth. At the time, the world's wealth was somewhere between 100 and 300 trillion dollars. Dividing this into 21 million units, that would be around 10 million dollars per Bitcoin.┬á
+
+
+![Slide 155](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-17.jpg)
+Today, the world's wealth is around 900 trillion dollars. Divided by 21 million, it would be equivalent to 40 million dollars per bitcoin unit. I'm not even discounting lost bitcoin, which would further increase the scarcity and value of a single bitcoin in this calculation.┬á
+
+
+![Slide 156](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-18.jpg)
+Another theory that has been gaining traction is that Bitcoin could demonetize bonds due to a drop in confidence in them. As institutional investors and individuals lose confidence in governments and their money printers, no longer believing that the governments can pay their debts to creditors, it is possible that the liquidity that would go into government assets might stop in its tracks. Remember that government bonds are considered the safest and most risk-free investment. Which is not true. Governments break down all the time in the world.
+
+Since Bitcoin is much more transparent, auditable, verifiable and immutable than politicians, it is likely that people will come to trust it much more than rulers who act according to their own interests. That's why Cathie Wood of Ark Investments and the risk manager Greg Foss have been talking about how Bitcoin could absorb value from bonds and even replace bonds in the future.
+
+
+![Slide 157](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-19.jpg)
+According to Greg Foss, governments and the fiat system are backed by debt and this indebtedness could be the trigger for a massive loss of confidence. In this situation, Bitcoin would be seen as insurance against the government itself.
+
+The bond market, government bonds, is worth around 400T dollars. It refers to the bonds given as collateral for debts between banks and governments. If 10% of this value comes out of these bonds and goes into Bitcoin, the market cap of Bitcoin could go up to 40 trillion dollars. 40 trillion divided by 21 million units would give 2 million dollars per Bitcoin.
+
+All that with just a small change in people's perception of risk. If the world realizes that fiat currencies are a bubble, this could happen even faster.
+
+
+![Slide 158](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-20.jpg)
+Michael Saylor, founder of MicroStrategy, also projected Bitcoin in three different scenarios: bear, base or bull. In this calculation, he projected the price of Bitcoin by 2045 if it absorbed 2%, 7% or 22% of the value of global assets. According to Saylor's analysis, in the worst-case scenario, if Bitcoin absorbs just 2% of the value stored in other asset classes, it could reach 3 million dollars per bitcoin in the next 20 years. In the base case, it would reach 13 million per unit. In the bullish case, it would reach an impressive 49 million dollars per unit.
+
+That's why looking at Bitcoin at 100,000 dollars, at current levels, seems extremely cheap when compared to the potential projected by various studies and calculations.
+
+
+![Slide 159](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-21.jpg)
+Even the Simpsons have already made Bitcoin price predictions. In one of the episodes, a TV news program plays a sign suggesting that the price of Bitcoin has gone to infinity. It's obvious that no one took this projection seriously, even though the Simpsons have already gotten several real-life situations quite right.┬á
+
+
+![Slide 160](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-22.jpg)
+This Simpsons prediction of Bitcoin going to infinity is basically what the Stock To Fomo chart shows. The Stock to Fomo chart is a rapid adoption chart and a satire of Stock To Flow. Imagine if the world went into desperation mode and decided to buy Bitcoin in a hurry? The result would be this graph. A massive vertical and upward tick.
+
+That's why it talks about FOMO: Fear Of Missing Out; in this case, fear of missing the chance of buying.
+
+
+![Slide 161](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-23.jpg)
+It sounds crazy, but it's happened before. It's that old saying: history doesn't repeat itself, but it does rhyme. In Germany, in 1914, with the hyperinflation of the German mark, gold went into a vertical parabolic movement. When the fiat currency of the time collapsed, gold appreciated just like the Stock To Fomo chart. In other words: Bitcoin doesn't need to explode in adoption to have a chart like this. If fiat currencies go into hyperinflation, every country could have a chart like this in their local currencies, just no longer in gold, but in Bitcoin.
+
+
+![Slide 162](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-24.jpg)
+That's why it's only now that traditional fiat investors are beginning to realize that Bitcoin's volatility isn't necessarily a bad or dangerous thing. Just as its value often drops sharply, its recovery is much faster than any traditional asset. It also doesn't melt in value permanently like fiat currencies do.
+
+This is what is shown in this image, in which Fidelity, over a period of 2 years, compared Bitcoin, at the bottom of the list, with various other traditional assets, such as fiat currencies, gold, shares, bonds, etc. Bitcoin had the biggest drop, but also the biggest returns.
+
+This shows how volatility and sudden drops do not mean risk, but rather great buying opportunities for those who are already in the sovereign mindset and understand that in the long term Bitcoin should continue to grow in adoption and value.
+
+
+![Slide 163](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-25.jpg)
+It's because of the greater understanding of Bitcoin and all other aspects we've explained so far on Bitcoin 4 All that people, companies and countries are accumulating and inserting themselves into the Bitcoin industry.
+
+Steve Wozniak (founder of Apple), Stanley Druckenmiller (renowned investor), Cathie Wood (manager of Ark Investments), Robert Kiyosaki (author of the book "Rich Dad, Poor Dad") and Jack Dorsey (founder of Twitter, now X), are examples of entrepreneurs in different niches who support Bitcoin. Companies such as MicroStrategy, Block, Tesla and Rumble have also added Bitcoin to their balance sheet. Even countries already have Bitcoin, either by buying or mining it, as is the case in El Salvador and Bhutan, or even indirectly through seizures, as is the case in the USA and China.
+
+
+![Slide 164](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-26.jpg)
+Bitcoin should continue to appreciate in value because people are looking for reliable money that doesn't lose value and is predictable. That's why, despite its volatility, Bitcoin's price chart shows an upward trend, also reflecting its ever-increasing adoption.
+
+In this lesson you've seen why Bitcoin should continue to appreciate in the long term. We also introduced you to calculations and models for future price projections. This lesson probably gave you FOMO, right? But it's important to note that we saw theses and projections. There's really no way of knowing in the short term what will happen with Bitcoin. Anyone who says they know is lying to you. You can only prepare for all scenarios, both up and down, and keep your feet on the ground.
+
+Ultimately, Bitcoin is a global, long-term trend. Preparing today is easier than regretting not getting involved in 10- or 30-years' time. In the next lesson you'll learn how to get Bitcoin and how to start accumulating it. See you there.
+
 
 ---
 
-##  Slides
+## :books: Additional Resources
 
-![Slide 01](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-01.jpg)
-
-![Slide 02](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-02.jpg)
-
-![Slide 03](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-03.jpg)
-
-![Slide 04](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-04.jpg)
-
-![Slide 05](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%206/slide-05.jpg)
+- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
+- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%206)
 
 ---
 
-##  Key Takeaways
-
-1. **Bitcoin is in the early adoption phase** - massive growth potential ahead
-2. **Network effects create exponential value growth** - Metcalfe's Law
-3. **Fixed supply + growing demand = price appreciation**
-4. **Institutional adoption is accelerating** - ETFs, corporations, nations
-5. **We are still early** - most people don't own Bitcoin yet
-
----
-
-[:arrow_left: Class 5](class-5.md) | [Class 7: How to Get Bitcoin :arrow_right:](class-7.md)
+[:arrow_left: Previous](en/class-5.md) | [Next :arrow_right:](en/class-7.md)

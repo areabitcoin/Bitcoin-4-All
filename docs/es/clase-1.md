@@ -1,83 +1,199 @@
----
-layout: default
-title: "Clase 1 - Qué es Bitcoin y por qué se creó"
----
+# :one: Clase 1 - Clase 1
 
-# Clase 1: Qué es Bitcoin y por qué se creó
-
-En esta primera clase exploraremos los orígenes de Bitcoin, desde el misterioso bloque génesis hasta el revolucionario whitepaper publicado por Satoshi Nakamoto.
-
-## Video de la Clase
+## :movie_camera: Video de la Clase
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085118505?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 1"></iframe></div>
 
 ---
 
-## Slides de la Clase
+## :page_facing_up: Guión Completo
 
-![Slide 01](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Espa%C3%B1ol/Slides/Clase%201/slide-01.jpg)
+Gui├│n de clase 1 - ┬┐Qu├® es Bitcoin y por qu├® se cre├│?
 
-![Slide 02](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Espa%C3%B1ol/Slides/Clase%201/slide-02.jpg)
+Hace m├ís de 15 a├▒os, Bitcoin naci├│ como una idea revolucionaria, y desde entonces ha pasado de ser un asunto desconocido a convertirse en uno de los temas m├ís comentados del mundo. Hoy en d├¡a, mucha gente ha o├¡do hablar de Bitcoin o ya tiene una opini├│n al respecto. Pero, por desgracia, para mucha gente sigue consider├índose una cosa de frikis, una inversi├│n arriesgada o algo que s├│lo sirve para la especulaci├│n financiera. Esa visi├│n limitada al final ignora el verdadero prop├│sito y el enorme potencial de Bitcoin: ser dinero accesible para todos.
 
-![Slide 03](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Espa%C3%B1ol/Slides/Clase%201/slide-03.jpg)
+Y lo que no todo el mundo percibe es que Bitcoin no se cre├│ s├│lo para inversores, frikis de la tecnolog├¡a o grandes empresas. Fue dise├▒ado para ser un sistema financiero m├ís justo y transparente. Es dinero que cualquier persona, en cualquier parte del mundo, puede utilizar. Bitcoin es una poderosa herramienta para proteger la riqueza y garantizar la libertad financiera.
 
-![Slide 04](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Espa%C3%B1ol/Slides/Clase%201/slide-04.jpg)
+Hoy, m├ís que nunca, es importante comprender c├│mo Bitcoin puede marcar la diferencia en tu vida. Con la inflaci├│n en aumento, el dinero perdiendo valor y la gente confiando cada vez menos en bancos y gobiernos, Bitcoin se presenta como una alternativa fiable: dinero que realmente es tuyo, que nadie puede bloquear, confiscar o devaluar sin motivo. Con Bitcoin puedes convertirte en tu propio banco y dejar de depender de intermediarios para almacenar o controlar tu dinero.
 
-![Slide 05](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Espa%C3%B1ol/Slides/Clase%201/slide-05.jpg)
+Bitcoin no es s├│lo una moneda y una tecnolog├¡a, es tambi├®n una invitaci├│n a que nos replanteemos nuestra relaci├│n con el dinero y c├│mo podemos construir un nuevo sistema financiero m├ís libre, seguro y accesible para todos.
+
+
+![Slide 1](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-01.jpg)
+Cuando la mayor├¡a de la gente piensa en dinero, se imagina inmediatamente billetes de papel o el saldo de una cuenta bancaria. En otras palabras, la noci├│n de dinero que la mayor├¡a de la gente entiende como real est├í directamente vinculada a algo controlado por terceros, como los bancos, las casas de bolsa o los valores creados por los gobiernos a trav├®s de los bancos centrales en billetes de papel.
+
+Bitcoin es diferente. Es dinero digital que no depende de gobiernos ni bancos, as├¡ que no tienes que confiar en estas instituciones que han fracasado much├¡simas veces a lo largo de la historia. Aunque la idea del dinero digital pueda parecer nueva, en realidad es el resultado de siglos de investigaciones, ensayos, errores y aprendizajes.
+
+
+A lo largo de la historia, varias mentes brillantes -- f├¡sicos, economistas austriacos, ingenieros inform├íticos e inversores descontentos con la inflaci├│n -- han imaginado que alg├║n d├¡a existir├¡a algo como Bitcoin.
+
+Nikola Tesla y Henry Ford previeron la creaci├│n de dinero respaldado por energ├¡a que fomentar├¡a la paz. Friedrich Hayek y Milton Friedman, economistas austriacos, se├▒alaron los problemas de dejar las pol├¡ticas monetarias en manos de los gobiernos y c├│mo el dinero digital, movido libremente, podr├¡a aportar m├ís prosperidad a la gente al ser resistente a la corrupci├│n e imparable.
+
+Entonces, date cuenta de que Bitcoin, en cierto modo, siempre ha estado ah├¡ como una idea esperando el momento adecuado para convertirse en realidad. Pero lo que esos genios del pasado no sab├¡an era c├│mo se crear├¡a exactamente este dinero digital ni qu├® avances tecnol├│gicos lo har├¡an posible.
+
+
+![Slide 2](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-02.jpg)
+Fueron los cypherpunks del pasado quienes dieron los primeros pasos hacia Bitcoin. Desde los a├▒os 70, esos cript├│grafos intentaban crear dinero que pudiera utilizarse en internet. Pero ninguno de los proyectos funcion├│ como se esperaba. Por eso se dice que Bitcoin no surgi├│ de la noche a la ma├▒ana, sino que es un descubrimiento que estaba listo para suceder. Bitcoin es el resultado de 40 a├▒os de investigaciones e intentos anteriores. Varios proyectos a lo largo del tiempo allanaron el camino para la creaci├│n de Bitcoin, cada uno aportando una pieza del rompecabezas que Satoshi Nakamoto finalmente arm├│ en 2008.
+
+Por eso mucha gente dice que Satoshi Nakamoto, el creador de Bitcoin, no invent├│, sino que descubri├│, Bitcoin. Eso porque aprendi├│ de los fracasos y ├®xitos de proyectos anteriores y este conocimiento fue crucial para que Satoshi pudiera crear algo que realmente funcionara.
+
+Vale. Pero ┬┐c├│mo surgi├│ Bitcoin?
+
+
+![Slide 3](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-03.jpg.png)
+Los primeros registros de Bitcoin comienzan con un correo electr├│nico del 31 de octubre de 2008. Ese d├¡a, un cypherpunk an├│nimo llamado Satoshi Nakamoto public├│ en una lista de correo electr├│nico sobre criptograf├¡a que estaba trabajando en un documento sobre un sistema de dinero electr├│nico totalmente punto a punto (P2P), es decir, sin necesidad de intermediarios de confianza.
+
+
+![Slide 4](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-04.jpg)
+En ese correo electr├│nico hab├¡a un enlace al Whitepaper, el libro blanco, de Bitcoin, un documento de s├│lo 9 p├íginas que describe t├®cnicamente c├│mo funciona la red Bitcoin. El texto explica c├│mo las firmas digitales env├¡an y reciben transacciones, c├│mo las transacciones se agrupan en bloques y c├│mo la prueba de trabajo, mediante el uso de la potencia computacional, resuelve el problema del doble gasto y al mismo tiempo genera nuevas monedas como recompensa para los participantes de la red, en el proceso conocido como "miner├¡a".
+
+El doble gasto fue uno de los mayores retos a la hora de crear dinero digital; muchos proyectos cypherpunk del pasado fracasaron precisamente porque no pudieron resolver este problema sin centralizar el control de la red. Pero ┬┐qu├® es el doble gasto? El doble gasto es cuando consigues gastar la misma moneda dos veces. Por ponerte un ejemplo, ser├¡a como pagar tu cuenta en la panader├¡a con un billete de pesos y que luego reapareciera en tu cartera para que pudieras volver a gastarlo. Eso har├¡a que el sistema fuera in├║til como dinero.
+
+La palabra Bitcoin s├│lo aparece dos veces en el libro blanco: en el t├¡tulo y en el enlace al sitio web. La palabra "red" se menciona 21 veces. Eso demuestra lo centrado que estaba Satoshi en la arquitectura de la red P2P y en c├│mo funcionar├¡a de forma descentralizada, sin depender de intermediarios con poder de decisi├│n sobre el protocolo.
+
+Satoshi tambi├®n public├│ el libro blanco de Bitcoin en el sitio web [bitcoin.org](https://bitcoin.org/es/), donde sigue estando disponible hoy en d├¡a, traducido al espa├▒ol y a m├ís de 40 idiomas. Un dato curioso es que el dominio bitcoin.org se registr├│ el 18 de agosto de 2008, s├│lo unos meses antes de la publicaci├│n del libro blanco, lo que demuestra que Satoshi ya estaba preparando el terreno para presentar su creaci├│n al mundo.
+
+Normalmente es posible averiguar qui├®n registr├│ y posee un dominio, pero Satoshi pens├│ en todo y mantuvo esta informaci├│n en el anonimato. La decisi├│n de Satoshi Nakamoto de permanecer en el anonimato es uno de los aspectos m├ís intrigantes de la aparici├│n de Bitcoin. Se desconocen las razones exactas de su elecci├│n, pero se han propuesto varias teor├¡as. Hoy en d├¡a, nadie sabe qui├®n es Satoshi, si es una persona o un grupo de personas, y al final realmente no pasa nada. El hecho de que Bitcoin no tenga un creador conocido es en realidad algo bueno, porque reduce cualquier ruido entre su vida personal y Bitcoin. El anonimato de Satoshi ayud├│ a Bitcoin a crecer como un sistema verdaderamente global, descentralizado y org├ínico, sin necesidad de depender o atarse a una figura central.
+
+Satoshi Nakamoto permaneci├│ varios a├▒os m├ís trabajando en el c├│digo e intercambiando ideas con otros cript├│grafos en torno a Bitcoin. Despu├®s, en abril de 2011, cedi├│ el control del sitio web bitcoin.org y del repositorio de Bitcoin al desarrollador Gavin Andresen. Satoshi se ha subido a hombros de gigantes fusionando proyectos cypherpunk del pasado y yendo un paso m├ís all├í al hacer realidad el Bitcoin.
+
+Bitcoin es el resultado de la combinaci├│n de varias tecnolog├¡as. Por separado, esas tecnolog├¡as no tendr├¡an las mismas caracter├¡sticas y propiedades que hacen que Bitcoin sea ├║nico. Es esa uni├│n la que ha hecho posible crear algo tan revolucionario.
+
+
+![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-05.jpg)
+La primera tecnolog├¡a que utiliz├│ Satoshi fueron los timestamps, sellos de fecha y hora que crean una l├¡nea temporal (una timechain) que no se puede modificar.┬á Esa l├¡nea temporal es esencial para garantizar que los registros no puedan ser alterados. Mucha gente la conoce como "blockchain", donde los bloques de informaci├│n est├ín conectados entre s├¡. Esos bloques registran las transacciones de forma inmutable y en el orden en que se producen, garantizando la integridad y la transparencia del sistema.
+
+Satoshi tambi├®n utiliz├│ la criptograf├¡a y los algoritmos criptogr├íficos, como SHA-256, para hacer que la red funcionara de forma segura y mediante c├│digos y secretos. Eso significa que s├│lo los que tienen la "clave" correcta, es decir, s├│lo los que conocen la respuesta a ese secreto, pueden mover fondos. La criptograf├¡a es una tecnolog├¡a fundamental en el conjunto de la red Bitcoin.
+
+Adem├ís, Satoshi incorpor├│ los conceptos de red P2P (peer-to-peer), en la que cualquiera puede dirigir un nodo y conectarse a la red sin tener que pedir permiso a nadie. Sobre ese principio est├í la base de la descentralizaci├│n y la arquitectura de red. Los nodos se conectan entre s├¡ para formar una red distribuida de verificaci├│n y almacenamiento de registros de transacciones, sin depender de instituciones ni intermediarios. Esa arquitectura garantiza la independencia y resistencia del sistema.
+
+Satoshi tambi├®n utiliz├│ la prueba de trabajo (Proof of Work), que garantiza que no es posible crear dinero de la nada. Es necesario demostrar a la red que has resuelto un problema, que has seguido el mecanismo de consenso y que mereces recibir monedas como recompensa por haber prestado un servicio a la red utilizando tu potencia de c├ílculo. No hay forma de falsificar la prueba de trabajo, y eso es lo que aporta confianza a la red. La prueba de trabajo garantiza que las reglas de creaci├│n de cada bloque de informaci├│n se han seguido de acuerdo con el consenso que sigue toda la red. Ese mecanismo es la base de la integridad de Bitcoin.
+
+Satoshi ha establecido un l├¡mite m├íximo en el n├║mero de monedas que se pueden crear: 21 millones de unidades. Ese l├¡mite se alcanza mediante un mecanismo llamado reducci├│n a la mitad, en el que cada 4 a├▒os de media se reduce a la mitad la emisi├│n de nuevas monedas hasta que se cree el ├║ltimo Bitcoin. El l├¡mite m├íximo es lo que confiere a Bitcoin propiedades monetarias ├║nicas, adem├ís de sus caracter├¡sticas digitales. Refleja conceptos econ├│micos fundamentales como la escasez, garantizando que Bitcoin no pueda inflarse arbitrariamente, como ocurre con las monedas emitidas por los gobiernos. Esa caracter├¡stica hace de Bitcoin un dep├│sito de valor s├│lido y predecible.
+
+Por ├║ltimo, Satoshi tambi├®n mantuvo todo el proyecto Bitcoin en open source, es decir, abierto y p├║blico. Eso significa que cualquiera puede comprobarlo, colaborar en su desarrollo e incluso copiar su c├│digo. Esa decisi├│n hizo que Bitcoin fuera radicalmente transparente, algo que no ofrece ning├║n banco central ni ning├║n sistema monetario tradicional. La transparencia es lo que permite la verificaci├│n p├║blica y el libre acceso de cualquiera en cualquier lugar del universo. Bitcoin es la red m├ís accesible, inclusiva y abierta jam├ís creada; ofrece igualdad de oportunidades a todo el que quiera participar.
+
+Antes de Satoshi, nadie hab├¡a combinado todas esas tecnolog├¡as en un ├║nico protocolo. En la lecci├│n 4 sobre c├│mo funciona Bitcoin, comprender├ís mejor cada uno de esos puntos.
+
+
+![Slide 6](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-06.jpg)
+Dos meses despu├®s de enviar el correo electr├│nico a la lista de correo de cypherpunks, lanzar el sitio web y poner el libro blanco a disposici├│n de cualquiera para que lo consultara, colaborara o incluso lo copiara, Satoshi min├│ su primer bloque de Bitcoin.
+
+Ese primer bloque extra├¡do el 3 de enero de 2009 se denomina "bloque g├®nesis┬╗. Satoshi recibi├│ 50 bitcoins como recompensa y lo m├ís curioso es que ese bloque contiene un mensaje, una cita, dejada por el propio Satoshi:
+
+"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" (The Times 03/Ene/2009 Canciller al borde de un segundo rescate a los bancos). Ese es el titular de la portada del peri├│dico brit├ínico The Times del 3 de enero de 2009. Esta portada de aqu├¡:
+
+
+![Slide 7](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-07.jpg)
+Muestra c├│mo la historia del Bitcoin est├í directamente relacionada con las grandes crisis mundiales recientes. Bitcoin surgi├│ justo cuando estall├│ la crisis de 2008, como respuesta a la manipulaci├│n de la econom├¡a y la centralizaci├│n por parte de los bancos centrales y comerciales. La cita de The Times no era para menos: refuerza la cr├¡tica al sistema financiero tradicional.
+
+Ese informe se├▒alaba que en 2009 el canciller brit├ínico iba a rescatar por segunda vez a un banco en quiebra. Eso nos da varias pistas sobre por qu├® Satoshi cre├│ Bitcoin y qu├® pensaba del sistema financiero.
+
+En mensajes escritos en foros de internet, Satoshi demostr├│ lo profundamente que comprend├¡a el funcionamiento de la econom├¡a y c├│mo ve├¡a Bitcoin como una alternativa completamente opuesta al sistema tradicional. Ha creado una moneda descentralizada que no puede ser confiscada, monopolizada ni devaluada por ning├║n gobierno ni banco.┬á
+
+
+![Slide 8](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-08.jpg)
+Por todas esas razones, la forma en que Satoshi lanz├│ Bitcoin al mundo fue totalmente justa.
+
+Todos los bitcoins se crearon siguiendo el consenso de la red, sin miner├¡a previa. La miner├¡a previa es cuando los creadores de un proyecto emiten una cantidad de monedas para s├¡ mismos antes de que la red empiece a funcionar. Eso acaba creando un privilegio desproporcionado para los creadores y fundadores.
+
+Adem├ís, el libro blanco se public├│ antes de que se minara el primer bloque, de forma totalmente transparente, p├║blica y de c├│digo abierto, dando a m├ís gente la oportunidad de colaborar o incluso copiar el c├│digo antes incluso de que la red Bitcoin empezara a funcionar.
+
+Bitcoin funcion├│ durante casi un a├▒o y medio sin ning├║n valor monetario; no val├¡a literalmente ni un centavo. Eso permiti├│ que las monedas circularan libremente y que la red se descentralizara org├ínicamente.
+
+El crecimiento de la red Bitcoin fue totalmente org├ínico porque no tuvo financiaci├│n inicial, ni participaci├│n de capital de riesgo, ni expectativas de beneficios. Era un protocolo mantenido por cypherpunks que estaban descubriendo c├│mo pod├¡a funcionar y evolucionar todo ese mont├│n de c├│digo.
+
+Y a diferencia de todos los dem├ís fundadores de proyectos de monedas digitales que surgieron despu├®s, no hay constancia de que Satoshi vendiera ni un solo bitcoin.┬á Cre├│ Bitcoin y, tras construir las bases del protocolo, desapareci├│ sin obtener nunca beneficios. Satoshi dej├│ Bitcoin como un legado inestimable a la humanidad y no recibi├│ nada a cambio.
+
+
+![Slide 9](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-09.jpg)
+Desde entonces, Bitcoin, que inicialmente no val├¡a ni un centavo, ha alcanzado nuevos m├íximos con cada ciclo de revalorizaci├│n. Alcanz├│ los 99.000 d├│lares en el momento en que estoy grabando esta lecci├│n y se ha revalorizado m├ís de 7.000 millones de d├│lares desde 2010, cuando empez├│ a negociarse y a cotizar en las primeras plataformas online.
+
+El precio del Bitcoin llama la atenci├│n, despierta curiosidad, encanto y codicia, pero en realidad es un reflejo de la creciente adopci├│n de un nuevo sistema financiero. Por primera vez en la historia de la humanidad, estamos presenciando y documentando el nacimiento de un dinero completamente digital, independiente de gobiernos y bancos. La gran revalorizaci├│n de Bitcoin refleja su creciente demanda, Con ello, su precio tambi├®n puede contar una historia. Muestra los altibajos de Bitcoin, pero sobre todo simboliza el impacto de esa tecnolog├¡a revolucionaria a lo largo del tiempo.
+
+![Slide 10](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-10.jpg)
+La historia de Bitcoin est├í llena de acontecimientos importantes. En s├│lo 15 a├▒os han ocurrido tantas cosas, y esos acontecimientos pasados nos ayudan a comprender c├│mo podemos afrontar mejor lo que nos espera.
+
+Bueno, ya conoces los dos primeros hitos: en 2008 se public├│ el libro blanco y en 2009 empez├│ a funcionar la red Bitcoin.
+
+En 2010 tuvo lugar la primera transacci├│n de Bitcoin, que incluso se convirti├│ en una fecha conmemorativa: el Bitcoin Pizza Day. El 22 de mayo de 2010, Laszlo Hanyecz pag├│ 10.000 bitcoin por dos pizzas, que en aquel momento val├¡an unos 25 d├│lares. Hoy, esas pizzas valdr├¡an miles de millones de d├│lares, pero el gesto de Laszlo fue mucho m├ís que un simple pago. Reforz├│ la importancia de Bitcoin como dinero de uso cotidiano y su esencia como herramienta P2P.
+
+Aunque parezca un error por parte de Laszlo y un despilfarro cuando lo miramos en retrospectiva, el Pizza Day subraya la importancia de adoptar y hacer circular Bitcoin como dinero. Laszlo demostr├│ que Bitcoin puede utilizarse de forma pr├íctica, sin depender de bancos, bolsas o intermediarios. Para conseguir Bitcoin, todo lo que tienes que hacer es encontrar a alguien dispuesto a intercambiar un producto o servicio por Bitcoin. Es la forma m├ís soberana e independiente de negociaci├│n entre dos personas.
+
+
+Otro hito importante en la historia de Bitcoin tuvo lugar en octubre de 2013, cuando se cerr├│ la plataforma Silk Road. Silk Road era un mercado online en la Deep Web que permit├¡a a la gente comerciar con una amplia variedad de productos y servicios a trav├®s de Tor y Bitcoin.
+
+Creado por Ross Ulbricht, Silk Road pretend├¡a ser un mercado verdaderamente libre en el que los usuarios pudieran comerciar con cualquier cosa de forma an├│nima, bas├índose en los principios de consentimiento y privacidad. Fue un audaz experimento de mercado sin restricciones, en el que la gente era libre de intercambiar bienes y servicios sin interferencias de gobiernos o empresas.
+
+
+![Slide 11](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-11.jpg)
+Silk Road ofrec├¡a cientos de productos, equipos, servicios e incluso drogas.┬á Todos los productos y quienes trabajaron en la plataforma cobraron el 100% en bitcoin. En aquel momento, un bitcoin val├¡a unos 50 c├®ntimos de d├│lar. El objetivo era ser como Amazon o eBay, pero totalmente gratis y respaldado por Bitcoin.
+
+Sin embargo, el ├®xito de la plataforma llam├│ la atenci├│n de las autoridades. El mercado Silk Road fue finalmente cerrado y su fundador, Ross Ulbricht, fue detenido y condenado a cadena perpetua. Eso se debe a que, aunque Ross ten├¡a buenas intenciones, Silk Road se convirti├│ r├ípidamente en un mercado para el comercio de drogas y productos ilegales, a pesar de tener normas internas que prohib├¡an la comercializaci├│n de estos art├¡culos.┬á
+
+Durante la operaci├│n, el gobierno estadounidense se incaut├│ de m├ís de 200.000 bitcoins de Silk Road, convirti├®ndolo, ir├│nicamente, en uno de los mayores tenedores de Bitcoin del mundo. La condena de Ross se considera desproporcionada, injusta y pol├¡ticamente motivada, sobre todo porque se han dictado condenas m├ís leves en casos similares.
+
+El caso de Ross tambi├®n suscit├│ un debate mundial sobre la responsabilidad del propietario de un sitio web por el comportamiento de sus usuarios. Aunque la familia de Ross consigui├│ reunir 1 mill├│n de d├│lares para pagar su fianza, los jueces estadounidenses no aprobaron su puesta en libertad de todos modos.┬á
+
+Otro hito importante en la historia de Bitcoin fue el lanzamiento del libro blanco de la Lightning Network, una soluci├│n de segunda capa para pagos r├ípidos y baratos basada en Bitcoin. La red Lightning empez├│ a funcionar en 2017, despu├®s de la actualizaci├│n de SegWit, lo que facilit├│ que Bitcoin se utilizara como moneda en el d├¡a a d├¡a, reduciendo los costes de transacci├│n y aumentando la velocidad, sin sacrificar la seguridad y la descentralizaci├│n de la red principal.
+
+En 2017, la actualizaci├│n SegWit (Segregated Witness) fue uno de los cambios m├ís significativos del protocolo Bitcoin. Esa mejora ha aportado mayor escalabilidad, seguridad y flexibilidad a la red. SegWit redujo el peso de las transacciones, lo que redujo las comisiones y allan├│ el camino para el desarrollo de la Lightning Network. La activaci├│n de SegWit fue el resultado de a├▒os de debate y, a pesar de ser un cambio significativo, no alter├│ las propiedades fundamentales de Bitcoin, ya que se implement├│ como un soft fork, garantizando la compatibilidad con las reglas anteriores del protocolo.
+
+Otro hito importante tuvo lugar en 2020, cuando MicroStrategy se convirti├│ en la primera empresa p├║blica en adoptar Bitcoin como parte de su estrategia de efectivo. Esa decisi├│n atrajo la atenci├│n de inversores de todos los perfiles, consolidando Bitcoin como reserva de valor en el mercado empresarial e impulsando su reconocimiento en el mundo financiero.
+
+En 2021, Bitcoin se someti├│ a la activaci├│n de Taproot, que tambi├®n facilita las transacciones, la escalabilidad y reduce el uso de datos. Ese mismo a├▒o, El Salvador se convirti├│ en el primer pa├¡s del mundo en adoptar Bitcoin como moneda de curso legal, demostrando que es posible migrar al est├índar Bitcoin a nivel nacional e inspirando a otros pa├¡ses a considerar este camino.
+
+Ya en 2023, el protocolo NOSTR empez├│ a ganar tracci├│n. Inspirado en los principios de Bitcoin, NOSTR se dirige a las redes sociales y a los contenidos en l├¡nea, permitiendo a la gente recuperar el control de sus propios datos sin depender de las grandes empresas tecnol├│gicas, conocidas como Big Techs.
+
+En 2024, dos acontecimientos importantes marcaron la historia de Bitcoin. El primero fue el lanzamiento del primer ETF de Bitcoin en EEUU, que bati├│ r├®cords de negociaci├│n y crecimiento, consolidando a├║n m├ís a Bitcoin como activo financiero dominante. La segunda fue una declaraci├│n hist├│rica del entonces expresidente estadounidense Donald Trump, que prometi├│ crear una reserva estrat├®gica de Bitcoin, destacando el reconocimiento mundial de Bitcoin como herramienta econ├│mica y estrat├®gica.
+
+
+![Slide 12](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-12.jpg)
+En s├│lo 15 a├▒os, Bitcoin ha crecido mucho m├ís r├ípido que cualquier empresa, mercanc├¡a o pa├¡s. Al mismo tiempo que rescata antiguas propiedades monetarias, ha visto una adopci├│n exponencial, incluso m├ís r├ípida que la propia internet. Eso es lo que muestra esta imagen: las barras gris oscuro muestran el crecimiento de Bitcoin, mientras que las barras gris claro muestran la adopci├│n de internet desde la d├®cada de 1990. Hoy en d├¡a, Bitcoin ya tiene el mismo n├║mero de usuarios que internet en 1999.
+
+Y si internet se ha convertido en la principal herramienta para acceder a la informaci├│n, Bitcoin podr├¡a convertirse en la principal herramienta para acceder al valor, sin depender de gobiernos ni bancos.
+
+Aunque est├í creciendo m├ís r├ípido que internet, Bitcoin a├║n se encuentra en las primeras fases de adopci├│n.
+
+
+![Slide 13](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-13.jpg)
+El gr├ífico de la curva de adopci├│n es un modelo cl├ísico utilizado para explicar c├│mo las personas adoptan las nuevas tecnolog├¡as a lo largo del tiempo. Divide a los usuarios en cinco grupos: innovadores, adoptadores tempranos, mayor├¡a temprana, mayor├¡a tard├¡a y rezagados.┬á
+
+El punto m├ís desafiante de este modelo es el "abismo" (o chasm) que aparece entre los adoptantes tempranos y la mayor├¡a temprana. Ese "abismo" representa el momento cr├¡tico en que una innovaci├│n tiene que dejar de ser algo de nicho y convertirse en una tecnolog├¡a ampliamente aceptada y utilizada en la vida cotidiana. Muchas tecnolog├¡as ni siquiera cruzan ese punto del abismo.
+
+En el caso de Bitcoin, el "abismo" representa la transici├│n entre quienes adoptan Bitcoin por ideolog├¡a, curiosidad o intereses espec├¡ficos (como los innovadores y los entusiastas del mercado) y la gran masa de usuarios que s├│lo adoptar├ín la tecnolog├¡a cuando se perciba como segura, ├║til y f├ícil de usar. Bitcoin se encuentra en ese punto cr├¡tico, al principio del proceso de cruzar el abismo.
+
+
+![Slide 14](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-14.jpg)
+Incluso cuando comparamos Bitcoin con otras clases de activos, est├í claro lo peque├▒o que es todav├¡a y el enorme potencial de crecimiento de la capitalizaci├│n del mercado a medida que m├ís gente adopta Bitcoin como activo y como dinero.
+
+En esta imagen vemos c├│mo Bitcoin tiene s├│lo dos billones de d├│lares de capitalizaci├│n burs├ítil, mientras que otras clases de activos, como los bienes inmuebles, las acciones y el oro, tienen decenas o cientos de billones de d├│lares.┬á
+
+Bitcoin es un nuevo tipo de activo, dinero y un nuevo sistema financiero, descentralizado y de c├│digo abierto. Si sigue esta trayectoria, Bitcoin puede alcanzar o incluso superar el valor de mercado de otras clases de activos tradicionales.
+
+![Slide 15](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-15.jpg)
+Pero la cuesti├│n principal es que Bitcoin tiende a seguir apreciando su valor porque es simplemente mejor dinero.
+
+
+![Slide 16](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-16.jpg)
+Para entender por qu├® Bitcoin es mejor dinero, es importante observar la evoluci├│n del dinero a lo largo de la historia y c├│mo ha perdido algunas de sus propiedades fundamentales. Bitcoin tiene el potencial de redimir esas propiedades esenciales y transformar profundamente nuestra relaci├│n con el dinero. Puede revolucionar nuestra forma de ahorrar, invertir y realizar transacciones, ofreciendo una alternativa transparente, resistente a la manipulaci├│n y accesible a todos.
+
+
+![Slide 17](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-17.jpg)
+Bitcoin resuelve muchos de los problemas del sistema financiero actual. Millones de personas est├ín sufriendo la inflaci├│n, los tipos de inter├®s reales negativos, la confiscaci├│n e incluso el cierre de sus cuentas por los bancos, y ni siquiera saben que Bitcoin podr├¡a ser una soluci├│n para proteger a├▒os de trabajo acumulado que est├ín siendo drenados en un dinero gubernamental que se derrite como un cubito de hielo.
+
+En la pr├│xima lecci├│n, exploraremos esos problemas en detalle y comprender├ís por qu├® el dinero, tal como lo conocemos hoy, ha sido literalmente programado para robar valor a las personas sin que se den cuenta.
+
+┬íHasta la pr├│xima lecci├│n!
+
 
 ---
 
-## Contenido de la Clase
+## :books: Material Complementario
 
-### El Nacimiento de Bitcoin
-
-El 31 de octubre de 2008, en plena crisis financiera mundial, una persona o grupo bajo el seudónimo de **Satoshi Nakamoto** publicó el whitepaper de Bitcoin titulado "Bitcoin: A Peer-to-Peer Electronic Cash System" (Bitcoin: Un Sistema de Efectivo Electrónico de Persona a Persona).
-
-### El Bloque Génesis
-
-El 3 de enero de 2009, Satoshi minó el primer bloque de Bitcoin, conocido como el **bloque génesis** o bloque 0. En este bloque, Satoshi dejó un mensaje codificado:
-
-> "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
-
-Este mensaje hacía referencia a un titular del periódico The Times sobre el rescate bancario en Reino Unido, dejando claro el contexto y la motivación detrás de Bitcoin.
-
-### Quién es Satoshi Nakamoto?
-
-La identidad de Satoshi Nakamoto permanece desconocida hasta el día de hoy. Lo que sí sabemos:
-
-- Publicó el whitepaper en 2008
-- Minó los primeros bloques de Bitcoin
-- Se comunicó por correos electrónicos y foros
-- Desapareció en 2011, dejando el proyecto a la comunidad
-- Nunca movió los bitcoins que minó (aproximadamente 1 millón de BTC)
-
-### El Whitepaper
-
-El whitepaper de Bitcoin describe un sistema de dinero electrónico que:
-
-- No requiere intermediarios de confianza
-- Es resistente a la censura
-- Es transparente y verificable
-- Resuelve el problema del doble gasto
+- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
+- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201)
 
 ---
 
-## Puntos Clave
-
-1. **Bitcoin nació como respuesta** a la crisis financiera de 2008
-2. **El bloque génesis** contiene un mensaje que define la misión de Bitcoin
-3. **Satoshi Nakamoto** creó Bitcoin pero permaneció anónimo
-4. **El whitepaper** es el documento fundacional que describe cómo funciona
-
----
-
-## Síguenos
-
--  [Website](https://areabitcoin.co)
--  [Twitter/X](https://x.com/areabitcoin)
--  [YouTube](https://youtube.com/@AreaBitcoin)
--  [Instagram](https://instagram.com/area.bitcoin)
-
----
-
-[:arrow_left: Introducción](es/intro.md) | [Clase 2 :arrow_right:](es/clase-2.md)
+[:arrow_left: Anterior](es/intro.md) | [Siguiente :arrow_right:](es/clase-2.md)
