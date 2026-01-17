@@ -39,7 +39,7 @@ Curso gratuito e de código aberto sobre Bitcoin para todos!
 | :globe_with_meridians: **Website** | [areabitcoin.co](https://areabitcoin.co) |
 | :bird: **Twitter/X** | [@areabitcoin](https://x.com/areabitcoin) |
 | :tv: **YouTube** | [Area Bitcoin](https://youtube.com/@AreaBitcoin) |
-| :camera: **Instagram** | [@aaborges_](https://instagram.com/aaborges_) |
+| :camera: **Instagram** | [@area.bitcoin](https://instagram.com/area.bitcoin) |
 | :octopus: **GitHub** | [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All) |
 
 ---
