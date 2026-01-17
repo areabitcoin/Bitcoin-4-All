@@ -1,4 +1,4 @@
-# :books: Bitcoin 4 All
+﻿# :books: Bitcoin 4 All
 
 Welcome to **Bitcoin 4 All**! A complete, free and open source journey to understand Bitcoin from scratch.
 
@@ -14,7 +14,7 @@ Welcome to **Bitcoin 4 All**! A complete, free and open source journey to unders
 
 ## :scroll: Full Script
 
-Hello! Welcome to Bitcoin4All, a free and open source course created by Area Bitcoin.
+Hello! Welcome to Bitcoin4All, a free and open source course created by Área Bitcoin.
 
 If you're here, it's because you've heard about Bitcoin and want to learn more about how it works. And guess what? You're in the right place!
 
@@ -24,7 +24,7 @@ You'll realize that Bitcoin is much more than numbers on a screen: it's about fr
 
 ### How does Bitcoin4All work?
 
-Since Bitcoin4All is open source, it goes beyond a simple course. It's a tool you can use to teach others, organize meetups, create your own videos or even customize the materials to your reality. Under the Creative Commons BY-SA 4.0 license, you have the freedom to adapt everything - as long as credits are given to Bitcoin4All by Area Bitcoin and with the condition that it's used for educational purposes, never commercial, okay?
+Since Bitcoin4All is open source, it goes beyond a simple course. It's a tool you can use to teach others, organize meetups, create your own videos or even customize the materials to your reality. Under the Creative Commons BY-SA 4.0 license, you have the freedom to adapt everything - as long as credits are given to Bitcoin4All by Área Bitcoin and with the condition that it's used for educational purposes, never commercial, okay?
 
 We believe that knowledge about Bitcoin needs to be universal and accessible to everyone, because it's a powerful tool to change lives. So it doesn't matter if you're just starting out or already understand a bit about the subject, Bitcoin4All is made for you to feel part of this revolution.
 
@@ -59,7 +59,7 @@ We prepared a course with **10 classes**, each about 10 minutes long, to guide y
 
 ---
 
-All files - videos, slides and other materials - are available on [areabitcoin.co](https://areabitcoin.co) and on [Area Bitcoin's GitHub](https://github.com/areabitcoin/Bitcoin-4-All). You can access everything easily and for free, whether to learn, share or teach.
+All files - videos, slides and other materials - are available on [areabitcoin.co](https://areabitcoin.co) and on [Área Bitcoin's GitHub](https://github.com/areabitcoin/Bitcoin-4-All). You can access everything easily and for free, whether to learn, share or teach.
 
 We're here to help you understand, adopt and spread this transformative idea.
 
@@ -75,7 +75,7 @@ We're here to help you understand, adopt and spread this transformative idea.
 
 ## :link: Links
 
-- :globe_with_meridians: [Area Bitcoin](https://areabitcoin.co)
+- :globe_with_meridians: [Área Bitcoin](https://areabitcoin.co)
 - :bird: [Twitter/X](https://x.com/areabitcoin)
 - :tv: [YouTube](https://youtube.com/@AreaBitcoin)
 - :camera: [Instagram](https://instagram.com/area.bitcoin)
