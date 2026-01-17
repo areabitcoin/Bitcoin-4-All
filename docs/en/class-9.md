@@ -1,17 +1,17 @@
-# 9 Class 9 - What is the best way to store Bitcoin and what are wallets?
+﻿# 9 Class 9 - What is the best way to store Bitcoin and what are wallets?
 
-## :movie_camera: Class Video
+## Class Video
 
 [![Watch Video](https://img.youtube.com/vi/AP5h_Ph-wVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AP5h_Ph-wVU)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=AP5h_Ph-wVU)**
+ **[Click here to watch on YouTube](https://www.youtube.com/watch?v=AP5h_Ph-wVU)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/AP5h_Ph-wVU?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
 ---
 ---
 
-##  Full Script
+## Full Script
 
 #Script Class 9 - What is the best way to store Bitcoin and what are wallets?
 
@@ -196,7 +196,7 @@ So in this lesson you learned why self-custody is important, what Bitcoin wallet
 
 ---
 
-##  Additional Resources
+## Additional Resources
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%209)
@@ -206,7 +206,7 @@ So in this lesson you learned why self-custody is important, what Bitcoin wallet
 [ Previous](class-8.md) | [Next ](class-10.md)
 ---
 
-### :loudspeaker: Share this lesson!
+### Share this lesson!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%209%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-9&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -223,7 +223,7 @@ So in this lesson you learned why self-custody is important, what Bitcoin wallet
 </a>
 </div>
 
-### :chart_with_upwards_trend: Your Course Progress
+### Your Course Progress
 
 <div class="course-progress">
 <strong>Class 9 de 10</strong> (90% completo)

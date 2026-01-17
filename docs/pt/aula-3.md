@@ -1,10 +1,10 @@
-# Aula 3 - Por que Bitcoin é um dinheiro melhor
+﻿# Aula 3 - Por que Bitcoin é um dinheiro melhor
 
-### :movie\_camera: Video da Aula
+###  Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/mAaE4PPSMls/maxresdefault.jpg)](https://www.youtube.com/watch?v=mAaE4PPSMls)
 
-:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=mAaE4PPSMls)
+ [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=mAaE4PPSMls)
 
 ***
 
@@ -202,7 +202,7 @@ Em resumo, a escassez do Bitcoin tende a ser cada vez maior ao longo do tempo, e
 
 A última propriedade monetária é a aceitação, que mede o nível de adoção e o quanto as pessoas reconhecem algo como dinheiro. No caso das moedas fiat, a aceitação é limitada. Cada país tem sua própria moeda e ela nem sempre é reconhecida ou aceita fora de suas fronteiras. Isso cria barreiras em transações internacionais, dificultando a universalidade do dinheiro.
 
-O ouro, por outro lado, já teve ampla aceitação no passado e se consolidou como um dinheiro sólido ao longo da história. Até hoje, é reconhecido globalmente como uma reserva de valor, por mais que seu uso como meio de troca tenha diminuído com o surgimento das  moedas fiat.
+O ouro, por outro lado, já teve ampla aceitação no passado e se consolidou como um dinheiro sólido ao longo da história. Até hoje, é reconhecido globalmente como uma reserva de valor, por mais que seu uso como meio de troca tenha diminuído com o surgimento das moedas fiat.
 
 O Bitcoin ainda está em processo de aceitação. Ele não é amplamente reconhecido como dinheiro ou reserva de valor por todas as pessoas, empresas e países. Só que esse cenário está mudando. Nos últimos anos, governos, grandes empresas e investidores começaram a adotar o Bitcoin e a reconhecer ele como uma forma legítima de ativo ou dinheiro digital. Embora ainda não seja uma unanimidade global, isso não significa que nunca vai ser.
 
@@ -241,7 +241,7 @@ Outro ponto importante desta aula é que Bitcoin é um dinheiro melhor porque é
 
 O dinheiro fiat sofre de um fenômeno chamado Efeito Cantillon, descrito por Richard Cantillon em 1730 no livro "O Efeito Cantillon". Esse conceito ilustra como aqueles que estão mais próximos da fonte de criação do novo dinheiro se beneficiam desproporcionalmente, enquanto os mais distantes são prejudicados.
 
-No passado, a criação de dinheiro era controlada pelos reis, que distribuíam o dinheiro primeiro para duques, nobres e outros aliados próximos. Esses "amigos do rei" usavam o dinheiro novo para adquirir bens e ativos como cavalos, casas e ouro. À medida que o  dinheiro recém-criado circulava pela economia, ia gerando aumento de preços. Quando finalmente chegava nas mãos das pessoas comuns, os mais pobres, o poder de compra já estava profundamente corroído. E assim, as pessoas no final da cadeia de circulação eram sempre as mais prejudicadas. O dinheiro que chegava nelas já estava defasado e seu valor real era muito menor.
+No passado, a criação de dinheiro era controlada pelos reis, que distribuíam o dinheiro primeiro para duques, nobres e outros aliados próximos. Esses "amigos do rei" usavam o dinheiro novo para adquirir bens e ativos como cavalos, casas e ouro. À medida que o dinheiro recém-criado circulava pela economia, ia gerando aumento de preços. Quando finalmente chegava nas mãos das pessoas comuns, os mais pobres, o poder de compra já estava profundamente corroído. E assim, as pessoas no final da cadeia de circulação eram sempre as mais prejudicadas. O dinheiro que chegava nelas já estava defasado e seu valor real era muito menor.
 
 ![Slide 80](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-31.jpg)
 
@@ -277,7 +277,7 @@ A criação do Bitcoin foi acessível e justa. Qualquer pessoa pode se conectar 
 
 O Bitcoin é incrivelmente poderoso porque tem o maior efeito de rede global já visto. Ele é uma rede monetária global independente, sem controle de nenhum país ou governo. Nenhum governo ou entidade pode monopolizar, censurar ou proibir completamente o Bitcoin, porque ele é descentralizado e sustentado por uma infraestrutura global de usuários, mineradores e verificadores independentes.
 
-O efeito de rede do Bitcoin é incomparável, superando qualquer rede monetária do passado ou do presente. Quanto mais pessoas e iniciativas adotam o Bitcoin, mais forte e valiosa a rede se torna, criando um ciclo de crescimento exponencial resistente a interferências externas. Essa combinação de independência e efeito de rede faz do Bitcoin uma revolução  do dinheiro. É muito mais robusto e resiliente do que qualquer sistema monetário já criado. É por isso que Bitcoin é um dinheiro melhor, porque ele não é só dinheiro, ele é um sistema financeiro superior.
+O efeito de rede do Bitcoin é incomparável, superando qualquer rede monetária do passado ou do presente. Quanto mais pessoas e iniciativas adotam o Bitcoin, mais forte e valiosa a rede se torna, criando um ciclo de crescimento exponencial resistente a interferências externas. Essa combinação de independência e efeito de rede faz do Bitcoin uma revolução do dinheiro. É muito mais robusto e resiliente do que qualquer sistema monetário já criado. É por isso que Bitcoin é um dinheiro melhor, porque ele não é só dinheiro, ele é um sistema financeiro superior.
 
 ![Slide 85](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-36.jpg)
 
@@ -306,7 +306,7 @@ Na próxima, vamos entender o funcionamento do Bitcoin no detalhe e você vai ol
 
 ---
 
-### :loudspeaker: Compartilhe esta aula!
+### Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%203%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -323,7 +323,7 @@ Na próxima, vamos entender o funcionamento do Bitcoin no detalhe e você vai ol
 </a>
 </div>
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 3 de 10</strong> (30% completo)

@@ -1,10 +1,10 @@
-# 8 Clase 8 - Desmintiendo mentiras (FUDs) sobre Bitcoin
+﻿# 8 Clase 8 - Desmintiendo mentiras (FUDs) sobre Bitcoin
 
-## :movie_camera: Video de la Clase
+## Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085127642.jpg)](https://vimeo.com/1085127642)
 
-:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085127642)**
+ **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085127642)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085127642?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
@@ -12,7 +12,7 @@
 ---
 ---
 
-##  Guión Completo
+## Guión Completo
 
 Guión de clase 8 - Refutando las mentiras (FUDs) sobre Bitcoin
 
@@ -367,7 +367,7 @@ Ahora que ya sabes qué es Bitcoin, cómo funciona, las formas de poseerlo y las
 
 ---
 
-##  Material Complementario
+## Material Complementario
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%208)
@@ -377,7 +377,7 @@ Ahora que ya sabes qué es Bitcoin, cómo funciona, las formas de poseerlo y las
 [ Anterior](clase-7.md) | [Siguiente ](clase-9.md)
 ---
 
-### :loudspeaker: Comparte esta clase!
+### Comparte esta clase!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%208%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-8&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -394,7 +394,7 @@ Ahora que ya sabes qué es Bitcoin, cómo funciona, las formas de poseerlo y las
 </a>
 </div>
 
-### :chart_with_upwards_trend: Tu Progreso en el Curso
+### Tu Progreso en el Curso
 
 <div class="course-progress">
 <strong>Clase 8 de 10</strong> (80% completo)

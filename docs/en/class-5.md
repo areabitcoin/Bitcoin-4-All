@@ -1,17 +1,17 @@
-# 5 Class 5 - Inside Bitcoin: Mining, Halving and the Cycles
+﻿# 5 Class 5 - Inside Bitcoin: Mining, Halving and the Cycles
 
-## :movie_camera: Class Video
+## Class Video
 
 [![Watch Video](https://img.youtube.com/vi/Fw56Z332YAg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fw56Z332YAg)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=Fw56Z332YAg)**
+ **[Click here to watch on YouTube](https://www.youtube.com/watch?v=Fw56Z332YAg)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/Fw56Z332YAg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
 ---
 ---
 
-##  Full Script
+## Full Script
 
 # Script Class 5 - Inside Bitcoin: How Does Bitcoin Work? (mining, halving and the cycles)
 
@@ -239,7 +239,7 @@ That is the subject of the next class. Now that you've learned how bitcoin works
 
 ---
 
-### :loudspeaker: Share this lesson!
+### Share this lesson!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%205%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-5&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -256,7 +256,7 @@ That is the subject of the next class. Now that you've learned how bitcoin works
 </a>
 </div>
 
-### :chart_with_upwards_trend: Your Course Progress
+### Your Course Progress
 
 <div class="course-progress">
 <strong>Class 5 de 10</strong> (50% completo)

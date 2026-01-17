@@ -1,10 +1,10 @@
-# Aula 9 - Carteiras e como guardar Bitcoin
+﻿# Aula 9 - Carteiras e como guardar Bitcoin
 
-### :movie\_camera: Video da Aula
+###  Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/cUTJOPAI0Wg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
-:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
+ [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
 ***
 
@@ -183,7 +183,7 @@ Então nessa aula você aprendeu porque fazer a própria custódia é importante
 
 ---
 
-### :loudspeaker: Compartilhe esta aula!
+### Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%209%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-9&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -200,7 +200,7 @@ Então nessa aula você aprendeu porque fazer a própria custódia é importante
 </a>
 </div>
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 9 de 10</strong> (90% completo)

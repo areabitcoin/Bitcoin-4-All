@@ -1,17 +1,17 @@
-# 6 Class 6 - Why should Bitcoin continue to appreciate?
+﻿# 6 Class 6 - Why should Bitcoin continue to appreciate?
 
-## :movie_camera: Class Video
+## Class Video
 
 [![Watch Video](https://img.youtube.com/vi/JlRkhmiLH5M/maxresdefault.jpg)](https://www.youtube.com/watch?v=JlRkhmiLH5M)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=JlRkhmiLH5M)**
+ **[Click here to watch on YouTube](https://www.youtube.com/watch?v=JlRkhmiLH5M)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/JlRkhmiLH5M?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
 ---
 ---
 
-##  Full Script
+## Full Script
 
 # Script Class 6 - Why should Bitcoin continue to appreciate?
 
@@ -201,7 +201,7 @@ Ultimately, Bitcoin is a global, long-term trend. Preparing today is easier than
 
 ---
 
-##  Additional Resources
+## Additional Resources
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%206)
@@ -211,7 +211,7 @@ Ultimately, Bitcoin is a global, long-term trend. Preparing today is easier than
 [ Previous](class-5.md) | [Next ](class-7.md)
 ---
 
-### :loudspeaker: Share this lesson!
+### Share this lesson!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%206%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-6&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -228,7 +228,7 @@ Ultimately, Bitcoin is a global, long-term trend. Preparing today is easier than
 </a>
 </div>
 
-### :chart_with_upwards_trend: Your Course Progress
+### Your Course Progress
 
 <div class="course-progress">
 <strong>Class 6 de 10</strong> (60% completo)

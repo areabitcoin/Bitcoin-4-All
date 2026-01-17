@@ -1,10 +1,10 @@
 ﻿# 5 Clase 5 - Dentro de Bitcoin: Minería, Halving y los Ciclos
 
-## :movie_camera: Video de la Clase
+## Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085116133.jpg)](https://vimeo.com/1085116133)
 
-:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085116133)**
+ **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085116133)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085116133?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
@@ -12,7 +12,7 @@
 ---
 ---
 
-##  Guión Completo
+## Guión Completo
 
 # Guión Clase 5 - Dentro de Bitcoin: cómo funciona Bitcoin? (minería, halving y los ciclos)
 
@@ -240,7 +240,7 @@ Este es el tema de la próxima clase. Ahora que aprendiste cómo funciona bitcoi
 
 ---
 
-### :loudspeaker: Comparte esta clase!
+### Comparte esta clase!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%205%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-5&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -257,7 +257,7 @@ Este es el tema de la próxima clase. Ahora que aprendiste cómo funciona bitcoi
 </a>
 </div>
 
-### :chart_with_upwards_trend: Tu Progreso en el Curso
+### Tu Progreso en el Curso
 
 <div class="course-progress">
 <strong>Clase 5 de 10</strong> (50% completo)

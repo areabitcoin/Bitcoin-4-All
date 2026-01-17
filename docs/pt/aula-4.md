@@ -1,10 +1,10 @@
-# Aula 4 - Descentralização, Blockchain e Teoria dos Jogos
+﻿# Aula 4 - Descentralização, Blockchain e Teoria dos Jogos
 
-## :movie\_camera: Video da Aula
+##  Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/j23TW7gnX2Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=j23TW7gnX2Y)
 
-:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=j23TW7gnX2Y)
+ [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=j23TW7gnX2Y)
 
 ***
 
@@ -28,7 +28,7 @@ Bitcoin continua essa mudança evolutiva e tecnológica trazendo ambos esses efe
 
 ![Slide 90](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-03.jpg)
 
-Bitcoin só consegue fazer isso porque é descentralizado. Sem descentralização, Bitcoin seria uma empresa. É a descentralização que diferencia Bitcoin de todo o resto e que proporciona imutabilidade. Se não há ninguém tomando decisões por outras pessoas significa que é uma rede que é dificil de mudar. Para que seja feita qualquer mudança,  quase todos os participantes precisam concordar em mudar. E isso não é nada fácil nem no Bitcoin e nem em qualquer sistema que envolva milhares de seres humanos tomando decisões. A descentralização é o que garante a imutabilidade das propriedades e que as regras do bitcoin seguirão as mesmas. Traz confiança de que ninguém conseguiria monopolizar ou corromper o bitcoin autoritariamente.
+Bitcoin só consegue fazer isso porque é descentralizado. Sem descentralização, Bitcoin seria uma empresa. É a descentralização que diferencia Bitcoin de todo o resto e que proporciona imutabilidade. Se não há ninguém tomando decisões por outras pessoas significa que é uma rede que é dificil de mudar. Para que seja feita qualquer mudança, quase todos os participantes precisam concordar em mudar. E isso não é nada fácil nem no Bitcoin e nem em qualquer sistema que envolva milhares de seres humanos tomando decisões. A descentralização é o que garante a imutabilidade das propriedades e que as regras do bitcoin seguirão as mesmas. Traz confiança de que ninguém conseguiria monopolizar ou corromper o bitcoin autoritariamente.
 
 A descentralização do Bitcoin acontece porque ele é uma rede P2P, ponto a ponto. É formada por computadores que se conectam entre si e seguem regras com as quais todos concordam. Não existe um servidor central coordenando ou armazenando os dados, como acontece em redes centralizadas. Também quer dizer que não há um único ponto de falha. Se qualquer computador conectado à rede cair, for destruído ou atacado, a rede sobrevive e segue funcionando porque existem milhares de outros cumprindo a mesma função de forma independente.
 
@@ -60,7 +60,7 @@ E o terceiro tipo de participante da rede são os nodes. Nodes são os nós, sã
 
 ![Slide 94](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-07.jpg)
 
-Segundo o site [Bitnodes](https://bitnodes.io/), existem mais de 65 mil nodes Bitcoin funcionando globalmente e  a maioria deles, 65%, não tem uma localização exata identificada. São esses milhares de nodes em computadores comuns conectados entre si que tornam a rede Bitcoin o sistema computacional mais forte, resistente e acessível para qualquer pessoa em qualquer lugar do mundo verificar. Qualquer pessoa pode rodar um node e o custo é baixo, você pode rodar um node inclusive em um computador velho que você tem em casa.
+Segundo o site [Bitnodes](https://bitnodes.io/), existem mais de 65 mil nodes Bitcoin funcionando globalmente e a maioria deles, 65%, não tem uma localização exata identificada. São esses milhares de nodes em computadores comuns conectados entre si que tornam a rede Bitcoin o sistema computacional mais forte, resistente e acessível para qualquer pessoa em qualquer lugar do mundo verificar. Qualquer pessoa pode rodar um node e o custo é baixo, você pode rodar um node inclusive em um computador velho que você tem em casa.
 
 Os nodes verificam o tempo todo os registros. É por isso que a contabilidade da rede Bitcoin é redonda, porque os nodes verificam constantemente se as transações fecham e se o número de moedas circulando está correto. É um sistema de registros distribuído, em que a contabilidade sempre bate certinho, isso também é algo poderoso e único.
 
@@ -168,7 +168,7 @@ Bom, nessa aula nós começamos a mergulhar no funcionamento do Bitcoin, mas ess
 
 ---
 
-### :loudspeaker: Compartilhe esta aula!
+### Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%204%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-4&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -185,7 +185,7 @@ Bom, nessa aula nós começamos a mergulhar no funcionamento do Bitcoin, mas ess
 </a>
 </div>
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 4 de 10</strong> (40% completo)

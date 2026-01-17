@@ -1,12 +1,12 @@
-﻿# :trophy: Certificado de Conclusão
+﻿# Certificado de Conclusão
 
-Parabéns por completar o curso **Bitcoin 4 All**! :tada:
+Parabéns por completar o curso **Bitcoin 4 All**! 
 
 ---
 
 <div align="center">
 
-## :star: CERTIFICADO :star:
+## CERTIFICADO 
 
 ### Bitcoin 4 All
 
@@ -24,25 +24,25 @@ Curso completo de 10 aulas sobre Bitcoin
 
 ---
 
-:ballot_box_with_check: Aula 1 - O que é o Bitcoin?
+ Aula 1 - O que é o Bitcoin?
 
-:ballot_box_with_check: Aula 2 - O problema do dinheiro fiat
+ Aula 2 - O problema do dinheiro fiat
 
-:ballot_box_with_check: Aula 3 - Por que Bitcoin é um dinheiro melhor
+ Aula 3 - Por que Bitcoin é um dinheiro melhor
 
-:ballot_box_with_check: Aula 4 - Descentralização, Blockchain e Teoria dos Jogos
+ Aula 4 - Descentralização, Blockchain e Teoria dos Jogos
 
-:ballot_box_with_check: Aula 5 - Mineração, Halving e os Ciclos
+ Aula 5 - Mineração, Halving e os Ciclos
 
-:ballot_box_with_check: Aula 6 - Por que Bitcoin deve continuar valorizando?
+ Aula 6 - Por que Bitcoin deve continuar valorizando?
 
-:ballot_box_with_check: Aula 7 - Como ter Bitcoin?
+ Aula 7 - Como ter Bitcoin?
 
-:ballot_box_with_check: Aula 8 - Rebatendo mentiras (FUDs) sobre Bitcoin
+ Aula 8 - Rebatendo mentiras (FUDs) sobre Bitcoin
 
-:ballot_box_with_check: Aula 9 - Carteiras e como guardar Bitcoin
+ Aula 9 - Carteiras e como guardar Bitcoin
 
-:ballot_box_with_check: Aula 10 - Soberania com seu Bitcoin
+ Aula 10 - Soberania com seu Bitcoin
 
 ---
 
@@ -58,7 +58,7 @@ Curso completo de 10 aulas sobre Bitcoin
 
 ---
 
-## :rocket: Próximos Passos
+## Próximos Passos
 
 Agora que você completou o curso, aqui estão algumas sugestões:
 
@@ -79,7 +79,7 @@ Agora que você completou o curso, aqui estão algumas sugestões:
 
 ---
 
-## :link: Compartilhe seu Certificado!
+## Compartilhe seu Certificado!
 
 [![Twitter](https://img.shields.io/badge/Twitter-Compartilhar-blue?logo=twitter)](https://twitter.com/intent/tweet?text=Acabei%20de%20completar%20o%20curso%20Bitcoin%204%20All!%20%F0%9F%8E%93%20Aprenda%20sobre%20Bitcoin%20gratuitamente%3A%20https%3A%2F%2Fareabitcoin.github.io%2FBitcoin-4-All%2F%20%40aaborges_%20%23Bitcoin)
 
@@ -87,4 +87,4 @@ Agora que você completou o curso, aqui estão algumas sugestões:
 
 ---
 
-:arrow_left: [Voltar para Aula 10](aula-10.md) | :house: [Início](../README.md)
+ [Voltar para Aula 10](aula-10.md) | [Início](../README.md)

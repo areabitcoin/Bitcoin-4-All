@@ -1,10 +1,10 @@
-# Aula 1 - O que é o Bitcoin e por que ele foi criado?
+﻿# Aula 1 - O que é o Bitcoin e por que ele foi criado?
 
-### :movie\_camera: Video da Aula
+###  Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/6Ly0L8_9Pu8/maxresdefault.jpg)](https://www.youtube.com/watch?v=6Ly0L8_9Pu8)
 
-:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=6Ly0L8_9Pu8)
+ [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=6Ly0L8_9Pu8)
 
 ***
 
@@ -199,7 +199,7 @@ Até a próxima aula!
 
 ---
 
-### :loudspeaker: Compartilhe esta aula!
+### Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%201%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -216,7 +216,7 @@ Até a próxima aula!
 </a>
 </div>
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 1 de 10</strong> (10% completo)

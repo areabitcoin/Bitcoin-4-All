@@ -1,10 +1,10 @@
-# 1 Clase 1 - Qué es Bitcoin y por qué fue creado?
+﻿# 1 Clase 1 - Qué es Bitcoin y por qué fue creado?
 
-## :movie_camera: Video de la Clase
+## Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085118505.jpg)](https://vimeo.com/1085118505)
 
-:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085118505)**
+ **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085118505)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085118505?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
@@ -12,7 +12,7 @@
 ---
 ---
 
-##  Guión Completo
+## Guión Completo
 
 Guión de clase 1 - ¿Qué es Bitcoin y por qué se creó?
 
@@ -72,7 +72,7 @@ Bitcoin es el resultado de la combinación de varias tecnologías. Por separado,
 
 ![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-05.jpg)
 
-La primera tecnología que utilizó Satoshi fueron los timestamps, sellos de fecha y hora que crean una línea temporal (una timechain) que no se puede modificar.  Esa línea temporal es esencial para garantizar que los registros no puedan ser alterados. Mucha gente la conoce como "blockchain", donde los bloques de información están conectados entre sí. Esos bloques registran las transacciones de forma inmutable y en el orden en que se producen, garantizando la integridad y la transparencia del sistema.
+La primera tecnología que utilizó Satoshi fueron los timestamps, sellos de fecha y hora que crean una línea temporal (una timechain) que no se puede modificar. Esa línea temporal es esencial para garantizar que los registros no puedan ser alterados. Mucha gente la conoce como "blockchain", donde los bloques de información están conectados entre sí. Esos bloques registran las transacciones de forma inmutable y en el orden en que se producen, garantizando la integridad y la transparencia del sistema.
 
 Satoshi también utilizó la criptografía y los algoritmos criptográficos, como SHA-256, para hacer que la red funcionara de forma segura y mediante códigos y secretos. Eso significa que sólo los que tienen la "clave" correcta, es decir, sólo los que conocen la respuesta a ese secreto, pueden mover fondos. La criptografía es una tecnología fundamental en el conjunto de la red Bitcoin.
 
@@ -117,7 +117,7 @@ Bitcoin funcionó durante casi un año y medio sin ningún valor monetario; no v
 
 El crecimiento de la red Bitcoin fue totalmente orgánico porque no tuvo financiación inicial, ni participación de capital de riesgo, ni expectativas de beneficios. Era un protocolo mantenido por cypherpunks que estaban descubriendo cómo podía funcionar y evolucionar todo ese montón de código.
 
-Y a diferencia de todos los demás fundadores de proyectos de monedas digitales que surgieron después, no hay constancia de que Satoshi vendiera ni un solo bitcoin.  Creó Bitcoin y, tras construir las bases del protocolo, desapareció sin obtener nunca beneficios. Satoshi dejó Bitcoin como un legado inestimable a la humanidad y no recibió nada a cambio.
+Y a diferencia de todos los demás fundadores de proyectos de monedas digitales que surgieron después, no hay constancia de que Satoshi vendiera ni un solo bitcoin. Creó Bitcoin y, tras construir las bases del protocolo, desapareció sin obtener nunca beneficios. Satoshi dejó Bitcoin como un legado inestimable a la humanidad y no recibió nada a cambio.
 
 
 ![Slide 9](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-09.jpg)
@@ -144,7 +144,7 @@ Creado por Ross Ulbricht, Silk Road pretendía ser un mercado verdaderamente lib
 
 ![Slide 11](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-11.jpg)
 
-Silk Road ofrecía cientos de productos, equipos, servicios e incluso drogas.  Todos los productos y quienes trabajaron en la plataforma cobraron el 100% en bitcoin. En aquel momento, un bitcoin valía unos 50 céntimos de dólar. El objetivo era ser como Amazon o eBay, pero totalmente gratis y respaldado por Bitcoin.
+Silk Road ofrecía cientos de productos, equipos, servicios e incluso drogas. Todos los productos y quienes trabajaron en la plataforma cobraron el 100% en bitcoin. En aquel momento, un bitcoin valía unos 50 céntimos de dólar. El objetivo era ser como Amazon o eBay, pero totalmente gratis y respaldado por Bitcoin.
 
 Sin embargo, el éxito de la plataforma llamó la atención de las autoridades. El mercado Silk Road fue finalmente cerrado y su fundador, Ross Ulbricht, fue detenido y condenado a cadena perpetua. Eso se debe a que, aunque Ross tenía buenas intenciones, Silk Road se convirtió rápidamente en un mercado para el comercio de drogas y productos ilegales, a pesar de tener normas internas que prohibían la comercialización de estos artículos. 
 
@@ -212,7 +212,7 @@ En la próxima lección, exploraremos esos problemas en detalle y comprenderás 
 
 ---
 
-##  Material Complementario
+## Material Complementario
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201)
@@ -222,7 +222,7 @@ En la próxima lección, exploraremos esos problemas en detalle y comprenderás 
 [ Anterior](intro.md) | [Siguiente ](clase-2.md)
 ---
 
-### :loudspeaker: Comparte esta clase!
+### Comparte esta clase!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%201%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -239,7 +239,7 @@ En la próxima lección, exploraremos esos problemas en detalle y comprenderás 
 </a>
 </div>
 
-### :chart_with_upwards_trend: Tu Progreso en el Curso
+### Tu Progreso en el Curso
 
 <div class="course-progress">
 <strong>Clase 1 de 10</strong> (10% completo)

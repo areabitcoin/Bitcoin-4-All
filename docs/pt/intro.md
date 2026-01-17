@@ -1,4 +1,4 @@
-# Introdução
+﻿# Introdução
 
 Bem-vindo ao curso **Bitcoin 4 All**! Uma jornada completa, gratuita e de código aberto para entender Bitcoin do zero.
 
@@ -30,18 +30,18 @@ A gente acredita que o conhecimento sobre Bitcoin precisa ser universal e acess�
 
 Nós preparamos um curso com **10 aulas**, cada uma com cerca de 10 minutos, para te guiar pelos principais conceitos e responder às dúvidas mais comuns sobre o Bitcoin.
 
-| Aula | Tema                                                                    |
+| Aula | Tema |
 | ---- | ----------------------------------------------------------------------- |
-| 1    | O que é o Bitcoin e por que ele foi criado?                             |
-| 2    | Qual o problema do dinheiro atual?                                      |
-| 3    | Por que o Bitcoin é um dinheiro melhor?                                 |
-| 4    | Por dentro do Bitcoin: como ele funciona?                               |
-| 5    | Por que o Bitcoin deve continuar valorizando?                           |
-| 6    | Formas de ter Bitcoin: Exchange, P2P ou economias circulares            |
-| 7    | Rebatendo mentiras (FUDs) sobre Bitcoin                                 |
-| 8    | Por que fazer autocustódia e não deixar tudo na exchange ou banco?      |
-| 9    | O que são e como usar carteiras de Bitcoin?                             |
-| 10   | Como sacar da Exchange e conquistar soberania financeira com o Bitcoin? |
+| 1 | O que é o Bitcoin e por que ele foi criado? |
+| 2 | Qual o problema do dinheiro atual? |
+| 3 | Por que o Bitcoin é um dinheiro melhor? |
+| 4 | Por dentro do Bitcoin: como ele funciona? |
+| 5 | Por que o Bitcoin deve continuar valorizando? |
+| 6 | Formas de ter Bitcoin: Exchange, P2P ou economias circulares |
+| 7 | Rebatendo mentiras (FUDs) sobre Bitcoin |
+| 8 | Por que fazer autocustódia e não deixar tudo na exchange ou banco? |
+| 9 | O que são e como usar carteiras de Bitcoin? |
+| 10 | Como sacar da Exchange e conquistar soberania financeira com o Bitcoin? |
 
 ***
 
@@ -72,8 +72,8 @@ Estamos aqui para te ajudar a entender, adotar e espalhar essa ideia transformad
 ## Links
 
 * [Area Bitcoin](https://areabitcoin.co)
-* :bird: [Twitter/X](https://x.com/areabitcoin)
-* :tv: [YouTube](https://youtube.com/@AreaBitcoin)
-* :camera: [Instagram](https://instagram.com/area.bitcoin)
+* [Twitter/X](https://x.com/areabitcoin)
+* [YouTube](https://youtube.com/@AreaBitcoin)
+* [Instagram](https://instagram.com/area.bitcoin)
 
 Conteúdo sob licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

@@ -1,14 +1,14 @@
-# :books: Bitcoin 4 All
+﻿# Bitcoin 4 All
 
 ¡Bienvenido a **Bitcoin 4 All**! Un viaje completo, gratuito y de código abierto para entender Bitcoin desde cero.
 
-## :movie_camera: Presentación del Curso
+## Presentación del Curso
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085119221?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Intro"></iframe></div>
 
 ---
 
-## :scroll: Guión Completo
+## Guión Completo
 
 ¡Hola! Bienvenido a Bitcoin4All, un curso gratuito y open source creado por Area Bitcoin.
 
@@ -26,7 +26,7 @@ Creemos que el conocimiento sobre Bitcoin necesita ser universal y accesible par
 
 ---
 
-## :bookmark_tabs: Contenido Programático
+## Contenido Programático
 
 Preparamos un curso con **10 clases**, cada una con cerca de 10 minutos, para guiarte por los principales conceptos y responder a las dudas más comunes sobre Bitcoin.
 
@@ -45,13 +45,13 @@ Preparamos un curso con **10 clases**, cada una con cerca de 10 minutos, para gu
 
 ---
 
-## :sparkles: ¿Qué puedes hacer?
+## ¿Qué puedes hacer?
 
-:mortar_board: **Aprende**: mira el curso a tu ritmo y descubre cómo funciona Bitcoin, por qué es importante y cómo proteger bien tus satoshis.
+ **Aprende**: mira el curso a tu ritmo y descubre cómo funciona Bitcoin, por qué es importante y cómo proteger bien tus satoshis.
 
-:mega: **Comparte**: muestra este material a amigos, familia o a ese colega curioso que siempre te pregunta "¿qué es Bitcoin exactamente?".
+ **Comparte**: muestra este material a amigos, familia o a ese colega curioso que siempre te pregunta "¿qué es Bitcoin exactamente?".
 
-:teacher: **Enseña**: usa el contenido para llevar Bitcoin adelante. ¿Quién sabe si organizas un meetup o ayudas a formar una nueva generación de bitcoiners?
+ **Enseña**: usa el contenido para llevar Bitcoin adelante. ¿Quién sabe si organizas un meetup o ayudas a formar una nueva generación de bitcoiners?
 
 ---
 
@@ -63,17 +63,17 @@ Estamos aquí para ayudarte a entender, adoptar y esparcir esta idea transformad
 
 ---
 
-## :rocket: Empezar Ahora
+## Empezar Ahora
 
-[Empezar Clase 1 :arrow_right:](clase-1.md)
+[Empezar Clase 1 ](clase-1.md)
 
 ---
 
-## :link: Links
+## Links
 
-- :globe_with_meridians: [Area Bitcoin](https://areabitcoin.co)
-- :bird: [Twitter/X](https://x.com/areabitcoin)
-- :tv: [YouTube](https://youtube.com/@AreaBitcoin)
-- :camera: [Instagram](https://instagram.com/area.bitcoin)
+- [Area Bitcoin](https://areabitcoin.co)
+- [Twitter/X](https://x.com/areabitcoin)
+- [YouTube](https://youtube.com/@AreaBitcoin)
+- [Instagram](https://instagram.com/area.bitcoin)
 
-:cc: Contenido bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+ Contenido bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

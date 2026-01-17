@@ -1,10 +1,10 @@
-# Aula 10 - Soberania com seu Bitcoin
+﻿# Aula 10 - Soberania com seu Bitcoin
 
-### :movie\_camera: Video da Aula
+###  Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/cUTJOPAI0Wg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
-:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
+ [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
 ***
 
@@ -175,7 +175,7 @@ Até uma próxima e Opt Out!
 
 ---
 
-### :loudspeaker: Compartilhe esta aula!
+### Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%2010%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -192,7 +192,7 @@ Até uma próxima e Opt Out!
 </a>
 </div>
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 10 de 10</strong> (100% completo)

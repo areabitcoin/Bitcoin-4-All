@@ -1,10 +1,10 @@
-# 9 Clase 9 - Cuál es la mejor forma de guardar Bitcoin y qué son las billeteras?
+﻿# 9 Clase 9 - Cuál es la mejor forma de guardar Bitcoin y qué son las billeteras?
 
-## :movie_camera: Video de la Clase
+## Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085128853.jpg)](https://vimeo.com/1085128853)
 
-:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085128853)**
+ **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085128853)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085128853?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
@@ -12,7 +12,7 @@
 ---
 ---
 
-##  Guión Completo
+## Guión Completo
 
 Guión de clase 9 - Cuál es la mejor forma de almacenar Bitcoin y qué son las billeteras?
 
@@ -199,7 +199,7 @@ Entonces en esta lección has aprendido por qué es importante la autocustodia, 
 
 ---
 
-##  Material Complementario
+## Material Complementario
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209)
@@ -209,7 +209,7 @@ Entonces en esta lección has aprendido por qué es importante la autocustodia, 
 [ Anterior](clase-8.md) | [Siguiente ](clase-10.md)
 ---
 
-### :loudspeaker: Comparte esta clase!
+### Comparte esta clase!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%209%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-9&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -226,7 +226,7 @@ Entonces en esta lección has aprendido por qué es importante la autocustodia, 
 </a>
 </div>
 
-### :chart_with_upwards_trend: Tu Progreso en el Curso
+### Tu Progreso en el Curso
 
 <div class="course-progress">
 <strong>Clase 9 de 10</strong> (90% completo)
