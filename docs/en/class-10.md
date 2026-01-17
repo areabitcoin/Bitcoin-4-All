@@ -1,9 +1,14 @@
 #  Class 10 - How to withdraw from exchange and have sovereignty with your Bitcoin?
 
-##  Class Video
+## :movie_camera: Class Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086487470?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 10"></iframe></div>
+[![Watch Video](https://img.youtube.com/vi/wpNCCAipL8M/maxresdefault.jpg)](https://www.youtube.com/watch?v=wpNCCAipL8M)
 
+:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=wpNCCAipL8M)**
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/wpNCCAipL8M?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+
+---
 ---
 
 ##  Full Script
