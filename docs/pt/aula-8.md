@@ -1,4 +1,4 @@
-# :eight: Aula 8 - Aula 8
+# :eight: Aula 8 - Rebatendo mentiras (FUDs) sobre Bitcoin
 
 ## :movie_camera: Vídeo da Aula
 

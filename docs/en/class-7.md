@@ -1,4 +1,4 @@
-# :seven: Class 7 - Class 7
+# :seven: Class 7 - How to get Bitcoin? Mining, Exchange, P2P or Circular Economies
 
 ## :movie_camera: Video
 

@@ -1,4 +1,4 @@
-# :six: Class 6 - Class 6
+# :six: Class 6 - Why should Bitcoin continue to appreciate?
 
 ## :movie_camera: Video
 

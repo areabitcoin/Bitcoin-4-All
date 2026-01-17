@@ -1,4 +1,4 @@
-# :eight: Class 8 - Class 8
+# :eight: Class 8 - Debunking lies (FUDs) about Bitcoin
 
 ## :movie_camera: Video
 

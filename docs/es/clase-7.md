@@ -1,4 +1,4 @@
-# :seven: Clase 7 - Clase 7
+# :seven: Clase 7 - Cómo obtener Bitcoin? Minería, Exchange, P2P o Economías Circulares
 
 ## :movie_camera: Video de la Clase
 

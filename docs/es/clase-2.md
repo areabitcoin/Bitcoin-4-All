@@ -1,4 +1,4 @@
-# :two: Clase 2 - Clase 2
+# :two: Clase 2 - El problema del dinero fiat
 
 ## :movie_camera: Video de la Clase
 

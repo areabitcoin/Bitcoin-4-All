@@ -1,4 +1,4 @@
-# :two: Aula 2 - Aula 2
+# :two: Aula 2 - O problema do dinheiro fiat
 
 ## :movie_camera: Vídeo da Aula
 

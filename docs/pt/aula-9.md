@@ -1,4 +1,4 @@
-# :nine: Aula 9 - Aula 9
+# :nine: Aula 9 - Qual a melhor forma de guardar Bitcoin e o que são carteiras?
 
 ## :movie_camera: Vídeo da Aula
 

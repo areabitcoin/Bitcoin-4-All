@@ -1,4 +1,4 @@
-# :six: Clase 6 - Clase 6
+# :six: Clase 6 - Por qué Bitcoin debería seguir valorizándose?
 
 ## :movie_camera: Video de la Clase
 

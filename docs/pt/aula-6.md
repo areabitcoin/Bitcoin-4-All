@@ -1,4 +1,4 @@
-# :six: Aula 6 - Aula 6
+# :six: Aula 6 - Por que Bitcoin deve continuar valorizando?
 
 ## :movie_camera: Vídeo da Aula
 

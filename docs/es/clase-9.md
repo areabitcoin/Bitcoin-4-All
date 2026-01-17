@@ -1,4 +1,4 @@
-# :nine: Clase 9 - Clase 9
+# :nine: Clase 9 - Cuál es la mejor forma de guardar Bitcoin y qué son las billeteras?
 
 ## :movie_camera: Video de la Clase
 

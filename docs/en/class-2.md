@@ -1,4 +1,4 @@
-# :two: Class 2 - Class 2
+# :two: Class 2 - The problem with fiat money
 
 ## :movie_camera: Video
 

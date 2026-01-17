@@ -1,4 +1,4 @@
-# :keycap_ten: Clase 10 - Cómo retirar del exchange y tener soberanía con tu Bitcoin
+# :keycap_ten: Clase 10 - Cómo retirar del exchange y tener soberanía con tu Bitcoin?
 
 ## :movie_camera: Video de la Clase
 

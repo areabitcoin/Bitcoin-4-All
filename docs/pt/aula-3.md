@@ -1,4 +1,4 @@
-# :three: Aula 3 - Aula 3
+# :three: Aula 3 - Por que Bitcoin é um dinheiro melhor
 
 ## :movie_camera: Vídeo da Aula
 

@@ -1,4 +1,4 @@
-# :one: Clase 1 - Clase 1
+# :one: Clase 1 - Qué es Bitcoin y por qué fue creado?
 
 ## :movie_camera: Video de la Clase
 

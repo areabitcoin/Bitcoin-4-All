@@ -1,4 +1,4 @@
-# :three: Class 3 - Class 3
+# :three: Class 3 - Why Bitcoin is better money
 
 ## :movie_camera: Video
 

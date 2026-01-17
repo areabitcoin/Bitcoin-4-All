@@ -1,4 +1,4 @@
-# :three: Clase 3 - Clase 3
+# :three: Clase 3 - Por qué Bitcoin es un dinero mejor
 
 ## :movie_camera: Video de la Clase
 

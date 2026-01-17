@@ -1,4 +1,4 @@
-# :seven: Aula 7 - Aula 7
+# :seven: Aula 7 - Como ter Bitcoin? Mineração, Exchange, P2P ou Economias Circulares
 
 ## :movie_camera: Vídeo da Aula
 

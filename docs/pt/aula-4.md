@@ -1,4 +1,4 @@
-# :four: Aula 4 - Por dentro do Bitcoin: Descentralizacao, Blockchain e Teoria dos Jogos
+# :four: Aula 4 - Por dentro do Bitcoin: Descentralização, Blockchain e Teoria dos Jogos
 
 ## :movie_camera: Video da Aula
 

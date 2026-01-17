@@ -1,4 +1,4 @@
-# :eight: Clase 8 - Clase 8
+# :eight: Clase 8 - Desmintiendo mentiras (FUDs) sobre Bitcoin
 
 ## :movie_camera: Video de la Clase
 

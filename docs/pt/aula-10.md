@@ -1,4 +1,4 @@
-# :keycap_ten: Aula 10 - Aula 10
+# :keycap_ten: Aula 10 - Como sacar da exchange e ter soberania com seu Bitcoin?
 
 ## :movie_camera: Vídeo da Aula
 

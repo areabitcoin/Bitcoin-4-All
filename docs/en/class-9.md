@@ -1,4 +1,4 @@
-# :nine: Class 9 - Class 9
+# :nine: Class 9 - What is the best way to store Bitcoin and what are wallets?
 
 ## :movie_camera: Video
 

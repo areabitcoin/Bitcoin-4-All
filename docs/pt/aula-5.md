@@ -1,4 +1,4 @@
-# :five: Aula 5 - Por dentro do Bitcoin: Mineracao, Halving e os Ciclos
+# :five: Aula 5 - Por dentro do Bitcoin: Mineração, Halving e os Ciclos
 
 ## :movie_camera: Video da Aula
 

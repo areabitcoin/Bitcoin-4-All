@@ -1,4 +1,4 @@
-# :one: Class 1 - Class 1
+# :one: Class 1 - What is Bitcoin and why was it created?
 
 ## :movie_camera: Video
 

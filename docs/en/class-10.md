@@ -1,4 +1,4 @@
-# :keycap_ten: Class 10 - Class 10
+# :keycap_ten: Class 10 - How to withdraw from exchange and have sovereignty with your Bitcoin?
 
 ## :movie_camera: Video
 
