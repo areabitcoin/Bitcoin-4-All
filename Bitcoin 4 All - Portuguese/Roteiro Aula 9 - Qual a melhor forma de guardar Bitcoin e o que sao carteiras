@@ -1,0 +1,154 @@
+﻿# Roteiro Aula 9 - Qual a melhor forma de guardar Bitcoin e o que s├úo carteiras?
+
+Por que guardar Bitcoin ├® t├úo importante? Se voc├¬ est├í come├ºando agora no Bitcoin, essa pergunta faz muito sentido! ├ë normal pensar: "U├®, n├úo ├® s├│ comprar e esperar o pre├ºo subir?" E a├¡ vem a surpresa: tamb├®m tem que aprender a guardar.
+
+Mas relaxa, guardar Bitcoin n├úo ├® nenhum bicho de sete cabe├ºas! Mas sim uma parte fundamental para garantir que, daqui a alguns anos, todo o esfor├ºo de hoje vai valer a pena e seus Bitcoin ainda estar├úo com voc├¬, seguros e intocados.
+
+
+!(slide 236)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-01.jpg]
+Bitcoin funciona de maneira diferente dos bancos e do sistema financeiro tradicional, pois ele permite que voc├¬ seja de verdade o dono do seu pr├│prio dinheiro, sem depender de mais ningu├®m, muito menos de bancos. Isso ├® algo poderoso e ├® o oposto de como a maioria das pessoas guarda o seu pr├│prio dinheiro hoje em dia.
+
+No sistema financeiro tradicional, o dinheiro que voc├¬ tem na conta banc├íria n├úo est├í exatamente sob o seu controle. Quem cuida dele, na pr├ítica, ├® o banco, que faz isso sob a promessa de que o SEU dinheiro vai estar seguro com eles.┬á
+
+
+!(slide 237)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-02.jpg]
+Mas a hist├│ria tem provado que o dinheiro no banco n├úo est├í no banco, n├úo ├® seu e n├úo ├® dinheiro de verdade. Isso porque os bancos n├úo tem o dinheiro dos clientes: se todo mundo que tem conta banc├íria resolver sacar o seu pr├│prio dinheiro, os bancos quebram. Eles n├úo suportariam movimentos de saques em massa.┬á
+
+
+!(slide 238)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-03.jpg]
+├ë o que aconteceu na crise banc├íria em 2023 nos EUA em que bancos quebraram quando clientes correram para sacar com medo da fal├¬ncia desses intermedi├írios. At├® o Credit Suisse teve que ser resgatado pelo UBS, sen├úo iria falir. A hist├│ria t├í repleta de provas de como bancos n├úo tem o dinheiro das pessoas caso todos precisem sacar seus saldos de uma hora pra outra.
+
+
+!(slide 239)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-05.jpg]
+O dinheiro no banco nem ├® seu de verdade. Quando voc├¬ deposita dinheiro no banco, ele deixa de ser seu. Isso mesmo! O banco vira o dono e voc├¬ passa a ser um "credor". Voc├¬ confia que ele vai guardar direitinho e devolver quando pedir, mas essa confian├ºa tem seus riscos.
+
+Parece seguro, n├®? Mas n├úo ├® bem assim. Bancos podem quebrar, como aconteceu na crise de 2008 com o Lehman Brothers. E a├¡, quem tinha dinheiro l├í ficou na m├úo. Mesmo com seguros e prote├º├Áes, esses fundos geralmente s├│ cobrem uma parte do montante que voc├¬ tinha guardado.
+
+E se isso j├í n├úo fosse o bastante, quando voc├¬ precisa sacar uma quantia maior, o banco pode dificultar sua vida. Perguntas sem fim, transa├º├Áes bloqueadas, limites di├írios... Tudo porque, enquanto o seu dinheiro est├í l├í, o banco usa ele pra emprestar e investir como ele bem entender.
+
+Agora imagina: em uma crise real, quando voc├¬ mais precisa acessar o seu dinheiro, o banco pode simplesmente n├úo liberar. ├ë por isso que tanta gente est├í acordando pra import├óncia do Bitcoin, onde voc├¬ tem o controle total do seu dinheiro, sem depender de ningu├®m.
+
+!(slide 240)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-06.jpg]
+Mas se voc├¬ acha que "o banco nunca faria isso comigo", ├® bom saber que j├í aconteceu e pode acontecer de novo. Quer um exemplo? No L├¡bano, em 2023, a crise econ├┤mica foi t├úo grande que os bancos simplesmente trancaram os saques. As pessoas acordaram e descobriram que n├úo podiam mais sacar o pr├│prio dinheiro.
+
+!(slide 241)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-07.jpg]
+E n├úo ├® s├│ l├í longe que isso aconteceu. No Brasil, em 1994, a galera levou um golpe com o famoso confisco do Plano Collor. O governo congelou as poupan├ºas de todo mundo. Resultado? Quem tinha juntado dinheiro de uma vida inteira, viu sua grana ser confiscada sem aviso pr├®vio e sem chance de sacar antes.
+
+Outro caso foi na crise banc├íria do Chipre em 2013. Os bancos fecharam as portas, congelaram as contas e o governo decidiu confiscar parte do dinheiro das pessoas para "salvar" o sistema financeiro. O governo imp├┤s um confisco direto nas contas banc├írias como parte do resgate financeiro organizado pela Uni├úo Europeia. Contas com saldo acima de 100.000 euros foram as mais afetadas. Para quem tinha mais do que esse valor, o governo simplesmente confiscou uma parte significativa -- em alguns casos, at├® 40% ou mais do valor excedente.
+
+Isso significa que, se voc├¬ tinha 200.000 euros no banco, poderia acordar com apenas 140.000 ou at├® menos, sem aviso pr├®vio e sem chance de recuperar o que foi tomado. Essa medida foi chamada de bail-in, onde o ├┤nus da crise recaiu sobre a popula├º├úo que tinha dinheiro nos bancos.
+
+Situa├º├Áes como essa deixam claro que, no sistema financeiro tradicional, o dinheiro no banco nunca est├í 100% sob o seu controle. Com o Bitcoin, por outro lado, voc├¬ n├úo precisa depender de bancos ou governos para proteger sua riqueza.┬á
+
+Esses exemplos mostram que quando o sistema financeiro trava ou entra em colapso, quem acaba pagando o pre├ºo s├úo as pessoas comuns, que acreditaram que seu dinheiro estava seguro nessas empresas ou institui├º├Áes.
+
+
+!(slide 242)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-08.jpg]
+E o dinheiro que voc├¬ deixa no banco n├úo ├® dinheiro de verdade. ├ë fiat, ├® um cubo de gelo sem propriedades monet├írias que derrete de valor. Bitcoin ├® dinheiro de verdade, tem propriedades monet├írias s├│lidas e tende a valorizar ao longo do tempo. Como voc├¬ n├úo precisa de ningu├®m pra armazenar, ele devolve ├ás pessoas o controle sobre seu pr├│prio dinheiro. Mas junto com essa liberdade vem tamb├®m responsabilidades.┬á
+
+Bitcoin ├® um ativo ao portador, o que significa que s├│ quem tem as chaves privadas que d├úo acesso ao saldo pode moviment├í-lo. Diferente do sistema tradicional, onde os bancos guardam o seu dinheiro (e decidem o que voc├¬ pode ou n├úo fazer com ele), no Bitcoin, voc├¬ ├® o ├║nico respons├ível. Se perder suas chaves, perde o acesso ao seu saldo para sempre.
+
+Por isso, proteger seu Bitcoin ├® garantir que ningu├®m, al├®m de voc├¬, vai ter acesso ├ás suas chaves e, consequentemente, ao seu patrim├┤nio. ├ë um poder enorme! 
+
+!(slide 243)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-09.jpg]
+Com Bitcoin pela primeira vez na hist├│ria o seu dinheiro ├® inacess├¡vel para terceiros. S├│ voc├¬ pode movimentar. ├ë por isso que fazer a pr├│pria cust├│dia ├® a melhor forma de guardar Bitcoin. Quando voc├¬ faz isso, voc├¬ elimina as vulnerabilidades de confiar em terceiros que podem falhar. Seja porque n├úo cuidaram bem ou porque queriam meter a m├úo no dinheiro alheio propositalmente.
+
+A verdadeira liberdade financeira est├í de volta nas suas m├úos. Ent├úo por que n├úo usar esse superpoder que bitcoin oferece, n├úo ├® mesmo?
+
+
+!(slide 244)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-10.jpg]
+Bitcoiners vivem repetindo a famosa frase: "Not your keys, not your coins", sem suas chaves, sem suas moedas. E quer saber? Eles t├¬m toda raz├úo.
+
+Exchanges, que deveriam ser s├│ um lugar pra comprar Bitcoin, acabaram virando uma vers├úo moderna dos bancos, s├│ que no universo do Bitcoin. E assim como bancos podem quebrar e levar o dinheiro dos clientes junto, exchanges tamb├®m podem dar calote e desaparecer com os Bitcoins que estavam sob a guarda delas.
+
+Se voc├¬ deixa seus Bitcoins na exchange, est├í correndo o mesmo risco que as pessoas correm quando deixam tudo no banco. A diferen├ºa? Com o Bitcoin, voc├¬ tem a op├º├úo de ser seu pr├│prio banco.
+
+!(slide 245)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-11.jpg]
+Isso ficou mais do que claro quando rolou o caso da Mt. Gox, que era a maior exchange do mundo l├í em 2014. A plataforma foi hackeada e puf... 740 mil Bitcoins de clientes desapareceram. Na ├®poca, isso j├í era uma grana absurda, milh├Áes de d├│lares. Hoje, seria coisa de bilh├Áes.
+
+E n├úo foi s├│ a Mt. Gox. Casos mais recentes, como o colapso da FTX, mostram que confiar de olhos fechados em exchanges ou bancos ├® um risco gigante. Se algo d├í errado, seja um hack, m├í gest├úo ou fraude, voc├¬ pode perder tudo o que tinha, e a chance de recuperar ├® muito pequena.
+
+A li├º├úo ├® simples: deixar seus Bitcoin numa corretora ├® pedir pra jogar com a sorte. O melhor ├® tirar eles de l├í e guardar voc├¬ mesmo, porque quando voc├¬ cuida das suas chaves, voc├¬ cuida do seu dinheiro.
+
+
+!(slide 246)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-12.jpg]
+A FTX foi um dos maiores exemplos do porque n├úo deixar Bitcoin em exchanges. Em 2022, de um dia pro outro, ela revelou ser uma fraude gigantesca. Milhares de clientes perderam o que tinham e est├úo at├® hoje brigando na justi├ºa pra tentar recuperar seus fundos. E sabe o pior? Esses processos podem levar anos, e muita gente pode nunca mais ver o dinheiro de volta.
+
+!(slide 247)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-13.jpg]
+E n├úo foi s├│ a FTX. Outras grandes empresas, como Celsius e BlockFi, tamb├®m quebraram, deixando seus clientes completamente na m├úo. Por outro lado, se voc├¬ faz auto cust├│dia, ou seja, voc├¬ mesmo guarda seus Bitcoins, tudo isso deixa de ser um problema. Voc├¬ n├úo depende de ningu├®m, muito menos de empresas que podem ser fraudulentas ou ineficientes.
+
+O ├║ltimo ponto do por que a auto cust├│dia ├® a melhor forma de guardar bitcoin, ├® tamb├®m porque ela protege voc├¬ em cen├írios extremos. Em situa├º├Áes de crises econ├┤micas, guerras ou regimes autorit├írios, ter controle direto sobre seus bitcoins pode ser a diferen├ºa entre conseguir escapar com seus recursos ou perder tudo.
+
+Durante a guerra entre a Ucr├ónia e a R├║ssia, muitas contas banc├írias foram congeladas. Mas quem tinha bitcoin guardado de forma segura conseguiu atravessar fronteiras e levar seu dinheiro junto.
+
+
+!(slide 248)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-14.jpg]
+Teve at├® o caso de um refugiado que conseguiu viajar para a Pol├┤nia com 2 mil d├│lares em bitcoin, armazenados num simples pendrive. Se n├úo fosse pelo Bitcoin em auto cust├│dia esse refugiado de guerra nunca teria conseguido levar valor nenhum, afinal as contas de todos os cidad├úos foram bloqueadas. Coletes a prova de balas, capacetes e mantimentos s├│ conseguiram ser entregues para proteger a popula├º├úo porque doa├º├Áes foram feitas em Bitcoin para quem estava na linha de frente. Enquanto isso, o dinheiro no sistema banc├írio estava fechado e inacess├¡vel para a popula├º├úo local.
+
+No fim das contas, auto cust├│dia ├® a ├║nica forma de assegurar que seus bitcoins est├úo fora do alcance de fal├¬ncias, hacks, crises ou confiscos governamentais. E em um mundo t├úo incerto, essa ├® a melhor forma de proteger sua liberdade financeira.
+
+Ok. agora que voc├¬ j├í entendeu que tirar Bitcoin da exchange ├® importante, vem a d├║vida: "onde exatamente eu guardo os meus Bitcoin"?
+
+
+!(slide 249)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-15.jpg]
+A forma mais segura de guardar Bitcoin ├® na sua pr├│pria carteira, ou wallet em ingl├¬s.
+
+Existem diversos tipos de carteiras e todas elas cumprem com exatamente a mesma fun├º├úo que ├® armazenar as suas chaves que permitem movimentar o seu saldo em Bitcoin. Dispositivos dedicados s├úo carteiras que armazenam as chaves offline, fora do computador ou celular, e tem o objetivo de oferecer maior seguran├ºa para quem quer guardar Bitcoin pro longo prazo.┬á
+
+Existem tamb├®m as carteiras de celular, computador ou tablet. S├úo programas de computador ou aplicativos de celular que armazenam as suas chaves. Como elas est├úo sempre online s├úo carteiras de uso no dia a dia, para transa├º├Áes menores e que precisam de praticidade. Como esses dispositivos no geral ficam sempre conectados ├á internet e interagindo com outros ambientes digitais, acabam ficando mais suscet├¡veis a ataques hacker. Por isso esse tipo de carteira n├úo ├® indicado para guardar grandes quantidades de Bitcoin ou valores que voc├¬ quer guardar para o futuro com maior seguran├ºa.┬á
+
+O mais incr├¡vel ├® que Bitcoin ├® informa├º├úo e informa├º├úo voc├¬ pode armazenar em qualquer lugar. Por isso que voc├¬ pode ter uma carteira de Bitcoin impressa numa folha de papel (uma paper wallet), gravada em um peda├ºo de metal ou at├® mesmo decorar essas informa├º├Áes e transformar o seu c├®rebro em uma carteira de Bitcoin.┬á
+
+Cada tipo de carteira tem uma funcionalidade, mas nem todas s├úo indicadas para todas as situa├º├Áes. Ent├úo cabe a voc├¬ escolher qual tipo de carteira usar em cada momento.
+
+Mas tem uma ironia aquiÔÇª.
+
+!(slide 249)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-16.jpg]
+As carteiras de Bitcoin n├úo tem Bitcoin! Parece piada mas n├úo ├®! Bitcoin n├úo ├® armazenado nas carteiras, eles est├úo sempre na blockchain (ou timechain) e nunca saem dela. O que a carteira faz ├® armazenar e proteger as chaves que d├úo acesso ao saldo e permitem mover Bitcoin de um endere├ºo pro outro. Eles est├úo sempre em um endere├ºo na rede e n├úo dentro do aplicativo ou dispositivo.
+
+
+!(Slide 250[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-17.jpg
+As carteiras s├úo como uma chaveiro digital que armazena os c├│digos que autorizam transa├º├Áes com o seu saldo, comprovando criptograficamente que voc├¬ ├® o verdadeiro dono desse saldo e pode movimentar. Assim como num chaveiro voc├¬ pode ter diversas chaves que abrem diversas portas de diferentes lugares, na sua carteira digital suas chaves d├úo acesso a diversos tipos de saldos e opera├º├Áes. ├ë por isso que sua carteira digital funciona como um chaveiro digital.
+
+
+!(Slide 251)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-18.jpg]
+Quando voc├¬ configura uma carteira pela primeira vez, ela vai gerar uma sequ├¬ncia de palavras para voc├¬, como esta aqui na tela. Essas palavras s├úo conhecidas como frases-semente, ou seed phrase. S├úo palavras de recupera├º├úo da sua carteira. Com elas voc├¬ pode recuperar seu saldo em qualquer outro dispositivo ou aplicativo, mesmo que seu dispositivo original quebre, seja perdido ou destru├¡do por algum infort├║nio inesperado. 
+
+├ë por isso que voc├¬ precisa ter cuidado com essas palavras, s├úo elas que recuperam seu saldo e permitem que voc├¬ mova seu BTC. Por isso ├® importante anotar com cuidado, de forma leg├¡vel, na ordem exata em que elas aparecem e guardar em um local seguro onde s├│ voc├¬ sabe onde est├í. Se voc├¬ armazenar bem suas palavras, sempre vai ter acesso ao seu Bitcoin, mas se n├úo cuidar bem e outra pessoa encontrar, ela vai poder movimentar o seu saldo e pegar seus bitcoin pra ela.
+
+!(Slide 252)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-19.jpg]
+Muitas pessoas que come├ºam a acumular Bitcoin acham um pouco arcaico manter as palavras em um peda├ºo de papel, mas a vantagem de manter suas palavras-semente escritas no papel ou em um material mais resistente como o metal ├® que esse tipo de backup reduz drasticamente as chances de hacks ou de algu├®m ter acesso digital ao seu Bitcoin.
+
+Papel ou metal s├úo ÔÇ£tecnologiasÔÇØ antigas que ningu├®m consegue hackear, porque eles est├úo sempre offline. Al├®m disso, qualquer pessoa pode escrever uma lista de palavras num peda├ºo de papel. 
+
+Bitcoin ├® informa├º├úo, voc├¬ pode at├® memorizar suas palavras e levar seu Bitcoin para onde quiser em sua mente. Se essas informa├º├Áes estiverem armazenadas em um arquivo de computador, em uma captura de tela do seu celular ou em uma mensagem do WhatsApp, ├® mais f├ícil para um invasor roubar seus fundos. N├úo porque ele invadiu sua carteira, mas porque voc├¬ deixou essas informa├º├Áes muito mais expostas do que num peda├ºo de papel que s├│ voc├¬ tem acesso. ├ë muito mais dif├¡cil algu├®m acessar remotamente. Isso s├│ ├® poss├¡vel se a pessoa descobrir onde voc├¬ deixou essa informa├º├úo, roubando o papel onde est├úo anotadas suas palavras-sementes. 
+
+!(Slide 253)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-20.jpg]
+A express├úo frase-semente ├® intencional. ├ë a partir dela que voc├¬ pode gerar milhares de diferentes chaves privadas e endere├ºos de bitcoin para diferentes saldos. Da mesma forma que a partir de uma semente na terra ├® poss├¡vel fazer crescer uma ├írvore que se ramifica em milhares de galhos com frutos. 
+
+As palavras-semente tamb├®m facilitam o armazenamento e evitam erros na auto cust├│dia. Isso porque elas representam um c├│digo grande, com letras e n├║meros aleat├│rios e que s├úo muito f├íceis de errar na hora de anotar. J├í as palavras s├úo mais intuitivas, t├¬m significados, voc├¬ pode at├® decorar e s├úo mais f├íceis de escrever e com menos chance de erro.
+
+
+!(Slide 254)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-21.jpg]
+S├│ que sempre surge sempre a pergunta: ÔÇ£E se algu├®m adivinhar as minhas palavras? Conseguiria roubar meu Bitcoin?ÔÇØ A resposta ├®: n├úo. ├ë absurdamente dif├¡cil simplesmente adivinhar a sua frase-semente. 
+
+O n├║mero de todas as combina├º├Áes de seeds que podem existir ├® t├úo grande que ├® quase incompreens├¡vel. Existem mais combina├º├Áes poss├¡veis de palavras-semente de 24 palavras do que ├ítomos no universo! ├ë improv├ível adivinhar as suas palavras, praticamente imposs├¡vel.
+
+├ë infinitamente mais f├ícil algu├®m roubar seus bitcoins roubando sua seed, se voc├¬ n├úo guardar bem, do que tentar adivinhar por tentativa e erro. ├ë por isso que a maioria das pessoas que perdem bitcoin ├® porque n├úo cuidaram bem de suas pr├│prias palavras e n├úo porque algu├®m adivinhou. Bitcoin n├úo tem conta banc├íria, nem gerente, nem suporte. Bitcoin ├® uma linguagem, ├® uma ferramenta. Cabe a voc├¬ usar com responsabilidade e cuidar bem das suas chaves.
+
+!(Slide 255)[https://github.com/areabitcoin/Bitcoin-4-All/blob/e7d1a4bc5f9ee8ab2d684eb7dde7e99c41a09724/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209/Sem%20ti%CC%81tulo-16-22.jpg]
+Ok, agora que voc├¬ j├í entendeu que carteiras d├úo soberania para que voc├¬ armazene, receba e envie bitcoin como, quando e onde voc├¬ bem entender, que elas geram palavras que permitem que voc├¬ recupere o saldo mesmo se a carteira original pifarÔÇª por ├║ltimo vamos ver quais os tipos de carteira e em que situa├º├úo usar cada uma delas. 
+
+Existem duas categorias principais de carteiras: carteiras frias (cold wallets) e carteiras quentes (hot wallets).
+
+As carteiras quentes s├úo chamadas assim porque est├úo sempre online conectadas ├á internet o tempo todo. Esse tipo de carteira ├® muito pr├ítica de usar e movimentar saldos, ent├úo quando voc├¬ precisa fazer uma transa├º├úo ├® s├│ abrir e fazer o pagamento ou a transfer├¬ncia. Geralmente elas s├úo aplicativos ou programas que voc├¬ instala no seu computador, geram as chaves, armazenam e assinam transa├º├Áes. ├ë s├│ abrir o app e usar. Mas essa praticidade traz alguns riscos, esse tipo de carteira ├® mais vulner├ível a ataques hackers ao dispositivo, ou seja, tem uma superf├¡cie de ataque maior. Carteiras quentes s├úo recomendadas para armazenar pequenas quantias em bitcoin, aquelas que voc├¬ vai movimentar no dia a dia.
+
+J├í as carteiras frias (cold wallets), s├úo chamadas assim porque ficam offline a maior parte do tempo, o que reduz a superf├¡cie de ataque. Esse tipo de carteira ├® mais segura e funciona como um cofre digital, por isso ├® recomendada para guardar seu saldo em bitcoin para o futuro. Nessa categoria est├úo dispositivos de hardware que s├úo fabricados especificamente para gerar e armazenar as suas chaves offline. Alguns modelos permitem que voc├¬ fa├ºa transa├º├Áes air gapped e nunca se conecte com a internet, ou seja, voc├¬ consegue assinar as transa├º├Áes sem plugar a carteira na internet. S├úo cold wallets as carteiras de papel, hardware wallets, metal wallets e at├® as brain wallets que s├úo totalmente  anal├│gicas, basta o seu c├®rebro e uma boa mem├│ria para guardar as palavras.
+
+As cold wallets s├úo indicadas para guardar valores que voc├¬ quer proteger para o futuro. Configurar uma cold wallet e usar ├® o primeiro passo de seguran├ºa, mas se voc├¬ quiser avan├ºar nesse t├│pico, existe por exemplo a cria├º├úo de multisigs, assinaturas air gapped, passphrase e outros recursos que voc├¬ pode aprender como uma continuidade do Bitcoin4All.
+
+Um ├║ltimo ponto importante ao escolher uma carteira ├® optar por carteiras auto custodiantes, que forne├ºam as palavras de recupera├º├úo. Assim, voc├¬ pode recuperar o seu saldo em qualquer outra carteira usando essas palavras. Existem tamb├®m carteiras que n├úo oferecem as palavras e guardam as chaves pra voc├¬. Essas carteiras s├úo conhecidas como carteiras custodiantes. Elas funcionam quase como exchanges, ficam respons├íveis ÔÇïÔÇïpor armazenar seu bitcoin e exigem que voc├¬ confie nelas. Portanto, carteiras custodiantes n├úo s├úo recomendadas para armazenar seu Bitcoin pro longo prazo.
+
+├ë por isso que a escolha de uma carteira depende de como voc├¬ deseja usar, qual o objetivo com o saldo que voc├¬ quer armazenar e qual ├® o seu perfil. Se voc├¬ quiser usar Bitcoin para pagamentos r├ípidos, basta um aplicativo no seu celular. Se voc├¬ quer armazenar Bitcoin com seguran├ºa m├íxima porque ele ├® seu hodl h├í anos, ent├úo ├® melhor usar um dispositivo dedicado. Se voc├¬ ├® Bitcoin only como eu e n├úo quer saber sobre outras shitcoins convivendo na mesma carteira que o seu bitcoin, n├úo tem problema, existem carteiras que s├úo bitcoin only.
+
+Ent├úo nessa aula voc├¬ aprendeu porque fazer a pr├│pria cust├│dia ├® importante, o que s├úo carteiras de Bitcoin e como elas funcionam. Na pr├│xima aula vamos dar o primeiro passo na dire├º├úo da sua soberania e mostrar como configurar uma carteira do zero e sacar os seus Bitcoin da exchange. At├® a pr├│xima aula!
