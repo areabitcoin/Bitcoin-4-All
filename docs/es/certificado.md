@@ -1,12 +1,12 @@
-﻿# Certificado de Finalización
+﻿# :trophy: Certificado de Finalización
 
-Felicitaciones por completar el curso **Bitcoin 4 All**! 
+Felicitaciones por completar el curso **Bitcoin 4 All**! :tada:
 
 ---
 
 <div align="center">
 
-## CERTIFICADO 
+## :star: CERTIFICADO :star:
 
 ### Bitcoin 4 All
 
@@ -24,25 +24,25 @@ Curso completo de 10 clases sobre Bitcoin
 
 ---
 
- Clase 1 - Qué es Bitcoin?
+:ballot_box_with_check: Clase 1 - Qué es Bitcoin?
 
- Clase 2 - El problema del dinero fiat
+:ballot_box_with_check: Clase 2 - El problema del dinero fiat
 
- Clase 3 - Por qué Bitcoin es un dinero mejor
+:ballot_box_with_check: Clase 3 - Por qué Bitcoin es un dinero mejor
 
- Clase 4 - Descentralización, Blockchain y Teoría de Juegos
+:ballot_box_with_check: Clase 4 - Descentralización, Blockchain y Teoría de Juegos
 
- Clase 5 - Minería, Halving y los Ciclos
+:ballot_box_with_check: Clase 5 - Minería, Halving y los Ciclos
 
- Clase 6 - Por qué Bitcoin debería seguir valorizándose?
+:ballot_box_with_check: Clase 6 - Por qué Bitcoin debería seguir valorizándose?
 
- Clase 7 - Cómo obtener Bitcoin?
+:ballot_box_with_check: Clase 7 - Cómo obtener Bitcoin?
 
- Clase 8 - Desmintiendo mentiras (FUDs) sobre Bitcoin
+:ballot_box_with_check: Clase 8 - Desmintiendo mentiras (FUDs) sobre Bitcoin
 
- Clase 9 - Billeteras y cómo guardar Bitcoin
+:ballot_box_with_check: Clase 9 - Billeteras y cómo guardar Bitcoin
 
- Clase 10 - Soberanía con tu Bitcoin
+:ballot_box_with_check: Clase 10 - Soberanía con tu Bitcoin
 
 ---
 
@@ -58,7 +58,7 @@ Curso completo de 10 clases sobre Bitcoin
 
 ---
 
-## Próximos Pasos
+## :rocket: Próximos Pasos
 
 Ahora que completaste el curso, aquí hay algunas sugerencias:
 
@@ -79,7 +79,7 @@ Ahora que completaste el curso, aquí hay algunas sugerencias:
 
 ---
 
-## Comparte tu Certificado!
+## :link: Comparte tu Certificado!
 
 [![Twitter](https://img.shields.io/badge/Twitter-Compartir-blue?logo=twitter)](https://twitter.com/intent/tweet?text=%C2%A1Acabo%20de%20completar%20el%20curso%20Bitcoin%204%20All!%20%F0%9F%8E%93%20Aprende%20sobre%20Bitcoin%20gratis%3A%20https%3A%2F%2Fareabitcoin.github.io%2FBitcoin-4-All%2F%20%40aaborges_%20%23Bitcoin)
 
@@ -87,4 +87,4 @@ Ahora que completaste el curso, aquí hay algunas sugerencias:
 
 ---
 
- [Volver a Clase 10](clase-10.md) | [Inicio](../README.md)
+:arrow_left: [Volver a Clase 10](clase-10.md) | :house: [Inicio](../README.md)

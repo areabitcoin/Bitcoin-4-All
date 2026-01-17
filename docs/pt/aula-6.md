@@ -1,10 +1,10 @@
-﻿# Aula 6 - Por que Bitcoin deve continuar valorizando?
+# Aula 6 - Por que Bitcoin deve continuar valorizando?
 
-##  Video da Aula
+## :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/RIMKaC3xiQU/maxresdefault.jpg)](https://www.youtube.com/watch?v=RIMKaC3xiQU)
 
- [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=RIMKaC3xiQU)
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=RIMKaC3xiQU)
 
 ***
 
@@ -183,7 +183,7 @@ Na próxima aula você vai aprender formas de ter Bitcoin e como começar a acum
 
 ---
 
-### Compartilhe esta aula!
+### :loudspeaker: Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%206%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-6&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -200,7 +200,7 @@ Na próxima aula você vai aprender formas de ter Bitcoin e como começar a acum
 </a>
 </div>
 
-### Seu Progresso no Curso
+### :chart_with_upwards_trend: Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 6 de 10</strong> (60% completo)

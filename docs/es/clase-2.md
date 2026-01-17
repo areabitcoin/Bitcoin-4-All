@@ -1,10 +1,10 @@
-﻿# 2 Clase 2 - El problema del dinero fiat
+# 2 Clase 2 - El problema del dinero fiat
 
-## Video de la Clase
+## :movie_camera: Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085117525.jpg)](https://vimeo.com/1085117525)
 
- **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085117525)**
+:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085117525)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085117525?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
@@ -12,7 +12,7 @@
 ---
 ---
 
-## Guión Completo
+##  Guión Completo
 
 # Guión de clase 2 - El problema del dinero fiat
 
@@ -283,7 +283,7 @@ Bitcoin es un dinero (y un sistema financiero) mejor. En la próxima lección, c
 
 ---
 
-## Material Complementario
+##  Material Complementario
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202)
@@ -293,7 +293,7 @@ Bitcoin es un dinero (y un sistema financiero) mejor. En la próxima lección, c
 [ Anterior](clase-1.md) | [Siguiente ](clase-3.md)
 ---
 
-### Comparte esta clase!
+### :loudspeaker: Comparte esta clase!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%202%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -310,7 +310,7 @@ Bitcoin es un dinero (y un sistema financiero) mejor. En la próxima lección, c
 </a>
 </div>
 
-### Tu Progreso en el Curso
+### :chart_with_upwards_trend: Tu Progreso en el Curso
 
 <div class="course-progress">
 <strong>Clase 2 de 10</strong> (20% completo)

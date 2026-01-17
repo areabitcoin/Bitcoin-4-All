@@ -1,4 +1,4 @@
-﻿# Glossário Bitcoin
+﻿# :book: Glossário Bitcoin
 
 Termos técnicos e conceitos importantes sobre Bitcoin.
 
@@ -197,4 +197,4 @@ Ano em que a rede Bitcoin começou a funcionar (3 de janeiro).
 
 ---
 
- [Voltar ao Início](../README.md)
+:arrow_left: [Voltar ao Início](../README.md)

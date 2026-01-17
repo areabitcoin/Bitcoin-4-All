@@ -1,18 +1,18 @@
-﻿# Bitcoin 4 All
+# :books: Bitcoin 4 All
 
 Welcome to **Bitcoin 4 All**! A complete, free and open source journey to understand Bitcoin from scratch.
 
-## Course Presentation
+## :movie_camera: Course Presentation
 
 [![Watch Video](https://img.youtube.com/vi/XoySXkR1nJw/maxresdefault.jpg)](https://www.youtube.com/watch?v=XoySXkR1nJw)
 
- **[Click here to watch on YouTube](https://www.youtube.com/watch?v=XoySXkR1nJw)**
+:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=XoySXkR1nJw)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/XoySXkR1nJw?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Intro"></iframe></div>
 
 ---
 
-## Full Script
+## :scroll: Full Script
 
 Hello! Welcome to Bitcoin4All, a free and open source course created by Area Bitcoin.
 
@@ -30,7 +30,7 @@ We believe that knowledge about Bitcoin needs to be universal and accessible to 
 
 ---
 
-## Course Curriculum
+## :bookmark_tabs: Course Curriculum
 
 We prepared a course with **10 classes**, each about 10 minutes long, to guide you through the main concepts and answer the most common questions about Bitcoin.
 
@@ -49,13 +49,13 @@ We prepared a course with **10 classes**, each about 10 minutes long, to guide y
 
 ---
 
-## What can you do?
+## :sparkles: What can you do?
 
- **Learn**: watch the course at your own pace and discover how Bitcoin works, why it's important and how to protect your satoshis well.
+:mortar_board: **Learn**: watch the course at your own pace and discover how Bitcoin works, why it's important and how to protect your satoshis well.
 
- **Share**: show this material to friends, family or that curious colleague who always asks you "what is Bitcoin anyway?".
+:mega: **Share**: show this material to friends, family or that curious colleague who always asks you "what is Bitcoin anyway?".
 
- **Teach**: use the content to spread Bitcoin. Who knows, maybe you'll organize a meetup or help train a new generation of bitcoiners?
+:teacher: **Teach**: use the content to spread Bitcoin. Who knows, maybe you'll organize a meetup or help train a new generation of bitcoiners?
 
 ---
 
@@ -67,17 +67,17 @@ We're here to help you understand, adopt and spread this transformative idea.
 
 ---
 
-## Start Now
+## :rocket: Start Now
 
-[Start Class 1 ](class-1.md)
+[Start Class 1 :arrow_right:](class-1.md)
 
 ---
 
-## Links
+## :link: Links
 
-- [Area Bitcoin](https://areabitcoin.co)
-- [Twitter/X](https://x.com/areabitcoin)
-- [YouTube](https://youtube.com/@AreaBitcoin)
-- [Instagram](https://instagram.com/area.bitcoin)
+- :globe_with_meridians: [Area Bitcoin](https://areabitcoin.co)
+- :bird: [Twitter/X](https://x.com/areabitcoin)
+- :tv: [YouTube](https://youtube.com/@AreaBitcoin)
+- :camera: [Instagram](https://instagram.com/area.bitcoin)
 
- Content under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license
+:cc: Content under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license

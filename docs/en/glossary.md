@@ -1,4 +1,4 @@
-﻿# Bitcoin Glossary
+﻿# :book: Bitcoin Glossary
 
 Important technical terms and concepts about Bitcoin.
 
@@ -203,4 +203,4 @@ Year Bitcoin network started running (January 3rd).
 
 ---
 
- [Back to Home](../README.md)
+:arrow_left: [Back to Home](../README.md)

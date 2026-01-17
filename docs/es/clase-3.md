@@ -1,10 +1,10 @@
-﻿# 3 Clase 3 - Por qué Bitcoin es un dinero mejor
+# 3 Clase 3 - Por qué Bitcoin es un dinero mejor
 
-## Video de la Clase
+## :movie_camera: Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085115043.jpg)](https://vimeo.com/1085115043)
 
- **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085115043)**
+:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085115043)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085115043?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
@@ -12,7 +12,7 @@
 ---
 ---
 
-## Guión Completo
+##  Guión Completo
 
 3- Por qué Bitcoin es mejor dinero
 
@@ -50,13 +50,13 @@ Eso sucede porque Bitcoin tiene propiedades monetarias superiores. Así como el 
 
 Esa imagen muestra las principales características que definen el buen dinero, es decir, el dinero con fuertes propiedades monetarias. Sus características son:
 
-1. Durabilidad
-2. Divisibilidad
-3. Fungibilidad
-4. Portabilidad
-5. Verificabilidad
-6. Escasez
-7. Aceptación
+1.  Durabilidad
+2.  Divisibilidad
+3.  Fungibilidad
+4.  Portabilidad
+5.  Verificabilidad
+6.  Escasez
+7.  Aceptación
 
 
 ![Slide 55](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-05.jpg)
@@ -65,7 +65,7 @@ La primera característica es la durabilidad. El buen dinero debe resistir el de
 
 Las monedas fiat son billetes de papel moneda no duradero. El papel puede arrugarse, mojarse, rasgarse y deteriorarse rápidamente. Los bancos centrales gastan regularmente millones de dólares en sustituir los billetes deteriorados por otros nuevos. Además, el dinero fiat como red depende de bancos centrales que pueden cambiar las reglas de cada moneda localmente. En otras palabras, aunque los gobiernos creen monedas digitales, no tendrán propiedades monetarias duraderas e inmutables a largo plazo.
 
-El oro es naturalmente duradero porque no se oxida ni se degrada. Por otra parte, al tratarse de un bien físico, puede sufrir cierto desgaste con el paso del tiempo. 
+El oro  es naturalmente duradero porque no se oxida ni se degrada. Por otra parte, al tratarse de un bien físico, puede sufrir cierto desgaste con el paso del tiempo. 
 
 
 ![Slide 56](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-06.jpg)
@@ -238,10 +238,10 @@ Bitcoin aún está en proceso de aceptación. No está ampliamente reconocido co
 
 Bitcoin ha avanzado mucho en la curva de adopción y la curva de Lindy ilustra bien las etapas por las que pasa un dinero hasta que se convierte en una norma mundial. Ese modelo explica cómo evoluciona Bitcoin:
 
-1. Al principio, el dinero nació como un objeto de colección, algo que poca gente valora o acumula por curiosidad o previsión.
-2. Con el tiempo, se ha establecido como depósito de valor y se reconoce como una forma fiable de preservar la riqueza.
-3. La siguiente etapa es que se utilice como medio de intercambio, facilitando las transacciones cotidianas.
-4. La etapa final llega cuando la gente empieza a poner precio a los bienes y servicios directamente en Bitcoin, lo que indica que se ha convertido en un estándar monetario global.
+1.  Al principio, el dinero nació como un objeto de colección, algo que poca gente valora o acumula por curiosidad o previsión.
+2.  Con el tiempo, se ha establecido como depósito de valor y se reconoce como una forma fiable de preservar la riqueza.
+3.  La siguiente etapa es que se utilice como medio de intercambio, facilitando las transacciones cotidianas.
+4.  La etapa final llega cuando la gente empieza a poner precio a los bienes y servicios directamente en Bitcoin, lo que indica que se ha convertido en un estándar monetario global.
 Este gráfico muestra que, aunque Bitcoin aún está lejos de ser una norma mundial, ya ha progresado considerablemente. El reciente hito de alcanzar la cotización de 100.000 dólares es un reflejo de su creciente aceptación como depósito de valor. Gobiernos e instituciones de todo el mundo empiezan a reconocer su potencial. 
 
 El punto crucial es que aún estamos en una fase temprana de esta revolución tecnológica y monetaria. La gran oportunidad del siglo es la posibilidad de acumular e involucrarse con Bitcoin ahora, mientras su adopción global no ha hecho más que empezar.
@@ -338,7 +338,7 @@ En la próxima lección, entenderemos cómo funciona Bitcoin en detalle y podrá
 
 ---
 
-## Material Complementario
+##  Material Complementario
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203)
@@ -348,7 +348,7 @@ En la próxima lección, entenderemos cómo funciona Bitcoin en detalle y podrá
 [ Anterior](clase-2.md) | [Siguiente ](clase-4.md)
 ---
 
-### Comparte esta clase!
+### :loudspeaker: Comparte esta clase!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%203%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-3&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -365,7 +365,7 @@ En la próxima lección, entenderemos cómo funciona Bitcoin en detalle y podrá
 </a>
 </div>
 
-### Tu Progreso en el Curso
+### :chart_with_upwards_trend: Tu Progreso en el Curso
 
 <div class="course-progress">
 <strong>Clase 3 de 10</strong> (30% completo)

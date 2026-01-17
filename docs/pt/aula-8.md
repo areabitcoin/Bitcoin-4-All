@@ -1,10 +1,10 @@
-﻿# Aula 8 - Rebatendo mentiras (FUDs) sobre Bitcoin
+# Aula 8 - Rebatendo mentiras (FUDs) sobre Bitcoin
 
-###  Video da Aula
+### :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/TSGHnKX1bTs/maxresdefault.jpg)](https://www.youtube.com/watch?v=TSGHnKX1bTs)
 
- [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=TSGHnKX1bTs)
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=TSGHnKX1bTs)
 
 ***
 
@@ -20,7 +20,7 @@ Desde que Bitcoin surgiu criam mentiras para tentar convencer as pessoas de que 
 
 FUD é a sigla pra fear, uncertainty and doubt - medo incerteza e dúvida. São narrativas criadas para deixar as pessoas com medo e se afastarem do Bitcoin propositalmente.
 
-Nessa aula vamos desvendar as principais mentiras que contam sobre o Bitcoin e os ataques de narrativa usados para evitar que as pessoas se interessem, estudem e tenham Bitcoin. A ideia é que ao final dessa aula você esteja consciente, pra quando esses FUDs aparecerem, você saber que não passa de balela. E FUD pra cima do Bitcoin não falta, porque se não tem como parar a rede bitcoin a alternativa dos defensores do sistema fiat é gerar medo.
+Nessa aula vamos desvendar as principais mentiras que contam sobre o Bitcoin e os ataques de narrativa usados para evitar que as pessoas se interessem, estudem e tenham Bitcoin. A ideia é que ao final dessa aula você esteja consciente, pra quando esses FUDs  aparecerem, você saber que não passa de balela. E FUD pra cima do Bitcoin não falta, porque se não tem como parar a rede bitcoin a alternativa dos defensores do sistema fiat é  gerar medo.
 
 ![Slide 189](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-02.jpg)
 
@@ -126,7 +126,7 @@ Ainda tem dúvidas sobre isso? Existem mais de 2 milhões de criptomoedas e toda
 
 O 6º FUD que espalham é que Bitcoin é um jogo de azar, é pura especulação. Muita gente trata bitcoin como algo que você compra na baixa e vende na alta. Geralmente quem faz isso acaba tomando tufo tentando adivinhar topo e fundo. Quem trata Bitcoin como ativo especulativo é justamente quem mais perde dinheiro.
 
-Bitcoin é um novo sistema financeiro sendo monetizado. É público, transparente e se sabe desde o início tudo o que vai acontecer com mais de cem anos de antecedência. É o contrário de um cassino, onde a casa geralmente ganha e não tem como auditar as máquinas ou se infiltrar na administração do negócio. Cassinos são obscuros, Bitcoin é transparente.
+Bitcoin é um novo sistema financeiro sendo monetizado. É público, transparente e se sabe  desde o início tudo o que vai acontecer com mais de cem anos de antecedência. É o contrário de um cassino, onde a casa geralmente ganha e não tem como auditar as máquinas ou se infiltrar na administração do negócio. Cassinos são obscuros, Bitcoin é transparente.
 
 Além disso, quem compra bitcoin e segura por pelo menos 4 anos não tem prejuízo com bitcoin. É o que mostra essa imagem aqui:
 
@@ -168,7 +168,7 @@ Com o passar do tempo a gente como civilização tende a gastar mais energia, po
 
 ![Slide 211](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-25.jpg)
 
-Essa imagem também nos mostra isso, países mais ricos e desenvolvidos são os que mais consomem energia. Já os países mais pobres e com menores salários consomem menos. Perceba que o uso de energia está totalmente correlacionado ao desenvolvimento humano. Tanto que existe uma escala para medir isso chamada Escala Kardashev.
+Essa imagem também nos mostra isso, países mais ricos e desenvolvidos são os que mais consomem energia. Já os países mais pobres e com menores salários consomem menos. Perceba que o uso de energia está totalmente correlacionado ao desenvolvimento humano.  Tanto que existe uma escala para medir isso chamada Escala Kardashev.
 
 ![Slide 212](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-26.jpg)
 
@@ -323,7 +323,7 @@ Agora que você já sabe o que é bitcoin, como ele funciona, formas de ter e as
 
 ---
 
-### Compartilhe esta aula!
+### :loudspeaker: Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%208%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -340,7 +340,7 @@ Agora que você já sabe o que é bitcoin, como ele funciona, formas de ter e as
 </a>
 </div>
 
-### Seu Progresso no Curso
+### :chart_with_upwards_trend: Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 8 de 10</strong> (80% completo)

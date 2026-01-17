@@ -1,17 +1,17 @@
-﻿# 3 Class 3 - Why Bitcoin is better money
+# 3 Class 3 - Why Bitcoin is better money
 
-## Class Video
+## :movie_camera: Class Video
 
 [![Watch Video](https://img.youtube.com/vi/Z64I8iTy0no/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z64I8iTy0no)
 
- **[Click here to watch on YouTube](https://www.youtube.com/watch?v=Z64I8iTy0no)**
+:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=Z64I8iTy0no)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/Z64I8iTy0no?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
 ---
 ---
 
-## Full Script
+##  Full Script
 
 # Script Class 3 - Why Bitcoin is better money
 
@@ -49,19 +49,19 @@ This is because Bitcoin has superior monetary properties. Just as gold was histo
 
 This image shows the main characteristics that define good money, that is, money with strong monetary properties. These characteristics are:
 
-1. Durability
+1.  Durability
 
-2. Divisibility
+2.  Divisibility
 
-3. Fungibility
+3.  Fungibility
 
-4. Portability
+4.  Portability
 
-5. Verifiability
+5.  Verifiability
 
-6. Scarcity
+6.  Scarcity
 
-7. Acceptance
+7.  Acceptance
 
 
 ![Slide 58](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-05.jpg)
@@ -70,7 +70,7 @@ The first feature is durability. Good money must resist wear and the passage of 
 
 Fiat currencies are non-durable paper money. They can crumple, get wet, tear and deteriorate quickly. Central banks regularly spend millions of dollars replacing damaged banknotes with new ones. Moreover, fiat money as a network depends on central banks that can change the rules of each currency locally. Even if governments create digital currencies, they won't have durable and immutable monetary properties in the long term.
 
-Gold is naturally durable, since it doesn't rust or degrade. On the other hand, because it is a physical asset, it can suffer some wear and tear over time. 
+Gold  is naturally durable, since it doesn't rust or degrade. On the other hand, because it is a physical asset, it can suffer some wear and tear over time. 
 
 
 ![Slide 59](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-06.jpg)
@@ -244,13 +244,13 @@ Bitcoin is still in the process of being accepted. It is not widely recognized a
 
 Bitcoin has made significant progress on the adoption curve. The Lindy curve is a good illustration of the stages money goes through until it becomes a global standard. This model explains how Bitcoin is evolving:
 
-1. In the beginning, money was born as a collectible, something that few people value or accumulate out of curiosity or foresight.
+1.  In the beginning, money was born as a collectible, something that few people value or accumulate out of curiosity or foresight.
 
-2. Over time, it has established itself as a store of value and is recognized as a reliable way of preserving wealth.
+2.  Over time, it has established itself as a store of value and is recognized as a reliable way of preserving wealth.
 
-3. The following stage is when Bitcoin is used as a medium of exchange, facilitating everyday transactions.
+3.  The following stage is when Bitcoin is used as a medium of exchange, facilitating everyday transactions.
 
-4. The final stage comes when people start pricing goods and services directly in Bitcoin, indicating that it has become a global monetary standard.
+4.  The final stage comes when people start pricing goods and services directly in Bitcoin, indicating that it has become a global monetary standard.
 
 This graph shows that although Bitcoin is still far from being a global standard, it has already made considerable progress. The recent milestone of reaching 100,000 dollars is a reflection of its growing acceptance as a store of value. Governments and institutions around the world are beginning to recognize its potential. 
 
@@ -348,7 +348,7 @@ In the next class, we'll understand how Bitcoin works in detail and you'll get a
 
 ---
 
-## Additional Resources
+##  Additional Resources
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%203)
@@ -358,7 +358,7 @@ In the next class, we'll understand how Bitcoin works in detail and you'll get a
 [ Previous](class-2.md) | [Next ](class-4.md)
 ---
 
-### Share this lesson!
+### :loudspeaker: Share this lesson!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -375,7 +375,7 @@ In the next class, we'll understand how Bitcoin works in detail and you'll get a
 </a>
 </div>
 
-### Your Course Progress
+### :chart_with_upwards_trend: Your Course Progress
 
 <div class="course-progress">
 <strong>Class 3 de 10</strong> (30% completo)

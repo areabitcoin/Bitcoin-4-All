@@ -1,10 +1,10 @@
-﻿# Aula 5 - Mineração, Halving e os Ciclos
+# Aula 5 - Mineração, Halving e os Ciclos
 
-##  Video da Aula
+## :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/oHKTpPsJBDY/maxresdefault.jpg)](https://www.youtube.com/watch?v=oHKTpPsJBDY)
 
- [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=oHKTpPsJBDY)
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=oHKTpPsJBDY)
 
 ***
 
@@ -16,7 +16,7 @@
 
 ![Slide 108](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/d04005ed63f756f0a60807071eb6a303b56c8080/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%205/Sem%20ti%CC%81tulo-12-01.jpg)
 
-Agora que você já entendeu como a blockchain Bitcoin funciona e que ela precisa de consenso dos participantes para que exista coordenação descentralizada, então vamos entender como que a rede faz para concordar entre si através do mecanismo chamado Prova de Trabalho, ou Proof of Work em inglês (PoW).
+Agora que você já entendeu como a blockchain Bitcoin funciona e que ela precisa de consenso dos participantes para que exista coordenação descentralizada, então vamos  entender como que a rede faz para concordar entre si através do mecanismo chamado Prova de Trabalho, ou Proof of Work em inglês (PoW).
 
 ![Slide 109](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/d04005ed63f756f0a60807071eb6a303b56c8080/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%205/Sem%20ti%CC%81tulo-12-02.jpg)
 
@@ -26,7 +26,7 @@ Com o Bitcoin acontece algo muito parecido. Na rede bitcoin, os mineradores fica
 
 !(slide 110)\[https://github.com/areabitcoin/Bitcoin-4-All/blob/d04005ed63f756f0a60807071eb6a303b56c8080/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%205/Sem%20ti%CC%81tulo-12-03.jpg Lembra que o bloco é formado por vários componentes? O hash do bloco anterior, um carimbo de data e hora chamado timestamp e todos os dados das transações?
 
-Junto com essas informações também tem um dado chamado "nonce". Nonce significa "number used only once" - número que só pode ser usado uma vez. Quando os mineradores usam poder computacional para minerar o bloco significa que eles estão, numa velocidade computacional absurda, tentando achar esse número que só pode ser usado uma vez pela rede. É esse número que todos os mineradores ficam competindo para encontrar.
+Junto com essas informações também tem um dado chamado "nonce". Nonce significa "number used only once" -  número que só pode ser usado uma vez. Quando os mineradores usam poder computacional para minerar o bloco significa que eles estão, numa velocidade computacional absurda, tentando achar esse número que só pode ser usado uma vez pela rede. É esse número que todos os mineradores ficam competindo para encontrar.
 
 No cabeçalho do bloco vai o hash que mistura todos esses componentes: o hash do bloco anterior, a timestamp, a transação raiz que resume todas as transações que entraram no bloco e o nonce.
 
@@ -138,7 +138,7 @@ O último halving registrado, o quarto, aconteceu em abril de 2024 na altura do 
 
 ![Slide 128](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/d04005ed63f756f0a60807071eb6a303b56c8080/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%205/Sem%20ti%CC%81tulo-12-21.jpg)
 
-Essa imagem demonstra como a cada degrau da linha laranja, ou seja a cada halving, Bitcoin vai lentamente ficando mais escasso e se aproximando da oferta limite de unidade, na linha em azul.
+Essa imagem demonstra como a cada degrau da linha laranja, ou seja a cada halving,  Bitcoin vai lentamente ficando mais escasso e se aproximando da oferta limite de unidade, na linha em azul.
 
 Essa imagem é incrível, porque mostra como o Bitcoin é transparente, programável e tem uma política monetária previsível que não pode ser expandida ou modificada. É algo muito diferente de qualquer outro ativo ou moeda que muda as regras ou as políticas monetárias a qualquer momento.
 
@@ -194,7 +194,7 @@ Geralmente as pessoas querem que Bitcoin se valorize em linha reta, mas as maior
 
 ![Slide 136](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/d04005ed63f756f0a60807071eb6a303b56c8080/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%205/Sem%20ti%CC%81tulo-12-29.jpg)
 
-Mas tudo que sobe, também desce. Bitcoin apesar de ter tido valorizações grandes e elas terem diminuido de intensidade ao longo dos anos, o mesmo tem acontecido com as quedas.
+Mas tudo que sobe, também desce. Bitcoin apesar de ter tido valorizações grandes e elas  terem diminuido de intensidade ao longo dos anos, o mesmo tem acontecido com as quedas.
 
 Em 2012 Bitcoin teve um queda brutal de 93%, depois do primeiro halving 84%, no segundo caiu 84% de novo e no último halving a queda foi de 77%, menor que nos bears anteriores. Significa que ao longo do tempo bitcoin está ficando menos volátil. Óbvio que está longe de andar em linha reta, mas já é possível observar essa tendência.
 
@@ -208,7 +208,7 @@ Esse é o assunto da próxima aula. Agora que você aprendeu como bitcoin funcio
 
 ---
 
-### Compartilhe esta aula!
+### :loudspeaker: Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%205%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-5&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -225,7 +225,7 @@ Esse é o assunto da próxima aula. Agora que você aprendeu como bitcoin funcio
 </a>
 </div>
 
-### Seu Progresso no Curso
+### :chart_with_upwards_trend: Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 5 de 10</strong> (50% completo)

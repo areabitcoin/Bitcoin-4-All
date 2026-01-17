@@ -1,10 +1,10 @@
-﻿# Aula 7 - Como ter Bitcoin?
+# Aula 7 - Como ter Bitcoin?
 
-###  Video da Aula
+### :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/VC1oAtXppcY/maxresdefault.jpg)](https://www.youtube.com/watch?v=VC1oAtXppcY)
 
- [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=VC1oAtXppcY)
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=VC1oAtXppcY)
 
 ***
 
@@ -205,7 +205,7 @@ Bom, espero que essa aula tenha te ajudado a entender que existem múltiplas for
 
 ---
 
-### Compartilhe esta aula!
+### :loudspeaker: Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%207%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-7&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -222,7 +222,7 @@ Bom, espero que essa aula tenha te ajudado a entender que existem múltiplas for
 </a>
 </div>
 
-### Seu Progresso no Curso
+### :chart_with_upwards_trend: Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 7 de 10</strong> (70% completo)

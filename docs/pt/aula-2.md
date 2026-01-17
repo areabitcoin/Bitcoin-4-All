@@ -1,12 +1,12 @@
-﻿# Aula 2 - O problema do dinheiro fiat
+# Aula 2 - O problema do dinheiro fiat
 
 ## 2 Aula - O problema do dinheiro fiat
 
-###  Video da Aula
+### :movie\_camera: Video da Aula
 
 [![Assistir Video](https://img.youtube.com/vi/55vAZdwc3Bs/maxresdefault.jpg)](https://www.youtube.com/watch?v=55vAZdwc3Bs)
 
- [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=55vAZdwc3Bs)
+:point\_right: [**Clique aqui para assistir no YouTube**](https://www.youtube.com/watch?v=55vAZdwc3Bs)
 
 ***
 
@@ -56,7 +56,7 @@ E como dizia o economista austríaco Milton Friedman desde os anos 70, só os ba
 
 ![Slide 25](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-08.jpg)
 
-Os preços na economia são determinados pela oferta e demanda de todas as coisas, até do dinheiro. Afinal o dinheiro nos ajuda a correlacionar valor entre coisas diferentes. Nos ajuda a entender se algo está caro ou barato. Isso quer dizer que o preço de uma maçã, por exemplo, depende de dois fatores: a quantidade de maçãs que existem e a demanda por maçãs. Se uma maçã custa 3 reais e muitas pessoas resolvem fazer receitas com maçãs: a demanda aumenta. É provável que os preços das maçãs subam porque a demanda aumentou. Por outro lado, se uma maçã custa 3 reais e a safra foi muito boa, a ponto de ter muita maçã no estoque e os vendedores precisarem vender tudo antes que elas estraguem... o que acontece? Sim, o preço cai.
+Os preços na economia são determinados pela oferta e demanda de todas as coisas, até do dinheiro. Afinal o dinheiro nos ajuda a correlacionar valor entre coisas diferentes. Nos ajuda a entender se algo está caro ou barato. Isso quer dizer que o preço de uma maçã, por exemplo, depende de dois fatores: a  quantidade de maçãs que existem e a demanda por maçãs. Se uma maçã custa 3 reais e muitas pessoas resolvem fazer receitas com maçãs: a demanda aumenta. É provável que os preços das maçãs subam porque a demanda aumentou. Por outro lado, se uma maçã custa 3 reais e a safra foi muito boa, a ponto de ter muita maçã no estoque e os vendedores precisarem vender tudo antes que elas estraguem... o que acontece? Sim, o preço cai.
 
 Por isso que oferta e demanda é o que determina os preços de qualquer coisa na economia. E o dinheiro é a ferramenta que a gente usa para medir valor. A mesma coisa acontece com o dinheiro. Se mais dinheiro for criado em relação ao quanto as pessoas produzem, o dinheiro vai perder valor em relação a produtos e serviços, afinal a oferta dele aumentou. Por outro lado, se a criação de dinheiro for interrompida e a demanda por ele permanecer estável, seu valor tende a aumentar.
 
@@ -80,7 +80,7 @@ Na Turquia é o mesmo filme: impressão de dinheiro, na imagem da esquerda, e co
 
 ![Slide 30](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-13.jpg)
 
-Na Argentina nem se fala. Mesma coisa. Os gráficos e dados falam por sí. Bancos centrais imprimem dinheiro e a moeda colapsa de valor. Quanto mais imprimem, mais o dinheiro derrete.
+Na Argentina nem se fala. Mesma coisa. Os gráficos e dados falam por sí.  Bancos centrais imprimem dinheiro e a moeda colapsa de valor. Quanto mais imprimem,  mais o dinheiro derrete.
 
 ![Slide 31](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-14.jpg)
 
@@ -90,7 +90,7 @@ Até o dólar, a moeda mais forte e com maior demanda global teve sua oferta aum
 
 No Brasil, já passamos por situações em que o dinheiro perdeu completamente sua função. Ao longo da história, tivemos várias moedas que foram extintas por causa da hiperinflação -- um cenário em que os preços disparam porque o governo imprime dinheiro de forma descontrolada. A moeda perde tanto valor que as pessoas não conseguem mais confiar nela. Quando a hiperinflação toma conta, surgem tentativas desesperadas para tentar "conter" a crise. Governos recorrem a medidas como impor preços fixos para produtos e serviços ou obrigar a população a fazer um "controle de preços". Mas adivinha? Essas medidas não funcionam. Pelo contrário, só aumentam o caos e indignação.
 
-Com os preços subindo de forma galopante todos os dias, os comerciantes precisam reajustar suas tabelas constantemente. Essa instabilidade quebra a confiança no dinheiro como uma ferramenta para medir ou armazenar valor. As pessoas começam a perceber que o dinheiro na carteira ou no banco vale menos a cada dia. E então o que elas fazem? Correm para gastar. Em vez de guardar dinheiro, as pessoas começam a comprar qualquer coisa que preserve valor -- comida, produtos, bens duráveis.
+Com os preços subindo de forma galopante todos os dias, os comerciantes precisam reajustar suas tabelas constantemente. Essa instabilidade quebra a confiança no dinheiro como uma ferramenta para medir ou armazenar valor. As pessoas começam a perceber que o dinheiro na carteira ou no banco vale menos a cada dia. E então o que elas fazem? Correm para gastar. Em vez de guardar dinheiro, as pessoas começam a comprar qualquer coisa que preserve valor  -- comida, produtos, bens duráveis.
 
 E é aí que o caos se intensifica. Todo mundo corre para estocar alimentos e produtos básicos, porque sabe que amanhã tudo vai estar mais caro. As prateleiras começam a esvaziar. Não há mais demanda por dinheiro; o foco das pessoas se volta para bens tangíveis que preservem valor. O dinheiro como conhecemos vira um "cubo de gelo" derretendo rapidamente nas mãos de quem segura.
 
@@ -146,7 +146,7 @@ Se você comparar o desempenho das moedas emitidas por governos com o ouro ao lo
 
 Mas por que isso acontece? A resposta está na natureza do ouro e na forma como ele se diferencia das moedas fiat, aquelas emitidas por governos. O ouro é relativamente escasso, e sua oferta não pode ser aumentada de forma fácil ou arbitrária. Antes do surgimento do Bitcoin, o ouro era a commodity mais difícil de expandir oferta. Extrair ouro da Terra é caro, trabalhoso e limitado pelas reservas naturais. Isso criou uma oferta estável e resistente à manipulação por muitos anos, preservando valor ao longo do tempo.
 
-Além disso, o ouro possui estabilidade atômica. Isso significa que, mesmo com os avanços da ciência, recriar ouro em laboratório é economicamente inviável, é praticamente impossível de tão caro que é. Assim o ouro se tornou o dinheiro mais usado na história e ao se tornar dinheiro ele assumiu 3 funções:
+Além disso, o ouro possui estabilidade atômica. Isso significa que, mesmo com os avanços da ciência, recriar ouro em laboratório é economicamente inviável, é praticamente impossível de tão caro que é.  Assim o ouro se tornou o dinheiro mais usado na história e ao se tornar dinheiro ele assumiu 3 funções:
 
 ![Slide 41](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-24.jpg)
 
@@ -162,7 +162,7 @@ Mas assim como pedras, conchas e sal já foram utilizados como dinheiro no passa
 
 A evolução do dinheiro sempre esteve ligada à melhoria dessas propriedades. Milênios atrás, por exemplo, conchas eram utilizadas como dinheiro. Elas tinham valor porque eram escassas em determinadas regiões, como nas serras. Só que, quando as pessoas começaram a se deslocar e levar conchas do litoral para essas regiões, elas perderam sua escassez e, consequentemente, seu valor. O resultado? As conchas deixaram de funcionar como dinheiro porque não conseguiam mais preservar valor.
 
-Uma história fascinante que ajuda a entender essa evolução é a das pedras rai, utilizadas como dinheiro na ilha de Yap, na Micronésia, até 1871. As pedras rai eram grandes discos de calcário com um buraco no meio, variando em tamanho e formato. Elas não eram apenas uma forma de dinheiro, mas também um símbolo de status. As famílias que tinham as pedras maiores e mais bonitas eram consideradas as mais ricas da ilha.
+Uma história fascinante que ajuda a entender essa evolução é a das pedras rai, utilizadas como dinheiro na ilha de Yap, na Micronésia, até 1871. As pedras rai eram grandes discos de calcário com um buraco no meio, variando em tamanho e formato. Elas não eram apenas uma forma de dinheiro, mas também um símbolo de status. As famílias que tinham  as pedras maiores e mais bonitas eram consideradas as mais ricas da ilha.
 
 O calcário necessário para fazer essas pedras não existia na ilha de Yap. Por isso, era necessário buscar em ilhas vizinhas, o que tornava a produção das pedras um processo extremamente trabalhoso e demorado. Movimentar uma pedra rai exigia esforço, energia e planejamento, o que limitava a produção e, assim, ajudava a manter o valor das pedras como dinheiro. Esse processo, que envolvia trabalho significativo para criar e transportar as pedras, é um precursor do conceito de prova de trabalho, que vamos explorar mais pra frente neste curso.
 
@@ -239,7 +239,7 @@ Bitcoin é um dinheiro e um sistema financeiro melhor e na próxima aula você v
 
 ---
 
-### Compartilhe esta aula!
+### :loudspeaker: Compartilhe esta aula!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%202%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -256,7 +256,7 @@ Bitcoin é um dinheiro e um sistema financeiro melhor e na próxima aula você v
 </a>
 </div>
 
-### Seu Progresso no Curso
+### :chart_with_upwards_trend: Seu Progresso no Curso
 
 <div class="course-progress">
 <strong>Aula 2 de 10</strong> (20% completo)

@@ -1,10 +1,10 @@
-﻿# 6 Clase 6 - Por qué Bitcoin debería seguir valorizándose?
+# 6 Clase 6 - Por qué Bitcoin debería seguir valorizándose?
 
-## Video de la Clase
+## :movie_camera: Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085129268.jpg)](https://vimeo.com/1085129268)
 
- **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085129268)**
+:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085129268)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085129268?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
@@ -12,7 +12,7 @@
 ---
 ---
 
-## Guión Completo
+##  Guión Completo
 
 Guión de clase 6- Por qué debería seguir apreciando el valor de Bitcoin?
 
@@ -200,7 +200,7 @@ Al fin y al cabo, Bitcoin es una tendencia global a largo plazo. Prepararse hoy 
 
 ---
 
-## Material Complementario
+##  Material Complementario
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%206)
@@ -210,7 +210,7 @@ Al fin y al cabo, Bitcoin es una tendencia global a largo plazo. Prepararse hoy 
 [ Anterior](clase-5.md) | [Siguiente ](clase-7.md)
 ---
 
-### Comparte esta clase!
+### :loudspeaker: Comparte esta clase!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%206%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-6&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -227,7 +227,7 @@ Al fin y al cabo, Bitcoin es una tendencia global a largo plazo. Prepararse hoy 
 </a>
 </div>
 
-### Tu Progreso en el Curso
+### :chart_with_upwards_trend: Tu Progreso en el Curso
 
 <div class="course-progress">
 <strong>Clase 6 de 10</strong> (60% completo)

@@ -1,17 +1,17 @@
-﻿# 4 Class 4 - Inside Bitcoin: Decentralization, Blockchain and Game Theory
+# 4 Class 4 - Inside Bitcoin: Decentralization, Blockchain and Game Theory
 
-## Class Video
+## :movie_camera: Class Video
 
 [![Watch Video](https://img.youtube.com/vi/81z_nZbmoIc/maxresdefault.jpg)](https://www.youtube.com/watch?v=81z_nZbmoIc)
 
- **[Click here to watch on YouTube](https://www.youtube.com/watch?v=81z_nZbmoIc)**
+:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=81z_nZbmoIc)**
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/81z_nZbmoIc?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
 
 ---
 ---
 
-## Full Script
+##  Full Script
 
 # Script Class 4 - Inside Bitcoin: How Does Bitcoin Work? (decentralization, blockchain and game theory)
 
@@ -189,7 +189,7 @@ Well, in this class we started to dive into how Bitcoin works, but this is just 
 
 ---
 
-### Share this lesson!
+### :loudspeaker: Share this lesson!
 
 <div class="share-buttons">
 <a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%204%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-4&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
@@ -206,7 +206,7 @@ Well, in this class we started to dive into how Bitcoin works, but this is just 
 </a>
 </div>
 
-### Your Course Progress
+### :chart_with_upwards_trend: Your Course Progress
 
 <div class="course-progress">
 <strong>Class 4 de 10</strong> (40% completo)
