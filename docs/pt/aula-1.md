@@ -1,21 +1,14 @@
-﻿# :one: Aula 1 - O que e Bitcoin e por que ele foi criado?
+# :one: Aula 1 - O que e Bitcoin e por que foi criado?
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041690697?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 1"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077678856?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 1"></iframe></div>
 
 ## :page_facing_up: Conteudo
 
 ### O Nascimento do Bitcoin
 
-O Bitcoin surgiu em **31 de outubro de 2008**, quando o whitepaper *"Bitcoin: A Peer-to-Peer Electronic Cash System"* foi publicado por **Satoshi Nakamoto**.
-
-### O Contexto de 2008
-
-- Crise financeira global
-- Resgate de bancos com dinheiro publico
-- Perda de confianca nas instituicoes financeiras
-- Necessidade de uma alternativa
+Bitcoin surgiu em **31 de outubro de 2008**, quando o whitepaper foi publicado por **Satoshi Nakamoto**.
 
 ### O que e Bitcoin?
 
@@ -26,13 +19,6 @@ O Bitcoin surgiu em **31 de outubro de 2008**, quando o whitepaper *"Bitcoin: A 
 | **Limitado** | Apenas 21 milhoes de unidades |
 | **Transparente** | Todas transacoes sao publicas |
 | **Imutavel** | Nao pode ser alterado ou censurado |
-
-### Por que foi criado?
-
-1. **Separacao do dinheiro e estado** - Nenhum governo pode controlar
-2. **Soberania financeira** - Voce e seu proprio banco
-3. **Protecao contra inflacao** - Oferta fixa
-4. **Pagamentos globais** - Sem fronteiras ou intermediarios
 
 ## :books: Roteiro Completo
 

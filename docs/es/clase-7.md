@@ -1,8 +1,8 @@
-﻿# :seven: Clase 7 - Como Obtener Bitcoin?
+# :seven: Clase 7 - Como Tener Bitcoin?
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040399588?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 7"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085128394?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 7"></iframe></div>
 
 ## :page_facing_up: Contenido
 
@@ -13,10 +13,6 @@
 | Exchanges | Facil | Baja |
 | P2P | Media | Alta |
 | Mineria | Dificil | Alta |
-| Ganar | Variable | Alta |
-
-### Plataformas P2P
-- Bisq, HodlHodl, Peach Bitcoin, RoboSats
 
 ## :books: Guion Completo
 

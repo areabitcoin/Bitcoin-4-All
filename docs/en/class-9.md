@@ -1,8 +1,8 @@
-﻿# :nine: Class 9 - What Are Wallets and How to Store Bitcoin?
+# :nine: Class 9 - What is the Best Way to Store Bitcoin?
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007807?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 9"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086485788?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 9"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -12,7 +12,6 @@
 |------|----------|-------------|
 | **Exchange** | Low | High |
 | **Hot Wallet** | Medium | High |
-| **Cold Wallet** | High | Medium |
 | **Hardware Wallet** | Very High | Medium |
 
 ### The Golden Rule

@@ -1,8 +1,8 @@
-﻿# :seven: Aula 7 - Como Ter Bitcoin?
+# :seven: Aula 7 - Como Ter Bitcoin?
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691393?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 7"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077680699?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 7"></iframe></div>
 
 ## :page_facing_up: Conteudo
 
@@ -13,18 +13,6 @@
 | Exchanges | Facil | Baixa |
 | P2P | Media | Alta |
 | Mineracao | Dificil | Alta |
-| Receber | Variavel | Alta |
-
-### 1. Exchanges Centralizadas (CEX)
-- Facil de usar, mas requer KYC
-- *Not your keys, not your coins*
-
-### 2. P2P (Peer-to-Peer)
-- Bisq, HodlHodl, Peach Bitcoin, RoboSats
-
-### 3. Economias Circulares
-- Aceitar Bitcoin por produtos/servicos
-- Participar de comunidades locais
 
 ## :books: Roteiro Completo
 

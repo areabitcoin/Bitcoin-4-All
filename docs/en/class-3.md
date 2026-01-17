@@ -1,8 +1,8 @@
-﻿# :three: Class 3 - Why is Bitcoin Better Money?
+# :three: Class 3 - Why Bitcoin is Better Money
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007501?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 3"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086490654?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 3"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -11,7 +11,6 @@
 | Property | Gold | Fiat | Bitcoin |
 |----------|------|------|---------|
 | Scarcity | :white_check_mark: | :x: | :white_check_mark: |
-| Durability | :white_check_mark: | :warning: | :white_check_mark: |
 | Divisibility | :warning: | :white_check_mark: | :white_check_mark: |
 | Portability | :x: | :white_check_mark: | :white_check_mark: |
 | Censorship resistant | :x: | :x: | :white_check_mark: |

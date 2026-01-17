@@ -1,8 +1,8 @@
-﻿# :nine: Clase 9 - Que Son las Billeteras y Como Almacenar Bitcoin?
+# :nine: Clase 9 - Cual es la Mejor Forma de Almacenar Bitcoin?
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040399818?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 9"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085128853?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 9"></iframe></div>
 
 ## :page_facing_up: Contenido
 
@@ -12,7 +12,6 @@
 |------|-----------|--------------|
 | **Exchange** | Baja | Alta |
 | **Hot Wallet** | Media | Alta |
-| **Cold Wallet** | Alta | Media |
 | **Hardware Wallet** | Muy Alta | Media |
 
 ### La Regla de Oro

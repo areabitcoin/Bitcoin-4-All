@@ -1,8 +1,8 @@
-﻿# :six: Aula 6 - Por que Bitcoin Deve Continuar Valorizando?
+# :six: Aula 6 - Por que Bitcoin Deve Continuar Valorizando?
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691285?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 6"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077683728?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 6"></iframe></div>
 
 ## :page_facing_up: Conteudo
 
@@ -14,13 +14,6 @@
 | **Demanda crescente** | Adocao institucional |
 | **Halvings** | Emissao decrescente |
 | **Efeito rede** | Mais usuarios = mais valor |
-
-### Adocao Institucional
-
-- **ETFs** - Aprovados em varios paises
-- **Empresas** - MicroStrategy, Tesla, etc.
-- **Paises** - El Salvador, Republica Centro-Africana
-- **Bancos** - Custodia e servicos
 
 ## :books: Roteiro Completo
 

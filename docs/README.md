@@ -1,42 +1,55 @@
-﻿# Bitcoin 4 All
+# Bitcoin 4 All :orange_heart:
 
-> Free and open source Bitcoin course for everyone
+**Free and open source Bitcoin course for everyone!**
 
-## Welcome!
-
-**Bitcoin 4 All** is a complete educational course about Bitcoin, available in multiple languages.
-
-### :dart: What you will learn
-
-- What is Bitcoin and why it was created
-- The problems with traditional fiat money
-- How Bitcoin works technically
-- How to acquire and store Bitcoin safely
-- How to achieve financial sovereignty
-
-### :globe_with_meridians: Available Languages
-
-Choose your preferred language from the sidebar:
-
-- **Portugues** - Complete course in Portuguese
-- **English** - Complete course in English  
-- **Espanol** - Complete course in Spanish
-
-### :rocket: Getting Started
-
-1. Select your language from the menu
-2. Start with Class 1
-3. Progress through all 10 classes
-4. Achieve Bitcoin knowledge!
+Curso gratuito e de codigo aberto sobre Bitcoin para todos!
 
 ---
 
-<p align="center">
-  <strong>Funded by</strong><br>
-  <a href="https://opensats.org">OpenSats</a>
-</p>
+## :world_map: Choose Your Language / Escolha seu Idioma
 
-<p align="center">
-  <strong>Created by</strong><br>
-  <a href="https://areabitcoin.co">Area Bitcoin</a>
-</p>
+| :brazil: Portugues | :us: English | :es: Espanol |
+|:------------------:|:------------:|:------------:|
+| [Comecar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
+
+---
+
+## :books: About the Course
+
+**Bitcoin 4 All** is a complete course designed to teach anyone about Bitcoin, from zero to self-custody.
+
+### What you will learn:
+
+- :question: What is Bitcoin and why was it created
+- :moneybag: Problems with fiat money
+- :chart_with_upwards_trend: Why Bitcoin is better money
+- :gear: How Bitcoin works (decentralization, blockchain, mining)
+- :rocket: Why Bitcoin should continue to appreciate
+- :shopping_cart: How to get bitcoin
+- :shield: Debunking FUDs about Bitcoin
+- :key: How to store Bitcoin safely
+- :crown: Financial sovereignty through self-custody
+
+---
+
+## :link: Links
+
+| | |
+|---|---|
+| :globe_with_meridians: **Website** | [areabitcoin.co](https://areabitcoin.co) |
+| :bird: **Twitter/X** | [@aaborges_](https://twitter.com/aaborges_) |
+| :tv: **YouTube** | [Area Bitcoin](https://youtube.com/@AreaBitcoin) |
+| :camera: **Instagram** | [@aaborges_](https://instagram.com/aaborges_) |
+| :octopus: **GitHub** | [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All) |
+
+---
+
+## :balance_scale: License
+
+This content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+You are free to share and adapt this material, as long as you give appropriate credit and distribute under the same license.
+
+---
+
+Made with :orange_heart: by [Area Bitcoin](https://areabitcoin.co)

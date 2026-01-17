@@ -1,8 +1,8 @@
-﻿# :seven: Class 7 - How to Get Bitcoin?
+# :seven: Class 7 - How to Get Bitcoin?
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007713?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 7"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086487800?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 7"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -13,10 +13,6 @@
 | Exchanges | Easy | Low |
 | P2P | Medium | High |
 | Mining | Hard | High |
-| Earning | Variable | High |
-
-### P2P Platforms
-- Bisq, HodlHodl, Peach Bitcoin, RoboSats
 
 ## :books: Full Script
 

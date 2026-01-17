@@ -1,26 +1,23 @@
-﻿# :keycap_ten: Class 10 - Sovereignty and Self-Custody
+# :keycap_ten: Class 10 - How to Withdraw from Exchange and Have Sovereignty
 
 ## :movie_camera: Video
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007850?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 10"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086487470?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 10"></iframe></div>
 
 ## :page_facing_up: Content
 
 ### Why Self-Custody?
 
-Exchange risks:
 - :x: Hacks and theft
 - :x: Bankruptcy (Mt.Gox, FTX)
 - :x: Account freezing
-- :x: Asset seizure
 
-### Seed Phrase: Your Master Key
+### Seed Phrase
 
-| DO | DON'T |
-|----|-------|
+| DO | DO NOT |
+|----|--------|
 | :white_check_mark: Write on paper/metal | :x: Photo or screenshot |
 | :white_check_mark: Store in safe place | :x: Cloud storage |
-| :white_check_mark: Multiple copies | :x: Single copy |
 
 ## :trophy: Congratulations!
 
