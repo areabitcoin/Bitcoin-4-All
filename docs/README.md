@@ -1,4 +1,4 @@
-# Bitcoin 4 All :orange_heart:
+# Bitcoin 4 All
 
 **Free and open source Bitcoin course for everyone!**
 
