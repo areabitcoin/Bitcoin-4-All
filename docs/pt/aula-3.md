@@ -6,6 +6,20 @@
 
 ---
 
+## :framed_picture: Slides da Aula
+
+![Slide 1](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20t%C3%ADtulo-10-01.jpg)
+
+![Slide 2](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20t%C3%ADtulo-10-02.jpg)
+
+![Slide 3](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20t%C3%ADtulo-10-03.jpg)
+
+![Slide 4](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20t%C3%ADtulo-10-04.jpg)
+
+![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20t%C3%ADtulo-10-05.jpg)
+
+---
+
 ## :page_facing_up: Roteiro Completo
 
 ### Escassez Matemática

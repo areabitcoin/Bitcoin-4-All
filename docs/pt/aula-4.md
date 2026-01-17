@@ -3,6 +3,34 @@
 ## :movie_camera: Vídeo
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077682277?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 4 - Por Dentro do Bitcoin Parte I"></iframe></div>
+---
+
+## :framed_picture: Slides da Aula
+
+![Slide 1](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-01.jpg)
+
+![Slide 2](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-02.jpg)
+
+![Slide 3](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-03.jpg)
+
+![Slide 4](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-04.jpg)
+
+![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-05.jpg)
+
+---
+
+## :framed_picture: Slides da Aula
+
+![Slide 1](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-01.jpg)
+
+![Slide 2](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-02.jpg)
+
+![Slide 3](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-03.jpg)
+
+![Slide 4](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-04.jpg)
+
+![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20t%C3%ADtulo-11-05.jpg)
+
 
 ---
 
