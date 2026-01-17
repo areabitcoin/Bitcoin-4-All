@@ -7,7 +7,7 @@ Important technical terms and concepts about Bitcoin.
 ## A
 
 ### Address
-Alphanumeric string that works as an "account" to receive Bitcoin. Example: c1q...
+Alphanumeric string that works as an "account" to receive Bitcoin. Example: bc1q...
 
 ### ASIC
 **Application-Specific Integrated Circuit** - Specialized hardware for Bitcoin mining, much more efficient than GPUs or CPUs.

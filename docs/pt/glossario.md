@@ -7,7 +7,7 @@ Termos técnicos e conceitos importantes sobre Bitcoin.
 ## A
 
 ### Address (Endereço)
-Sequência alfanumérica que funciona como "conta" para receber Bitcoin. Exemplo: c1q...
+Sequência alfanumérica que funciona como "conta" para receber Bitcoin. Exemplo: bc1q...
 
 ### ASIC
 **Application-Specific Integrated Circuit** - Hardware especializado para mineração de Bitcoin, muito mais eficiente que GPUs ou CPUs.
