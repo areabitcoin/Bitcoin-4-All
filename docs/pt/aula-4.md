@@ -1,22 +1,61 @@
-# :four: Aula 4 - Como Bitcoin Funciona - Parte I
+# :four: Aula 4 - Por Dentro do Bitcoin: Como Funciona (Parte I)
 
-## :movie_camera: Video
+## :movie_camera: Vídeo
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077682277?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 4"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077682277?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 4 - Por Dentro do Bitcoin Parte I"></iframe></div>
 
-## :page_facing_up: Conteudo
+---
 
-### A Triade da Descentralizacao
+## :page_facing_up: Conteúdo
 
-| Componente | Funcao |
-|------------|--------|
-| **Nos (Nodes)** | Validam e armazenam regras |
-| **Mineradores** | Processam transacoes |
-| **Desenvolvedores** | Propoem melhorias |
+### Descentralização
 
-## :books: Roteiro Completo
+Bitcoin é uma rede descentralizada, o que significa que:
+- **Não existe um servidor central** - milhares de computadores (nós) mantêm a rede
+- **Não existe uma empresa controlando** - ninguém pode desligar o Bitcoin
+- **Decisões são tomadas por consenso** - mudanças no protocolo precisam de acordo da maioria
 
-Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
+### Blockchain
+
+A blockchain é o livro-razão público do Bitcoin:
+
+| Conceito | Descrição |
+|----------|-----------|
+| **Blocos** | Pacotes de transações agrupadas |
+| **Cadeia** | Cada bloco referencia o anterior, criando uma corrente |
+| **Imutável** | Não é possível alterar blocos anteriores sem refazer todo o trabalho |
+| **Público** | Qualquer pessoa pode verificar todas as transações |
+
+### Teoria dos Jogos
+
+O Bitcoin usa incentivos econômicos para garantir segurança:
+
+1. **Mineradores** - São recompensados por validar transações honestas
+2. **Penalização** - Tentar fraudar o sistema custa mais caro que seguir as regras
+3. **Alinhamento de interesses** - Todos os participantes se beneficiam quando a rede funciona bem
+
+### Nós (Nodes)
+
+Nós são computadores que:
+- Guardam uma cópia completa da blockchain
+- Verificam se todas as transações são válidas
+- Rejeitam transações ou blocos fraudulentos
+- Qualquer pessoa pode rodar um nó em casa
+
+### Por que isso é Revolucionário?
+
+Pela primeira vez na história temos:
+- Dinheiro que não pode ser confiscado
+- Transferências que não podem ser censuradas
+- Um sistema financeiro sem dono
+- Regras que ninguém pode mudar sozinho
+
+---
+
+## :books: Material Complementar
+
+- [E-book da Aula 4](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
+- [Slides da Aula 4](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204)
 
 ---
 
