@@ -35,5 +35,5 @@ This project is funded by [OpenSats](https://opensats.org), supporting Bitcoin e
 ##  Links
 
 - [GitHub Repository](https://github.com/areabitcoin/Bitcoin-4-All)
-- [Área Bitcoin Website](https://areabitcoin.co)
+- [Area Bitcoin Website](https://areabitcoin.co)
 - [OpenSats](https://opensats.org)

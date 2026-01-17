@@ -36,7 +36,7 @@
 
 - **Website**: [areabitcoin.co](https://areabitcoin.co)
 - **Twitter/X**: [@areabitcoin](https://x.com/areabitcoin)
-- **YouTube**: [Área Bitcoin](https://youtube.com/@AreaBitcoin)
+- **YouTube**: [Area Bitcoin](https://youtube.com/@AreaBitcoin)
 - **Instagram**: [@area.bitcoin](https://instagram.com/area.bitcoin)
 - **GitHub**: [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All)
 
@@ -50,4 +50,4 @@ You are free to share and adapt this material, as long as you give appropriate c
 
 ---
 
-Made with love by [Área Bitcoin](https://areabitcoin.co)
+Made with love by [Area Bitcoin](https://areabitcoin.co)

@@ -50,7 +50,7 @@ Curso completo de 10 clases sobre Bitcoin
 
 ![Bitcoin 4 All](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Visuals/Logos/Logo.png)
 
-**Área Bitcoin**
+**Area Bitcoin**
 
 *"Bitcoin es conocimiento. Compártelo."*
 
@@ -69,7 +69,7 @@ Ahora que completaste el curso, aquí hay algunas sugerencias:
 
 ### 2. Sigue Aprendiendo
 - Lee el [Whitepaper de Bitcoin](https://bitcoin.org/bitcoin.pdf)
-- Sigue el [Blog de Área Bitcoin](https://areabitcoin.com.br)
+- Sigue el [Blog de Area Bitcoin](https://areabitcoin.com.br)
 - Participa en comunidades Bitcoin
 
 ### 3. Comparte

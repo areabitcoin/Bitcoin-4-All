@@ -36,7 +36,7 @@
 
 - :globe_with_meridians: **Website**: [areabitcoin.co](https://areabitcoin.co)
 - :bird: **Twitter/X**: [@areabitcoin](https://x.com/areabitcoin)
-- :tv: **YouTube**: [Área Bitcoin](https://youtube.com/@AreaBitcoin)
+- :tv: **YouTube**: [Area Bitcoin](https://youtube.com/@AreaBitcoin)
 - :camera: **Instagram**: [@area.bitcoin](https://instagram.com/area.bitcoin)
 - :octopus: **GitHub**: [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All)
 
@@ -50,4 +50,4 @@ You are free to share and adapt this material, as long as you give appropriate c
 
 ---
 
-Made with :orange_heart: by [Área Bitcoin](https://areabitcoin.co)
+Made with :orange_heart: by [Area Bitcoin](https://areabitcoin.co)
