@@ -4,13 +4,13 @@ Bem-vindo ao curso **Bitcoin 4 All**! Uma jornada completa, gratuita e de códig
 
 ##  Apresentação do Curso
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077758630?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Introdução ao Bitcoin4All"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/pTgQ6Z_ozf0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Intro"></iframe></div>
 
 
 
 ##  Todos os Vídeos do Curso
 
-<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11677092/embed' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media' frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;'></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/pTgQ6Z_ozf0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Intro"></iframe></div>
 
 
 ---
