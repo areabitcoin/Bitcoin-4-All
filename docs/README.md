@@ -2,15 +2,15 @@
 
 **Free and open source Bitcoin course for everyone!**
 
-Curso gratuito e de codigo aberto sobre Bitcoin para todos!
+Curso gratuito e de código aberto sobre Bitcoin para todos!
 
 ---
 
 ## :world_map: Choose Your Language / Escolha seu Idioma
 
-| :brazil: Portugues | :us: English | :es: Espanol |
+| :brazil: Português | :us: English | :es: Español |
 |:------------------:|:------------:|:------------:|
-| [Comecar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
+| [Começar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
 
 ---
 
@@ -37,7 +37,7 @@ Curso gratuito e de codigo aberto sobre Bitcoin para todos!
 | | |
 |---|---|
 | :globe_with_meridians: **Website** | [areabitcoin.co](https://areabitcoin.co) |
-| :bird: **Twitter/X** | [@aaborges_](https://twitter.com/aaborges_) |
+| :bird: **Twitter/X** | [@areabitcoin](https://x.com/areabitcoin) |
 | :tv: **YouTube** | [Area Bitcoin](https://youtube.com/@AreaBitcoin) |
 | :camera: **Instagram** | [@aaborges_](https://instagram.com/aaborges_) |
 | :octopus: **GitHub** | [areabitcoin/Bitcoin-4-All](https://github.com/areabitcoin/Bitcoin-4-All) |
