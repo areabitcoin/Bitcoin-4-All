@@ -1,68 +1,43 @@
-﻿# Aula 1 - O que e Bitcoin e por que ele foi criado?
+﻿# :one: Aula 1 - O que e Bitcoin e por que ele foi criado?
 
-> Introducao ao Bitcoin, contexto historico e a motivacao por tras da sua criacao
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041690697?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 1"></iframe></div>
 
-## :movie_camera: Video da Aula 1
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TIra3rVvyJI" frameborder="0" allowfullscreen></iframe>
+### O Nascimento do Bitcoin
 
-[Assistir no YouTube](https://www.youtube.com/watch?v=TIra3rVvyJI&list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
+O Bitcoin surgiu em **31 de outubro de 2008**, quando o whitepaper *"Bitcoin: A Peer-to-Peer Electronic Cash System"* foi publicado por **Satoshi Nakamoto**.
 
----
+### O Contexto de 2008
 
-## Conteudo da Aula
+- Crise financeira global
+- Resgate de bancos com dinheiro publico
+- Perda de confianca nas instituicoes financeiras
+- Necessidade de uma alternativa
 
 ### O que e Bitcoin?
 
-Bitcoin e um **dinheiro digital** criado em 2009 por uma pessoa ou grupo sob o pseudonimo de **Satoshi Nakamoto**.
-
-Diferente do dinheiro tradicional:
-- **Nao precisa de bancos** para funcionar
-- **Nao e controlado por governos**
-- **Tem quantidade limitada**: apenas 21 milhoes serao criados
-- **Funciona 24/7** em qualquer lugar do mundo
-
-### Quando surgiu?
-
-| Data | Evento |
-|------|--------|
-| 31 de outubro de 2008 | Whitepaper publicado |
-| 3 de janeiro de 2009 | Primeiro bloco minerado (Genesis Block) |
+| Caracteristica | Descricao |
+|----------------|-----------|
+| **Moeda digital** | Existe apenas em forma digital |
+| **Descentralizado** | Sem controle central |
+| **Limitado** | Apenas 21 milhoes de unidades |
+| **Transparente** | Todas transacoes sao publicas |
+| **Imutavel** | Nao pode ser alterado ou censurado |
 
 ### Por que foi criado?
 
-O Bitcoin nasceu em resposta a **crise financeira de 2008**:
+1. **Separacao do dinheiro e estado** - Nenhum governo pode controlar
+2. **Soberania financeira** - Voce e seu proprio banco
+3. **Protecao contra inflacao** - Oferta fixa
+4. **Pagamentos globais** - Sem fronteiras ou intermediarios
 
-- Bancos foram resgatados com dinheiro dos contribuintes
-- Pessoas perderam casas e economias
-- Confianca no sistema financeiro desabou
+## :books: Roteiro Completo
 
-Satoshi deixou uma mensagem no primeiro bloco:
-
-> "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
-
-Essa manchete de jornal foi eternizada no Bitcoin como um lembrete do problema que ele veio resolver.
-
-### Propriedades Fundamentais
-
-| Propriedade | Descricao |
-|-------------|-----------|
-| **Descentralizado** | Nenhuma autoridade central controla |
-| **Transparente** | Todas as transacoes sao publicas |
-| **Imutavel** | Nao pode ser alterado ou revertido |
-| **Permissionless** | Qualquer pessoa pode usar |
-| **Escasso** | Oferta fixa de 21 milhoes |
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
-- :bar_chart: [Slides da aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-- :closed_book: [Ebook](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
-
----
-
-[:arrow_left: Introducao](pt/intro.md) | [Aula 2 - Problema do dinheiro fiat :arrow_right:](pt/aula-2.md)
+[:arrow_left: Introducao](pt/intro.md) | [Aula 2 :arrow_right:](pt/aula-2.md)

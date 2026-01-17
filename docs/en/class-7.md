@@ -2,7 +2,7 @@
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007713?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 7"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -15,41 +15,12 @@
 | Mining | Hard | High |
 | Earning | Variable | High |
 
-### 1. Centralized Exchanges (CEX)
-
-**Advantages:**
-- Easy to use
-- Liquidity
-- Multiple payment methods
-
-**Disadvantages:**
-- KYC (identity verification)
-- Custody risk
-- *Not your keys, not your coins*
-
-### 2. P2P (Peer-to-Peer)
-
-Platforms that connect buyers and sellers directly:
-- Bisq
-- HodlHodl
-- Peach Bitcoin
-- RoboSats
-
-### 3. Mining
-
-- Initial investment in equipment
-- Electricity costs
-- Technical knowledge required
-
-### 4. Circular Economies
-
-- Accept Bitcoin for products/services
-- Work for Bitcoin
-- Participate in local communities
+### P2P Platforms
+- Bisq, HodlHodl, Peach Bitcoin, RoboSats
 
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

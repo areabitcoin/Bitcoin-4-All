@@ -2,25 +2,9 @@
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007602?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 5"></iframe></div>
 
 ## :page_facing_up: Content
-
-### What is Bitcoin Mining?
-
-Mining is the process of:
-1. Validating transactions
-2. Creating new blocks
-3. Issuing new bitcoins
-
-### How Mining Works
-
-| Step | Description |
-|------|-------------|
-| 1 | Collect pending transactions |
-| 2 | Find valid nonce (hash puzzle) |
-| 3 | Propagate block to network |
-| 4 | Receive reward |
 
 ### The Halving
 
@@ -34,17 +18,9 @@ Every **210,000 blocks** (~4 years), the block reward is cut in half:
 | 3rd | 2020 | 6.25 BTC |
 | 4th | 2024 | 3.125 BTC |
 
-### Market Cycles
-
-Historical pattern after each halving:
-- Supply shock (less new BTC)
-- Gradual price increase
-- Bull market peak
-- Correction and accumulation
-
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

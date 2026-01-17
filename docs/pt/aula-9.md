@@ -1,124 +1,36 @@
-﻿# Aula 9 - O que sao Carteiras de Bitcoin?
+﻿# :nine: Aula 9 - O que Sao Carteiras e Como Guardar Bitcoin?
 
-> Tipos de carteiras e melhores praticas de seguranca
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691644?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 9"></iframe></div>
 
-## :movie_camera: Video da Aula 9
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_9" frameborder="0" allowfullscreen></iframe>
+### Tipos de Carteiras
 
-[Assistir no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
+| Tipo | Seguranca | Conveniencia |
+|------|-----------|--------------|
+| **Exchange** | Baixa | Alta |
+| **Hot Wallet** | Media | Alta |
+| **Cold Wallet** | Alta | Media |
+| **Hardware Wallet** | Muito Alta | Media |
 
----
+### Hot Wallets Recomendadas
+- Blue Wallet, Muun, Phoenix, Green Wallet
 
-## O que e uma Carteira?
+### Hardware Wallets
+- Ledger, Trezor, Coldcard, Jade
 
-Uma carteira de Bitcoin **nao guarda Bitcoin** - ela guarda suas **chaves privadas**.
+### A Regra de Ouro
 
-### Analogia
+> :key: **Not your keys, not your coins**
 
-| Conceito | Funcao |
-|----------|--------|
-| **Chave Publica** | Seu "email" - pode compartilhar |
-| **Chave Privada** | Sua "senha" - NUNCA compartilhe |
-| **Carteira** | Gerenciador de chaves |
+Se voce nao controla as chaves privadas, o bitcoin nao e verdadeiramente seu.
 
-> :key: Quem tem a chave privada, controla os Bitcoin.
+## :books: Roteiro Completo
 
----
-
-## Tipos de Carteiras
-
-### 1. :iphone: Hot Wallets (Carteiras Quentes)
-
-**Conectadas a internet**
-
-| Tipo | Exemplos | Seguranca |
-|------|----------|-----------|
-| Mobile | BlueWallet, Muun | Media |
-| Desktop | Electrum, Sparrow | Media |
-| Web | Exchanges | Baixa |
-
-**Ideal para:** Valores pequenos, uso diario
-
-### 2. :snowflake: Cold Wallets (Carteiras Frias)
-
-**Desconectadas da internet**
-
-| Tipo | Exemplos | Seguranca |
-|------|----------|-----------|
-| Hardware | Ledger, Trezor, Coldcard | Alta |
-| Paper | Seed em papel | Alta (se bem feita) |
-| Air-gapped | Computador offline | Muito alta |
-
-**Ideal para:** Valores grandes, longo prazo
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Seed Phrase (Frase de Recuperacao)
-
-### O que e?
-
-12 ou 24 palavras que permitem recuperar sua carteira.
-
-### Regras de Ouro
-
-1. :x: **NUNCA** digite online
-2. :x: **NUNCA** tire foto
-3. :x: **NUNCA** guarde em computador/celular
-4. :white_check_mark: **Escreva em papel** ou metal
-5. :white_check_mark: **Guarde em local seguro**
-6. :white_check_mark: **Faca backup em local separado**
-
-> :warning: Se alguem tiver sua seed, tem seu Bitcoin!
-
----
-
-## Comparacao de Carteiras
-
-| Caracteristica | Hot Wallet | Cold Wallet |
-|----------------|------------|-------------|
-| Conexao | Online | Offline |
-| Conveniencia | Alta | Media |
-| Seguranca | Media | Alta |
-| Custo | Gratis | R$300-1500 |
-| Ideal para | Dia a dia | Hodl longo prazo |
-
----
-
-## Recomendacoes por Valor
-
-| Valor em Bitcoin | Tipo Recomendado |
-|------------------|------------------|
-| Ate R$1.000 | Hot wallet mobile |
-| R$1.000 - R$10.000 | Hot wallet + backup |
-| Acima de R$10.000 | Hardware wallet |
-
----
-
-## Carteiras Recomendadas
-
-### Para Iniciantes
-- **BlueWallet** (mobile) - Simples e eficiente
-- **Muun** (mobile) - Lightning integrado
-
-### Para Intermediarios
-- **Electrum** (desktop) - Mais controle
-- **Sparrow** (desktop) - Privacidade
-
-### Para Valores Altos
-- **Coldcard** - Maxima seguranca
-- **Trezor** - Equilibrio seguranca/usabilidade
-- **Ledger** - Popular, interface amigavel
-
----
-
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 9](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 8](pt/aula-8.md) | [Aula 10 - Soberania :arrow_right:](pt/aula-10.md)
+[:arrow_left: Aula 8](pt/aula-8.md) | [Aula 10 :arrow_right:](pt/aula-10.md)

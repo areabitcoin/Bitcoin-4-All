@@ -2,43 +2,21 @@
 
 ## :movie_camera: Video
 
-> Video disponible en [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040399188?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 4"></iframe></div>
 
 ## :page_facing_up: Contenido
 
 ### La Triada de Descentralizacion
 
-Bitcoin resuelve el **Problema de los Generales Bizantinos** mediante:
-
 | Componente | Funcion |
 |------------|---------|
 | **Nodos** | Validan y almacenan reglas |
-| **Mineros** | Procesan transacciones y aseguran la red |
+| **Mineros** | Procesan transacciones |
 | **Desarrolladores** | Proponen mejoras |
-
-### Que es Blockchain?
-
-Una **cadena de bloques** donde:
-- Cada bloque contiene transacciones
-- Los bloques estan vinculados criptograficamente
-- El historial no puede ser alterado
-
-### Teoria de Juegos: Por que Funciona?
-
-**Incentivos alineados:**
-- Los mineros son recompensados por honestidad
-- Atacar es mas caro que participar
-- Cada participante se beneficia del exito de la red
-
-### Conceptos Clave
-
-- **Proof of Work**: Energia gastada para asegurar la red
-- **Hash**: Huella digital de datos
-- **Dificultad**: Ajuste automatico cada 2016 bloques
 
 ## :books: Guion Completo
 
-Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Spanish/)
+Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish)
 
 ---
 

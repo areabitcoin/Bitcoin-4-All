@@ -4,16 +4,11 @@ Welcome to the **Bitcoin 4 All** course! A complete, free and open source journe
 
 ## :movie_camera: Course Presentation
 
-> Videos available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007273?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Introduction"></iframe></div>
 
 ## :dart: Course Objective
 
-Transform complex concepts into accessible and practical knowledge, allowing anyone to:
-
-- Understand what Bitcoin is and why it was created
-- Comprehend how the traditional financial system works
-- Learn how to acquire and store Bitcoin safely
-- Achieve financial sovereignty
+Transform complex concepts into accessible and practical knowledge.
 
 ## :books: Curriculum
 

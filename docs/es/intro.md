@@ -1,19 +1,10 @@
 ﻿# :book: Introduccion a Bitcoin 4 All
 
-Bienvenido al curso **Bitcoin 4 All**! Un viaje completo, gratuito y de codigo abierto para entender Bitcoin desde cero.
+Bienvenido al curso **Bitcoin 4 All**!
 
 ## :movie_camera: Presentacion del Curso
 
-> Videos disponibles en [Vimeo](https://vimeo.com/areabitcoin)
-
-## :dart: Objetivo del Curso
-
-Transformar conceptos complejos en conocimiento accesible y practico, permitiendo a cualquier persona:
-
-- Entender que es Bitcoin y por que fue creado
-- Comprender como funciona el sistema financiero tradicional
-- Aprender a adquirir y almacenar Bitcoin de forma segura
-- Alcanzar la soberania financiera
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040398653?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Introduccion"></iframe></div>
 
 ## :books: Curriculo
 
@@ -22,13 +13,13 @@ Transformar conceptos complejos en conocimiento accesible y practico, permitiend
 | 1 | Que es Bitcoin y por que fue creado? |
 | 2 | Problemas del dinero fiat |
 | 3 | Por que Bitcoin es mejor dinero? |
-| 4 | Dentro de Bitcoin: descentralizacion, blockchain y teoria de juegos |
+| 4 | Dentro de Bitcoin: descentralizacion y blockchain |
 | 5 | Dentro de Bitcoin II: mineria, halving y ciclos |
 | 6 | Por que Bitcoin deberia seguir valorizandose? |
 | 7 | Como obtener bitcoin? |
 | 8 | FUDs mas comunes sobre Bitcoin |
-| 9 | Que son las billeteras y como almacenar Bitcoin? |
-| 10 | Como retirar del exchange y tener soberania |
+| 9 | Que son las billeteras? |
+| 10 | Soberania y autocustodia |
 
 ## :rocket: Comienza Ahora
 

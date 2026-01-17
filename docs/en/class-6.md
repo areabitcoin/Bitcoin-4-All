@@ -2,7 +2,7 @@
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007645?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 6"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -15,28 +15,9 @@
 | **Halvings** | Decreasing issuance |
 | **Network effect** | More users = more value |
 
-### Adoption Curve
-
-Bitcoin follows the technology adoption S-curve:
-- Innovators (2009-2013)
-- Early Adopters (2013-2017)
-- Early Majority (2017-2025)
-- Late Majority (2025+)
-
-### Institutional Adoption
-
-- **ETFs** - Approved in multiple countries
-- **Companies** - MicroStrategy, Tesla, etc.
-- **Countries** - El Salvador, Central African Republic
-- **Banks** - Custody and services
-
-### Stock-to-Flow Model
-
-Valuation model based on scarcity that correlates supply flow with price.
-
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

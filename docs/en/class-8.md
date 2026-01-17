@@ -1,8 +1,8 @@
-﻿# :eight: Class 8 - Most Common FUDs About Bitcoin
+﻿# :eight: Class 8 - Rebutting FUDs About Bitcoin
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007765?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 8"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -16,26 +16,13 @@
 |-----|---------|
 | *"Bitcoin is a bubble"* | 15+ years, highest highs in each cycle |
 | *"Used for crime"* | Less than 1%; dollar dominates crime |
-| *"Wastes energy"* | Uses clean/stranded energy; secures trillion-dollar network |
-| *"Has no backing"* | Backed by mathematics, energy and global network |
+| *"Wastes energy"* | Uses clean/stranded energy |
+| *"Has no backing"* | Backed by mathematics and energy |
 | *"Can be banned"* | Decentralized; impossible to shut down |
-| *"Too volatile"* | Volatility decreases with adoption |
-
-### Bitcoin and Environment
-
-- ~60% renewable energy
-- Uses stranded/wasted energy
-- Incentivizes renewable investment
-- Lower carbon footprint than banking system
-
-### Response to Critics
-
-> *"I don't believe we'll have good money again before taking it out of government hands. We can't take it violently; all we can do is introduce something they can't stop through some cunning way."*
->  Friedrich Hayek, 1984
 
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

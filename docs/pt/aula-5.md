@@ -1,105 +1,42 @@
-﻿# Aula 5 - Por dentro do Bitcoin (Parte 2)
+﻿# :five: Aula 5 - Por Dentro do Bitcoin Parte II: Mineracao, Halving e Ciclos
 
-> Mineracao, halving e os ciclos do Bitcoin
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691182?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 5"></iframe></div>
 
-## :movie_camera: Video da Aula 5
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_5" frameborder="0" allowfullscreen></iframe>
-
-[Assistir no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
-
----
-
-## Mineracao de Bitcoin
-
-### O que e mineracao?
+### O que e Mineracao de Bitcoin?
 
 Mineracao e o processo de:
-- Validar transacoes
-- Adicionar novos blocos a blockchain
-- Criar novos bitcoins
+1. Validar transacoes
+2. Criar novos blocos
+3. Emitir novos bitcoins
 
-### Como funciona?
+### O Halving
 
-1. Mineradores competem para resolver um problema matematico
-2. O primeiro a resolver ganha o direito de adicionar o bloco
-3. Recebe a **recompensa de bloco** + taxas de transacao
-
-> :zap: Isso se chama **Proof of Work** (Prova de Trabalho)
-
-### Por que consome energia?
-
-| Motivo | Explicacao |
-|--------|------------|
-| Seguranca | Torna ataques muito caros |
-| Descentralizacao | Qualquer um pode minerar |
-| Imutabilidade | Impossivel reescrever historico |
-
----
-
-## O Halving
-
-### O que e?
-
-A cada **210.000 blocos** (~4 anos), a recompensa dos mineradores e **cortada pela metade**.
-
-### Historico de Halvings
+A cada **210.000 blocos** (~4 anos), a recompensa e reduzida pela metade:
 
 | Halving | Ano | Recompensa |
 |---------|-----|------------|
-| Inicio | 2009 | 50 BTC |
+| Genesis | 2009 | 50 BTC |
 | 1o | 2012 | 25 BTC |
 | 2o | 2016 | 12.5 BTC |
 | 3o | 2020 | 6.25 BTC |
 | 4o | 2024 | 3.125 BTC |
 
-### Por que e importante?
+### Ciclos do Mercado
 
-- Garante a **escassez** do Bitcoin
-- Cria **previsibilidade** na emissao
-- Historicamente precede **valorizacao**
+Padrao historico apos cada halving:
+- Choque de oferta (menos BTC novos)
+- Valorizacao gradual
+- Pico do bull market
+- Correcao e acumulacao
 
-> :chart_with_upwards_trend: Apos cada halving, o preco tende a subir significativamente.
+## :books: Roteiro Completo
 
----
-
-## Os Ciclos do Bitcoin
-
-### Padrao Historico
-
-1. **Halving** acontece
-2. Oferta nova diminui
-3. Demanda continua/aumenta
-4. Preco sobe
-5. Correcao acontece
-6. Novo ciclo comeca
-
-### Linha do Tempo
-
-```
-2012 Halving  2013 Alta  2014 Correcao
-2016 Halving  2017 Alta  2018 Correcao
-2020 Halving  2021 Alta  2022 Correcao
-2024 Halving  2025 Alta?  ...
-```
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Quando todos bitcoins serao minerados?
-
-- **Previsao**: Por volta de **2140**
-- Depois disso, mineradores ganharao apenas **taxas de transacao**
-- Nao significa fim do Bitcoin - a rede continua funcionando
-
----
-
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 5](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 4](pt/aula-4.md) | [Aula 6 - Por que Bitcoin valoriza :arrow_right:](pt/aula-6.md)
+[:arrow_left: Aula 4](pt/aula-4.md) | [Aula 6 :arrow_right:](pt/aula-6.md)

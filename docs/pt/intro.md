@@ -1,54 +1,39 @@
-﻿# Introducao ao Bitcoin 4 All
+﻿# :book: Introducao ao Bitcoin 4 All
 
-> Curso gratuito e open source criado pela Area Bitcoin
+Bem-vindo ao curso **Bitcoin 4 All**! Uma jornada completa, gratuita e de codigo aberto para entender Bitcoin do zero.
 
----
+## :movie_camera: Apresentacao do Curso
 
-## :movie_camera: Video da Introducao
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041690378?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Bitcoin 4 All - Introducao"></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg" frameborder="0" allowfullscreen></iframe>
+## :dart: Objetivo do Curso
 
-[Assistir playlist completa no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
+Transformar conceitos complexos em conhecimento acessivel e pratico, permitindo que qualquer pessoa:
 
----
+- Entenda o que e Bitcoin e por que ele foi criado
+- Compreenda como funciona o sistema financeiro tradicional
+- Aprenda a adquirir e guardar Bitcoin com seguranca
+- Alcance a soberania financeira
 
-## Bem-vindo!
+## :books: Curriculo
 
-Ola! Seja muito bem-vindo ao **Bitcoin4All**, um curso gratuito e open source criado pela Area Bitcoin.
+| Aula | Tema |
+|------|------|
+| 1 | O que e Bitcoin e por que ele foi criado? |
+| 2 | O problema do dinheiro fiat |
+| 3 | Por que Bitcoin e um dinheiro melhor? |
+| 4 | Por dentro do Bitcoin: descentralizacao, blockchain e teoria dos jogos |
+| 5 | Por dentro do Bitcoin II: mineracao, halving e ciclos |
+| 6 | Por que Bitcoin deve continuar valorizando? |
+| 7 | Como ter bitcoin? |
+| 8 | FUDs mais comuns sobre Bitcoin |
+| 9 | O que sao carteiras e como guardar Bitcoin? |
+| 10 | Como sacar da exchange e ter soberania |
 
-Se voce esta aqui, e porque ja ouviu falar sobre Bitcoin e quer saber mais como ele funciona. E adivinha? Voce esta no lugar certo!
+## :rocket: Comece Agora
 
-O objetivo e te ajudar a entender o Bitcoin e te inspirar a ser um multiplicador deste conhecimento. Queremos que qualquer pessoa, independente do nivel de conhecimento ou formacao, consiga aprender sobre esse dinheiro e tecnologia revolucionaria de um jeito simples, direto e pratico.
-
-## O que voce vai aprender
-
-Voce vai perceber que Bitcoin e muito mais do que numeros na tela: e sobre **liberdade**, **soberania** e a chance de participar de um sistema financeiro mais justo, descentralizado e resistente.
-
-> :bulb: Todo o material do curso esta disponivel para voce e para qualquer educador no mundo usar como quiser, porque a gente acredita que compartilhar conhecimento e tao importante quanto aprender.
-
-## As 10 Aulas do Curso
-
-| # | Aula | Descricao |
-|---|------|-----------|
-| 1 | O que e o Bitcoin e por que ele foi criado? | Introducao e contexto historico |
-| 2 | Qual o problema do dinheiro atual? | Entenda o dinheiro fiat |
-| 3 | Por que o Bitcoin e um dinheiro melhor? | Propriedades superiores |
-| 4 | Por dentro do Bitcoin: como ele funciona? | Descentralizacao e blockchain |
-| 5 | Por que o Bitcoin deve continuar valorizando? | Fundamentos economicos |
-| 6 | Formas de ter Bitcoin | Exchange, P2P, economias circulares |
-| 7 | Rebatendo mentiras (FUDs) sobre Bitcoin | Mitos desmascarados |
-| 8 | Por que fazer autocustodia? | Nao deixe tudo na exchange |
-| 9 | O que sao carteiras de Bitcoin? | Tipos e seguranca |
-| 10 | Como sacar da Exchange e ter soberania? | Liberdade financeira |
-
-## O que voce pode fazer?
-
-- :books: **Aprenda**: assista ao curso no seu ritmo
-- :arrow_right: **Compartilhe**: mostre para amigos e familia
-- :mortar_board: **Ensine**: organize meetups e forme novos bitcoiners
+[Comecar Aula 1 :arrow_right:](pt/aula-1.md)
 
 ---
 
-**Pronto para comecar? Entao bora!** :rocket:
-
-[Proxima: Aula 1 - O que e Bitcoin :arrow_right:](pt/aula-1.md)
+:cc: Conteudo sob licenca [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

@@ -1,101 +1,31 @@
-﻿# Aula 6 - Por que Bitcoin deve continuar valorizando?
+﻿# :six: Aula 6 - Por que Bitcoin Deve Continuar Valorizando?
 
-> Fundamentos economicos e perspectivas de longo prazo
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691285?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 6"></iframe></div>
 
-## :movie_camera: Video da Aula 6
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_6" frameborder="0" allowfullscreen></iframe>
+### Fundamentos do Valor
 
-[Assistir no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
-
----
-
-## Os Fundamentos da Valorizacao
-
-### 1. Escassez Absoluta
-
-| Ativo | Oferta |
-|-------|--------|
-| Dolar | Infinita (imprimem mais) |
-| Ouro | ~2% de aumento anual |
-| Bitcoin | **Fixa em 21 milhoes** |
-
-> :gem: Bitcoin e o **unico ativo com oferta absolutamente limitada**.
-
-### 2. Efeito de Rede
-
-Quanto mais pessoas usam Bitcoin:
-- Mais liquido ele fica
-- Mais segura a rede fica
-- Mais valioso ele se torna
-
-### 3. Halving Ciclico
-
-A cada 4 anos, a oferta nova e **cortada pela metade**, enquanto a demanda continua crescendo.
-
----
-
-## Adocao Crescente
-
-### Quem esta comprando Bitcoin?
-
-| Tipo | Exemplos |
-|------|----------|
-| :office: **Empresas** | MicroStrategy, Tesla, Square |
-| :bank: **Instituicoes** | BlackRock, Fidelity |
-| :earth_americas: **Paises** | El Salvador (moeda legal) |
-| :family: **Pessoas** | Milhoes ao redor do mundo |
-
-### Curva de Adocao
-
-```
-Inovadores  Adotantes Iniciais  Maioria Inicial  Maioria Tardia  Retardatarios
-    (2009)         (2013)            (2017)           (2021+)           (?)
-```
-
----
-
-## Bitcoin vs Outros Ativos
-
-### Comparacao de Retorno (15 anos)
-
-| Ativo | Retorno |
+| Fator | Impacto |
 |-------|---------|
-| Bitcoin | +8.000.000.000% |
-| Ouro | +150% |
-| S&P 500 | +300% |
-| Imoveis | +100% |
+| **Oferta fixa** | 21 milhoes maximo |
+| **Demanda crescente** | Adocao institucional |
+| **Halvings** | Emissao decrescente |
+| **Efeito rede** | Mais usuarios = mais valor |
 
-> :warning: Retornos passados nao garantem retornos futuros, mas mostram a tendencia.
+### Adocao Institucional
 
----
+- **ETFs** - Aprovados em varios paises
+- **Empresas** - MicroStrategy, Tesla, etc.
+- **Paises** - El Salvador, Republica Centro-Africana
+- **Bancos** - Custodia e servicos
 
-## O Longo Prazo
+## :books: Roteiro Completo
 
-### Por que pensar em decadas?
-
-- Bitcoin e **jovem** (apenas 15 anos)
-- A adocao ainda esta no **inicio**
-- Infraestrutura continua **melhorando**
-- Regulamentacao ficando **mais clara**
-
-### Cenarios Possiveis
-
-| Cenario | O que acontece |
-|---------|----------------|
-| Conservador | Bitcoin continua crescendo como reserva de valor |
-| Moderado | Paises adotam como reserva em seus bancos centrais |
-| Otimista | Bitcoin se torna padrao monetario global |
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 6](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 5](pt/aula-5.md) | [Aula 7 - Como ter Bitcoin :arrow_right:](pt/aula-7.md)
+[:arrow_left: Aula 5](pt/aula-5.md) | [Aula 7 :arrow_right:](pt/aula-7.md)

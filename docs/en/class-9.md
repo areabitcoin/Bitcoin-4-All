@@ -2,49 +2,26 @@
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007807?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 9"></iframe></div>
 
 ## :page_facing_up: Content
 
 ### Types of Wallets
 
-| Type | Security | Convenience | Recommendation |
-|------|----------|-------------|----------------|
-| **Exchange** | Low | High | Small amounts only |
-| **Hot Wallet** | Medium | High | Daily use |
-| **Cold Wallet** | High | Medium | Large amounts |
-| **Hardware Wallet** | Very High | Medium | Long term |
-| **Paper Wallet** | High | Low | Advanced backup |
-
-### Hot Wallets (Recommendations)
-
-**Mobile:**
-- Blue Wallet
-- Muun
-- Phoenix (Lightning)
-- Green Wallet
-
-**Desktop:**
-- Sparrow Wallet
-- Electrum
-- Wasabi (privacy)
-
-### Cold Wallets / Hardware
-
-- **Ledger** - Popular and affordable
-- **Trezor** - Open source
-- **Coldcard** - Advanced bitcoiners
-- **Jade** - Good value
+| Type | Security | Convenience |
+|------|----------|-------------|
+| **Exchange** | Low | High |
+| **Hot Wallet** | Medium | High |
+| **Cold Wallet** | High | Medium |
+| **Hardware Wallet** | Very High | Medium |
 
 ### The Golden Rule
 
 > :key: **Not your keys, not your coins**
 
-If you don't control the private keys, the bitcoin isn't truly yours.
-
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

@@ -1,143 +1,45 @@
-﻿# Aula 10 - Como sacar da Exchange e ter Soberania
+﻿# :keycap_ten: Aula 10 - Soberania e Autocustodia
 
-> Conquistando liberdade financeira com Bitcoin
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691796?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 10"></iframe></div>
 
-## :movie_camera: Video da Aula 10
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_10" frameborder="0" allowfullscreen></iframe>
+### Por que Autocustodia?
 
-[Assistir no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
+Riscos da exchange:
+- :x: Hacks e roubos
+- :x: Falencia (Mt.Gox, FTX)
+- :x: Congelamento de conta
+- :x: Confisco de bens
 
----
+### Seed Phrase: Sua Chave Mestra
 
-## Por que fazer Autocustodia?
+A **seed phrase** (12 ou 24 palavras) e seu backup mestre:
 
-### O Problema de Deixar na Exchange
+| FACA | NAO FACA |
+|------|----------|
+| :white_check_mark: Escreva em papel/metal | :x: Foto ou print |
+| :white_check_mark: Guarde em local seguro | :x: Nuvem |
+| :white_check_mark: Multiplas copias | :x: Copia unica |
 
-| Risco | Exemplo |
-|-------|---------|
-| :x: Hack | Mt. Gox, FTX |
-| :x: Falencia | FTX, Celsius |
-| :x: Bloqueio | Contas congeladas |
-| :x: Confisco | Governos podem ordenar |
+### Soberania Financeira
 
-> :warning: **"Not your keys, not your coins"**
-> Se voce nao tem as chaves, nao sao seus Bitcoin.
+Com Bitcoin e autocustodia, voce se torna:
+- Seu proprio banco
+- Dono da sua riqueza
+- Livre de censura
+- Verdadeiramente soberano
 
----
+## :trophy: Parabens!
 
-## Passo a Passo: Sacar da Exchange
+Voce completou o curso **Bitcoin 4 All**!
 
-### 1. Prepare sua Carteira
+## :books: Roteiro Completo
 
-1. Baixe uma carteira (BlueWallet, Electrum, etc.)
-2. Crie nova carteira
-3. **Anote a seed phrase** em papel
-4. Guarde em local seguro
-5. Verifique o backup
-
-### 2. Copie seu Endereco
-
-1. Na carteira, va em "Receber"
-2. Copie o endereco Bitcoin
-3. Confira se comeca com bc1, 3 ou 1
-
-### 3. Saque da Exchange
-
-1. Acesse a exchange
-2. Va em "Sacar" ou "Withdraw"
-3. Cole o endereco da sua carteira
-4. **CONFIRA** o endereco (primeiros e ultimos caracteres)
-5. Defina o valor
-6. Confirme a transacao
-
-### 4. Aguarde Confirmacao
-
-- Transacoes precisam de **confirmacoes** na blockchain
-- 1 confirmacao: ~10 minutos
-- 6 confirmacoes: ~1 hora (recomendado para valores altos)
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Dicas de Seguranca
-
-### Antes de Sacar
-
-- :white_check_mark: Faca um **teste pequeno** primeiro
-- :white_check_mark: Confira o endereco **varias vezes**
-- :white_check_mark: Use **2FA** na exchange
-
-### Depois de Sacar
-
-- :white_check_mark: Verifique na blockchain (mempool.space)
-- :white_check_mark: Aguarde confirmacoes
-- :white_check_mark: Guarde sua seed em local seguro
-
----
-
-## Soberania Financeira
-
-### O que significa?
-
-- :crown: **Voce controla** seu dinheiro
-- :lock: **Ninguem pode** confiscar
-- :globe_with_meridians: **Funciona** em qualquer lugar
-- :clock: **Disponivel** 24/7
-
-### Niveis de Soberania
-
-| Nivel | Descricao |
-|-------|-----------|
-| 0 | Bitcoin na exchange |
-| 1 | Hot wallet propria |
-| 2 | Hardware wallet |
-| 3 | Multisig + Backup distribuido |
-| 4 | Node proprio + Multisig |
-
----
-
-## Parabens!
-
-Voce completou o curso **Bitcoin 4 All**! :tada:
-
-### O que voce aprendeu:
-
-1. :white_check_mark: O que e Bitcoin
-2. :white_check_mark: Problema do dinheiro fiat
-3. :white_check_mark: Por que Bitcoin e melhor
-4. :white_check_mark: Como Bitcoin funciona
-5. :white_check_mark: Mineracao e halving
-6. :white_check_mark: Por que valoriza
-7. :white_check_mark: Como obter Bitcoin
-8. :white_check_mark: Rebater FUDs
-9. :white_check_mark: Carteiras
-10. :white_check_mark: Autocustodia
-
-### Proximos Passos
-
-- :orange_circle: Faca sua primeira compra
-- :orange_circle: Saque para sua carteira
-- :orange_circle: Estude mais (livros, podcasts)
-- :orange_circle: Compartilhe conhecimento
-- :orange_circle: Organize um meetup!
-
----
-
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 10](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 9](pt/aula-9.md) | [Voltar ao Inicio :house:](/)
-
----
-
-<p align="center">
-  <strong>Obrigado por estudar com a gente!</strong><br>
-  Feito com :orange_heart: por <a href="https://areabitcoin.co">Area Bitcoin</a><br>
-  Financiado por <a href="https://opensats.org">OpenSats</a>
-</p>
+[:arrow_left: Aula 9](pt/aula-9.md) | [:house: Voltar para Introducao](pt/intro.md)

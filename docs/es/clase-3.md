@@ -2,7 +2,7 @@
 
 ## :movie_camera: Video
 
-> Video disponible en [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040399040?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 3"></iframe></div>
 
 ## :page_facing_up: Contenido
 
@@ -11,27 +11,13 @@
 | Propiedad | Oro | Fiat | Bitcoin |
 |-----------|-----|------|---------|
 | Escasez | :white_check_mark: | :x: | :white_check_mark: |
-| Durabilidad | :white_check_mark: | :warning: | :white_check_mark: |
 | Divisibilidad | :warning: | :white_check_mark: | :white_check_mark: |
 | Portabilidad | :x: | :white_check_mark: | :white_check_mark: |
-| Verificabilidad | :warning: | :warning: | :white_check_mark: |
 | Resistencia a censura | :x: | :x: | :white_check_mark: |
-
-### Por que Bitcoin es Superior
-
-1. **Escasez absoluta** - 21 millones, nunca mas
-2. **Divisibilidad digital** - Hasta 8 decimales (satoshis)
-3. **Portabilidad global** - Envia a cualquiera, donde sea
-4. **Verificacion facil** - Cualquiera puede auditar
-5. **Imparable** - Nadie puede censurar transacciones
-
-### El Dinero Mas Duro Jamas Creado
-
-El ratio Stock-to-Flow demuestra por que Bitcoin es el dinero mas duro.
 
 ## :books: Guion Completo
 
-Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Spanish/)
+Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish)
 
 ---
 

@@ -1,8 +1,8 @@
-﻿# :two: Class 2 - Problems with Fiat Money
+﻿# :two: Class 2 - The Problem with Fiat Money
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007449?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 2"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -13,44 +13,15 @@
 - Is backed only by government trust
 - Can be created infinitely
 
-### Brief History of Money
-
-| Era | Type of Money |
-|-----|---------------|
-| Ancient | Barter |
-| ~3000 BC | Precious metals |
-| 7th century | First coins |
-| 17th century | Paper money |
-| 1971 | End of gold standard |
-| Today | Pure fiat |
-
 ### The 3 Main Problems
 
-#### 1. :chart_with_upwards_trend: Inflation
-
-- Governments print money without limits
-- Your purchasing power decreases every year
-- The poor are the most affected
-
-#### 2. :bank: Centralization
-
-- Banks can freeze your money
-- Governments can confiscate assets
-- You depend on third parties
-
-#### 3. :no_entry: Financial Exclusion
-
-- 1.7 billion adults without bank accounts
-- Bureaucracy and fees that exclude
-- Geographic barriers
-
-### The Hidden Tax
-
-Inflation is a **hidden tax** that penalizes those who save. Every year, your money loses value while you sleep.
+1. :chart_with_upwards_trend: **Inflation** - Purchasing power decreases
+2. :bank: **Centralization** - Banks can freeze your money
+3. :no_entry: **Financial Exclusion** - 1.7 billion unbanked adults
 
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

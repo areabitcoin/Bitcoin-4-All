@@ -2,7 +2,7 @@
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007850?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 10"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -14,44 +14,21 @@ Exchange risks:
 - :x: Account freezing
 - :x: Asset seizure
 
-### Step by Step: Withdrawing from Exchange
-
-1. **Choose your wallet** - Hardware for large amounts
-2. **Generate receiving address** - In YOUR wallet
-3. **Test with small amount** - Always verify first
-4. **Verify confirmation** - Wait for at least 3 confirmations
-5. **Withdraw the rest** - After successful test
-
 ### Seed Phrase: Your Master Key
-
-The **seed phrase** (12 or 24 words) is your master backup:
 
 | DO | DON'T |
 |----|-------|
 | :white_check_mark: Write on paper/metal | :x: Photo or screenshot |
 | :white_check_mark: Store in safe place | :x: Cloud storage |
 | :white_check_mark: Multiple copies | :x: Single copy |
-| :white_check_mark: Test recovery | :x: Share with anyone |
-
-### Financial Sovereignty
-
-With Bitcoin and self-custody, you become:
-- Your own bank
-- In control of your wealth
-- Free from third-party censorship
-- Truly sovereign
 
 ## :trophy: Congratulations!
 
-You completed the **Bitcoin 4 All** course! Now you have the knowledge to:
-- Understand Bitcoin in depth
-- Acquire bitcoin safely
-- Store with self-custody
-- Achieve financial sovereignty
+You completed the **Bitcoin 4 All** course!
 
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

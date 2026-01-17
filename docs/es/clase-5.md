@@ -2,29 +2,11 @@
 
 ## :movie_camera: Video
 
-> Video disponible en [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040399348?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 5"></iframe></div>
 
 ## :page_facing_up: Contenido
 
-### Que es la Mineria de Bitcoin?
-
-La mineria es el proceso de:
-1. Validar transacciones
-2. Crear nuevos bloques
-3. Emitir nuevos bitcoins
-
-### Como Funciona la Mineria
-
-| Paso | Descripcion |
-|------|-------------|
-| 1 | Recoger transacciones pendientes |
-| 2 | Encontrar nonce valido (puzzle hash) |
-| 3 | Propagar bloque a la red |
-| 4 | Recibir recompensa |
-
 ### El Halving
-
-Cada **210,000 bloques** (~4 anos), la recompensa se reduce a la mitad:
 
 | Halving | Ano | Recompensa |
 |---------|-----|------------|
@@ -34,17 +16,9 @@ Cada **210,000 bloques** (~4 anos), la recompensa se reduce a la mitad:
 | 3ro | 2020 | 6.25 BTC |
 | 4to | 2024 | 3.125 BTC |
 
-### Ciclos del Mercado
-
-Patron historico despues de cada halving:
-- Shock de oferta (menos BTC nuevos)
-- Aumento gradual del precio
-- Pico del mercado alcista
-- Correccion y acumulacion
-
 ## :books: Guion Completo
 
-Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Spanish/)
+Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish)
 
 ---
 

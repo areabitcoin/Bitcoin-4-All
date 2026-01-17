@@ -1,14 +1,10 @@
-﻿# :eight: Clase 8 - FUDs Mas Comunes Sobre Bitcoin
+﻿# :eight: Clase 8 - Refutando las Mentiras (FUDs) Sobre Bitcoin
 
 ## :movie_camera: Video
 
-> Video disponible en [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040399698?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 8"></iframe></div>
 
 ## :page_facing_up: Contenido
-
-### Que es FUD?
-
-**Fear, Uncertainty and Doubt** (Miedo, Incertidumbre y Duda) - Desinformacion para crear miedo.
 
 ### FUDs Comunes Desmentidos
 
@@ -16,26 +12,13 @@
 |-----|----------|
 | *"Bitcoin es una burbuja"* | 15+ anos, maximos mas altos en cada ciclo |
 | *"Se usa para crimenes"* | Menos del 1%; el dolar domina el crimen |
-| *"Desperdicia energia"* | Usa energia limpia/varada; asegura red de trillones |
-| *"No tiene respaldo"* | Respaldado por matematicas, energia y red global |
+| *"Desperdicia energia"* | Usa energia limpia/varada |
+| *"No tiene respaldo"* | Respaldado por matematicas y energia |
 | *"Puede ser prohibido"* | Descentralizado; imposible de apagar |
-| *"Muy volatil"* | La volatilidad disminuye con la adopcion |
-
-### Bitcoin y el Medio Ambiente
-
-- ~60% energia renovable
-- Usa energia varada/desperdiciada
-- Incentiva inversion en renovables
-- Menor huella de carbono que el sistema bancario
-
-### Respuesta a los Criticos
-
-> *"No creo que volvamos a tener buen dinero antes de quitarselo de las manos al gobierno. No podemos quitarselo violentamente; todo lo que podemos hacer es introducir algo que no puedan detener de alguna forma astuta."*
->  Friedrich Hayek, 1984
 
 ## :books: Guion Completo
 
-Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Spanish/)
+Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish)
 
 ---
 

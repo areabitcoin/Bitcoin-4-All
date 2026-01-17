@@ -1,85 +1,34 @@
-﻿# Aula 3 - Por que Bitcoin e um dinheiro melhor?
+﻿# :three: Aula 3 - Por que Bitcoin e um Dinheiro Melhor?
 
-> As propriedades que fazem do Bitcoin um dinheiro superior
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041690925?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 3"></iframe></div>
 
-## :movie_camera: Video da Aula 3
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allowfullscreen></iframe>
+### Propriedades do Bom Dinheiro
 
-[Assistir no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
-
----
-
-## Bitcoin vs Dinheiro Fiat
-
-Se o dinheiro fiat **derrete de valor**, Bitcoin e o **oposto** - ele **ganha valor**.
-
-### Valorizacao Historica
-
-| Periodo | Valorizacao |
-|---------|-------------|
-| 2010 - 2024 | +8 bilhoes % em dolares |
-| 2024 | Atingiu $100.000 por unidade |
-
-> Volatil no curto prazo, crescimento continuo em 15 anos.
-
-### Por que isso acontece?
-
-Bitcoin tem **propriedades monetarias superiores**. Assim como o ouro foi adotado por suas propriedades naturais, Bitcoin apresenta caracteristicas ainda mais robustas.
-
----
-
-## As 7 Propriedades de um Bom Dinheiro
-
-| Propriedade | Fiat | Ouro | Bitcoin |
+| Propriedade | Ouro | Fiat | Bitcoin |
 |-------------|------|------|---------|
-| **Durabilidade** | :x: Papel deteriora | :white_check_mark: Nao enferruja | :star: Digital, eterno |
-| **Divisibilidade** | :white_check_mark: Centavos | :warning: Limitado | :star: 8 casas decimais |
-| **Fungibilidade** | :warning: Varia por pais | :white_check_mark: Alta | :white_check_mark: Alta |
-| **Portabilidade** | :white_check_mark: Boa | :x: Pesado | :star: Instantaneo global |
-| **Verificabilidade** | :warning: Falsificacoes | :warning: Requer testes | :star: Matematica |
-| **Escassez** | :x: Infinito | :white_check_mark: Limitado | :star: 21 milhoes fixo |
-| **Aceitacao** | :white_check_mark: Forcada | :white_check_mark: Historica | :arrow_up: Crescendo |
+| Escassez | :white_check_mark: | :x: | :white_check_mark: |
+| Durabilidade | :white_check_mark: | :warning: | :white_check_mark: |
+| Divisibilidade | :warning: | :white_check_mark: | :white_check_mark: |
+| Portabilidade | :x: | :white_check_mark: | :white_check_mark: |
+| Verificabilidade | :warning: | :warning: | :white_check_mark: |
+| Resistencia a censura | :x: | :x: | :white_check_mark: |
+
+### Por que Bitcoin e Superior
+
+1. **Escassez absoluta** - 21 milhoes, nunca mais
+2. **Divisibilidade digital** - Ate 8 casas decimais (satoshis)
+3. **Portabilidade global** - Envie para qualquer lugar
+4. **Verificacao facil** - Qualquer um pode auditar
+5. **Imparavel** - Ninguem pode censurar transacoes
+
+## :books: Roteiro Completo
+
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Satoshis: A Menor Unidade
-
-Bitcoin e ultra-divisivel:
-
-- **1 Bitcoin = 100.000.000 satoshis**
-- Menor unidade: **0,00000001 BTC**
-
-> :bulb: Quando voce compra R$100 em Bitcoin, esta comprando milhares de satoshis!
-
-### Comparacao
-
-| Moeda | Menor unidade |
-|-------|---------------|
-| Real | 1 centavo (0,01) |
-| Bitcoin | 1 satoshi (0,00000001) |
-
----
-
-## Por que Bitcoin e Escasso?
-
-Diferente do ouro (que pode ser minerado mais), Bitcoin tem **oferta fixa**:
-
-- **Maximo**: 21 milhoes de unidades
-- **Nao pode ser alterado**: codigo imutavel
-- **Previsivel**: sabemos exatamente quantos existirao
-
-> Isso faz do Bitcoin o **ativo mais escasso da historia**.
-
----
-
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 3](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Portuguese/Roteiro%20Aula%203%20-%20Por%20que%20Bitcoin%20%C3%A9%20um%20dinheiro%20melhor)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 2](pt/aula-2.md) | [Aula 4 - Como Bitcoin funciona :arrow_right:](pt/aula-4.md)
+[:arrow_left: Aula 2](pt/aula-2.md) | [Aula 4 :arrow_right:](pt/aula-4.md)

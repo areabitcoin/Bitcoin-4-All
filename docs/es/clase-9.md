@@ -2,49 +2,26 @@
 
 ## :movie_camera: Video
 
-> Video disponible en [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040399818?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 9"></iframe></div>
 
 ## :page_facing_up: Contenido
 
 ### Tipos de Billeteras
 
-| Tipo | Seguridad | Conveniencia | Recomendacion |
-|------|-----------|--------------|---------------|
-| **Exchange** | Baja | Alta | Solo pequenas cantidades |
-| **Hot Wallet** | Media | Alta | Uso diario |
-| **Cold Wallet** | Alta | Media | Grandes cantidades |
-| **Hardware Wallet** | Muy Alta | Media | Largo plazo |
-| **Paper Wallet** | Alta | Baja | Backup avanzado |
-
-### Hot Wallets (Recomendaciones)
-
-**Movil:**
-- Blue Wallet
-- Muun
-- Phoenix (Lightning)
-- Green Wallet
-
-**Desktop:**
-- Sparrow Wallet
-- Electrum
-- Wasabi (privacidad)
-
-### Cold Wallets / Hardware
-
-- **Ledger** - Popular y accesible
-- **Trezor** - Codigo abierto
-- **Coldcard** - Bitcoiners avanzados
-- **Jade** - Buena relacion calidad-precio
+| Tipo | Seguridad | Conveniencia |
+|------|-----------|--------------|
+| **Exchange** | Baja | Alta |
+| **Hot Wallet** | Media | Alta |
+| **Cold Wallet** | Alta | Media |
+| **Hardware Wallet** | Muy Alta | Media |
 
 ### La Regla de Oro
 
 > :key: **Not your keys, not your coins**
 
-Si no controlas las llaves privadas, el bitcoin no es verdaderamente tuyo.
-
 ## :books: Guion Completo
 
-Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Spanish/)
+Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish)
 
 ---
 

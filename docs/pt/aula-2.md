@@ -1,80 +1,39 @@
-﻿# Aula 2 - O problema do dinheiro fiat
+﻿# :two: Aula 2 - O Problema do Dinheiro Fiat
 
-> Como o sistema monetario atual funciona e seus problemas fundamentais
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041690841?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 2"></iframe></div>
 
-## :movie_camera: Video da Aula 2
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3MsP6tQX7w8" frameborder="0" allowfullscreen></iframe>
-
-[Assistir no YouTube](https://www.youtube.com/watch?v=3MsP6tQX7w8&list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg&index=2)
-
----
-
-## O Dinheiro e um Cubo de Gelo
-
-O dinheiro criado por governos tem um problema: **ele derrete de valor constantemente**.
-
-Talvez voce ainda nao tenha percebido isso, mas tem um efeito que com certeza voce percebe: **tudo fica mais caro com o passar do tempo**.
-
-### A Perda de Poder de Compra
-
-| Moeda | Perda de Valor |
-|-------|----------------|
-| :us: Dolar (desde 1913) | -97% |
-| :brazil: Real (desde 1994) | -87% |
-| :jp: Yen (ultimos 25 anos) | -50% |
-| :eu: Euro | -73% |
-| :gb: Libra | -75% |
-
-> :warning: **TODAS** as moedas governamentais perderam valor nos ultimos 25 anos!
-
-### Por que isso acontece?
-
-A **inflacao** nao e o aumento de precos - isso e apenas um **sintoma**.
-
-A verdadeira causa e a **expansao da base monetaria** - quando bancos centrais imprimem mais dinheiro.
-
-Como dizia Milton Friedman:
-> "So os bancos centrais conseguem criar inflacao generalizada porque so eles podem imprimir dinheiro."
-
-### Oferta e Demanda
-
-Os precos sao determinados por oferta e demanda - **inclusive do dinheiro**:
-
-- Se mais dinheiro for criado  o dinheiro perde valor
-- Se a criacao de dinheiro parar  o valor tende a aumentar
+## :page_facing_up: Conteudo
 
 ### O que e Dinheiro Fiat?
 
-**Fiat** vem do latim e significa "faca-se". E dinheiro que:
-- Terceiros determinam que tem valor
-- Pessoas sao obrigadas a usar
-- Pode ser criado do nada (imprimindo ou digitando)
+**Fiat** vem do latim e significa *"que assim seja"*. O dinheiro fiat:
+- Nao tem valor intrinseco
+- E lastreado apenas na confianca do governo
+- Pode ser criado infinitamente
 
-### Exemplos de Colapso
+### Os 3 Problemas Principais
 
-| Pais | O que aconteceu |
-|------|-----------------|
-| :brazil: Brasil | Real perdeu 99% vs dolar desde criacao |
-| :venezuela: Venezuela | Hiperinflacao 2012-2018 |
-| :tr: Turquia | Desvalorizacao massiva |
-| :argentina: Argentina | Colapso da moeda |
+#### 1. :chart_with_upwards_trend: Inflacao
+- Governos imprimem dinheiro sem limites
+- Seu poder de compra diminui a cada ano
+- Os mais pobres sao os mais afetados
 
-### O Confisco de 1990
+#### 2. :bank: Centralizacao
+- Bancos podem congelar seu dinheiro
+- Governos podem confiscar bens
+- Voce depende de terceiros
 
-No Brasil, o governo ja confiscou a poupanca dos brasileiros. De um dia para o outro, as pessoas nao podiam mais sacar seu proprio dinheiro.
+#### 3. :no_entry: Exclusao Financeira
+- 1.7 bilhao de adultos sem conta bancaria
+- Burocracia e taxas que excluem
+- Barreiras geograficas
 
-> :x: Se seu dinheiro esta no banco, ele **nao e realmente seu**.
+## :books: Roteiro Completo
+
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 2](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Portuguese/Roteiro%20Aula%202%20-%20O%20problema%20do%20dinheiro%20fiat)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 1](pt/aula-1.md) | [Aula 3 - Por que Bitcoin e melhor :arrow_right:](pt/aula-3.md)
+[:arrow_left: Aula 1](pt/aula-1.md) | [Aula 3 :arrow_right:](pt/aula-3.md)

@@ -2,20 +2,13 @@
 
 ## :movie_camera: Video
 
-> Video disponible en [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040398797?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 1"></iframe></div>
 
 ## :page_facing_up: Contenido
 
 ### El Nacimiento de Bitcoin
 
-Bitcoin surgio el **31 de octubre de 2008**, cuando el whitepaper *"Bitcoin: A Peer-to-Peer Electronic Cash System"* fue publicado por **Satoshi Nakamoto**.
-
-### El Contexto de 2008
-
-- Crisis financiera global
-- Rescates bancarios con dinero publico
-- Perdida de confianza en instituciones financieras
-- Necesidad de una alternativa
+Bitcoin surgio el **31 de octubre de 2008**, cuando el whitepaper fue publicado por **Satoshi Nakamoto**.
 
 ### Que es Bitcoin?
 
@@ -24,25 +17,11 @@ Bitcoin surgio el **31 de octubre de 2008**, cuando el whitepaper *"Bitcoin: A P
 | **Moneda digital** | Existe solo en forma digital |
 | **Descentralizado** | Sin control central |
 | **Limitado** | Solo 21 millones de unidades |
-| **Transparente** | Todas las transacciones son publicas |
 | **Inmutable** | No puede ser alterado ni censurado |
-
-### Por que fue creado?
-
-1. **Separacion del dinero y el estado** - Ningun gobierno puede controlar
-2. **Soberania financiera** - Eres tu propio banco
-3. **Proteccion contra la inflacion** - Oferta fija
-4. **Pagos globales** - Sin fronteras ni intermediarios
-
-### El Mensaje Genesis
-
-En el primer bloque de Bitcoin, Satoshi dejo un mensaje:
-
-> *"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"*
 
 ## :books: Guion Completo
 
-Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Spanish/)
+Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish)
 
 ---
 

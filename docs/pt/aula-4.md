@@ -1,98 +1,39 @@
-﻿# Aula 4 - Por dentro do Bitcoin: Como funciona? (Parte 1)
+﻿# :four: Aula 4 - Por Dentro do Bitcoin: Descentralizacao e Blockchain
 
-> Descentralizacao, blockchain e teoria dos jogos
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691040?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 4"></iframe></div>
 
-## :movie_camera: Video da Aula 4
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_4" frameborder="0" allowfullscreen></iframe>
+### A Triade da Descentralizacao
 
-[Assistir no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
+Bitcoin resolve o **Problema dos Generais Bizantinos** atraves de:
 
----
+| Componente | Funcao |
+|------------|--------|
+| **Nos (Nodes)** | Validam e armazenam regras |
+| **Mineradores** | Processam transacoes e protegem a rede |
+| **Desenvolvedores** | Propoem melhorias |
 
-## Como Bitcoin Funciona?
+### O que e Blockchain?
 
-Bitcoin e uma rede **descentralizada** que funciona sem nenhuma autoridade central.
+Uma **cadeia de blocos** onde:
+- Cada bloco contem transacoes
+- Blocos sao ligados criptograficamente
+- O historico nao pode ser alterado
 
-### Os Pilares do Bitcoin
+### Teoria dos Jogos: Por que Funciona?
 
-1. **Descentralizacao** - Ninguem controla
-2. **Blockchain** - Registro publico e imutavel
-3. **Teoria dos Jogos** - Incentivos economicos
-4. **Criptografia** - Seguranca matematica
+**Incentivos alinhados:**
+- Mineradores sao recompensados pela honestidade
+- Atacar custa mais que participar
+- Todos se beneficiam do sucesso da rede
 
----
+## :books: Roteiro Completo
 
-## Descentralizacao
-
-### O que significa?
-
-- **Nao ha CEO** do Bitcoin
-- **Nao ha empresa** por tras
-- **Nao ha servidor central** que pode ser desligado
-- **Milhares de nodes** ao redor do mundo
-
-> :bulb: Se um governo desligar nodes em um pais, a rede continua funcionando nos outros.
-
-### Por que e importante?
-
-| Centralizado | Descentralizado |
-|--------------|-----------------|
-| Pode ser censurado | Resistente a censura |
-| Ponto unico de falha | Sem ponto de falha |
-| Depende de confianca | Nao precisa confiar |
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Blockchain
-
-A blockchain e um **livro-razao publico** onde todas as transacoes sao registradas.
-
-### Caracteristicas
-
-- :link: **Blocos encadeados** - cada bloco referencia o anterior
-- :lock: **Imutavel** - nao pode ser alterado retroativamente
-- :eyes: **Transparente** - qualquer pessoa pode verificar
-- :globe_with_meridians: **Distribuido** - copias em milhares de computadores
-
-### Como funciona?
-
-```
-Bloco 1  Bloco 2  Bloco 3  ...  Bloco Atual
-                     
-  Hash     Hash      Hash
-```
-
-Cada bloco contem:
-- Transacoes
-- Hash do bloco anterior
-- Timestamp
-- Nonce (proof of work)
-
----
-
-## Teoria dos Jogos
-
-Bitcoin usa **incentivos economicos** para manter a rede segura.
-
-### Mineradores
-
-- Gastam energia para validar transacoes
-- Recebem recompensa em Bitcoin
-- Competem entre si (descentralizado)
-- Tem incentivo para ser honestos
-
-> :dart: E mais lucrativo seguir as regras do que tentar atacar a rede.
-
----
-
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 4](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 3](pt/aula-3.md) | [Aula 5 - Mineracao e Halving :arrow_right:](pt/aula-5.md)
+[:arrow_left: Aula 3](pt/aula-3.md) | [Aula 5 :arrow_right:](pt/aula-5.md)

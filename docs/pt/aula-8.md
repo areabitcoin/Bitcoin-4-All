@@ -1,128 +1,30 @@
-﻿# Aula 8 - Rebatendo Mentiras (FUDs) sobre Bitcoin
+﻿# :eight: Aula 8 - Rebatendo as Mentiras (FUDs) Sobre Bitcoin
 
-> Desmistificando as principais criticas e mitos
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691522?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 8"></iframe></div>
 
-## :movie_camera: Video da Aula 8
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_8" frameborder="0" allowfullscreen></iframe>
+### O que e FUD?
 
-[Assistir no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
+**Fear, Uncertainty and Doubt** (Medo, Incerteza e Duvida) - Desinformacao espalhada para criar medo.
 
----
+### FUDs Comuns Desmentidos
 
-## O que e FUD?
+| FUD | Realidade |
+|-----|-----------|
+| *"Bitcoin e bolha"* | 15+ anos, novas maximas a cada ciclo |
+| *"Usado para crimes"* | Menos de 1%; dolar domina o crime |
+| *"Gasta energia"* | Usa energia limpa/encalhada; protege rede trilionaria |
+| *"Nao tem lastro"* | Lastreado em matematica, energia e rede global |
+| *"Pode ser banido"* | Descentralizado; impossivel desligar |
+| *"Muito volatil"* | Volatilidade diminui com adocao |
 
-**F**ear, **U**ncertainty, **D**oubt (Medo, Incerteza, Duvida)
+## :books: Roteiro Completo
 
-Sao informacoes falsas ou exageradas espalhadas para criar medo sobre Bitcoin.
-
----
-
-## FUD 1: "Bitcoin e usado por criminosos"
-
-### A Verdade:
-
-| Fato | Dado |
-|------|------|
-| % de transacoes ilicitas em Bitcoin | < 1% |
-| % de dinheiro fiat usado em crimes | ~5% |
-
-- Dinheiro em papel e **muito mais usado** em crimes
-- Bitcoin tem **blockchain publica** - tudo e rastreavel
-- Criminosos preferem dinheiro vivo (anonimo)
-
-> :cop: Agencias governamentais **preferem** que criminosos usem Bitcoin porque podem rastrear!
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## FUD 2: "Bitcoin gasta muita energia"
-
-### A Verdade:
-
-| Sistema | Consumo de Energia |
-|---------|-------------------|
-| Sistema bancario tradicional | Muito maior |
-| Mineracao de ouro | Comparavel |
-| Bitcoin | ~0.1% da energia global |
-
-- Grande parte da mineracao usa **energia renovavel**
-- Mineradores buscam **energia barata** (geralmente excedente)
-- O gasto de energia **protege** a rede
-
-> :zap: Seguranca tem custo. Quanto custa proteger bancos, cofres, transporte de valores?
-
----
-
-## FUD 3: "Bitcoin e uma bolha"
-
-### A Verdade:
-
-- Bitcoin ja foi declarado "morto" **mais de 400 vezes**
-- Cada "bolha" termina em um preco **maior** que a anterior
-- Volatilidade esta **diminuindo** com o tempo
-
-| Ano | "Bitcoin morreu" | Preco Atual |
-|-----|------------------|-------------|
-| 2011 | $2  $0.01 | - |
-| 2014 | $1000  $200 | - |
-| 2018 | $20000  $3000 | - |
-| 2022 | $69000  $16000 | - |
-| 2024 | - | $100.000+ |
-
----
-
-## FUD 4: "Bitcoin nao tem valor intrinseco"
-
-### A Verdade:
-
-O que da valor a algo?
-- **Escassez** - Bitcoin tem
-- **Utilidade** - Bitcoin tem (transferencia de valor)
-- **Demanda** - Bitcoin tem (crescendo)
-- **Durabilidade** - Bitcoin tem
-
-> :thinking: O dolar tem valor "intrinseco"? Nao, e apenas papel. O valor vem da **confianca**.
-
----
-
-## FUD 5: "Governos vao banir Bitcoin"
-
-### A Verdade:
-
-- Tecnicamente **impossivel** banir completamente
-- Paises que baniram viram Bitcoin **continuar funcionando**
-- Tendencia e **regulamentar**, nao banir
-- El Salvador fez Bitcoin **moeda oficial**
-
----
-
-## FUD 6: "Bitcoin e muito volatil"
-
-### A Verdade:
-
-- Volatilidade e **normal** em ativos novos
-- Ao longo dos anos, volatilidade esta **diminuindo**
-- Olhe o grafico em **escala logaritmica**
-- Pense em **decadas**, nao em dias
-
----
-
-## Como Responder a FUDs?
-
-1. :brain: **Estude** - conhecimento e sua melhor defesa
-2. :chart_with_upwards_trend: **Mostre dados** - fatos vencem opiniao
-3. :hourglass: **Pense longo prazo** - ignore ruido de curto prazo
-4. :peace: **Mantenha calma** - FUD e tecnica de manipulacao
-
----
-
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 8](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Portuguese/Roteiro%20Aula%208%20-%20Rebatendo%20mentiras%20(fuds)%20sobre%20Bitcoin)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 7](pt/aula-7.md) | [Aula 9 - Carteiras :arrow_right:](pt/aula-9.md)
+[:arrow_left: Aula 7](pt/aula-7.md) | [Aula 9 :arrow_right:](pt/aula-9.md)

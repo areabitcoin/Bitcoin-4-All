@@ -1,56 +1,20 @@
-﻿# :two: Clase 2 - Problemas del Dinero Fiat
+﻿# :two: Clase 2 - El Problema del Dinero Fiat
 
 ## :movie_camera: Video
 
-> Video disponible en [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040398917?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 2"></iframe></div>
 
 ## :page_facing_up: Contenido
 
-### Que es el Dinero Fiat?
-
-**Fiat** viene del latin y significa *"hagase"*. El dinero fiat:
-- No tiene valor intrinseco
-- Esta respaldado solo por la confianza en el gobierno
-- Puede ser creado infinitamente
-
-### Breve Historia del Dinero
-
-| Era | Tipo de Dinero |
-|-----|----------------|
-| Antiguedad | Trueque |
-| ~3000 AC | Metales preciosos |
-| Siglo VII | Primeras monedas |
-| Siglo XVII | Papel moneda |
-| 1971 | Fin del patron oro |
-| Hoy | Fiat puro |
-
 ### Los 3 Problemas Principales
 
-#### 1. :chart_with_upwards_trend: Inflacion
-
-- Los gobiernos imprimen dinero sin limites
-- Tu poder adquisitivo disminuye cada ano
-- Los pobres son los mas afectados
-
-#### 2. :bank: Centralizacion
-
-- Los bancos pueden congelar tu dinero
-- Los gobiernos pueden confiscar activos
-- Dependes de terceros
-
-#### 3. :no_entry: Exclusion Financiera
-
-- 1.7 mil millones de adultos sin cuenta bancaria
-- Burocracia y tarifas que excluyen
-- Barreras geograficas
-
-### El Impuesto Oculto
-
-La inflacion es un **impuesto oculto** que penaliza a quienes ahorran.
+1. :chart_with_upwards_trend: **Inflacion** - Poder adquisitivo disminuye
+2. :bank: **Centralizacion** - Bancos pueden congelar tu dinero
+3. :no_entry: **Exclusion Financiera** - 1.7 mil millones sin banco
 
 ## :books: Guion Completo
 
-Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Spanish/)
+Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## :movie_camera: Video
 
-> Video disponible en [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1040399963?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 10"></iframe></div>
 
 ## :page_facing_up: Contenido
 
@@ -14,44 +14,21 @@ Riesgos del exchange:
 - :x: Congelamiento de cuentas
 - :x: Confiscacion de activos
 
-### Paso a Paso: Retirar del Exchange
-
-1. **Elige tu billetera** - Hardware para grandes cantidades
-2. **Genera direccion de recepcion** - En TU billetera
-3. **Prueba con pequena cantidad** - Siempre verifica primero
-4. **Verifica confirmacion** - Espera al menos 3 confirmaciones
-5. **Retira el resto** - Despues de prueba exitosa
-
 ### Seed Phrase: Tu Llave Maestra
-
-La **seed phrase** (12 o 24 palabras) es tu backup maestro:
 
 | HAZ | NO HAGAS |
 |----|----------|
-| :white_check_mark: Escribe en papel/metal | :x: Foto o captura de pantalla |
-| :white_check_mark: Guarda en lugar seguro | :x: Almacenamiento en la nube |
-| :white_check_mark: Multiples copias | :x: Una sola copia |
-| :white_check_mark: Prueba recuperacion | :x: Compartir con nadie |
-
-### Soberania Financiera
-
-Con Bitcoin y autocustodia, te conviertes en:
-- Tu propio banco
-- Dueno de tu riqueza
-- Libre de censura de terceros
-- Verdaderamente soberano
+| :white_check_mark: Escribe en papel/metal | :x: Foto o captura |
+| :white_check_mark: Guarda en lugar seguro | :x: Nube |
+| :white_check_mark: Multiples copias | :x: Copia unica |
 
 ## :trophy: Felicitaciones!
 
-Completaste el curso **Bitcoin 4 All**! Ahora tienes el conocimiento para:
-- Entender Bitcoin en profundidad
-- Adquirir bitcoin de forma segura
-- Almacenar con autocustodia
-- Alcanzar la soberania financiera
+Completaste el curso **Bitcoin 4 All**!
 
 ## :books: Guion Completo
 
-Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20Spanish/)
+Accede al [guion completo en GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish)
 
 ---
 

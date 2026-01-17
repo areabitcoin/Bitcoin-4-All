@@ -2,20 +2,13 @@
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007388?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 1"></iframe></div>
 
 ## :page_facing_up: Content
 
 ### The Birth of Bitcoin
 
 Bitcoin emerged on **October 31, 2008**, when the whitepaper *"Bitcoin: A Peer-to-Peer Electronic Cash System"* was published by **Satoshi Nakamoto**.
-
-### The 2008 Context
-
-- Global financial crisis
-- Bank bailouts with public money
-- Loss of trust in financial institutions
-- Need for an alternative
 
 ### What is Bitcoin?
 
@@ -27,22 +20,9 @@ Bitcoin emerged on **October 31, 2008**, when the whitepaper *"Bitcoin: A Peer-t
 | **Transparent** | All transactions are public |
 | **Immutable** | Cannot be altered or censored |
 
-### Why was it created?
-
-1. **Separation of money and state** - No government can control
-2. **Financial sovereignty** - You are your own bank
-3. **Protection against inflation** - Fixed supply
-4. **Global payments** - Without borders or intermediaries
-
-### The Genesis Message
-
-In the first Bitcoin block, Satoshi left a message:
-
-> *"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"*
-
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

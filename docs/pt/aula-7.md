@@ -1,90 +1,35 @@
-﻿# Aula 7 - Como ter Bitcoin?
+﻿# :seven: Aula 7 - Como Ter Bitcoin?
 
-> Mineracao, Exchange, P2P ou Economias Circulares
+## :movie_camera: Video
 
----
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1041691393?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 7"></iframe></div>
 
-## :movie_camera: Video da Aula 7
+## :page_facing_up: Conteudo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_7" frameborder="0" allowfullscreen></iframe>
+### Metodos para Adquirir Bitcoin
 
-[Assistir no YouTube](https://www.youtube.com/playlist?list=PLfkef9mW2Y6I6ZWThTYgOgcrAU9aMsgvg)
+| Metodo | Dificuldade | Privacidade |
+|--------|-------------|-------------|
+| Exchanges | Facil | Baixa |
+| P2P | Media | Alta |
+| Mineracao | Dificil | Alta |
+| Receber | Variavel | Alta |
 
----
+### 1. Exchanges Centralizadas (CEX)
+- Facil de usar, mas requer KYC
+- *Not your keys, not your coins*
 
-## Formas de Obter Bitcoin
+### 2. P2P (Peer-to-Peer)
+- Bisq, HodlHodl, Peach Bitcoin, RoboSats
 
-### 1. :hammer_and_wrench: Mineracao
+### 3. Economias Circulares
+- Aceitar Bitcoin por produtos/servicos
+- Participar de comunidades locais
 
-**O que e:** Usar computadores para validar transacoes e ganhar Bitcoin.
+## :books: Roteiro Completo
 
-| Pros | Contras |
-|------|---------|
-| Bitcoin "virgem" | Alto custo inicial |
-| Descentralizado | Consome muita energia |
-| Sem KYC | Complexidade tecnica |
-
-### 2. :bank: Exchanges (Corretoras)
-
-**O que e:** Comprar Bitcoin em plataformas online.
-
-| Pros | Contras |
-|------|---------|
-| Facil de usar | Requer KYC (documentos) |
-| Liquidez alta | Taxas de transacao |
-| Varios metodos de pagamento | Custodia terceirizada |
-
-**Exemplos no Brasil:** Mercado Bitcoin, Foxbit, Binance
-
-### 3. :busts_in_silhouette: P2P (Peer-to-Peer)
-
-**O que e:** Comprar diretamente de outra pessoa.
-
-| Pros | Contras |
-|------|---------|
-| Mais privacidade | Risco de golpes |
-| Sem intermediarios | Menos liquidez |
-| Negociacao de preco | Requer mais cuidado |
-
-**Plataformas:** Bisq, Paxful, LocalBitcoins
-
-### 4. :arrows_counterclockwise: Economias Circulares
-
-**O que e:** Receber Bitcoin como pagamento por produtos ou servicos.
-
-| Pros | Contras |
-|------|---------|
-| Ganha trabalhando | Depende de demanda |
-| Sem taxas de exchange | Volatilidade no preco |
-| Fortalece adocao | Ainda pouco comum |
+Acesse o [roteiro completo no GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
 
 ---
 
-## Qual Metodo Escolher?
-
-| Seu Perfil | Metodo Recomendado |
-|------------|-------------------|
-| Iniciante | Exchange |
-| Privacidade | P2P |
-| Tecnico | Mineracao |
-| Empreendedor | Economia Circular |
-
----
-
-## Dicas de Seguranca
-
-1. :white_check_mark: Pesquise a reputacao da exchange
-2. :white_check_mark: Use autenticacao de 2 fatores (2FA)
-3. :white_check_mark: Nao deixe Bitcoin na exchange por muito tempo
-4. :white_check_mark: Faca sua propria custodia (aulas 9 e 10)
-
----
-
-## Materiais Complementares
-
-- :page_facing_up: [Roteiro completo da Aula 7](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese)
-- :bar_chart: [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides)
-
----
-
-[:arrow_left: Aula 6](pt/aula-6.md) | [Aula 8 - Rebatendo FUDs :arrow_right:](pt/aula-8.md)
+[:arrow_left: Aula 6](pt/aula-6.md) | [Aula 8 :arrow_right:](pt/aula-8.md)

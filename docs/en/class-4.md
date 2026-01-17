@@ -2,13 +2,11 @@
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007547?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 4"></iframe></div>
 
 ## :page_facing_up: Content
 
 ### The Decentralization Triad
-
-Bitcoin solves the **Byzantine Generals Problem** through:
 
 | Component | Function |
 |-----------|----------|
@@ -18,27 +16,11 @@ Bitcoin solves the **Byzantine Generals Problem** through:
 
 ### What is Blockchain?
 
-A **chain of blocks** where:
-- Each block contains transactions
-- Blocks are linked cryptographically
-- History cannot be altered
-
-### Game Theory: Why Does It Work?
-
-**Aligned incentives:**
-- Miners are rewarded for honesty
-- Attacking is more expensive than participating
-- Every participant benefits from network success
-
-### Key Concepts
-
-- **Proof of Work**: Energy spent to secure the network
-- **Hash**: Digital fingerprint of data
-- **Difficulty**: Automatic adjustment every 2016 blocks
+A **chain of blocks** where each block contains transactions, linked cryptographically.
 
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

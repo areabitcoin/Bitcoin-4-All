@@ -2,7 +2,7 @@
 
 ## :movie_camera: Video
 
-> Video available on [Vimeo](https://vimeo.com/areabitcoin)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1045007501?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 3"></iframe></div>
 
 ## :page_facing_up: Content
 
@@ -14,26 +14,11 @@
 | Durability | :white_check_mark: | :warning: | :white_check_mark: |
 | Divisibility | :warning: | :white_check_mark: | :white_check_mark: |
 | Portability | :x: | :white_check_mark: | :white_check_mark: |
-| Verifiability | :warning: | :warning: | :white_check_mark: |
 | Censorship resistant | :x: | :x: | :white_check_mark: |
-
-### Why Bitcoin is Superior
-
-1. **Absolute scarcity** - 21 million, never more
-2. **Digital divisibility** - Up to 8 decimal places (satoshis)
-3. **Global portability** - Send to anyone, anywhere
-4. **Easy verification** - Anyone can audit
-5. **Unstoppable** - No one can censor transactions
-
-### The Hardest Money Ever Created
-
-The Stock-to-Flow ratio demonstrates why Bitcoin is the hardest money:
-- **Gold**: ~62 years to double supply
-- **Bitcoin**: Impossible to increase beyond 21M
 
 ## :books: Full Script
 
-Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/)
+Access the [complete script on GitHub](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English)
 
 ---
 

@@ -2,33 +2,211 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Bitcoin 4 All</title>
+  <title>Bitcoin 4 All - Free Open Source Course</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Free and open source Bitcoin course for everyone">
+  <meta name="description" content="Free and open source Bitcoin course for everyone - Curso gratuito e open source sobre Bitcoin">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="icon" href="https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Visuals/Logos/Logo.png">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   
   <!-- Theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
   
   <style>
     :root {
+      /* Bitcoin Orange Identity */
       --theme-color: #f7931a;
+      --base-background-color: #0d1117;
+      --cover-background-color: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #1a1f26 100%);
+      
+      /* Sidebar */
+      --sidebar-background: #161b22;
+      --sidebar-border-color: #30363d;
+      --sidebar-nav-link-color: #c9d1d9;
+      --sidebar-nav-link-color--hover: #f7931a;
       --sidebar-nav-link-color--active: #f7931a;
       --sidebar-nav-link-border-color--active: #f7931a;
+      --sidebar-name-color: #f7931a;
+      
+      /* Content */
+      --content-max-width: 900px;
       --link-color: #f7931a;
+      --link-color--hover: #ffa940;
       --blockquote-border-color: #f7931a;
+      --blockquote-background: rgba(247, 147, 26, 0.1);
+      
+      /* Code */
+      --code-theme-background: #1a1f26;
+      --code-inline-background: rgba(247, 147, 26, 0.15);
+      --code-inline-color: #f7931a;
+      
+      /* Headings */
+      --heading-color: #ffffff;
+      --heading-h1-color: #f7931a;
+      --heading-h2-border-color: #30363d;
+      
+      /* Typography */
+      --base-font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      --base-font-size: 16px;
+      --base-line-height: 1.7;
+      --base-color: #c9d1d9;
+      
+      /* Tables */
+      --table-head-background: rgba(247, 147, 26, 0.2);
+      --table-row-odd-background: rgba(255, 255, 255, 0.02);
+      
+      /* Notice/Alerts */
+      --notice-tip-border-color: #f7931a;
+      --notice-important-border-color: #f7931a;
     }
+    
+    /* Custom Styles */
+    body {
+      background: var(--base-background-color);
+    }
+    
+    .sidebar {
+      border-right: 1px solid var(--sidebar-border-color);
+    }
+    
     .sidebar-nav > ul > li > a {
-      font-weight: bold;
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 0.85em;
+      letter-spacing: 0.5px;
+      color: #8b949e;
     }
+    
+    .sidebar-nav > ul > li > ul > li > a {
+      font-weight: 500;
+    }
+    
     .app-name-link img {
-      max-width: 150px;
+      max-width: 180px;
+      filter: drop-shadow(0 0 10px rgba(247, 147, 26, 0.3));
+    }
+    
+    /* Bitcoin styled scrollbar */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+    
+    ::-webkit-scrollbar-track {
+      background: #0d1117;
+    }
+    
+    ::-webkit-scrollbar-thumb {
+      background: #30363d;
+      border-radius: 4px;
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+      background: #f7931a;
+    }
+    
+    /* Headers with Bitcoin accent */
+    h1 {
+      border-bottom: 3px solid #f7931a;
+      padding-bottom: 10px;
+    }
+    
+    h2 {
+      border-bottom: 1px solid #30363d;
+      padding-bottom: 8px;
+    }
+    
+    /* Emoji styling */
+    .emoji {
+      font-size: 1.2em;
+    }
+    
+    /* Video container */
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      max-width: 100%;
+      border-radius: 12px;
+      margin: 20px 0;
+      box-shadow: 0 4px 20px rgba(247, 147, 26, 0.2);
+    }
+    
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 12px;
+    }
+    
+    /* Tables */
+    table {
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    
+    table th {
+      background: rgba(247, 147, 26, 0.2) !important;
+      color: #f7931a;
+      font-weight: 600;
+    }
+    
+    /* Blockquotes */
+    blockquote {
+      border-left: 4px solid #f7931a;
+      background: rgba(247, 147, 26, 0.08);
+      padding: 15px 20px;
+      border-radius: 0 8px 8px 0;
+      margin: 20px 0;
+    }
+    
+    /* Links with hover effect */
+    a {
+      transition: color 0.2s ease, text-shadow 0.2s ease;
+    }
+    
+    a:hover {
+      text-shadow: 0 0 8px rgba(247, 147, 26, 0.5);
+    }
+    
+    /* Navigation arrows */
+    .pagination-item-title {
+      color: #f7931a !important;
+    }
+    
+    /* Footer */
+    .markdown-section {
+      padding-bottom: 40px;
+    }
+    
+    /* Loading animation */
+    #app {
+      color: #f7931a;
+      font-family: 'Inter', sans-serif;
+    }
+    
+    /* Mobile responsive */
+    @media screen and (max-width: 768px) {
+      :root {
+        --content-max-width: 100%;
+      }
+      
+      .app-name-link img {
+        max-width: 120px;
+      }
     }
   </style>
 </head>
 <body>
-  <div id="app">Loading...</div>
+  <div id="app">Loading Bitcoin 4 All...</div>
   <script>
     window.$docsify = {
       name: '<img src="https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Visuals/Logos/Logo.png" alt="Bitcoin 4 All">',
@@ -37,14 +215,16 @@
       loadSidebar: true,
       subMaxLevel: 3,
       auto2top: true,
+      homepage: 'README.md',
+      notFoundPage: true,
       search: {
-        placeholder: 'Search...',
-        noData: 'No results!',
+        placeholder: 'Search / Buscar...',
+        noData: 'No results! / Sem resultados!',
         depth: 3
       },
       pagination: {
-        previousText: 'Previous',
-        nextText: 'Next',
+        previousText: 'Previous / Anterior',
+        nextText: 'Next / Proximo',
         crossChapter: true
       },
       copyCode: {
@@ -57,15 +237,18 @@
       }
     }
   </script>
-  
+
   <!-- Docsify -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  
+
   <!-- Plugins -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  
+  <!-- Emoji Plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 </html>
