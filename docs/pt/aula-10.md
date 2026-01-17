@@ -8,8 +8,6 @@
 
 ***
 
-***
-
 ### Roteiro Completo
 
 ## Aula 10 - Como sacar da exchange e ter soberania com o seu Bitcoin?
@@ -173,34 +171,15 @@ Até uma próxima e Opt Out!
 * [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
 * [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010)
 
----
+***
 
 ### :loudspeaker: Compartilhe esta aula!
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%2010%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%2010%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%2010%20do%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+[Twitter ](https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%2010%20do%20curso%20Bitcoin%204%20All%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10)[WhatsApp ](https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%2010%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-10\&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%2010%20do%20curso%20Bitcoin%204%20All%20)
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### :chart\_with\_upwards\_trend: Seu Progresso no Curso
 
-<div class="course-progress">
-<strong>Aula 10 de 10</strong> (100% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 100%"></div>
-</div>
-</div>
-
+**Aula 10 de 10** (100% completo)
 
 ***
 

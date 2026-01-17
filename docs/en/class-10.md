@@ -1,20 +1,20 @@
-#  Class 10 - How to withdraw from exchange and have sovereignty with your Bitcoin?
+# Class 10 - Sovereignty with your Bitcoin
 
-## :movie_camera: Class Video
+## Class 10 - How to withdraw from exchange and have sovereignty with your Bitcoin?
+
+### :movie\_camera: Class Video
 
 [![Watch Video](https://img.youtube.com/vi/wpNCCAipL8M/maxresdefault.jpg)](https://www.youtube.com/watch?v=wpNCCAipL8M)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=wpNCCAipL8M)**
+:point\_right: [**Click here to watch on YouTube**](https://www.youtube.com/watch?v=wpNCCAipL8M)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/wpNCCAipL8M?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Full Script
+### Full Script
 
-# Script Class 10 - How to withdraw from the exchange and have sovereignty with your Bitcoin? 
-
+## Class 10 - How to withdraw from the exchange and have sovereignty with your Bitcoin?
 
 Bitcoin is a game changer. It allows anyone to take custody of their own money and move it whenever and however they want, without anyone being able to stop them. No company or government can stop you from moving your own money or take it from you if you store it with sovereignty.
 
@@ -23,7 +23,6 @@ Sovereignty is the word here. You are your own bank. But to actually do this, yo
 In the previous lesson you learned what Bitcoin wallets are and why it's important to keep your seeds safe so that you always have access to your balance. The next step is to fill this wallet with bitcoin and start accumulating for the future. So in this lesson we'll consider that you already have bitcoin and want to send it from the exchange address to your wallet address.
 
 But before doing this in practice, let's understand what addresses are and how a transaction on the bitcoin network works.
-
 
 ![Slide 260](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-01.jpg)
 
@@ -35,13 +34,11 @@ The big difference between a seed and a private key is that a seed phrase (a lis
 
 The addresses are generated from these keys and are public. When you make a transaction, they appear on the blockchain for anyone to verify your transaction. It is not possible to find out the seed or the private key from an address, even if it appears on the Bitcoin blockchain. But if you don't take good care of the seeds or private keys, then the person will have access not only to your bitcoin, but to all the keys and addresses they generate.
 
-
 ![Slide 261](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-02.jpg)
 
 A wallet can generate thousands of different addresses from the public key. Its function is to generate addresses. One of the best practices with Bitcoin is to never reuse addresses. Wallets are always generating new addresses after you've made a transaction, precisely to give you more privacy and prevent reuse. If you've ever used a Bitcoin wallet, you'll notice that the address changes with each transaction -- this feature is there on purpose. After all, once a transaction has been made, the addresses are publicly visible on the blockchain and it would be easier to track balances by association.
 
 In short, a private key unlocks the wallet owner's "right to spend", move and trade the coins associated with that wallet. As the name implies, it's private and you shouldn't show it to other people. The address is where you will send Bitcoin when you make a transaction. No one can guess your private key from your address.
-
 
 ![Slide 262](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-03.jpg)
 
@@ -53,11 +50,9 @@ Remember that your bitcoin are not stored inside the wallets. They are always on
 
 But how does a transaction work?
 
-
 ![Slide 263](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-04.jpg)
 
 You open your wallet, type in the amount you want to send, paste in the receiver's address and click on "Send". When you click on "Send", you are signing the transaction with your private key. That's what happens behind the codes in the wallet.
-
 
 ![Slide 264](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-05.jpg)
 
@@ -73,18 +68,13 @@ For this tutorial we chose to use the Sparrow Wallet. It is a very versatile and
 
 It also offers features such as creating multisigs, making air gapped transactions, PSBTs, managing and consolidating UTXOs, possibilities that focus on increasing wallet security and privacy. Remember that Sparrow is a desktop wallet only. It doesn't have a mobile app for iOS or Android. We'll leave the link here [Sparrow Wallet](https://sparrowwallet.com/) on the screen for you to download, alongside with a list of other wallets for you to try out and see which one suits you best.┬á
 
-Let's start by configuring Sparrow. The first step is to download Sparrow and install the software. 
+Let's start by configuring Sparrow. The first step is to download Sparrow and install the software.
 
-(video)
-Then just open Sparrow and click on "New wallet" to create a new wallet.┬á
+(video) Then just open Sparrow and click on "New wallet" to create a new wallet.┬á
 
+(video) Now just choose a personalized name for this wallet, I'll type "btc4all tutorial" and click on "Create wallet".┬á
 
-(video)
-Now just choose a personalized name for this wallet, I'll type "btc4all tutorial" and click on "Create wallet".┬á
-
-
-(video)
-This is Sparrow's homepage. Notice how the left column is gray and only the settings are blue. This means that it is totally blank and you need to create a wallet, import one or connect one so that you can keep track of balances, receive and send Bitcoin.
+(video) This is Sparrow's homepage. Notice how the left column is gray and only the settings are blue. This means that it is totally blank and you need to create a wallet, import one or connect one so that you can keep track of balances, receive and send Bitcoin.
 
 The "Settings" section shows the type of configuration: "single sig". This configuration means that you only need one key to sign transactions from this wallet and only one list of words to retrieve the balance. Below is the type of script and a few more technical details.┬á
 
@@ -92,37 +82,25 @@ Notice how four boxes appear in the "Keystore" field with different options. The
 
 Let's click on "New or imported software wallet" to create a wallet from scratch and show you how key creation works.┬á
 
+(video) Here are a few ways to create wallet recovery words. First, let's click on the first option, "Mnemonic Words", and "Use 24 words".┬á
 
-(video)
-Here are a few ways to create wallet recovery words. First, let's click on the first option, "Mnemonic Words", and "Use 24 words".┬á
+(video) The list of empty words appears here. After clicking on "Generate new", the wallet will generate the words.
 
+(video) Done. Now let's just write them down carefully in the order in which they appear. After doing that and clicking on "Confirm backup" we'll confirm that we've written everything down.
 
-(video)
-The list of empty words appears here. After clicking on "Generate new", the wallet will generate the words.
-
-
-(video)
-Done. Now let's just write them down carefully in the order in which they appear. After doing that and clicking on "Confirm backup" we'll confirm that we've written everything down.
-
-
-(video)
-Sparrow will ask to type in the words to confirm that we've really written everything down. Note that until the process is finished, the "Checksum" icon appears as invalid.
-
+(video) Sparrow will ask to type in the words to confirm that we've really written everything down. Note that until the process is finished, the "Checksum" icon appears as invalid.
 
 (video)
 
 When the last word of the seed phrase is entered, the checksum changes to valid, signaling that a sequence of words valid for a Bitcoin wallet has been entered. The next step is to click on "Create Keystore" in the blue box.
 
-
 (video)
 
 Then click on "Import Keystore".
 
-
 (video)
 
 That's it. The seed data and all the keys generated have been imported. Now let's just click on "Apply" in the bottom right-hand corner of the screen. The wallet will ask if we want to create a password to protect the wallet in case someone gains access to the computer being used. For this example, we're going to click "No password", but you should have a password to add another layer of security to your wallet.
-
 
 (video)
 
@@ -132,94 +110,61 @@ Well, now let's show you how to send bitcoin to this wallet and recover the wall
 
 Let's click on "receive".
 
+(video) Now, I'm going to copy the code that appears in the "address" field. This is my address on the Bitcoin network. I'll show you how to send bitcoin here to this newly created wallet. To do so, I'll withdrawing Bitcoin from an exchange. I'll only use Coinbase as an example. The procedure is the same on other platforms.
 
-(video)
-Now, I'm going to copy the code that appears in the "address" field. This is my address on the Bitcoin network. I'll show you how to send bitcoin here to this newly created wallet. To do so, I'll withdrawing Bitcoin from an exchange. I'll only use Coinbase as an example. The procedure is the same on other platforms.
-
-
-(video)
-Well, here I have 43 dollars in Bitcoin, so I'm going to withdraw that amount from the exchange.
+(video) Well, here I have 43 dollars in Bitcoin, so I'm going to withdraw that amount from the exchange.
 
 To do this, I'll click on the grid in the left corner of the screen.
 
+(video) Now I'll click on "Send".
 
-(video)
-Now I'll click on "Send".
-
-
-(video)
-I'm going to paste Sparrow's Bitcoin address, which I've already copied, into this field at the top of the page.
+(video) I'm going to paste Sparrow's Bitcoin address, which I've already copied, into this field at the top of the page.
 
 I'm going to select "Bitcoin".
-
 
 (video)
 
 Afterwards, I'll select the Bitcoin network. All other networks are not Bitcoin, so be careful not to mix them up.
 
+(video) Now I'm going to enter the amount I want to withdraw and click on "Preview" to see if the information is correct.
 
-(video)
-Now I'm going to enter the amount I want to withdraw and click on "Preview" to see if the information is correct.
-
-
-(video)
-Everything's fine here.
+(video) Everything's fine here.
 
 I'll click on "Send now".
 
-
-(video)
-That's it. Withdrawal confirmed.
+(video) That's it. Withdrawal confirmed.
 
 Now all you have to do is follow up with Sparrow when the transaction is confirmed. It should take a few minutes for the network to process this transaction.
 
-
-(video)
-Done, the transaction arrived here at Sparrow: 40,633 satoshis are now in my custody.
+(video) Done, the transaction arrived here at Sparrow: 40,633 satoshis are now in my custody.
 
 Now let's imagine that I've lost access to this balance in my wallet and I'm trying to recover it from scratch. Then we'll see if the balance will reappear.
 
-(video)
-I closed the wallet I created earlier. Now, let's click on the third option, "Import wallet".
+(video) I closed the wallet I created earlier. Now, let's click on the third option, "Import wallet".
 
-(video)
-Several ways to recover will be displayed. I'll go with the first one, which is the way I generated it before: with 24 words.
+(video) Several ways to recover will be displayed. I'll go with the first one, which is the way I generated it before: with 24 words.
 
-(video)
-Now let's just enter the same words I wrote down when I created the previous wallet and click on "Discover wallet".
+(video) Now let's just enter the same words I wrote down when I created the previous wallet and click on "Discover wallet".
 
+(video) It will ask me to create a name for the wallet I want to import. I'll type in "Backup recovery" and click on "Create wallet".
 
-(video)
-It will ask me to create a name for the wallet I want to import. I'll type in "Backup recovery" and click on "Create wallet".
-
-
-(video)
-Done. Sparrow retrieved all the data, the keys and my bitcoin balance.
+(video) Done. Sparrow retrieved all the data, the keys and my bitcoin balance.
 
 Now I'm going to do the same recovery process on a different Sparrow wallet so you can see how, regardless of the application or software you use, it is possible to recover your bitcoin balance if you have your backup word list. So I'm going to backup that same wallet on Blue Wallet, a well-known mobile wallet that's very easy to use.
 
+(video) I'll open my Blue Wallet on my cell phone and click on "Add Now" to create a new wallet.
 
-(video)
-I'll open my Blue Wallet on my cell phone and click on "Add Now" to create a new wallet.
-
-
-(video)
-I'll select the last option, "Import wallet".
+(video) I'll select the last option, "Import wallet".
 
 If you want to create a wallet from scratch, just select Bitcoin and then click on "Create". But right now I want to recover the wallet I created in Sparrow, so I'll go straight to the import option.
 
+(video) I'm going to type in the 24 words I generated in Sparrow in order and make sure I type them correctly. I'll click on "Import" when I'm done.
 
-(video)
-I'm going to type in the 24 words I generated in Sparrow in order and make sure I type them correctly. I'll click on "Import" when I'm done.
-
-
-(video)
-There we go. Blue Wallet has found the wallet.
+(video) There we go. Blue Wallet has found the wallet.
 
 I'll click on "Import".
 
-(video)
-Clicking on it shows the balance I transferred from Coinbase.
+(video) Clicking on it shows the balance I transferred from Coinbase.
 
 That's one of the wonderful things about Bitcoin: since it's open source, you can recover your balance on any device that follows the same initial rules you used when generating your keys.
 
@@ -231,41 +176,21 @@ Share this course with friends, relatives and other people who are also curious 
 
 Until next time and Opt Out!
 
+***
 
----
+### Additional Resources
 
-##  Additional Resources
+* [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
+* [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010)
 
-- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
-- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010)
+***
 
----
+### [Previous](class-9.md) | [Next](intro.md)
 
-[ Previous](class-9.md) | [Next ](intro.md)
----
+#### :loudspeaker: Share this lesson!
 
-### :loudspeaker: Share this lesson!
+[Twitter ](https://twitter.com/intent/tweet?text=I%27m%20learning%20about%20Bitcoin!%20Class%2010%20from%20Bitcoin%204%20All%20course%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-10\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-10)[WhatsApp ](https://wa.me/?text=I%27m%20learning%20about%20Bitcoin!%20Class%2010%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-10)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-10\&text=I%27m%20learning%20about%20Bitcoin!%20Class%2010%20from%20Bitcoin%204%20All%20course%20)
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%2010%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-10&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-10" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%2010%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-10" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-10&text=I'm%20learning%20about%20Bitcoin!%20Class%2010%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+#### :chart\_with\_upwards\_trend: Your Course Progress
 
-### :chart_with_upwards_trend: Your Course Progress
-
-<div class="course-progress">
-<strong>Class 10 de 10</strong> (100% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 100%"></div>
-</div>
-</div>
+**Class 10 de 10** (100% completo)

@@ -8,8 +8,6 @@
 
 ***
 
-***
-
 ### Roteiro Completo
 
 ## Aula 3 - Por que Bitcoin é um dinheiro melhor?
@@ -56,7 +54,7 @@ A primeira característica é a durabilidade. Um bom dinheiro deve resistir ao d
 
 As moedas fiat são dinheiro em papel não durável. Ele pode amassar, molhar, rasgar e se deteriorar rapidamente. Os Bancos Centrais gastam milhões de dólares regularmente para substituir notas danificadas por novas. Além disso o dinheiro fiat como rede depende de Bancos Centrais que podem mudar as regras de cada moeda localmente. Ou seja, mesmo que governos criem moedas digitais, elas não terão propriedades monetárias duráveis e imutáveis no longo prazo.
 
-O ouro é naturalmente durável, porque não enferruja nem se degrada. Por outro lado, por ser um bem físico, pode sofrer algum desgaste com o tempo.&#x20;
+O ouro é naturalmente durável, porque não enferruja nem se degrada. Por outro lado, por ser um bem físico, pode sofrer algum desgaste com o tempo.
 
 ![Slide 56](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-06.jpg)
 
@@ -92,7 +90,7 @@ As moedas fiat não são completamente fungíveis. Por exemplo, 1 real não é i
 
 O ouro é altamente fungível. Uma onça de ouro puro é sempre igual a outra onça de ouro puro, independentemente de onde você esteja no mundo. Isso o torna mais fungível do que as moedas fiat.
 
-O Bitcoin também é fungível. Um Bitcoin é igual a qualquer outro Bitcoin, independentemente de onde ele tenha sido transacionado ou de seu histórico. Essa característica é essencial para sua aceitação global como dinheiro digital, afinal a rede Bitcoin não discrimina, um bitcoin é sempre igual a um bitcoin para a rede.&#x20;
+O Bitcoin também é fungível. Um Bitcoin é igual a qualquer outro Bitcoin, independentemente de onde ele tenha sido transacionado ou de seu histórico. Essa característica é essencial para sua aceitação global como dinheiro digital, afinal a rede Bitcoin não discrimina, um bitcoin é sempre igual a um bitcoin para a rede.
 
 (slide 60)\[https://github.com/areabitcoin/Bitcoin-4-All/blob/a41cf50458ad061603d4415ea6003ca1f12378ad/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-10.jpg] Portabilidade é a capacidade do dinheiro de ser facilmente transportado e armazenado, permitindo transações em diferentes lugares e situações.
 
@@ -126,7 +124,7 @@ A facilidade de verificar a autenticidade de um dinheiro é essencial para garan
 
 ![Slide 64](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-14.jpg)
 
-Mesmo o ouro pode ser falsificado e isso revela limitações importantes na sua verificabilidade. Existem vários exemplos de fraudes envolvendo ouro, como por exemplo barras de ouro adulteradas. Algumas barras armazenadas até mesmo em cofres de bancos centrais foram encontradas com tungstênio no núcleo e revestidas apenas com uma camada de ouro puro. Moedas folheadas a ouro e joias feitas com ligas metálicas de baixa qualidade também são exemplos de falsificação.&#x20;
+Mesmo o ouro pode ser falsificado e isso revela limitações importantes na sua verificabilidade. Existem vários exemplos de fraudes envolvendo ouro, como por exemplo barras de ouro adulteradas. Algumas barras armazenadas até mesmo em cofres de bancos centrais foram encontradas com tungstênio no núcleo e revestidas apenas com uma camada de ouro puro. Moedas folheadas a ouro e joias feitas com ligas metálicas de baixa qualidade também são exemplos de falsificação.
 
 Como comentei, verificar a autenticidade do ouro é caro e complicado. O processo frequentemente exige equipamentos especializados e certificados emitidos por terceiros de confiança. Isso deixa o processo burocrático e dificulta o uso como dinheiro, especialmente em grande escala.
 
@@ -134,7 +132,7 @@ Essas limitações tornam o ouro menos eficiente em verificabilidade quando comp
 
 ![Slide 65](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-15.jpg)
 
-Bitcoin é extremamente fácil e barato de verificar, graças à natureza digital e descentralizada dele. Diferente de outros tipos de dinheiro, não há espaço para falsificações. Não é possível enviar ou receber "Bitcoin falso", porque a rede valida todas as transações antes de confirmar cada uma delas. Se alguém tentar enviar uma "transação falsa", ela simplesmente não vai ser propagada.&#x20;
+Bitcoin é extremamente fácil e barato de verificar, graças à natureza digital e descentralizada dele. Diferente de outros tipos de dinheiro, não há espaço para falsificações. Não é possível enviar ou receber "Bitcoin falso", porque a rede valida todas as transações antes de confirmar cada uma delas. Se alguém tentar enviar uma "transação falsa", ela simplesmente não vai ser propagada.
 
 E a verificação é global. Com um simples comando no computador, qualquer pessoa pode verificar a autenticidade não apenas de um único Bitcoin, mas de todas as moedas já existentes na rede. Isso inclui a oferta total de Bitcoin e a taxa de emissão de novas moedas, garantindo transparência absoluta do sistema como um todo.
 
@@ -196,13 +194,13 @@ O Stock To Flow elevado do Bitcoin sugere que ele tem um enorme potencial para c
 
 ![Slide 73](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-24.jpg)
 
-Em resumo, a escassez do Bitcoin tende a ser cada vez maior ao longo do tempo, enquanto o ouro e outros ativos tendem a ficar menos escassos. Já o dinheiro fiat não é nada escasso, por isso tem derretido de valor em todos os países no padrão fiat atual.&#x20;
+Em resumo, a escassez do Bitcoin tende a ser cada vez maior ao longo do tempo, enquanto o ouro e outros ativos tendem a ficar menos escassos. Já o dinheiro fiat não é nada escasso, por isso tem derretido de valor em todos os países no padrão fiat atual.
 
 ![Slide 74](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-25.jpg)
 
 A última propriedade monetária é a aceitação, que mede o nível de adoção e o quanto as pessoas reconhecem algo como dinheiro. No caso das moedas fiat, a aceitação é limitada. Cada país tem sua própria moeda e ela nem sempre é reconhecida ou aceita fora de suas fronteiras. Isso cria barreiras em transações internacionais, dificultando a universalidade do dinheiro.
 
-O ouro, por outro lado, já teve ampla aceitação no passado e se consolidou como um dinheiro sólido ao longo da história. Até hoje, é reconhecido globalmente como uma reserva de valor, por mais que seu uso como meio de troca tenha diminuído com o surgimento das  moedas fiat.
+O ouro, por outro lado, já teve ampla aceitação no passado e se consolidou como um dinheiro sólido ao longo da história. Até hoje, é reconhecido globalmente como uma reserva de valor, por mais que seu uso como meio de troca tenha diminuído com o surgimento das moedas fiat.
 
 O Bitcoin ainda está em processo de aceitação. Ele não é amplamente reconhecido como dinheiro ou reserva de valor por todas as pessoas, empresas e países. Só que esse cenário está mudando. Nos últimos anos, governos, grandes empresas e investidores começaram a adotar o Bitcoin e a reconhecer ele como uma forma legítima de ativo ou dinheiro digital. Embora ainda não seja uma unanimidade global, isso não significa que nunca vai ser.
 
@@ -215,7 +213,7 @@ O Bitcoin tem avançado significativamente na curva de adoção e a curva de Lin
 3. O próximo estágio é ser usado como um meio de troca, facilitando transações cotidianas.
 4. O estágio final acontece quando as pessoas começam a precificar bens e serviços diretamente em Bitcoin, indicando que ele se tornou um padrão monetário global.
 
-Esse gráfico mostra que, embora o Bitcoin ainda esteja longe de ser um padrão global, ele já avançou consideravelmente. O marco recente de atingir 100 mil dólares é um reflexo da crescente aceitação como reserva de valor. Governos e instituições ao redor do mundo estão começando a reconhecer seu potencial.&#x20;
+Esse gráfico mostra que, embora o Bitcoin ainda esteja longe de ser um padrão global, ele já avançou consideravelmente. O marco recente de atingir 100 mil dólares é um reflexo da crescente aceitação como reserva de valor. Governos e instituições ao redor do mundo estão começando a reconhecer seu potencial.
 
 O ponto crucial é que ainda estamos em um estágio inicial dessa revolução tecnológica e monetária. A grande oportunidade do século é a possibilidade de acumular e se envolver com Bitcoin agora, enquanto sua adoção global está apenas começando.
 
@@ -231,7 +229,7 @@ Essa diferença reflete uma das principais vantagens do Bitcoin: ele é um dinhe
 
 O próprio ouro está sendo gradualmente desmonetizado pelo Bitcoin. Quando precificado em Bitcoin, o ouro perdeu praticamente 100% do seu valor. Isso nos mostra como o bitcoin está substituindo o ouro como reserva de valor mais antiga do mundo.
 
-Mas Bitcoin vai além, ele não é apenas uma evolução do ouro como reserva de valor, ele é um dinheiro superior por ter propriedades monetárias muito melhores que o ouro. Enquanto o ouro enfrenta limitações como portabilidade, divisibilidade e verificabilidade, o Bitcoin supera todas essas barreiras com sua natureza digital, escassez absoluta programada e facilidade de transferência e armazenamento. Bitcoin é um dinheiro melhor.&#x20;
+Mas Bitcoin vai além, ele não é apenas uma evolução do ouro como reserva de valor, ele é um dinheiro superior por ter propriedades monetárias muito melhores que o ouro. Enquanto o ouro enfrenta limitações como portabilidade, divisibilidade e verificabilidade, o Bitcoin supera todas essas barreiras com sua natureza digital, escassez absoluta programada e facilidade de transferência e armazenamento. Bitcoin é um dinheiro melhor.
 
 ![Slide 78](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-29.jpg)
 
@@ -241,7 +239,7 @@ Outro ponto importante desta aula é que Bitcoin é um dinheiro melhor porque é
 
 O dinheiro fiat sofre de um fenômeno chamado Efeito Cantillon, descrito por Richard Cantillon em 1730 no livro "O Efeito Cantillon". Esse conceito ilustra como aqueles que estão mais próximos da fonte de criação do novo dinheiro se beneficiam desproporcionalmente, enquanto os mais distantes são prejudicados.
 
-No passado, a criação de dinheiro era controlada pelos reis, que distribuíam o dinheiro primeiro para duques, nobres e outros aliados próximos. Esses "amigos do rei" usavam o dinheiro novo para adquirir bens e ativos como cavalos, casas e ouro. À medida que o  dinheiro recém-criado circulava pela economia, ia gerando aumento de preços. Quando finalmente chegava nas mãos das pessoas comuns, os mais pobres, o poder de compra já estava profundamente corroído. E assim, as pessoas no final da cadeia de circulação eram sempre as mais prejudicadas. O dinheiro que chegava nelas já estava defasado e seu valor real era muito menor.
+No passado, a criação de dinheiro era controlada pelos reis, que distribuíam o dinheiro primeiro para duques, nobres e outros aliados próximos. Esses "amigos do rei" usavam o dinheiro novo para adquirir bens e ativos como cavalos, casas e ouro. À medida que o dinheiro recém-criado circulava pela economia, ia gerando aumento de preços. Quando finalmente chegava nas mãos das pessoas comuns, os mais pobres, o poder de compra já estava profundamente corroído. E assim, as pessoas no final da cadeia de circulação eram sempre as mais prejudicadas. O dinheiro que chegava nelas já estava defasado e seu valor real era muito menor.
 
 ![Slide 80](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-31.jpg)
 
@@ -277,7 +275,7 @@ A criação do Bitcoin foi acessível e justa. Qualquer pessoa pode se conectar 
 
 O Bitcoin é incrivelmente poderoso porque tem o maior efeito de rede global já visto. Ele é uma rede monetária global independente, sem controle de nenhum país ou governo. Nenhum governo ou entidade pode monopolizar, censurar ou proibir completamente o Bitcoin, porque ele é descentralizado e sustentado por uma infraestrutura global de usuários, mineradores e verificadores independentes.
 
-O efeito de rede do Bitcoin é incomparável, superando qualquer rede monetária do passado ou do presente. Quanto mais pessoas e iniciativas adotam o Bitcoin, mais forte e valiosa a rede se torna, criando um ciclo de crescimento exponencial resistente a interferências externas. Essa combinação de independência e efeito de rede faz do Bitcoin uma revolução  do dinheiro. É muito mais robusto e resiliente do que qualquer sistema monetário já criado. É por isso que Bitcoin é um dinheiro melhor, porque ele não é só dinheiro, ele é um sistema financeiro superior.
+O efeito de rede do Bitcoin é incomparável, superando qualquer rede monetária do passado ou do presente. Quanto mais pessoas e iniciativas adotam o Bitcoin, mais forte e valiosa a rede se torna, criando um ciclo de crescimento exponencial resistente a interferências externas. Essa combinação de independência e efeito de rede faz do Bitcoin uma revolução do dinheiro. É muito mais robusto e resiliente do que qualquer sistema monetário já criado. É por isso que Bitcoin é um dinheiro melhor, porque ele não é só dinheiro, ele é um sistema financeiro superior.
 
 ![Slide 85](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203/Sem%20ti%CC%81tulo-10-36.jpg)
 
@@ -304,34 +302,15 @@ Na próxima, vamos entender o funcionamento do Bitcoin no detalhe e você vai ol
 * [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
 * [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%203)
 
----
+***
 
 ### :loudspeaker: Compartilhe esta aula!
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%203%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%203%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%203%20do%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+[Twitter ](https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%203%20do%20curso%20Bitcoin%204%20All%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3)[WhatsApp ](https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%203%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-3\&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%203%20do%20curso%20Bitcoin%204%20All%20)
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### :chart\_with\_upwards\_trend: Seu Progresso no Curso
 
-<div class="course-progress">
-<strong>Aula 3 de 10</strong> (30% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 30%"></div>
-</div>
-</div>
-
+**Aula 3 de 10** (30% completo)
 
 ***
 

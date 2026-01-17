@@ -8,8 +8,6 @@
 
 ***
 
-***
-
 ### Roteiro Completo
 
 ## 1- O que é o Bitcoin e por que ele foi criado?
@@ -197,34 +195,15 @@ Até a próxima aula!
 * [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
 * [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201)
 
----
+***
 
 ### :loudspeaker: Compartilhe esta aula!
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%201%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%201%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%201%20do%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+[Twitter ](https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%201%20do%20curso%20Bitcoin%204%20All%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1)[WhatsApp ](https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%201%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-1\&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%201%20do%20curso%20Bitcoin%204%20All%20)
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### :chart\_with\_upwards\_trend: Seu Progresso no Curso
 
-<div class="course-progress">
-<strong>Aula 1 de 10</strong> (10% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 10%"></div>
-</div>
-</div>
-
+**Aula 1 de 10** (10% completo)
 
 ***
 

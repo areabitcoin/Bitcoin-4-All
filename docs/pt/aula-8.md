@@ -8,8 +8,6 @@
 
 ***
 
-***
-
 ### Roteiro Completo
 
 ## Roteiro Aula 8 - Rebatendo mentiras (fuds) sobre Bitcoin
@@ -20,7 +18,7 @@ Desde que Bitcoin surgiu criam mentiras para tentar convencer as pessoas de que 
 
 FUD é a sigla pra fear, uncertainty and doubt - medo incerteza e dúvida. São narrativas criadas para deixar as pessoas com medo e se afastarem do Bitcoin propositalmente.
 
-Nessa aula vamos desvendar as principais mentiras que contam sobre o Bitcoin e os ataques de narrativa usados para evitar que as pessoas se interessem, estudem e tenham Bitcoin. A ideia é que ao final dessa aula você esteja consciente, pra quando esses FUDs  aparecerem, você saber que não passa de balela. E FUD pra cima do Bitcoin não falta, porque se não tem como parar a rede bitcoin a alternativa dos defensores do sistema fiat é  gerar medo.
+Nessa aula vamos desvendar as principais mentiras que contam sobre o Bitcoin e os ataques de narrativa usados para evitar que as pessoas se interessem, estudem e tenham Bitcoin. A ideia é que ao final dessa aula você esteja consciente, pra quando esses FUDs aparecerem, você saber que não passa de balela. E FUD pra cima do Bitcoin não falta, porque se não tem como parar a rede bitcoin a alternativa dos defensores do sistema fiat é gerar medo.
 
 ![Slide 189](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-02.jpg)
 
@@ -38,7 +36,7 @@ O problema é o crime cometido e é isso que precisa ser investigado e punido. B
 
 E já foi comprovado inúmeras vezes que criminosos usam principalmente os bancos para lavar dinheiro ilícito. Um relatório do FinCEN files demonstrou como bancos processaram mais de 2 trilhões de dólares em transações suspeitas de crimes. Inclusive os maiores bancos do mundo, como Deutsche Bank e JP Morgan estavam na lista de entidades que processaram transações provenientes de crimes entre 1999 e 2017.
 
-No fim, eles só pagaram uma multa e seguiram operando.&#x20;
+No fim, eles só pagaram uma multa e seguiram operando.
 
 ![Slide 192](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-05.jpg)
 
@@ -66,7 +64,7 @@ Inclusive desses 0,34%, a maioria ainda prefere usar stablecoins, na coluna em a
 
 O próximo FUD é bem conhecido: Bitcoin é bolha!
 
-Bolhas acontecem quando ativos valorizam muito e rapidamente de forma insustentável.&#x20;
+Bolhas acontecem quando ativos valorizam muito e rapidamente de forma insustentável.
 
 Acabam estourando quando os investidores percebem que os preços estão muito mais altos do que o valor fundamental do ativo. Bitcoin costuma ser comparado com a "febre das tulipas", que dizem ter acontecido na Holanda do século 17.
 
@@ -100,7 +98,7 @@ Essa é mais uma baboseira. Cada vez mais o mundo digital tem desbancado o mundo
 
 Ser digital só amplifica as propriedades do Bitcoin como dinheiro. O fato do Bitcoin não ter outro uso secundário no mundo físico não é uma desvantagem. O ouro se tornou dinheiro depois de séculos de competição com metais menos escassos e com propriedades monetárias inferiores. O uso dele como adorno e decoração foi um caso de uso como demonstração de riqueza e poder, não como chancela de propriedades monetárias. Fato que já tinha se provado séculos antes.
 
-Bitcoin não precisa estar pendurado no pescoço de alguém para ter valor e a digitalidade do Bitcoin não desqualifica ele como dinheiro. Se dinheiro é uma ferramenta que todo mundo demanda para fazer trocas e preservar valor, bitcoin cumpre com esse papel de forma muito mais eficiente e útil que qualquer outro dinheiro na história justamente por ser digital e mais fácil de verificar e transportar.&#x20;
+Bitcoin não precisa estar pendurado no pescoço de alguém para ter valor e a digitalidade do Bitcoin não desqualifica ele como dinheiro. Se dinheiro é uma ferramenta que todo mundo demanda para fazer trocas e preservar valor, bitcoin cumpre com esse papel de forma muito mais eficiente e útil que qualquer outro dinheiro na história justamente por ser digital e mais fácil de verificar e transportar.
 
 ![Slide 203](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-16.jpg)
 
@@ -126,7 +124,7 @@ Ainda tem dúvidas sobre isso? Existem mais de 2 milhões de criptomoedas e toda
 
 O 6º FUD que espalham é que Bitcoin é um jogo de azar, é pura especulação. Muita gente trata bitcoin como algo que você compra na baixa e vende na alta. Geralmente quem faz isso acaba tomando tufo tentando adivinhar topo e fundo. Quem trata Bitcoin como ativo especulativo é justamente quem mais perde dinheiro.
 
-Bitcoin é um novo sistema financeiro sendo monetizado. É público, transparente e se sabe  desde o início tudo o que vai acontecer com mais de cem anos de antecedência. É o contrário de um cassino, onde a casa geralmente ganha e não tem como auditar as máquinas ou se infiltrar na administração do negócio. Cassinos são obscuros, Bitcoin é transparente.
+Bitcoin é um novo sistema financeiro sendo monetizado. É público, transparente e se sabe desde o início tudo o que vai acontecer com mais de cem anos de antecedência. É o contrário de um cassino, onde a casa geralmente ganha e não tem como auditar as máquinas ou se infiltrar na administração do negócio. Cassinos são obscuros, Bitcoin é transparente.
 
 Além disso, quem compra bitcoin e segura por pelo menos 4 anos não tem prejuízo com bitcoin. É o que mostra essa imagem aqui:
 
@@ -168,7 +166,7 @@ Com o passar do tempo a gente como civilização tende a gastar mais energia, po
 
 ![Slide 211](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-25.jpg)
 
-Essa imagem também nos mostra isso, países mais ricos e desenvolvidos são os que mais consomem energia. Já os países mais pobres e com menores salários consomem menos. Perceba que o uso de energia está totalmente correlacionado ao desenvolvimento humano.  Tanto que existe uma escala para medir isso chamada Escala Kardashev.
+Essa imagem também nos mostra isso, países mais ricos e desenvolvidos são os que mais consomem energia. Já os países mais pobres e com menores salários consomem menos. Perceba que o uso de energia está totalmente correlacionado ao desenvolvimento humano. Tanto que existe uma escala para medir isso chamada Escala Kardashev.
 
 ![Slide 212](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-26.jpg)
 
@@ -202,7 +200,7 @@ Essa imagem demonstra como bitcoin usa só 0,1% da energia global e consome 0,4%
 
 O que acontece é que mineradores acabam naturalmente se instalando em locais com excedente na produção de energia, energia que seria jogada fora. Geralmente as fontes renováveis como hidro e geotérmicas são os locais mais escolhidos, como na Islândia, Sibéria, Canadá, Rússia e Estados Unidos. São locais com muita energia e pouca população ou indústria presente para consumir o excedente de energia. Esses locais geralmente não tem como armazenar toda a energia produzida.
 
-É aí que entra a mineração de Bitcoin. Uma industria plug n play, fácil de se instalar em qualquer região do planeta e que dá destino útil para essa energia que antes estava sendo jogada fora.&#x20;
+É aí que entra a mineração de Bitcoin. Uma industria plug n play, fácil de se instalar em qualquer região do planeta e que dá destino útil para essa energia que antes estava sendo jogada fora.
 
 ![Slide 217](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-33.jpg)
 
@@ -226,7 +224,7 @@ O gás metano é 86x mais poluente que o CO2 e é subproduto da extração de pe
 
 É por isso que refinarias e aterros sanitários estão começando a minerar Bitcoin. No fim das contas eles desperdiçam energia, o metano, e perceberam que ao se plugar na mineração de bitcoin eles podem monetizar o gás desperdiçado e ainda EVITAR que metano seja jogado na atmosfera.
 
-Como um container cheio de ASICs é super fácil de instalar, esse mecanismo está começando a se espalhar pelo mundo. Dessa forma, Bitcoin evita que tanto metano quanto CO2 sejam jogados no meio ambiente e ainda converte esses gases em energia para minerar uma moeda escassa e que se valoriza com o passar do tempo. Até então nenhuma indústria tinha um uso real para esses gases. Bitcoin ao mesmo tempo que monetiza e evita o desperdício, também evita que esses gases poluentes entrem na atmosfera.&#x20;
+Como um container cheio de ASICs é super fácil de instalar, esse mecanismo está começando a se espalhar pelo mundo. Dessa forma, Bitcoin evita que tanto metano quanto CO2 sejam jogados no meio ambiente e ainda converte esses gases em energia para minerar uma moeda escassa e que se valoriza com o passar do tempo. Até então nenhuma indústria tinha um uso real para esses gases. Bitcoin ao mesmo tempo que monetiza e evita o desperdício, também evita que esses gases poluentes entrem na atmosfera.
 
 ![Slide 220](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-36.jpg)
 
@@ -321,34 +319,15 @@ Agora que você já sabe o que é bitcoin, como ele funciona, formas de ter e as
 * [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
 * [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208)
 
----
+***
 
 ### :loudspeaker: Compartilhe esta aula!
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%208%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%208%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%208%20do%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+[Twitter ](https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%208%20do%20curso%20Bitcoin%204%20All%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8)[WhatsApp ](https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%208%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-8\&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%208%20do%20curso%20Bitcoin%204%20All%20)
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### :chart\_with\_upwards\_trend: Seu Progresso no Curso
 
-<div class="course-progress">
-<strong>Aula 8 de 10</strong> (80% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 80%"></div>
-</div>
-</div>
-
+**Aula 8 de 10** (80% completo)
 
 ***
 

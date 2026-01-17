@@ -10,8 +10,6 @@
 
 ***
 
-***
-
 ### Roteiro Completo
 
 ## Aula 2 - O problema do dinheiro fiat
@@ -56,11 +54,11 @@ E como dizia o economista austríaco Milton Friedman desde os anos 70, só os ba
 
 ![Slide 25](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-08.jpg)
 
-Os preços na economia são determinados pela oferta e demanda de todas as coisas, até do dinheiro. Afinal o dinheiro nos ajuda a correlacionar valor entre coisas diferentes. Nos ajuda a entender se algo está caro ou barato. Isso quer dizer que o preço de uma maçã, por exemplo, depende de dois fatores: a  quantidade de maçãs que existem e a demanda por maçãs. Se uma maçã custa 3 reais e muitas pessoas resolvem fazer receitas com maçãs: a demanda aumenta. É provável que os preços das maçãs subam porque a demanda aumentou. Por outro lado, se uma maçã custa 3 reais e a safra foi muito boa, a ponto de ter muita maçã no estoque e os vendedores precisarem vender tudo antes que elas estraguem... o que acontece? Sim, o preço cai.
+Os preços na economia são determinados pela oferta e demanda de todas as coisas, até do dinheiro. Afinal o dinheiro nos ajuda a correlacionar valor entre coisas diferentes. Nos ajuda a entender se algo está caro ou barato. Isso quer dizer que o preço de uma maçã, por exemplo, depende de dois fatores: a quantidade de maçãs que existem e a demanda por maçãs. Se uma maçã custa 3 reais e muitas pessoas resolvem fazer receitas com maçãs: a demanda aumenta. É provável que os preços das maçãs subam porque a demanda aumentou. Por outro lado, se uma maçã custa 3 reais e a safra foi muito boa, a ponto de ter muita maçã no estoque e os vendedores precisarem vender tudo antes que elas estraguem... o que acontece? Sim, o preço cai.
 
 Por isso que oferta e demanda é o que determina os preços de qualquer coisa na economia. E o dinheiro é a ferramenta que a gente usa para medir valor. A mesma coisa acontece com o dinheiro. Se mais dinheiro for criado em relação ao quanto as pessoas produzem, o dinheiro vai perder valor em relação a produtos e serviços, afinal a oferta dele aumentou. Por outro lado, se a criação de dinheiro for interrompida e a demanda por ele permanecer estável, seu valor tende a aumentar.
 
-O dinheiro criado por governos é conhecido como dinheiro fiat, porque ele é um dinheiro feito por decreto. A palavra "Fiat" vem do latim e significa "faça-se". Ou seja, é dinheiro que terceiros determinam que tem valor, obrigam as pessoas a usar e pode ser criado do nada imprimindo mais notas ou simplesmente digitando no computador do banco central.&#x20;
+O dinheiro criado por governos é conhecido como dinheiro fiat, porque ele é um dinheiro feito por decreto. A palavra "Fiat" vem do latim e significa "faça-se". Ou seja, é dinheiro que terceiros determinam que tem valor, obrigam as pessoas a usar e pode ser criado do nada imprimindo mais notas ou simplesmente digitando no computador do banco central.
 
 ![Slide 26](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-09.jpg)
 
@@ -76,11 +74,11 @@ A mesma coisa aconteceu na Venezuela recentemente, de 2012 a 2018. Conforme o ba
 
 ![Slide 29](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-12.jpg)
 
-Na Turquia é o mesmo filme: impressão de dinheiro, na imagem da esquerda, e consequente desvalorização da moeda no mesmo período, na imagem da direita.&#x20;
+Na Turquia é o mesmo filme: impressão de dinheiro, na imagem da esquerda, e consequente desvalorização da moeda no mesmo período, na imagem da direita.
 
 ![Slide 30](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-13.jpg)
 
-Na Argentina nem se fala. Mesma coisa. Os gráficos e dados falam por sí.  Bancos centrais imprimem dinheiro e a moeda colapsa de valor. Quanto mais imprimem,  mais o dinheiro derrete.
+Na Argentina nem se fala. Mesma coisa. Os gráficos e dados falam por sí. Bancos centrais imprimem dinheiro e a moeda colapsa de valor. Quanto mais imprimem, mais o dinheiro derrete.
 
 ![Slide 31](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-14.jpg)
 
@@ -90,7 +88,7 @@ Até o dólar, a moeda mais forte e com maior demanda global teve sua oferta aum
 
 No Brasil, já passamos por situações em que o dinheiro perdeu completamente sua função. Ao longo da história, tivemos várias moedas que foram extintas por causa da hiperinflação -- um cenário em que os preços disparam porque o governo imprime dinheiro de forma descontrolada. A moeda perde tanto valor que as pessoas não conseguem mais confiar nela. Quando a hiperinflação toma conta, surgem tentativas desesperadas para tentar "conter" a crise. Governos recorrem a medidas como impor preços fixos para produtos e serviços ou obrigar a população a fazer um "controle de preços". Mas adivinha? Essas medidas não funcionam. Pelo contrário, só aumentam o caos e indignação.
 
-Com os preços subindo de forma galopante todos os dias, os comerciantes precisam reajustar suas tabelas constantemente. Essa instabilidade quebra a confiança no dinheiro como uma ferramenta para medir ou armazenar valor. As pessoas começam a perceber que o dinheiro na carteira ou no banco vale menos a cada dia. E então o que elas fazem? Correm para gastar. Em vez de guardar dinheiro, as pessoas começam a comprar qualquer coisa que preserve valor  -- comida, produtos, bens duráveis.
+Com os preços subindo de forma galopante todos os dias, os comerciantes precisam reajustar suas tabelas constantemente. Essa instabilidade quebra a confiança no dinheiro como uma ferramenta para medir ou armazenar valor. As pessoas começam a perceber que o dinheiro na carteira ou no banco vale menos a cada dia. E então o que elas fazem? Correm para gastar. Em vez de guardar dinheiro, as pessoas começam a comprar qualquer coisa que preserve valor -- comida, produtos, bens duráveis.
 
 E é aí que o caos se intensifica. Todo mundo corre para estocar alimentos e produtos básicos, porque sabe que amanhã tudo vai estar mais caro. As prateleiras começam a esvaziar. Não há mais demanda por dinheiro; o foco das pessoas se volta para bens tangíveis que preservem valor. O dinheiro como conhecemos vira um "cubo de gelo" derretendo rapidamente nas mãos de quem segura.
 
@@ -136,7 +134,7 @@ Essa durabilidade é uma das razões pelas quais o ouro foi tão usado como dinh
 
 ![Slide 39](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-22.jpg)
 
-O ouro preservava valor porque ele tinha propriedades monetárias bem específicas que colocaram ele na posição de dinheiro eleito organicamente pelas pessoas como a melhor forma de guardar valor através do tempo, para o futuro. O ouro é durável, divisível, fungível, portável, verificável, é relativamente escasso e é aceito globalmente como uma reserva de valor. Na aula seguinte vamos destrinchar todas essas propriedades e comparar cada uma delas entre ouro, fiat e Bitcoin.&#x20;
+O ouro preservava valor porque ele tinha propriedades monetárias bem específicas que colocaram ele na posição de dinheiro eleito organicamente pelas pessoas como a melhor forma de guardar valor através do tempo, para o futuro. O ouro é durável, divisível, fungível, portável, verificável, é relativamente escasso e é aceito globalmente como uma reserva de valor. Na aula seguinte vamos destrinchar todas essas propriedades e comparar cada uma delas entre ouro, fiat e Bitcoin.
 
 São essas propriedades que explicam por quê o ouro foi escolhido como dinheiro ao longo de grande parte da história e ainda é visto como uma reserva de valor confiável nos dias de hoje.
 
@@ -146,7 +144,7 @@ Se você comparar o desempenho das moedas emitidas por governos com o ouro ao lo
 
 Mas por que isso acontece? A resposta está na natureza do ouro e na forma como ele se diferencia das moedas fiat, aquelas emitidas por governos. O ouro é relativamente escasso, e sua oferta não pode ser aumentada de forma fácil ou arbitrária. Antes do surgimento do Bitcoin, o ouro era a commodity mais difícil de expandir oferta. Extrair ouro da Terra é caro, trabalhoso e limitado pelas reservas naturais. Isso criou uma oferta estável e resistente à manipulação por muitos anos, preservando valor ao longo do tempo.
 
-Além disso, o ouro possui estabilidade atômica. Isso significa que, mesmo com os avanços da ciência, recriar ouro em laboratório é economicamente inviável, é praticamente impossível de tão caro que é.  Assim o ouro se tornou o dinheiro mais usado na história e ao se tornar dinheiro ele assumiu 3 funções:
+Além disso, o ouro possui estabilidade atômica. Isso significa que, mesmo com os avanços da ciência, recriar ouro em laboratório é economicamente inviável, é praticamente impossível de tão caro que é. Assim o ouro se tornou o dinheiro mais usado na história e ao se tornar dinheiro ele assumiu 3 funções:
 
 ![Slide 41](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-24.jpg)
 
@@ -162,17 +160,17 @@ Mas assim como pedras, conchas e sal já foram utilizados como dinheiro no passa
 
 A evolução do dinheiro sempre esteve ligada à melhoria dessas propriedades. Milênios atrás, por exemplo, conchas eram utilizadas como dinheiro. Elas tinham valor porque eram escassas em determinadas regiões, como nas serras. Só que, quando as pessoas começaram a se deslocar e levar conchas do litoral para essas regiões, elas perderam sua escassez e, consequentemente, seu valor. O resultado? As conchas deixaram de funcionar como dinheiro porque não conseguiam mais preservar valor.
 
-Uma história fascinante que ajuda a entender essa evolução é a das pedras rai, utilizadas como dinheiro na ilha de Yap, na Micronésia, até 1871. As pedras rai eram grandes discos de calcário com um buraco no meio, variando em tamanho e formato. Elas não eram apenas uma forma de dinheiro, mas também um símbolo de status. As famílias que tinham  as pedras maiores e mais bonitas eram consideradas as mais ricas da ilha.
+Uma história fascinante que ajuda a entender essa evolução é a das pedras rai, utilizadas como dinheiro na ilha de Yap, na Micronésia, até 1871. As pedras rai eram grandes discos de calcário com um buraco no meio, variando em tamanho e formato. Elas não eram apenas uma forma de dinheiro, mas também um símbolo de status. As famílias que tinham as pedras maiores e mais bonitas eram consideradas as mais ricas da ilha.
 
 O calcário necessário para fazer essas pedras não existia na ilha de Yap. Por isso, era necessário buscar em ilhas vizinhas, o que tornava a produção das pedras um processo extremamente trabalhoso e demorado. Movimentar uma pedra rai exigia esforço, energia e planejamento, o que limitava a produção e, assim, ajudava a manter o valor das pedras como dinheiro. Esse processo, que envolvia trabalho significativo para criar e transportar as pedras, é um precursor do conceito de prova de trabalho, que vamos explorar mais pra frente neste curso.
 
-Por um tempo, as pedras rai funcionaram bem como dinheiro. Eram difíceis de falsificar, sua produção era limitada e exigia esforço. Todas características importantes para preservar valor.&#x20;
+Por um tempo, as pedras rai funcionaram bem como dinheiro. Eram difíceis de falsificar, sua produção era limitada e exigia esforço. Todas características importantes para preservar valor.
 
 ![Slide 43](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-26.jpg)
 
 Quando a pedra gigante chegava na ilha, toda a aldeia conhecia quem era o dono porque todos tinham que trabalhar em conjunto pra carregar a pedra. Se a pedra fosse usada em alguma negociação, os yapenses só anunciavam quem era o novo dono. Esse é um belo exemplo de registro descentralizado de dinheiro, a diferença é que era analógico e não digital.
 
-Só que a chegada de um empresário irlandês na ilha, acabou com esse padrão monetário. O irlandês viu que os yapenses produziam muito coco e queria negociar esse coco com os moradores, mas eles não aceitavam o dinheiro do estrangeiro, só aceitavam pedra rai. E ai olha só o que o irlarndês fez. Ele levou explosivos e ferramentas de metal pras ilhas vizinhas, extraiu um monte de pedras rai com menos esforço, levou pra ilha de Yap e comprou todos os estoques de coco.&#x20;
+Só que a chegada de um empresário irlandês na ilha, acabou com esse padrão monetário. O irlandês viu que os yapenses produziam muito coco e queria negociar esse coco com os moradores, mas eles não aceitavam o dinheiro do estrangeiro, só aceitavam pedra rai. E ai olha só o que o irlarndês fez. Ele levou explosivos e ferramentas de metal pras ilhas vizinhas, extraiu um monte de pedras rai com menos esforço, levou pra ilha de Yap e comprou todos os estoques de coco.
 
 Foi assim que as pedras rai se tornaram abundantes na ilha e o valor das pedras caiu até perder a utilidade como dinheiro.
 
@@ -214,9 +212,9 @@ Porém, esse modelo tem um ponto fraco: a confiança. Se em algum momento os EUA
 
 Esse cenário nos faz refletir sobre a fragilidade de um sistema baseado em dívida infinita e confiança no "poder das impressoras de dinheiro". Diferente do ouro, que era um ativo tangível e escasso, o dinheiro atual e o sistema financeiro global são construídos em algo intangível e infinitamente expansível: a dívida.
 
-Governos imprimem dinheiro, aumentam a dívida pública e destroem o poder de compra da moeda para muitas vezes salvar bancos ineficientes da falência.&#x20;
+Governos imprimem dinheiro, aumentam a dívida pública e destroem o poder de compra da moeda para muitas vezes salvar bancos ineficientes da falência.
 
-!(slide 18 novamente)\[https://github.com/areabitcoin/Bitcoin-4-All/blob/baac1cbe792de71ed0ab5b51aeea3b05f39a4364/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-33.png] Aqui chegamos no porque Satoshi criou o Bitcoin e à citação trazida por ele no bloco gênesis, fazendo referência ao segundo resgate aos bancos falidos através da impressão de dinheiro.&#x20;
+!(slide 18 novamente)\[https://github.com/areabitcoin/Bitcoin-4-All/blob/baac1cbe792de71ed0ab5b51aeea3b05f39a4364/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202/Sem%20ti%CC%81tulo-9-33.png] Aqui chegamos no porque Satoshi criou o Bitcoin e à citação trazida por ele no bloco gênesis, fazendo referência ao segundo resgate aos bancos falidos através da impressão de dinheiro.
 
 Satoshi sabia que o dinheiro que o mundo inteiro usa é um cubo de gelo que perde valor porque perdeu propriedades monetárias. Se apoia apenas na promessa dos governos em pagarem suas dívidas sem destruírem o valor moeda... o que não acontece. Elas estão derretendo.
 
@@ -226,7 +224,7 @@ Esse cenário nos leva a uma reflexão importante: o que acontece quando o dinhe
 
 É nesse contexto que o Bitcoin surge como uma alternativa revolucionária, melhor do que o dinheiro fiat e também melhor que o ouro. Ele não depende de governos, bancos ou na confiança em terceiros. Ele resgata a ideia de um sistema financeiro sólido, mais parecido com o que o ouro representava no passado só que ainda melhor que o próprio ouro por ser digital, descentralizado, globalmente verificável e, principalmente, matematicamente escasso.
 
-Olhando para o cenário atual, é fácil perceber como o Bitcoin representa uma quebra de paradigma frente a um sistema insustentável e em constante colapso.&#x20;
+Olhando para o cenário atual, é fácil perceber como o Bitcoin representa uma quebra de paradigma frente a um sistema insustentável e em constante colapso.
 
 Bitcoin é um dinheiro e um sistema financeiro melhor e na próxima aula você vai entender mais profundamente os motivos disso.
 
@@ -237,34 +235,15 @@ Bitcoin é um dinheiro e um sistema financeiro melhor e na próxima aula você v
 * [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
 * [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%202)
 
----
+***
 
 ### :loudspeaker: Compartilhe esta aula!
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%202%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%202%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%202%20do%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+[Twitter ](https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%202%20do%20curso%20Bitcoin%204%20All%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2)[WhatsApp ](https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%202%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-2\&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%202%20do%20curso%20Bitcoin%204%20All%20)
 
-### :chart_with_upwards_trend: Seu Progresso no Curso
+### :chart\_with\_upwards\_trend: Seu Progresso no Curso
 
-<div class="course-progress">
-<strong>Aula 2 de 10</strong> (20% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 20%"></div>
-</div>
-</div>
-
+**Aula 2 de 10** (20% completo)
 
 ***
 

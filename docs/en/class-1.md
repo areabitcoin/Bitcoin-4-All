@@ -1,19 +1,18 @@
-# 1 Class 1 - What is Bitcoin and why was it created?
+# Class 1 - What is Bitcoin and why was it created?
 
-## :movie_camera: Class Video
+### :movie\_camera: Class Video
 
 [![Watch Video](https://img.youtube.com/vi/XwcvWsniEEM/maxresdefault.jpg)](https://www.youtube.com/watch?v=XwcvWsniEEM)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=XwcvWsniEEM)**
+:point\_right: [**Click here to watch on YouTube**](https://www.youtube.com/watch?v=XwcvWsniEEM)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/XwcvWsniEEM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Full Script
+### Full Script
 
-# Script Class 1 - What is Bitcoin and why was it created?
+## Class 1 - What is Bitcoin and why was it created?
 
 More than 15 years ago, Bitcoin was born as a revolutionary idea, and since then, it has gone from something unknown to becoming one of the most talked about topics in the world. Today, many people have heard of Bitcoin or have an opinion about it. But, unfortunately, for many, it is still seen as just something for nerds, a risky investment or something that is only good for financial speculation. This limited vision ends up ignoring the true purpose and enormous potential of Bitcoin: to be accessible money for everyone.
 
@@ -22,7 +21,6 @@ And what not everyone realizes is that Bitcoin wasn't created just for investors
 Today, more than ever, it is important to understand how Bitcoin can make a difference in your life. With inflation rising, money losing value and people trusting banks and governments less and less, Bitcoin presents itself as a reliable alternative: money that is truly yours, that no one can block, confiscate or devalue for no reason. With Bitcoin you can become your own bank and no longer depend on intermediaries to store or control your money.
 
 Bitcoin is not just a currency and a technology, it is also an invitation for us to rethink our relationship with money and how we can build a new financial system that is freer, safer and more accessible for everyone.
-
 
 ![Slide 1](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-01.jpg)
 
@@ -36,7 +34,6 @@ Tesla and Henry Ford envisioned the creation of energy-backed money that would p
 
 So realize that Bitcoin, in a way, has always been there as an idea waiting for the right time to become reality. But what these geniuses of the past didn't know was how exactly this digital money would be created or what technological advances would make it possible.
 
-
 ![Slide 2](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-02.jpg)
 
 Those who took the first steps towards Bitcoin were the cypherpunks of the past. Since the 70s, these cryptographers have been trying to create money that can be used on the internet. But none of the projects worked as expected. And that's why it is said that Bitcoin did not appear overnight, it is a discovery that was ready to happen. Bitcoin is the result of 40 years of previous research and attempts. Several projects over time paved the way for the creation of Bitcoin, each contributing a piece of the puzzle that Satoshi Nakamoto finally put together in 2008.
@@ -45,13 +42,11 @@ That's why many people say that Satoshi Nakamoto, the creator of Bitcoin, didn't
 
 Ok, but then how did Bitcoin come about?
 
-
 ![Slide 3](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-03.jpg)
 
 The first records of Bitcoin begin with an email on October 31, 2008. On that day, an anonymous cypherpunk named Satoshi Nakamoto posted on a cryptography mailing list that he was working on a paper about an peer-to-peer (P2P) electronic cash system, without the need for trusted intermediaries.
 
-
-(slide 4)[https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-04.jpg]
+(slide 4)\[https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-04.jpg]
 
 In this email there was a link to the Bitcoin Whitepaper, a document with just 9 pages that technically describes the functioning of the Bitcoin network. The text explains how digital signatures send and receive transactions, how these transactions are grouped into blocks and how proof of work, through the use of computational power, solves the problem of double spending and, at the same time, generates new coins as a reward for network participants, in the process known as "mining".
 
@@ -66,7 +61,6 @@ It's usually possible to find out who registered and owns a domain, but Satoshi 
 Satoshi Nakamoto stayed for a few more years working on the code and exchanging ideas with other cryptographers around Bitcoin. Then, in April 2014, he handed over control of the website bitcoin.org, and bitcoin repository, to developer Gavin Andresen. Satoshi stood on the shoulders of giants by merging past cypherpunk projects and going further by making Bitcoin a reality.
 
 Bitcoin is the result of the combination of several technologies. Separately, these technologies would not have the same characteristics and properties that make Bitcoin unique. It is this union that made it possible to create something so revolutionary.
-
 
 ![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-05.jpg)
 
@@ -84,7 +78,6 @@ Finally, Satoshi also kept the entire Bitcoin project open source, that is, acce
 
 Before Satoshi, no one had mixed all these technologies into a single protocol. In class 4, on how Bitcoin works, you will better understand each of these points.
 
-
 ![Slide 6](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-06.jpg)
 
 Two months after sending the email to the Cypherpunk mailing list, launching the website, and making the Whitepaper available for anyone to verify, collaborate on, or even copy, Satoshi mined the first Bitcoin block.
@@ -93,7 +86,6 @@ This first block mined on January 3, 2009 is called the "genesis block". Satoshi
 
 "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" - this is the title on the cover of the British newspaper The Times from January 3, 2009. This cover here:
 
-
 ![Slide 7](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-07.jpg)
 
 It shows how the history of bitcoin is directly linked to recent major global crises. Bitcoin emerged precisely when the 2008 crisis broke out, as a response to the manipulation of the economy and centralization carried out by central and commercial banks. The quote from The Times was not for nothing: it reinforces the criticism of the traditional financial system.
@@ -101,7 +93,6 @@ It shows how the history of bitcoin is directly linked to recent major global cr
 This report pointed out that in 2009 the British chancellor would rescue a bankrupt bank for the second time. This gives us several clues about the reasons that led Satoshi to create Bitcoin and what he thought about the financial system.
 
 In messages written on internet forums, Satoshi demonstrated how in-depth he had knowledge about how the economy works and how he saw Bitcoin as a completely opposite alternative to the traditional system. He created a decentralized currency, which cannot be confiscated, monopolized or devalued by any government or bank.
-
 
 ![Slide 8](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-08.jpg)
 
@@ -115,13 +106,11 @@ The growth of the Bitcoin network was completely organic because there was no in
 
 And unlike all the other founders of digital currency projects that emerged later, there are no records of Satoshi having sold even one Bitcoin.┬á He created Bitcoin and, after building the basis of the protocol, disappeared without ever making a profit. Satoshi left Bitcoin as an invaluable legacy to humanity, without taking anything in return.
 
-
 ![Slide 9](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-09.jpg)
 
 Since then, Bitcoin, which was initially worth nothing, has reached new highs with each appreciation cycle. It reached $100,000 at the time I am recording this class and has appreciated more than 7 billion percent in dollars since 2010, when it began to be traded and priced by the first online platforms.
 
 The price of Bitcoin attracts attention, arouses curiosity, enchantment and greed, but in fact it is a reflection of the growth in adoption of a new financial system. For the first time in human history, we are witnessing and documenting the birth of completely digital money, independent of governments and banks. The great appreciation of Bitcoin reflects its growing demand and with this the price can also tell a story. It shows the ups and downs of Bitcoin, but most of all, it symbolizes the impact of this revolutionary technology over time.
-
 
 ![Slide 10](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-10.jpg)
 
@@ -132,7 +121,6 @@ Well, you already know the first two milestones: in 2008 the whitepaper was rele
 In 2010 the first transaction took place with Bitcoin, which even became a date commemorative: Bitcoin Pizza Day. On the day May 22, 2010, Laszlo Hanyecz paid 10 thousand bitcoin for two pizzas, which at the time were worth about $25. Today, those pizzas would be worth billions of dollars, but Laszlo's gesture was much more than a simple payment. It reinforces the importance of Bitcoin as money that can be used on a daily basis and reinforces its essence as a P2P tool.
 
 Although it seems like Laszlo's mistake and a waste when we look back, Pizza Day highlights the importance of adopting and circulating Bitcoin as money. Laszlo showed that Bitcoin can be used in a practical way, without depending on banks, exchanges or intermediaries. To have Bitcoin, you just need to find someone willing to exchange a product or service for Bitcoin. It is the most sovereign and independent form of negotiation between two people.
-
 
 ![Slide 11](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-11.jpg)
 
@@ -150,9 +138,7 @@ Ross's case also raised a global debate about a website owner's responsibility f
 
 In 2025, with a greater understanding of the issue, social pressure for justice and political interest in Bitcoin, current US President Donald Trump pardoned Ross and released Ross from Silk Road's life sentence.
 
-
-!(slide 10 - again)[https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-10.jpg]
-Another major milestone in the history of Bitcoin was the release of the Lightning Network whitepaper, a second-layer solution for fast and cheap payments. The lightning network began running in 2017, following the Segwit upgrade, allowing Bitcoin to be used as an everyday currency, reducing transaction costs and increasing speed, without sacrificing security and decentralization of the mainnet.
+!(slide 10 - again)\[https://github.com/areabitcoin/Bitcoin-4-All/blob/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-10.jpg] Another major milestone in the history of Bitcoin was the release of the Lightning Network whitepaper, a second-layer solution for fast and cheap payments. The lightning network began running in 2017, following the Segwit upgrade, allowing Bitcoin to be used as an everyday currency, reducing transaction costs and increasing speed, without sacrificing security and decentralization of the mainnet.
 
 In 2017, the SegWit (Segregated Witness) update was one of the most significant changes to the Bitcoin protocol. This improvement brought greater scalability, security and flexibility to the network. SegWit reduced the burden of transactions, which lowered fees and paved the way for the development of the Lightning Network. The activation of SegWit was the result of years of debate and despite being a significant change, it did not alter the fundamental properties of Bitcoin, as it was implemented as a soft fork, ensuring compatibility with the protocol's previous rules.
 
@@ -164,13 +150,11 @@ As early as 2023, the NOSTR protocol began to gain traction. Inspired by the pri
 
 In 2024, two major events marked the history of Bitcoin. The first was the launch of the first Bitcoin ETF in the US, which broke trading and growth records, further consolidating Bitcoin as a mainstream financial asset. The second was a historic statement by then-former US President Donald Trump, who promised to create a strategic Bitcoin reserve, highlighting Bitcoin's global recognition as an economic and strategic tool.
 
-
 ![Slide 12](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-12.jpg)
 
 In just 16 years, Bitcoin has grown much faster than any company, commodity or country. At the same time as it rescues ancient monetary properties, it has registered exponential adoption, faster than even the internet itself. This is what appears in this image: the dark gray bars show the growth of Bitcoin, while the light gray bars represent the adoption of the internet since the 1990s. Today, Bitcoin already has the same number of users as the internet had in 1999.
 
 And if the internet has become the main tool for accessing information, Bitcoin can become the main tool for accessing value, without depending on governments or banks. Even though it is growing faster than the internet, Bitcoin is still in the early stages of its adoption.
-
 
 ![Slide 13](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-13.jpg)
 
@@ -179,7 +163,6 @@ The Adoption Chasm Chart is a classic model used to explain how new technologies
 The most challenging point in this model is the "abyss" (or chasm), which appears among the early adopters and the early majority. This chasm represents the critical moment in which an innovation needs to stop being something niche and become a technology that is widely accepted and used in everyday life. Many technologies do not even reach this point of the chasm.
 
 In the case of Bitcoin, the chasm represents the transition between those who adopt Bitcoin out of ideology, curiosity or specific interests (such as innovators and enthusiasts) and the large mass of users who will only adopt the technology when it is perceived as safe, useful and easy to use. Bitcoin is at this critical point, at the beginning of the process of crossing the chasm.
-
 
 ![Slide 14](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-14.jpg)
 
@@ -193,11 +176,9 @@ Bitcoin is a new type of asset, money and a new financial system, decentralized 
 
 But the main point is that Bitcoin tends to continue appreciating because it is better money.
 
-
 ![Slide 16](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-16.jpg)
 
 To understand why Bitcoin is better money, it is important to look at the evolution of money throughout history and how it has lost some of its fundamental properties. Bitcoin has the potential to rescue these essential properties and profoundly transform our relationship with money. It can revolutionize the way we save, invest and transact, offering an alternative that is transparent, resistant to manipulation and accessible to everyone.
-
 
 ![Slide 17](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%201/slide-17.jpg)
 
@@ -207,41 +188,21 @@ In the next class, we will explore these problems in detail and you will underst
 
 See you next class!
 
+***
 
----
+### Additional Resources
 
-##  Additional Resources
+* [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
+* [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%201)
 
-- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
-- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%201)
+***
 
----
+### [Previous](intro.md) | [Next](class-2.md)
 
-[ Previous](intro.md) | [Next ](class-2.md)
----
+#### :loudspeaker: Share this lesson!
 
-### :loudspeaker: Share this lesson!
+[Twitter ](https://twitter.com/intent/tweet?text=I%27m%20learning%20about%20Bitcoin!%20Class%201%20from%20Bitcoin%204%20All%20course%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-1\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-1)[WhatsApp ](https://wa.me/?text=I%27m%20learning%20about%20Bitcoin!%20Class%201%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-1)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-1\&text=I%27m%20learning%20about%20Bitcoin!%20Class%201%20from%20Bitcoin%204%20All%20course%20)
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%201%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-1&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-1" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%201%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-1" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-1&text=I'm%20learning%20about%20Bitcoin!%20Class%201%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+#### :chart\_with\_upwards\_trend: Your Course Progress
 
-### :chart_with_upwards_trend: Your Course Progress
-
-<div class="course-progress">
-<strong>Class 1 de 10</strong> (10% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 10%"></div>
-</div>
-</div>
+**Class 1 de 10** (10% completo)

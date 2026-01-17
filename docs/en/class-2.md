@@ -1,37 +1,34 @@
-# 2 Class 2 - The problem with fiat money
+# Class 2 - The problem with fiat money
 
-## :movie_camera: Class Video
+## 2 Class 2 - The problem with fiat money
+
+### :movie\_camera: Class Video
 
 [![Watch Video](https://img.youtube.com/vi/EPl8Ip64qM8/maxresdefault.jpg)](https://www.youtube.com/watch?v=EPl8Ip64qM8)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=EPl8Ip64qM8)**
+:point\_right: [**Click here to watch on YouTube**](https://www.youtube.com/watch?v=EPl8Ip64qM8)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/EPl8Ip64qM8?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Full Script
+### Full Script
 
-# Script Class 2 - The problem with fiat money
+## Class 2 - The problem with fiat money
 
 Money created by governments -- fiat money -- has a problem:
-
 
 ![Slide 18](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-01.jpg)
 
 It is a big ice cube. It constantly melts in value. Maybe you haven't perceived this yet, but this "melting" has an effect that you probably already noticed: everything gets more expensive over time.
 
-
 ![Slide 19](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-02.jpg)
 
 Every year, grocery shopping gets more and more expensive. The cost of filling up the trolley with basic products is getting higher and higher and wages are not keeping up with this general price increase. And why is that? That's because your money is constantly weakening and losing its value.
 
-
 ![Slide 20](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-03.jpg)
 
 The dollar has lost 97% of its value since the Federal Reserve, the central bank of the United States, was created in 1913. The purchasing power of 100 dollars today is equivalent to 3 dollars 120 years ago. This means that today you need to have 100 dollars to buy the same things you could buy with 3 dollars when the US currency was created. Impressive, right?
-
 
 ![Slide 21](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-04.jpg)
 
@@ -39,18 +36,15 @@ For an even faster example of this loss of value, we can consider the real, the 
 
 But this doesn't just happen with the dollar or the real. All currencies go through this same process and lose purchasing power over the years.
 
-
 ![Slide 22](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-05.jpg)
 
 According to World Bank data, all global currencies have lost value since the 2000s, that is, over the last 25 years. The Japanese yen lost 50% in value, the euro lost 73%, the pound sterling 75%, the US dollar 78%, the Australian dollar 85%, the rupee 99%, the Chinese yuan 99%, and the Nigerian naira also lost 99%.
 
 ALL government currencies have melted in value in just 25 years. This destroys generations who are working every day of their lives to receive money that holds no value. It's an ice cube.
 
-
 ![Slide 23](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-06.jpg)
 
 That's why you notice everything getting more and more expensive and going up in price: deep down, it's your money that's losing value. Prices seem to be going up, but it's the money that's going downhill.
-
 
 ![Slide 24](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-07.jpg)
 
@@ -62,7 +56,6 @@ This means that money is losing value compared to products and services. The sam
 
 And as Austrian economist Milton Friedman has said since the 1970s, only central banks can create widespread inflation because only they can print money. Only central banks can manipulate the existing money supply.
 
-
 ![Slide 25](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-08.jpg)
 
 Prices in the economy are determined by the supply and demand of all things, even money. After all, money helps us to correlate value between different things. It helps us understand whether something is expensive or cheap.
@@ -73,40 +66,31 @@ That's why supply and demand is what determines the price of anything in the eco
 
 The same thing happens with money. If more money is created in relation to how much people produce, money will lose value in relation to products and services, after its supply has increased. On the other hand, if the creation of money stops and the demand for it remains stable, its value tends to increase.
 
-Money created by governments is known as fiat money, because it is money made by decree. The word "Fiat" comes from Latin and means "let it be done". In other words, it's money whose value is determined by third parties, which force people to use it, and can be created out of thin air by printing more notes or simply typing it into the central bank's computer. 
-
+Money created by governments is known as fiat money, because it is money made by decree. The word "Fiat" comes from Latin and means "let it be done". In other words, it's money whose value is determined by third parties, which force people to use it, and can be created out of thin air by printing more notes or simply typing it into the central bank's computer.&#x20;
 
 ![Slide 26](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-09.jpg)
 
 When central banks of governments print money or create digital money at the push of a button, they are increasing the money supply. They are expanding the monetary base. And it's crystal clear: as central banks print more money, they destroy the purchasing power of the local currency. It just devalues. This happens in every single country.
 
-
 ![Slide 27](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-10.jpg)
 
 In Brazil, the central bank has expanded the monetary base by more than 5,000 percent since the real was created; since then, the Brazilian currency has lost 99% of its value against the dollar.
-
 
 ![Slide 28](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-11.jpg)
 
 The same thing happened in Venezuela recently, from 2012 to 2018. As the central bank created more money, the value degraded.
 
-
 ![Slide 29](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-12.jpg)
 
-In Turkey, it's the same picture: printing money, in the image on the left, and the consequent devaluation of the currency in the same period, in the image on the right. 
-
+In Turkey, it's the same picture: printing money, in the image on the left, and the consequent devaluation of the currency in the same period, in the image on the right.&#x20;
 
 ![Slide 30](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-13.jpg)
 
-Not to mention Argentina. Same thing. The graphs and data speak for themselves. 
-Central banks print money and the currency collapses in value. The more they print, the more the money melts.
-
+Not to mention Argentina. Same thing. The graphs and data speak for themselves.  Central banks print money and the currency collapses in value. The more they print, the more the money melts.
 
 ![Slide 31](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-14.jpg)
 
-Even the dollar, the strongest currency with the greatest global demand, has constantly increased its supply and lost value as well.
-Notice that, as value is drained, money begins to fail in its role as money. And when money fails, it's the people who suffer the most.
-
+Even the dollar, the strongest currency with the greatest global demand, has constantly increased its supply and lost value as well. Notice that, as value is drained, money begins to fail in its role as money. And when money fails, it's the people who suffer the most.
 
 ![Slide 32](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-15.jpg)
 
@@ -120,7 +104,6 @@ This cycle leads to widespread shortages: not because the products have disappea
 
 This extreme scenario shows us the importance of rethinking what money is and how it should work.
 
-
 ![Slide 33](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-16.jpg)
 
 When inflation gets out of hand, governments often resort to desperate -- and often absurd -- measures that end up directly harming the population. One of the most striking examples in Brazil happened in 1990, when the government confiscated Brazilians' savings accounts. Yes, it sounds like something out of a movie, but it really happened.
@@ -133,21 +116,17 @@ What these cases show us is simple: if your money is in the bank or depends on a
 
 But it's not just in Brazil and developing countries that governments confiscate from the population at the drop of a hat -- the same thing has happened in the United States too!
 
-
 ![Slide 34](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-17.jpg)
 
 In 1933, the US government confiscated the population's gold in a kind of "regulated theft". Through Executive Order 6102, it was decreed that all citizens had to hand over their gold to the Federal Reserve. This measure obliged people to hand over their wealth to the government, under penalty of legal sanctions. That was a massive confiscation.
-
 
 ![Slide 35](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-18.jpg)
 
 If you didn't hand over the gold, you'd face a fine of 10,000 dollars, 10 years in prison, or even both! This is the reality of how governments, at different times in history and in different countries, have abused the power they have, either by printing money uncontrollably, thinking that no one would notice, or by confiscating it directly. The result is always the same: the population ends up paying the price and losing assets.
 
-
 ![Slide 36](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-19.jpg)
 
 The point is: it wasn't always like this. Fiat money as we know it today is actually the exception throughout history. It is the greatest experiment ever carried out by governments.
-
 
 ![Slide 37](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-20.jpg)
 
@@ -155,20 +134,17 @@ In the past, gold was widely used as money throughout entire civilizations. Gold
 
 Today the financial system is very different, and what we consider "normal" -- money issued by governments and stored in banks -- is actually quite an anomaly in the history of money. For thousands of years, gold was the basis of trade and wealth, while the fiat money we use today, without any real backing, is a recent invention, created in the last few decades.
 
-
 ![Slide 38](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-21.jpg)
 
 Gold allows you to keep it, bury it or leave it forgotten for years: once you get it back, it will still have value. It's like in pirate movies, where a chest full of gold coins is often buried. Whoever finds this treasure, even centuries later, will be able to use it, because gold retains value, no matter how much time passes.
 
 This durability is one of the reasons why gold has been so widely used as money throughout human history. It doesn't rely on governments or banks to have value. It won't rust when buried in the ground. That's why gold has been used as money for millennia.
 
-
 ![Slide 39](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-22.jpg)
 
-Gold preserved value because it had very specific monetary properties that placed it in the position of money organically chosen by people as the best way to store value over time, for the future. Gold is durable, divisible, fungible, portable, verifiable, relatively scarce and globally accepted as a store of value. In the next lesson we'll break down all these properties and compare each of them with gold, fiat and Bitcoin. 
+Gold preserved value because it had very specific monetary properties that placed it in the position of money organically chosen by people as the best way to store value over time, for the future. Gold is durable, divisible, fungible, portable, verifiable, relatively scarce and globally accepted as a store of value. In the next lesson we'll break down all these properties and compare each of them with gold, fiat and Bitcoin.&#x20;
 
 These properties can explain why gold has been chosen as money throughout much of history and is still seen as a reliable store of value today.
-
 
 ![Slide 40](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-23.jpg)
 
@@ -176,10 +152,9 @@ If you compare the performance of government-issued currencies with gold over ti
 
 But why is that? The answer lies in the nature of gold and how it differs from fiat currencies, those issued by governments. Gold is relatively scarce, and its supply cannot be increased easily or arbitrarily. Before the emergence of Bitcoin, gold was the most difficult commodity to expand the supply of. Extracting gold from the earth is expensive, laborious and limited by natural reserves. This has created a stable and tamper-resistant offer for many years, preserving value over time.
 
-In addition, gold has atomic stability. This means that, even with the advances in science, recreating gold in a laboratory is economically unfeasible, since it's so expensive. 
+In addition, gold has atomic stability. This means that, even with the advances in science, recreating gold in a laboratory is economically unfeasible, since it's so expensive.&#x20;
 
 So gold became the most widely used money in history; upon becoming money, it took on 3 functions:
-
 
 ![Slide 41](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-24.jpg)
 
@@ -188,7 +163,6 @@ It became a store of value because people knew that it was capable of preserving
 In addition, gold stood out as an efficient medium of exchange. Because it was divisible, it could be made into different sizes, from large bars to small coins. This made transactions easier, as people could use gold to buy both simple things, such as food, and high-value items, such as land. The possibility of minting gold into standardized coins also helped to make exchanges more practical, which led it to be accepted as a medium of exchange.
 
 With coinage, it became obvious to price goods and services in quantities of gold. This means that people began to evaluate the value of everything around them in terms of gold. How much is a sack of wheat worth? X gold coins. How much is a horse worth? Some other amount of gold. This standardization brought clarity to trade and helped build more organized and functional economies. The monetary properties of gold created the basis of good money for ancient and modern economies.
-
 
 ![Slide 42](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-25.jpg)
 
@@ -200,15 +174,13 @@ A fascinating story that helps to understand this evolution is that of Rai Stone
 
 The limestone needed to make these stones simply did not exist on the island of Yap. For this reason, the stones had to be sourced from neighboring islands, which made their production an extremely laborious and time-consuming process. Moving a Rai Stone required effort, energy and planning, which limited production and thus helped maintain the value of the stones as money. This process, which involved significant work to create and transport the stones, is a precursor to the concept of proof of work, which we will explore later in this course.
 
-For a while, Rai Stones worked well as money. They were difficult to counterfeit, their production was limited and they required effort. All of these are important characteristics for preserving value. 
-
+For a while, Rai Stones worked well as money. They were difficult to counterfeit, their production was limited and they required effort. All of these are important characteristics for preserving value.&#x20;
 
 ![Slide 43](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-26.jpg)
 
 Whenever a giant stone arrived on the island, the whole village knew who owned it because everyone had to work together to carry it. If the stone was used in a trade, the Yapese would only announce who the new owner was. This is a fine example of decentralized money ledger, the difference being that it was analog and not digital.
 
-However, the arrival of an Irish businessman on the island put an end to this monetary standard. The Irishman noticed that the Yapese produced a lot of coconut and wanted to trade it with the locals, but they wouldn't accept foreign money, only Rai Stones. Now look at what the Irishman did. He took explosives and metal tools to the neighboring islands, mined a lot of Rai Stones with way less effort than usual, took them to the island of Yap and bought up all the coconut stocks. 
-
+However, the arrival of an Irish businessman on the island put an end to this monetary standard. The Irishman noticed that the Yapese produced a lot of coconut and wanted to trade it with the locals, but they wouldn't accept foreign money, only Rai Stones. Now look at what the Irishman did. He took explosives and metal tools to the neighboring islands, mined a lot of Rai Stones with way less effort than usual, took them to the island of Yap and bought up all the coconut stocks.&#x20;
 
 ![Slide 44](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-27.jpg)
 
@@ -216,18 +188,15 @@ This is how rai stones became abundant on the island and the value of the stones
 
 The same happened with gold, which ended up replacing stones, salt and other currencies of the past. Salt, stones, shells and other objects were once money, but not anymore, since they can be produced unlimitedly. The moment a person realizes that all they have to do is pick up the shells from the coast and take them to the desert, they end the object's function as money in the desert, because they end the scarcity.
 
-
 ![Slide 45](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-28.jpg)
 
 That's why gold is the main store of value among commodities to this day and why minting coins in gold has been the main form of money for centuries. Because of these properties, even fiat money was backed by gold in the past.
 
 Fiat money replaced gold as the main monetary standard because it succeeded in transferring trust in gold to trust in governments.
 
-
 ![Slide 46](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-29.jpg)
 
 This note is from the gold standard period and was convertible into gold: it even had a gold certificate stamp. In other words, the money was issued by the American government, but it was backed by gold, and the banknotes acted as a contract attesting to this. It was the scarcity of gold that brought confidence that governments wouldn't print more money than they had in gold in their vaults, and therefore wouldn't destroy the value of money, which was a contract on a paper note.
-
 
 ![Slide 47](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-30.jpg)
 
@@ -243,7 +212,6 @@ This movement became known as the Nixon shock and marked the main change in the 
 
 Since then, inflation has grown more and more globally because the United States and central banks around the world no longer had any limits on printing money. They no longer had gold limiting how much they could expand the money supply.
 
-
 ![Slide 49](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-33.jpg)
 
 Today, we live in a debt-based global economy. Unlike in the past, when the financial system was backed by gold, it now depends on the ability of governments to issue bonds and print money. This model allowed national debts to grow to historic levels, with the United States leading the way. American debt, for example, continues to break records, reaching an absurd 36 trillion dollars in 2025!
@@ -256,12 +224,11 @@ However, this model has a weak point: trust. If at some point the US fails to pa
 
 This scenario makes us reflect on the fragility of a system based on infinite debt and trust in the "power of the money printers". Unlike gold, which was a tangible and scarce asset, today's money and the global financial system are built on something intangible and infinitely expandable: debt.
 
-
 ![Slide 50](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-34.jpg)
 
-Governments print money, increase public debt and destroy the purchasing power of their currencies in order to save inefficient banks from bankruptcy. 
+Governments print money, increase public debt and destroy the purchasing power of their currencies in order to save inefficient banks from bankruptcy.
 
-Here we come to why Satoshi created Bitcoin and the quote he brought up in the genesis block, referring to the second bailout of failed banks through money printing. 
+Here we come to why Satoshi created Bitcoin and the quote he brought up in the genesis block, referring to the second bailout of failed banks through money printing.
 
 Satoshi knew that the money the whole world uses is an ice cube that loses its value because it has lost monetary properties. It relies solely on the promise of governments to pay their debts without destroying the value of the currency... which simply does not happen. The currencies are melting away.
 
@@ -271,46 +238,25 @@ This scenario leads us to an important reflection: what happens when money loses
 
 It is in this context that Bitcoin has emerged as a revolutionary alternative, not only better than fiat money but also better than gold. It doesn't depend on governments, banks or trust in third parties. It recovers the idea of a solid financial system, closer to what gold represented in the past, but even better than gold itself, since it is digital, decentralized, globally verifiable and, above all, mathematically scarce.
 
-Looking at the current scenario, it's easy to see how Bitcoin represents a paradigm shift in the face of an unsustainable and constantly collapsing system. 
+Looking at the current scenario, it's easy to see how Bitcoin represents a paradigm shift in the face of an unsustainable and constantly collapsing system.
 
 Bitcoin is better money and a better financial system. In the next lesson, you'll get a deeper understanding of the reasons for this.
 
+***
 
+### Additional Resources
 
----
+* [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
+* [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%202)
 
-##  Additional Resources
+***
 
-- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
-- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%202)
+### [Previous](class-1.md) | [Next](class-3.md)
 
----
+#### :loudspeaker: Share this lesson!
 
-[ Previous](class-1.md) | [Next ](class-3.md)
----
+[Twitter ](https://twitter.com/intent/tweet?text=I%27m%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2)[WhatsApp ](https://wa.me/?text=I%27m%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-2)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2\&text=I%27m%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20)
 
-### :loudspeaker: Share this lesson!
+#### :chart\_with\_upwards\_trend: Your Course Progress
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-2" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2&text=I'm%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
-
-### :chart_with_upwards_trend: Your Course Progress
-
-<div class="course-progress">
-<strong>Class 2 de 10</strong> (20% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 20%"></div>
-</div>
-</div>
+**Class 2 de 10** (20% completo)
