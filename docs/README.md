@@ -2,41 +2,41 @@
 
 **Free and open source Bitcoin course for everyone!**
 
-Curso gratuito e de código aberto sobre Bitcoin para todos!
+*Curso gratuito e de código aberto sobre Bitcoin para todos!*
 
 ---
 
 ## :world_map: Choose Your Language / Escolha seu Idioma
 
-|  Português |  English |  Español |
+| :brazil: Portugues | :us: English | :es: Espanol |
 |:------------------:|:------------:|:------------:|
-| [Começar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
+| [Comecar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
 
 ---
 
-##  About the Course
+## :books: About the Course
 
 **Bitcoin 4 All** is a complete course designed to teach anyone about Bitcoin, from zero to self-custody.
 
-### What you will learn:
+### :bookmark_tabs: What you will learn:
 
--  What is Bitcoin and why was it created
--  Problems with fiat money
--  Why Bitcoin is better money
+- :orange_circle: What is Bitcoin and why was it created
+- :money_with_wings: Problems with fiat money
+- :white_check_mark: Why Bitcoin is better money
 - :gear: How Bitcoin works (decentralization, blockchain, mining)
--  Why Bitcoin should continue to appreciate
+- :chart_with_upwards_trend: Why Bitcoin should continue to appreciate
 - :shopping_cart: How to get bitcoin
 - :shield: Debunking FUDs about Bitcoin
--  How to store Bitcoin safely
+- :lock: How to store Bitcoin safely
 - :crown: Financial sovereignty through self-custody
 
 ---
 
-##  Links
+## :link: Links
 
 | | |
 |---|---|
-|  **Website** | [areabitcoin.co](https://areabitcoin.co) |
+| :globe_with_meridians: **Website** | [areabitcoin.co](https://areabitcoin.co) |
 | :bird: **Twitter/X** | [@areabitcoin](https://x.com/areabitcoin) |
 | :tv: **YouTube** | [Area Bitcoin](https://youtube.com/@AreaBitcoin) |
 | :camera: **Instagram** | [@area.bitcoin](https://instagram.com/area.bitcoin) |
@@ -44,7 +44,7 @@ Curso gratuito e de código aberto sobre Bitcoin para todos!
 
 ---
 
-##  License
+## :balance_scale: License
 
 This content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -52,4 +52,4 @@ You are free to share and adapt this material, as long as you give appropriate c
 
 ---
 
-Made with  by [Area Bitcoin](https://areabitcoin.co)
+Made with :orange_heart: by [Area Bitcoin](https://areabitcoin.co)
