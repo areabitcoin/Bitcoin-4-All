@@ -1,9 +1,14 @@
 # 2 Aula 2 - O problema do dinheiro fiat
 
-##  Vídeo da Aula
+## :movie_camera: Video da Aula
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/55vAZdwc3Bs?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 2"></iframe></div>
+[![Assistir Video](https://img.youtube.com/vi/55vAZdwc3Bs/maxresdefault.jpg)](https://www.youtube.com/watch?v=55vAZdwc3Bs)
 
+:point_right: **[Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=55vAZdwc3Bs)**
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/55vAZdwc3Bs?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+
+---
 ---
 
 ##  Roteiro Completo

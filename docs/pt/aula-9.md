@@ -1,9 +1,14 @@
 # 9 Aula 9 - Qual a melhor forma de guardar Bitcoin e o que são carteiras?
 
-##  Vídeo da Aula
+## :movie_camera: Video da Aula
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/cUTJOPAI0Wg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 9"></iframe></div>
+[![Assistir Video](https://img.youtube.com/vi/cUTJOPAI0Wg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cUTJOPAI0Wg)
 
+:point_right: **[Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=cUTJOPAI0Wg)**
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/cUTJOPAI0Wg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+
+---
 ---
 
 ##  Roteiro Completo

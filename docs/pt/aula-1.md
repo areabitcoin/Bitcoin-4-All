@@ -1,9 +1,14 @@
 # 1 Aula 1 - O que é o Bitcoin e por que ele foi criado?
 
-##  Vídeo da Aula
+## :movie_camera: Video da Aula
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/6Ly0L8_9Pu8?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 1"></iframe></div>
+[![Assistir Video](https://img.youtube.com/vi/6Ly0L8_9Pu8/maxresdefault.jpg)](https://www.youtube.com/watch?v=6Ly0L8_9Pu8)
 
+:point_right: **[Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=6Ly0L8_9Pu8)**
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/6Ly0L8_9Pu8?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+
+---
 ---
 
 ##  Roteiro Completo

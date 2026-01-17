@@ -1,9 +1,14 @@
 # 4 Aula 4 - Por dentro do Bitcoin: Descentralização, Blockchain e Teoria dos Jogos
 
-##  Vídeo da Aula
+## :movie_camera: Video da Aula
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/j23TW7gnX2Y?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 4"></iframe></div>
+[![Assistir Video](https://img.youtube.com/vi/j23TW7gnX2Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=j23TW7gnX2Y)
 
+:point_right: **[Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=j23TW7gnX2Y)**
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/j23TW7gnX2Y?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+
+---
 ---
 
 ##  Roteiro Completo
