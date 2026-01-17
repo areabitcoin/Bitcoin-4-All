@@ -14,15 +14,18 @@
 Desde que Bitcoin surgiu criam mentiras para tentar convencer as pessoas de que Bitcoin não presta. No meio bitcoiner mentiras são conhecidas como FUDs.
 
 ![Slide 188](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-01.jpg)
+
 FUD é a sigla pra fear, uncertainty and doubt - medo incerteza e dúvida. São narrativas criadas para deixar as pessoas com medo e se afastarem do Bitcoin propositalmente.
 
 Nessa aula vamos desvendar as principais mentiras que contam sobre o Bitcoin e os ataques de narrativa usados para evitar que as pessoas se interessem, estudem e tenham Bitcoin. A ideia é que ao final dessa aula você esteja consciente, pra quando esses FUDs  aparecerem, você saber que não passa de balela. E FUD pra cima do Bitcoin não falta, porque se não tem como parar a rede bitcoin a alternativa dos defensores do sistema fiat é  gerar medo.
 
 
 ![Slide 189](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-02.jpg)
+
 O primeiro grande FUD é que Bitcoin é usado por criminosos para cometer crimes e atos ilícitos, usado para tráfico de drogas, lavagem de dinheiro e até terrorismo. Até parece que foi a partir do Bitcoin que o crime explodiu! Tudo isso já existia antes do Bitcoin. Sabe o que é usado muito mais frequentemente pra cometer crimes?
 
 ![Slide 190](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-03.jpg)
+
 Sim, o dinheiro fiat criado pelos bancos centrais: o real e o dólar, por exemplo. Na maioria das apreensões da polícia o que mais tem são sacos e sacos de dinheiro físico. E nem por isso as pessoas culpam o banco central pelos crimes usando o dinheiro governamental. Por que fazem o mesmo com Bitcoin?
 
 Criminosos vão usar qualquer coisa que tenha valor para cometer crimes. A culpa não é do Bitcoin, do dinheiro de papel, dos vinhos ou das barras de ouro. Ser usado para crimes não tira o valor desses ativos e moedas. Assim como ninguém culpa e proíbe as facas por assassinatos. A faca é uma ferramenta que pode ser usada para o bem ou para o mal. Bitcoin também é uma ferramenta.
@@ -30,33 +33,40 @@ Criminosos vão usar qualquer coisa que tenha valor para cometer crimes. A culpa
 O problema é o crime cometido e é isso que precisa ser investigado e punido. Bitcoin assim como o ouro é neutro, você pode usar para financiar um orfanato, para doar para instituições de caridade ou usar para financiar uma quadrilha. É o uso que determina se a intenção é boa ou ruim e não a ferramenta.
 
 ![Slide 191](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-04.jpg)
+
 E já foi comprovado inúmeras vezes que criminosos usam principalmente os bancos para lavar dinheiro ilícito. Um relatório do FinCEN files demonstrou como bancos processaram mais de 2 trilhões de dólares em transações suspeitas de crimes. Inclusive os maiores bancos do mundo, como Deutsche Bank e JP Morgan estavam na lista de entidades que processaram transações provenientes de crimes entre 1999 e 2017.
 
 No fim, eles só pagaram uma multa e seguiram operando. 
 
 
 ![Slide 192](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-05.jpg)
+
 Tem até um documentário que mostra como o HSBC facilitou a lavagem de dinheiro proveniente de carteis de drogas no México. Ou seja, os bancos desde sempre processam dinheiro vindo de criminosos, terroristas, tráfico de drogas e etc. Mas jogam a culpa no Bitcoin.
 
 
 ![Slide 193](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-06.jpg)
+
 Essa pesquisa da Elliptic mostra como no início da rede bitcoin em torno de 35% das transações tinham origens ilícitas. Só que conforme foi ficando mais claro que a rede bitcoin é transparente e não tem como apagar transações que já foram feitas, os criminosos deixaram de usar a rede. Hoje menos de 1% das transações tem origem ilícita, até porque criminoso nenhum quer criar provas indeléveis sobre si mesmo. Hoje esse tipo de uso é menor que através do dólar e do sistema bancário.
 
 
 ![Slide 194](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-07.jpg)
+
 Desde 2017 cerca de 2 trilhões de dólares foram usados para atividades ilícitas, enquanto 33 bilhões de dólares em Bitcoin foram usados para cometer crimes. O dólar é 60x mais usado que Bitcoin para fins ilícitos e de 3 a 5% das transações com dólares são para financiar o crime. Enquanto com Bitcoin nem chega a 1%.
 
 
 ![Slide 195](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-08.jpg)
+
 É o que mostra esse estudo da Chainlaisys. Menos de 0,34% das transações com criptomoedas no geral são usadas para o crime. Isso falando de criptos no geral.
 
 
 ![Slide 196](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-09.jpg)
+
 Inclusive desses 0,34%, a maioria ainda prefere usar stablecoins, na coluna em amarelo. Ou seja, criminosos preferem usar stablecoin de dólar do que Bitcoin pra cometer crimes! Em 2022 bitcoin deixou de ser a principal forma de criminosos receberem valores quando comparado com criptomoedas no geral.
 
 É por isso que sair dizendo que Bitcoin é coisa de criminoso é na verdade coisa de quem não sabe do que tá falando. Tá só reproduzindo uma narrativa mentirosa que ouviu por ai. Bitcoin é menos usado por criminosos do que dólar e ou até mesmo que as stablecoins.
 
 ![Slide 197](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-10.jpg)
+
 O próximo FUD é bem conhecido: Bitcoin é bolha!
 
 Bolhas acontecem quando ativos valorizam muito e rapidamente de forma insustentável. 
@@ -65,28 +75,33 @@ Acabam estourando quando os investidores percebem que os preços estão muito ma
 
 
 ![Slide 198](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-11.jpg)
+
 A história das tulipas na Holanda é bem famosa e descreve como de uma hora pra outra o preço das tulipas começou a subir muito e aí as pessoas achando que era um bom negócio começaram a comprar tulipas, o que fez o preço subir ainda mais, levando a um estado de euforia generalizada.
 
 Quando as pessoas se deram conta que as tulipas eram uma planta e que não conservavam valor algum, começaram a vender e o preço desabou. Do início até o colapso, a bolha das tulipas levou um pouco mais de 3 anos, de 1634 a 1637. Muita gente viu seu dinheiro derreter. Tem gente que fala que essa história nunca aconteceu e que na verdae é uma metáfora pra explicar como bolhas financeiras funcionam. Mas enfim, as tulipas são citadas até hoje e quando alguém chama Bitcoin de "tulipa", está se referindo a essa história.
 
 
 ![Slide 199](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-12.jpg)
+
 Defensores de fiat gostam de postar essa imagem pra tentar comparar bitcoin com outras bolhas do passado, mostrando como bitcoin fez um movimento parecido com as bolhas das tulipas (em vermelho), com a bolha do Mississipi, com a bolha do South Sea e etc... Mas o que eles não mostram é essa imagem aqui.
 
 
 ![Slide 200](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-13.jpg)
+
 A realidade é que bitcoin passou por vários ciclos ao longo de 16 anos e sempre se recuperou, batendo novos recordes de alta a cada halving que passa. Quanto mais ele sobe mais difícil é ele ir a zero, como muitos dizer ser fácil de acontecer. Fato que não acontece com bolhas de verdade. Depois que elas colapsam, nunca mais voltam a valorizar como no passado.
 
 Quem compara Bitcoin com bolhas não está prestando atenção pros movimentos cíclicos do Bitcoin e esse tipo de comentário só expõe a falta de entendimento sobre o assunto. Quando você atualiza o gráfico, percebe que Bitcoin segue valorizando mesmo depois de mais de 16 anos sendo chamado de bolha.
 
 
 ![Slide 201](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-14.jpg)
+
 Bitcoin se move em ciclos de valorização que levam ele para patamares cada vez mais altos. Toda vez que ele cai ou sobe, sempre tem um cético pra dizer que Bitcoin morreu ou que é bolha. Só que o que acontece é que Bitcoin nunca morre e a tal bolha nunca explode.
 
 A curva de preço do Bitcoin na verdade reflete a curva de adoção crescendo ano após ano.
 
 
 ![Slide 202](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-15.jpg)
+
 Outro FUD comum é quando dizem que Bitcoin não tem utilidade real. Que diferente do ouro, que serve por exemplo para fazer jóias, o Bitcoin não tem utilidade nenhuma no mundo físico e por isso não tem valor. Se não é palpável não vale nada.
 
 Essa é mais uma baboseira. Cada vez mais o mundo digital tem desbancado o mundo físico. Empresas agora tem sites e redes sociais, bancos fecharam agências e agora tem aplicativos, jornais pararam de ser impressos e agora publicam em sites. Descredibilizar o bitcoin só porque ele não existe no mundo físico é fechar os olhos pra transformação digital que vem acontecendo no mundo há décadas!
@@ -97,6 +112,7 @@ Bitcoin não precisa estar pendurado no pescoço de alguém para ter valor e a d
 
 
 ![Slide 203](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-16.jpg)
+
 O quarto FUD é que Bitcoin não tem valor intrínseco. Apesar do bitcoin não ser lastreado em um ativo físico como o ouro, vale frisar que o dólar, o real e qualquer moeda fiat não tem lastro em ouro ou em nenhum outro ativo ou commodity.
 
 O valor do Bitcoin está em oferecer pela primeira vez um sistema financeiro alternativo, descentralizado e que não pode ser corrompido, inflacionado ou monopolizado por ninguém, nem por governos.
@@ -109,6 +125,7 @@ Bitcoin é o lastro de si mesmo, é um ouro digital e é por isso que no futuro 
 
 
 ![Slide 204](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-17.jpg)
+
 O quinto FUD é clássico: bitcoin vai ser substituido por um concorrente melhor!
 
 Milhões de criptomoedas já surgiram, nenhuma delas chegou perto de desbancar o Bitcoin em capitalização de mercado ou em fundamentos. Apesar da grande concorrência, fica cada vez mais claro que a descentralização e a descoberta da escassez digital são acontecimentos únicos no dinheiro. Mesmo que tentem, ninguém consegue replicar.
@@ -117,6 +134,7 @@ Ainda tem dúvidas sobre isso? Existem mais de 2 milhões de criptomoedas e toda
 
 
 ![Slide 205](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-18.jpg)
+
 O 6º FUD que espalham é que Bitcoin é um jogo de azar, é pura especulação. Muita gente trata bitcoin como algo que você compra na baixa e vende na alta. Geralmente quem faz isso acaba tomando tufo tentando adivinhar topo e fundo. Quem trata Bitcoin como ativo especulativo é justamente quem mais perde dinheiro.
 
 Bitcoin é um novo sistema financeiro sendo monetizado. É público, transparente e se sabe  desde o início tudo o que vai acontecer com mais de cem anos de antecedência. É o contrário de um cassino, onde a casa geralmente ganha e não tem como auditar as máquinas ou se infiltrar na administração do negócio. Cassinos são obscuros, Bitcoin é transparente.
@@ -125,6 +143,7 @@ Além disso, quem compra bitcoin e segura por pelo menos 4 anos não tem prejuí
 
 
 ![Slide 206](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-19.jpg)
+
 Quem não especula e segura por pelo menos 4 anos não tem prejuízo com Bitcoin. Ele foi positivo 99% do tempo e só está no negativo quem comprou em topo e vendeu. Conforme bitcoin valoriza, quem comprou nos topos do passado passa a ficar positivo também. É o que tem acontecido desde que Bitcoin surgiu.
 
 Quem acumula constantemente com foco no longo prazo sai do modo especulação e vai para o modo poupança, como reserva de valor. Como se fazia com o ouro no passado. Ninguém guarda fichas de cassino pro longo prazo, mas ouro se guarda. Essa é a diferença. Tokens criptos, fichas de cassino são especulativos, existe uma expectativa que suba rápido pra converter logo pra fiat.
@@ -135,10 +154,12 @@ Já com Bitcoin o foco é em acumular o máximo possivel agora, porque se sabe q
 
 
 ![Slide 207](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-21.jpg)
+
 O 7º FUD é falarem que bitcoin não é seguro. E aí espalham que pode ser hackeado, que governos podem desligar, que Satoshi vai voltar e acabar com a rede.
 
 
 ![Slide 208](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-22.jpg)
+
 Muitas das ideias equivocadas sobre a segurança do Bitcoin vêm dos ataques a exchanges e outras plataformas que usam o bitcoin, e não da rede Bitcoin em si. Bitcoin funciona de forma segura e sem parar 99,9% do tempo desde que começou a rodar em 2009. Nenhuma rede centralizada tem um uptime como esse.
 
 A segurança da rede bitcoin é garantida por uma imensa potência computacional. Mineradores e nodes estão distribuídos por todo mundo e não existe um único ponto de falha pra atacar.
@@ -149,21 +170,25 @@ Plataformas centralizadas mostraram que podem ser censuradas ou desligadas por h
 
 
 ![Slide 209](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-23.jpg)
+
 E por último o 8º FUD: que Bitcoin prejudica o meio ambiente. Você já escutou alguém dizer que Bitcoin é péssimo para o planeta, que gasta muita energia e que deve ser modificado ou impedido de continuar funcionando? Essa polêmica não tinha como ficar de fora desta aula.
 
 Esta tem sido uma das maiores mentiras dos últimos tempos pra afastar as pessoas do Bitcoin gerando medo. O primeiro ponto a ser compreendido é: gastar energia é um problema?
 
 
 ![Slide 210](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-24.jpg)
+
 Um dado muito interessante é que energia e o uso dela está totalmente correlacionado ao nível de desenvolvimento civilizacional. Esse gráfico mostra isso, conforme o PIB global cresceu, também cresceu o consumo energético.
 
 Com o passar do tempo a gente como civilização tende a gastar mais energia, porque essa energia passa a ser convertida em avanços tecnológicos, humanos, de saúde, de produção que nos ajudam a evoluir. Ou você prefere voltar pra época das cavernas em que mal se gastava energia, mas eram tempos bem difíceis? Imagino que não...
 
 
 ![Slide 211](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-25.jpg)
+
 Essa imagem também nos mostra isso, países mais ricos e desenvolvidos são os que mais consomem energia. Já os países mais pobres e com menores salários consomem menos. Perceba que o uso de energia está totalmente correlacionado ao desenvolvimento humano.  Tanto que existe uma escala para medir isso chamada Escala Kardashev.
 
 ![Slide 212](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-26.jpg)
+
 Essa escala sugere que o progresso civilizacional se apoia no consumo de mais energia, e não menos. A escala Kardashev é medida em watts e afirma que existem tipos de civilização de acordo com o grau de domínio sobre as fontes energéticas. Nós aqui na Terra, por exemplo, nem chegamos a nos tornar uma civilização tipo I, que domina todas as fontes energéticas do próprio planeta.
 
 A tipo 2 domina fontes energéticas do seu sistema solar. A tipo 3 domina fontes energéticas da sua galáxia. Ou seja, se a gente quer evoluir como espécie nós vamos precisar de mais energia e não menos. Por isso gastar mais energia não é um problema, é uma necessidade evolutiva.
@@ -172,24 +197,28 @@ Então se usar energia é algo natural e necessário, qual é a questão? O prob
 
 
 ![Slide 213](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-29.jpg)
+
 De maneira geral Bitcoin consome bastante energia, cerca de 70.4 TWh por ano, mas comparado com outras indústrias ainda é um consumo bastante pequeno. Bitcoin consome cerca de 0,01% da energia produzida no mundo e em tera wats hora consome menos que a indústria gamer, que mineração de ouro e 8x menos que todo o sistema bancário.
 
 Se comparar a pegada de carbono dessas indústrias, elas também são muito maiores que as emissões da rede Bitcoin.
 
 
 ![Slide 214](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-30.jpg)
+
 Bitcoin tem uma pegada de carbono de 41 toneladas métricas. Isso é 3x menor que a mineração do ouro, que o sistema bancário, que os data centers e menos que as secadoras de roupa do mundo inteiro. As colunas do centro são o setor de aviação, transporte marinho e ar condicionados globais.
 
 Bitcoin é responsável por apenas 0,07% de toda a emissão de CO2 do planeta e, ao contrário de outras indústrias que estão estagnadas, Bitcoin tende a produzir menos pegada de carbono. Isso vai acontecert conforme novos dispositivos mais eficientes são desenvolvidos e conforme a mineração se torna mais eficiente também. Assim como quando as geladeiras também começaram a ser substituídas por modelos que gastam menos luz.
 
 
 ![Slide 215](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-31.jpg)
+
 Comparado com outros países ou indústrias, o Bitcoin usa muito mais fontes de energia renováveis, ali nas barras verdes, que países mais sustentáveis como a Alemanha, os Estados Unidos, Canadá e a Europa. Bitcoin tem pelo menos 56% da rede formada por fontes renováveis, em comparação com 49% na Europa, 48% na Alemanha e 30% nos Estados Unidos.
 
 Lembra da aula de mineração onde vimos que Bitcoin força os mineradores a serem eficientes? Pois é. Esses mineradores naturalmente se acomodam em locais com energia abundante e barata, geralmente esses locais tem fontes renováveis, e até em regiões onde desperdiçam energia.
 
 
 ![Slide 216](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-32.jpg)
+
 Essa imagem demonstra como bitcoin usa só 0,1% da energia global e consome 0,4% da energia que seria desperdiçada. Ou seja, grande parte da energia que bitcoin consome é justamente a energia que seria desperdiçada por outras indústrias.
 
 O que acontece é que mineradores acabam naturalmente se instalando em locais com excedente na produção de energia, energia que seria jogada fora. Geralmente as fontes renováveis como hidro e geotérmicas são os locais mais escolhidos, como na Islândia, Sibéria, Canadá, Rússia e Estados Unidos. São locais com muita energia e pouca população ou indústria presente para consumir o excedente de energia. Esses locais geralmente não tem como armazenar toda a energia produzida.
@@ -198,12 +227,14 @@ O que acontece é que mineradores acabam naturalmente se instalando em locais co
 
 
 ![Slide 217](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-33.jpg)
+
 Foi daí que surgiu a teoria do Bitcoin como uma bateria global que converte a energia desperdiçada no dinheiro mais forte que existe. Dinheiro que pode ser facilmente armazenado e usado para comprar mais energia no futuro, caso seja necessário.
 
 É por isso que produtores de energia tem se aproximado do Bitcoin, ele oferece uma possibilidade que antes não existia: monetizar energia ociosa.
 
 
 ![Slide 218](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-34.jpg)
+
 Fontes intermitentes como eólica ou solar tem períodos de muito sol ou vento em que se produz grande excedente energético. Mas também tem períodos em que não venta ou só chove e que a produção é reduzida. Nesses momentos essas fontes precisam até comprar energia de outros locais para conseguir alimentar a rede local.
 
 Então pra indústria energética, Bitcoin é uma ferramenta magnífica porque estabiliza o grid e dá mais previsibilidade. Ou seja, quando produzem energia em excesso essas fontes ligam as mineradoras e recebem bitcoin e em períodos de baixa produção eles desligam as mineradoras e usam o bitcoin acumulado para comprar mais energia de outras fontes, se for preciso.
@@ -211,6 +242,7 @@ Então pra indústria energética, Bitcoin é uma ferramenta magnífica porque e
 Isso quer dizer que bitcoin estimula fontes renováveis de forma que antes não era possível, evita o desperdício de energia e dá mais previsibilidade para toda a indústria de fontes renováveis.
 
 ![Slide 219](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-35.jpg)
+
 Além de estimular fontes renováveis Bitcoin também está se tornando carbono negativo ao colaborar com refinarias e aterros sanitários para evitar que gases poluentes sejam lançados na atmosfera.
 
 O gás metano é 86x mais poluente que o CO2 e é subproduto da extração de petróleo e da putrefação do lixo em aterros sanitários. Por isso que esses locais colocam fogo na saída de gás antes de jogar na atmosfera, como nessa foto. É preferível jogar CO2 no ar do que metano que é absurdamente mais poluente. E eles não tem o que fazer com o CO2, se deixar acumular existe o risco de explosão.
@@ -221,38 +253,46 @@ Como um container cheio de ASICs é super fácil de instalar, esse mecanismo est
 
 
 ![Slide 220](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-36.jpg)
+
 Inclusive tem um pesquisador chamado Daniel Batten, que é ex pesquisador do Green Peace e também bitcoiner, que já mostrou como Bitcoin é a rede que tem mais potencial para contribuir com o meio ambiente, porque ele consegue ser carbono negativo, ele evita que CO2 entre na atmosfera enquanto outras redes não oferecem essa possibilidade. Como Ethereum, por exemplo, que pode até se tornar neutro em emissão de carbono, mas não contribui para ser carbono negativo, como aparece na imagem.
 
 Segundo as pesquisas do Daniel, o Bitcoin pode usar 24% de todo o metano de aterros sanitários até 2030 e a indústria do lixo pode acabar se juntando com a indústria do Bitcoin.
 
 
 ![Slide 221](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-37.jpg)
+
 Em outras pesquisas do Daniel Batten, ele mostra como bitcoin é a indústria mais ESG do mundo. Cresceu muito em sustentabilidade nos últimos dois anos e é mais sustentável que qualquer outro setor, como bancos, indústrias, agricultura, mineração de ouro, metalúrgicas e reciclagem de zinco.
 
 
 ![Slide 222](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-38.jpg)
+
 Este gráfico mostra que mesmo que bitcoin siga crescendo e qualquer métrica aumente, como hashrate, usuários, preço e endereços, as emissões da rede vão ser as mesmas no final de qualquer ciclo. Algo que nenhuma outra indústria jamais conseguiu fazer.
 
 
 ![Slide 223](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-39.jpg)
+
 Em apenas quatro anos Bitcoin reduziu pela metade a intensidade de emissão de CO2. Nesse período tão curto de tempo, passou a ter a menor emissão de carbono que qualquer grande indústria global. Uma redução que colapsaria qualquer outra indústria.
 
 Isso também é consequência da proibição da mineração de bitcoin na China em 2021. Lá a maior parte das fontes usa carvão, que é muito poluente. O simples fato de mineradores mudarem para outros locais com fontes renováveis e abundantes, como hidrelétricas, fez com que bitcoin reduzisse pela metade a emissão de CO2, e fez isso sem travar nenhuma vez, a rede seguiu funcionando normal.
 
 
 ![Slide 224](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-40.jpg)
+
 Tanto que esse gráfico mostra que a principal fonte de energia do Bitcoin atualmente é a hidrelétrica. Como a mineração de Bitcoin não está ancorada na rede global, em que 36,7% usa carvão, ele é também a única grande indústria em que combustíveis fósseis não são a principal fonte de energia. Isso é um tapa na cara de quem fala que bitcoin destrói o meio ambiente.
 
 
 ![Slide 225](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-41.jpg)
+
 Inclusive Bitcoin em aterros sanitários reduz 50x mais a emissão de gases estufa do que qualquer outra forma de mineração de Bitcoin, como mineração com fonte eólica, solar, hidro ou flared gas de refinarias.
 
 
 ![Slide 226](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-42.jpg)
+
 Isso tudo só prova que aquele papo que Bitcoin gasta muita energia é desconhecimento ou mentira de quem está do lado dos bancos e das fiats pra afastar as pessoas do bitcoin pelo medo. Ou de quem não vê valor no Bitcoin e acha tudo ruim sem nem mesmo parar pra analisar a realidade. É só pra tornar bitcoin um bode expiatório.
 
 
 ![Slide 227](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-43.jpg)
+
 O próprio Fórum Econômico Mundial postou em 2017 que Bitcoin até 2020 iria consumir toda a energia do mundo, fato que não aconteceu. Em 2017 começaram a lotar os jornais com esse FUD. Foi uma grande mentira que só mostra como os donos do sistema fiat estão apavorados com Bitcoin, porque tira a impressora das mãos deles. 
 
 ![Slide 228](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-44.jpg)
@@ -260,9 +300,11 @@ O próprio Fórum Econômico Mundial postou em 2017 que Bitcoin até 2020 iria c
 Além de bancos, governos e outros protocolos, até o Greenpeace começou uma campanha demonizando o Bitcoin, espalhando aos quatro cantos que ele é ruim pro planeta e que precisaria mudar o código. Em 2023 o GreenPeace lançou a campanha "change the code", um manifesto pra que o Bitcoin largasse o modelo proof of work. Demonizaram o bitcoin de várias formas, o líder da campanha apareceu numa conferência de Solana atacando o bitcoin, forçando a ideia de que bitcoin tinha que mudar seu código e ser proof of stake igual Ethereum.
 
 ![Slide 229](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-45.jpg)
+
 O curioso é que o próprio Greenpeace aceitava doações em bitcoin. O que será que fez eles mudarem de ideia e começarem a atacar o bitcoin?
 
 ![Slide 230](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-46.jpg)
+
 Exato. Dinheiro. O Greenpeace recebeu 5 milhões de dólares dos executivos da Ripple, empresa criadora da criptomoeda XRP, pra difamar o bitcoin e tentar forçar mudanças através de pressão social e mentiras.
 
 Isso é a coisa mais bizarra que eu já vi. O Greenpeace abandonou seu propósito e escrúpulos por grana. Atacou justamente o protocolo que poderia ajudar a organização a reduzir emissões e ter mais preservação ambiental. Surreal! Dá só uma olhada num trecho do vídeo dessa campanha:
@@ -273,16 +315,19 @@ O Greenpeace pagou um artista chamado Von Wrong pra fazer uma caveira com olhos 
 
 
 ![Slide 232](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-48.jpg)
+
 Mas no fim das contas, todos os ataques acabam fortalecendo ainda mais o bitcoin. Os bitcoiners amaram a caveira, virou um meme e um símbolo de como bitcoin é sim malvadão e mortal, só que para bancos centrais e moedas fiat e não pro planeta.
 
 Bitcoiners adoraram o clima metaleiro da obra de arte, se apropriaram da narrativa e começaram a fazer memes como esse aqui: pegaram a foto do carro do Greenpeace, que estava fazendo campanha contra o bitcoin, e mudaram a frase pra Buy bitcoin, ou Compre Bitcoin, o que foi genial e a galera compartilhou muito esse meme nas redes.
 
 
 ![Slide 233](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-49.jpg)
+
 Com o bafafa todo, vários bitcoiners contataram o Von Wrong, o artista que fez a caveira, explicaram os gráficos que eu mostrei aqui nessa aula e dias depois o artista postou sobre como ele não sabia tudo aquilo sobre o bitcoin, que a caveira foi um grande acidente e que bitcoin é sim uma força positiva para o meio ambiente. E o papelão das mentiras contadas ficou mais uma vez pro Greenpeace.
 
 
 ![Slide 234](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-50.jpg)
+
 Isso tudo aconteceu em março de 2023, mas agora parece que as narrativas estão mudando. Novos estudos e revisões dos estudos anteriores estão surgindo e trazendo mais embasamento real e não ataques financiados por cripto-fiat. Essa matéria do Financial Times fala assim:
 
 "O grande consumo de eletricidade do Bitcoin pode acabar sendo um benefício... poderia absorver o excesso de oferta de energia gerada através de fontes renováveis, como solar e eólica" .
@@ -293,6 +338,7 @@ E pior, no final de 2024 veio a público que a campanha "Change de Code" do Gree
 
 
 ![Slide 235](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%208/Sem%20ti%CC%81tulo-15-51.jpg)
+
 Bom, eu poderia ter mostrado só essa imagem neste tópico, mas talvez não daria a dimensão dos dados e do quanto bitcoin na verdade nos ajuda a avançar em questões energéticas, ambientais e civilizacionais.
 
 Na esquerda é a foto de uma mina de ouro. Observa o quão destrutivo é. Sem contar na contaminação por metais pesados e os deslizamentos de terra que acontecem. Na direita aparece uma fazenda de mineração de Bitcoin convivendo em meio a natureza. Se um dia ela sair dali, não fica buraco nenhum e nenhum tipo de impacto ambiental local, pelo contrário.

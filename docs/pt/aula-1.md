@@ -20,6 +20,7 @@ Bitcoin não é só uma moeda e uma tecnologia, é também um convite pra gente 
 
 
 ![Slide 1](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-01.jpg)
+
 A maioria das pessoas quando pensa em dinheiro, logo imagina as notas de papel ou o saldo na conta do banco. Ou seja, a ideia de dinheiro que a maioria das pessoas entende  como verdadeira está diretamente ligada a algo controlado por terceiros, como bancos, corretoras ou valores criados por governos através dos bancos centrais nas notas de papel.
 
 O Bitcoin é diferente. Ele é um dinheiro digital que não depende de governos ou bancos, e você não precisa confiar nessas instituições que, ao longo da história, já falharam muitas vezes. Embora a ideia de um dinheiro digital possa parecer nova, na verdade ela é resultado de séculos de pesquisas, tentativas, erros e aprendizados.
@@ -32,6 +33,7 @@ Então perceba que Bitcoin, de certa forma, sempre esteve presente como uma idei
 
 
 ![Slide 2](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-02.jpg)
+
 Quem deu os primeiros passos na direção do Bitcoin foram os cypherpunks do passado. Desde os anos 70, esses criptógrafos já tentavam criar um dinheiro que pudesse ser usado na internet. Só que nenhum dos projetos funcionou como esperado. É por isso que se diz que Bitcoin não surgiu de uma hora para outra, ele é uma descoberta que estava pronta para acontecer. Bitcoin é resultado de 40 anos de pesquisas e tentativas anteriores. Diversos projetos ao longo do tempo pavimentaram o caminho para a criação do Bitcoin, cada um contribuindo com uma peça do quebra-cabeça que Satoshi Nakamoto finalmente montou  em 2008.
 
 Por isso que muitas pessoas falam que Satoshi Nakamoto, o criador do Bitcoin, não inventou nada, mas sim descobriu o Bitcoin. Isso porque ele aprendeu com as falhas e sucessos desses projetos anteriores e esse conhecimento foi crucial para que Satoshi conseguisse criar algo que realmente funcionasse.
@@ -40,10 +42,12 @@ Ok, mas então como Bitcoin surgiu?
 
 
 ![Slide 3](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-03.jpg)
+
 Os primeiros registros do Bitcoin começam com um email no dia 31 de outubro de 2008. Nesse dia, um cypherpunk anônimo chamado Satoshi nakamoto divulgou em uma lista de discussão sobre criptografia, que ele estava trabalhando em um artigo sobre um sistema de  dinheiro eletrônico totalmente ponto a ponto (P2P), ou seja, sem a necessidade de intermediários confiáveis.
 
 
 ![Slide 4](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-04.jpg)
+
 Nesse email tinha o link para o Whitepaper do Bitcoin, um documento com apenas 9 páginas que descreve tecnicamente o funcionamento da rede Bitcoin. O texto explica como as assinaturas digitais enviam e recebem transações, como essas transações são agrupadas em blocos e como a prova de trabalho, através do uso de poder computacional, resolve o problema do gasto duplo e, ao mesmo tempo, gera novas moedas como recompensa para os participantes da rede, no processo conhecido como "mineração".
 
 O gasto duplo era um dos maiores desafios para criar um dinheiro digital e muitos projetos dos cypherpunks do passado falharam justamente porque não conseguiram resolver esse problema sem centralizar o controle da rede. Mas o que é gasto duplo? Gasto duplo é quando você consegue gastar a mesma moeda duas vezes. Para dar um exemplo, seria como você pagar a conta na padaria com uma nota de 50 reais e depois ela reaparecer na sua carteira pra você poder gastar de novo. Isso tornaria o sistema inútil como dinheiro.
@@ -60,6 +64,7 @@ Bitcoin é o resultado da combinação de várias tecnologias. Separadamente, es
 
 
 ![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-05.jpg)
+
 A primeira tecnologia que Satoshi usou foi timestamps, carimbos de data e hora que criam uma linha do tempo (uma timechain) que não pode ser modificada.  Essa linha do tempo é essencial para garantir que os registros não possam ser alterados. Muita gente conhece essa linha do tempo como "blockchain", onde blocos de informações são conectados uns aos outros. Esses blocos registram as transações de forma imutável e na ordem em que elas acontecem, garantindo a integridade e a transparência do sistema.
 
 Satoshi também usou criptografia e algorítmos criptográficos, como a SHA-256, para que a rede funcionasse de forma segura e através de códigos e enigmas. Isso significa que apenas quem tem a "chave" correta, ou seja, só quem sabe a resposta desse enigma, pode mover fundos. A criptografia é uma tecnologia fundamental na rede Bitcoin como um todo.
@@ -76,6 +81,7 @@ Antes de Satoshi ninguém tinha misturado todas essas tecnologias em um protocol
 
 
 ![Slide 6](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-06.jpg)
+
 Dois meses depois de enviar o e-mail para a lista de discussão Cypherpunk, lançar o site e disponibilizar o Whitepaper para que qualquer pessoa pudesse verificar, colaborar ou até mesmo copiar, Satoshi minerou o primeiro bloco de Bitcoin.
 
 Esse primeiro bloco minerado no dia 3 de janeiro de 2009 é chamado de "bloco gênese". Satoshi recebeu 50 Bitcoins como recompensa e o mais curioso é que esse bloco contém uma mensagem, uma citação, deixada pelo próprio Satoshi:
@@ -84,6 +90,7 @@ Esse primeiro bloco minerado no dia 3 de janeiro de 2009 é chamado de "bloco g�
 
 
 ![Slide 7](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-07.jpg)
+
 Ela mostra como a história do bitcoin está diretamente ligada às grandes crises globais recentes. Bitcoin surge justamente quando estoura a crise de 2008, como uma resposta à manipulação da economia e à centralização feita pelos bancos centrais e comerciais. A citação do jornal The Times não foi à toa: ela reforça a crítica ao sistema financeiro tradicional.
 
 Essa reportagem apontava que em 2009 o chanceler britânico iria resgatar pela segunda vez um banco falido. Isso nos dá várias pistas sobre os motivos que levaram Satoshi a criar o bitcoin e o que ele pensava sobre o sistema financeiro.
@@ -92,6 +99,7 @@ Nas mensagens escritas nos fóruns da internet, Satoshi demonstrou o quanto tinh
 
 
 ![Slide 8](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-08.jpg)
+
 Por tudo isso, a forma como Satoshi lançou Bitcoin para o mundo foi totalmente justa.
 
 Todos os Bitcoin foram criados seguindo o consenso da rede, sem pré- mineração. Pré-mineração é quando criadores de um projeto emitem uma quantidade de moedas para si mesmos antes da rede começar a rodar. Isso acaba criando um privilégio desproporcional para os criadores e fundadores.
@@ -106,12 +114,14 @@ E ao contrário de todos os outros fundadores de projetos de moedas digitais que
 
 
 ![Slide 9](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-09.jpg)
+
 Desde então, o Bitcoin que inicialmente não valia nada, tem batido novas máximas a cada ciclo de valorização. Chegou a 99 mil dólares no momento que estou gravando essa aula e valorizou mais de 7 bilhões por cento em dólares desde 2010, quando começou a ser negociado e precificado pelas primeiras plataformas online.
 
 O preço do Bitcoin chama a atenção, desperta curiosidade, encantamento e ganância, mas na verdade é um reflexo do crescimento da adoção de um novo sistema financeiro. Pela primeira vez na história da humanidade, estamos testemunhando e documentando o nascimento de um dinheiro completamente digital, independente de governos e bancos. A grande valorização do Bitcoin reflete sua crescente demanda e com isso o preço também pode conta uma a história. Ele mostra os altos e baixos do Bitcoin, mas, acima de tudo, simboliza o impacto dessa tecnologia revolucionária ao longo do tempo.
 
 
 ![Slide 10](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-10.jpg)
+
 A história do Bitcoin é cheia de acontecimentos importantes. Em apenas 15 anos, muita coisa já aconteceu, e esses eventos do passado nos ajudam a entender como podemos lidar melhor com o que vem pela frente.
 
 Bom, os dois primeiros marcos você já conhece: em 2008 o whitepaper foi lançado e em 2009 a rede bitcoin começou a rodar.
@@ -126,6 +136,7 @@ Criada por Ross Ulbricht, a Silk Road tinha como objetivo ser um mercado verdade
 
 
 ![Slide 11](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-11.jpg)
+
 A Silk Road oferecia centenas de produtos, equipamentos, serviços e até mesmo drogas.  Todos os produtos e quem trabalhava na plataforma era pago 100% em Bitcoin. Na época bitcoin valia algo em torno de 50 centavos de dólar. O objetivo era ser uma Amazon ou Ebay, só que totalmente livre e apoiado em Bitcoin.
 
 Porém o sucesso da plataforma chamou a atenção das autoridades. A Silk Road acabou sendo fechada, e seu fundador, Ross Ulbricht, foi preso e condenado à prisão perpétua. Isso porque, embora Ross tivesse boas intenções, a Silk Road rapidamente virou um mercado para negociação de drogas e produtos ilegais, ainda que tivessem regras internas que proibiam a comercialização desses itens. 
@@ -150,6 +161,7 @@ Em 2024, dois grandes acontecimentos marcaram a história do Bitcoin. O primeiro
 
 
 ![Slide 12](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-12.jpg)
+
 Em apenas 15 anos, o Bitcoin cresceu muito mais rápido do que qualquer empresa, commodity ou país. Ao mesmo tempo em que resgata propriedades monetárias milenares, ele tem registrado uma adoção exponencial, mais acelerada até do que a própria internet. É o que aparece nessa imagem: as barras cinza-escuro mostram o crescimento do Bitcoin, enquanto as barras cinza-claro representam a adoção da internet desde os anos 1990. Hoje, o Bitcoin já tem o mesmo número de usuários que a internet tinha em 1999.
 
 E se a internet se transformou na principal ferramenta para acessar informação, Bitcoin pode se transformar na principal ferramenta para acessar valor, sem depender de governos ou bancos.
@@ -158,6 +170,7 @@ Mesmo crescendo mais rápido que a internet, Bitcoin ainda está nos primeiros e
 
 
 ![Slide 13](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-13.jpg)
+
 O Gráfico do Abismo da Adoção é um modelo clássico usado para explicar como novas tecnologias são adotadas ao longo do tempo pelas pessoas. Ele divide os usuários em cinco grupos: inovadores, adotantes iniciais, maioria inicial, maioria tardia e retardatários. 
 
 O ponto mais desafiador desse modelo é o "abismo" (ou chasm, em inglês), que aparece entre os adotantes iniciais e a maioria inicial. Esse "abismo" representa o momento crítico em que uma inovação precisa deixar de ser algo de nicho e se transformar em uma tecnologia amplamente aceita e usada no dia a dia. Muitas tecnologias nem chegam a  cruzar esse ponto do abismo.
@@ -166,6 +179,7 @@ No caso do Bitcoin, o "abismo" representa a transição entre aqueles que adotam
 
 
 ![Slide 14](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-14.jpg)
+
 Inclusive, quando comparamos Bitcoin com outras classes de ativos, fica claro o quão pequeno ele ainda é e o enorme potencial de crescimento em capitalização de mercado,  conforme mais pessoas adotam bitcoin como ativo e como dinheiro.
 
 Aqui nessa imagem vemos como Bitcoin tem apenas dois trilhões de dólares em capitalização de mercado, enquanto outras classes de ativos, como imóveis, ações e ouro,  tem dezenas ou centenas de trilhões de dólares. 
@@ -174,14 +188,17 @@ Bitcoin é um novo tipo de ativo, de dinheiro e um novo sistema financeiro, desc
 
 
 ![Slide 15](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-15.jpg)
+
 Mas o principal ponto é que Bitcoin tende a continuar valorizando porque é um dinheiro melhor.
 
 
 ![Slide 16](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-16.jpg)
+
 Para entender por que o Bitcoin é um dinheiro melhor, é importante olhar para a evolução do dinheiro ao longo da história e como ele foi perdendo algumas de suas propriedades fundamentais. Bitcoin tem o potencial de resgatar essas propriedades essenciais e transformar profundamente nossa relação com o dinheiro. Ele pode revolucionar a forma como economizamos, investimos e transacionamos, oferecendo uma alternativa que é transparente, resistente à manipulação e acessível para todos.
 
 
 ![Slide 17](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%201/Sem%20ti%CC%81tulo-8-17.jpg)
+
 O Bitcoin resolve muitos dos problemas do sistema financeiro atual. Milhões de pessoas sofrem com a inflação, juros reais negativos, confisco e tem até suas contas fechadas por parte de bancos, e nem sabem que o Bitcoin pode ser uma solução para proteger anos de trabalho acumulados e que estão sendo drenados em dinheiro governamental que derrete como um cubo de gelo.
 
 Na próxima aula, vamos explorar em detalhes esses problemas e você vai entender por que o dinheiro, como o conhecemos hoje, foi literalmente programado para roubar valor das pessoas sem que elas percebam.

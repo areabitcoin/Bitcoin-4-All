@@ -20,6 +20,7 @@ Mas antes de fazer isso na prática, vamos entender o que são endereços e como
 
 
 ![Slide 256](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-01.jpg)
+
 Quando você configura a sua carteira bitcoin ela gera uma lista de palavras chamada "seed phrase". Essas palavras representam códigos que permitem que você receba, armazene e envie bitcoin. A partir das seeds, a sua carteira vai gerar outros códigos criptografados chamados chaves públicas e privadas.
 
 A chave privada é uma sequência de letras e números que permite assinar transações e controlar o saldo da sua carteira. Com ela você pode mover bitcoin de um endereço para outro ou importar um saldo específico. Quando você envia bitcoin de uma carteira pra outra, é a chave privada que autoriza o saldo a ser movimentado. Por isso você não deve compartilhar com ninguém a sua seed e nem as suas chaves privadas da carteira. Ela tem esse nome por isso: é privada, é uma informação que deve ficar só pra você.
@@ -30,12 +31,14 @@ Os endereços são gerados a partir dessas chaves e eles são públicos. Quando 
 
 
 ![Slide 257](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-02.jpg)
+
 Uma carteira pode gerar milhares de endereços diferentes a partir da chave pública. A função dela é gerar endereços. Inclusive uma das boas práticas com bitcoin é nunca reutilizar endereços. As carteiras tão sempre gerando novos endereços depois que você faz uma transação, para justamente ter mais privacidade e evitar a reutilização. Se você já usou uma carteira de bitcoin vai perceber que a cada transação o endereço muda, isso é de propósito. Afinal, depois de feita uma transação, os endereços ficam publicamente visíveis na blockchain e seria mais fácil rastrear saldos por associação.
 
 Em resumo a chave privada desbloqueia o direito do dono da carteira gastar, mexer, transacionar as moedas associadas àquela carteira. Como o nome diz, é privada e você não deve mostrar pra outras pessoas. Já o endereço é pra onde você vai enviar Bitcoin quando fizer uma transação. Ninguém pode adivinhar a sua chave privada a partir do seu endereço.
 
 
 ![Slide 258](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-03.jpg)
+
 Eu gosto de pensar que o endereço é como se fosse o endereço da sua casa. Você até compartilha com outras pessoas, é algo relativamente público, mas também não sai com um megafone por aí contando pra todo mundo onde você mora. Você as vezes precisa mostrar o seu endereço pra receber uma entrega, mas isso não quer dizer que as pessoas vão conseguir acessar a sua casa, pra isso é preciso ter as chaves da porta. No caso das carteiras: as chaves privadas.
 
 Então o endereço é como se fosse o endereço da sua casa e as chaves privadas é o que dá acesso ao que tem dentro dela: seu saldo em bitcoin.
@@ -47,11 +50,13 @@ Mas então como funciona uma transação?
 
 
 ![Slide 259](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-04.jpg)
+
 Você abre a sua carteira, digita o valor que quer enviar, cola o endereço do recebedor e clica em enviar. Quando você clica em enviar, você está assinando a transação com a sua chave privada. É isso o que acontece por trás dos códigos da carteira.
 
 
 
 ![Slide 260](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%2010/Sem%20ti%CC%81tulo-18-05.jpg)
+
 Quando você assina a transação provando pra rede bitcoin que é o verdadeiro dono da chave privada do endereço da carteira, essa transação vai para uma sala de espera, conhecida como mempool. Essa é a sala de espera das transações que ficam aguardando até serem inseridas em um bloco pelos mineradores. As transações são registradas em blockchain quando um minerador seleciona as transações para fazerem parte do bloco de informação. Assim que um minerador inserir a transação em um bloco, esse bloco é verificado pela rede e ela atualiza os seus registros da blockchain. Aí então esse bloco é propagado por toda a rede como um bloco válido, com a transação dentro dele.
 
 Quando uma transação é inserida em um bloco se fala que ela teve uma confirmação. Conforme mais blocos são minerados, mais confirmações acontecem. Geralmente uma transação é considerada irreversível depois de 6 confirmações, quando seis blocos se passam. Quando as confirmações acontecem, a carteira notifica o usuário, a transação é considerada recebida e o saldo fica disponível para ser gasto. É assim que as transações on chain acontecem quando você faz um envio de bitcoin.

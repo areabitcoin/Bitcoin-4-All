@@ -135,10 +135,12 @@ In 1933, the US government confiscated the population's gold in a kind of "regul
 
 
 ![Slide 35](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-18.jpg)
+
 If you didn't hand over the gold, you'd face a fine of 10,000 dollars, 10 years in prison, or even both! This is the reality of how governments, at different times in history and in different countries, have abused the power they have, either by printing money uncontrollably, thinking that no one would notice, or by confiscating it directly. The result is always the same: the population ends up paying the price and losing assets.
 
 
 ![Slide 36](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%202/slide-19.jpg)
+
 The point is: it wasn't always like this. Fiat money as we know it today is actually the exception throughout history. It is the greatest experiment ever carried out by governments.
 
 

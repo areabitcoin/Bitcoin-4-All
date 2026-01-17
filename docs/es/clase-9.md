@@ -16,20 +16,24 @@ Pero relájate, ¡almacenar bitcoins no es gran cosa! Pero es una parte fundamen
 
 
 ![Slide 236](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-01.jpg)
+
 Bitcoin funciona de forma diferente a los bancos y al sistema financiero tradicional porque te permite ser verdaderamente dueño de tu propio dinero, sin depender de nadie más, y menos aún de los bancos. Eso es algo poderoso y es lo contrario de cómo la mayoría de la gente guarda su propio dinero hoy en día.
 
 En el sistema financiero tradicional, el dinero que tienes en tu cuenta bancaria no está exactamente bajo tu control. En la práctica, es el banco quien lo cuida, que lo hace bajo la promesa de que tu dinero estará seguro con ellos. 
 
 
 ![Slide 237](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-02.jpg)
+
 Pero la historia ha demostrado que el dinero del banco no está en el banco, no es tuyo y ni siquiera es dinero real. Esto se debe a que los bancos no tienen el dinero de sus clientes: si toda la gente que tiene una cuenta bancaria decide retirar su propio dinero, los bancos quebrarán. No soportarían movimientos de saqueo masivo. 
 
 
 ![Slide 238](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-03.jpg)
+
 Eso es lo que ocurrió en la crisis bancaria de 2023 en EEUU, cuando los bancos quebraron porque los clientes se apresuraron a retirar dinero por miedo a la quiebra de estos intermediarios. Incluso Credit Suisse tuvo que ser rescatado por UBS, de lo contrario iría a la quiebra. La historia está llena de pruebas de cómo los bancos no disponen del dinero de la gente en caso de que todos necesiten retirar sus saldos a la vez.
 
 
 ![Slide 239](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-05.jpg)
+
 El dinero del banco ni siquiera es realmente tuyo. Cuando depositas dinero en el banco, ya no es tuyo. ¡Así es! El banco se convierte en propietario y tú en "acreedor". Confías en que lo guardará correctamente y lo devolverá cuando se lo pidas, pero esta confianza tiene sus riesgos.
 
 Suena seguro, ¿verdad? Pero no es exactamente así. Los bancos pueden quebrar, como ocurrió con Lehman Brothers en la crisis de 2008. Los que tenían dinero allí se quedaron en la estacada. Incluso con seguro y protección, estos fondos normalmente sólo cubren una parte de la cantidad que has ahorrado.
@@ -40,9 +44,11 @@ Ahora imagínate: en una crisis real, cuando más necesitas acceder a tu dinero,
 
 
 ![Slide 240](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-06.jpg)
+
 Pero si piensas "el banco nunca me haría eso", es bueno que sepas que ya ha ocurrido antes y que podría volver a ocurrir. ¿Quieres un ejemplo? En el Líbano, en 2023, la crisis económica era tan grande que los bancos simplemente dejaron de permitir la retirada de dinero. La gente se despertó y descubrió que ya no podía retirar su propio dinero.
 
 ![Slide 241](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-07.jpg)
+
 Y esto no sólo ha ocurrido lejos: también ha ocurrido en Latinoamérica. En Brasil, en 1994, la gente se llevó un golpe con la famosa confiscación del Plan Collor. El gobierno congeló los ahorros de todos. ¿El resultado? Personas que habían ahorrado su dinero durante toda una vida lo vieron confiscado sin previo aviso y sin posibilidad de retirarlo.
 
 Otro caso fue la crisis bancaria de Chipre en 2013. Los bancos cerraron sus puertas, se congelaron las cuentas y el gobierno decidió confiscar parte del dinero de la gente para "salvar" el sistema financiero. El gobierno impuso la confiscación directa de las cuentas bancarias como parte del rescate financiero organizado por la Unión Europea. Las cuentas con saldos superiores a 100.000 euros fueron las más afectadas. A los que tenían más de esa cantidad, el gobierno simplemente les confiscaba una parte importante -- en algunos casos, hasta el 40% o más de la cantidad sobrante.
@@ -55,6 +61,7 @@ Estos ejemplos demuestran que cuando el sistema financiero se hunde o colapsa, q
 
 
 ![Slide 242](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-08.jpg)
+
 Además, el dinero que dejas en el banco no es dinero real. Es fiat, sólo un cubito de hielo sin propiedades monetarias que se derrite en valor. Bitcoin es dinero real, tiene propiedades monetarias sólidas y tiende a revalorizarse con el tiempo. Como no necesitas a nadie para almacenarlo, devuelve a la gente el control sobre su propio dinero. Pero junto con esa libertad viene la responsabilidad. 
 
 Bitcoin es un activo al portador, lo que significa que sólo pueden moverlo quienes tengan las claves privadas que les dan acceso al saldo. A diferencia del sistema tradicional, en el que los bancos guardan tu dinero (y deciden lo que puedes y no puedes hacer con él), en Bitcoin tú eres el único responsable. Si pierdes las llaves, pierdes el acceso a tu saldo para siempre.
@@ -63,12 +70,14 @@ Por eso, asegurar tu bitcoin significa garantizar que nadie más que tú tenga a
 
 
 ![Slide 243](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-09.jpg)
+
 Con Bitcoin, por primera vez en la historia, tu dinero es inaccesible para terceros. Sólo tú puedes moverlo. Por eso la autocustodia es la mejor forma de almacenar bitcoin. Cuando haces eso, eliminas las vulnerabilidades de confiar en terceros que podrían fallar. Ya sea porque no lo cuidaron como es debido o porque quisieron manejar el dinero de los demás.
 
 La verdadera libertad financiera vuelve a estar en tus manos. Así que, ¿por qué no utilizar este superpoder que ofrece el Bitcoin, verdad?
 
 
 ![Slide 244](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-10.jpg)
+
 Los Bitcoiners no paran de repetir la famosa frase: "Not your keys, not your coins", si no son tus llaves, no son tus monedas. ¿Y sabes qué? Tienen toda la razón.
 
 Exchanges, que se suponía que eran sólo un lugar donde comprar bitcoins, acabaron convirtiéndose en una versión moderna de los bancos, sólo que en el mundo Bitcoin. Y al igual que los bancos pueden quebrar y llevarse el dinero de sus clientes, exchanges también pueden quebrar y desaparecer con los bitcoins que estaban bajo su custodia.
@@ -77,6 +86,7 @@ Si dejas tus bitcoins en un exchange, corres el mismo riesgo que la gente cuando
 
 
 ![Slide 245](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-11.jpg)
+
 Eso quedó más que claro tras el caso de Mt. Gox, que fue la mayor bolsa del mundo en 2014. La plataforma fue pirateada y listo... desaparecieron los bitcoins de 740.000 clientes. En aquel momento, eso ya era una cantidad absurda de dinero, millones de dólares. Hoy serían miles de millones.
 
 Y no fue sólo Mt. Gox. Casos más recientes, como la quiebra de FTX, demuestran que confiar en los exchanges o los bancos con los ojos cerrados es un riesgo enorme. Si algo sale mal, ya sea un hackeo, una mala gestión o un fraude, podrías perder todo lo que tenías, y la posibilidad de recuperarlo es muy escasa.
@@ -85,9 +95,11 @@ La lección es sencilla: dejar tu bitcoin en manos de un intermediario es jugar 
 
 
 ![Slide 246](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-12.jpg)
+
 FTX fue uno de los mayores ejemplos de por qué no dejar bitcoin en exchanges. En 2022, de la noche a la mañana, resultó ser un gigantesco fraude. Miles de clientes han perdido lo que tenían y siguen luchando en los tribunales para intentar recuperar sus fondos. ¿Y sabes qué es peor? Estos procesos pueden durar años, y es posible que muchas personas nunca más recuperen su dinero.
 
 ![Slide 247](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-13.jpg)
+
 Y no fue sólo el FTX. Otras grandes empresas, como Celsius y BlockFi, también quebraron, dejando a sus clientes completamente en la estacada. Por otro lado, si haces autocustodia, es decir, almacenas tú mismo tus bitcoins, todo eso deja de ser un problema. No dependes de nadie, y menos aún de empresas que puedan ser fraudulentas o ineficaces.
 
 El último punto sobre por qué la autocustodia es la mejor forma de almacenar bitcoin es también porque te protege en situaciones extremas. En situaciones de crisis económica, guerra o regímenes autoritarios, tener control directo sobre tus bitcoins puede ser la diferencia entre escapar con tus recursos o perderlo todo.
@@ -96,6 +108,7 @@ Durante la guerra entre Ucrania y Rusia, se congelaron muchas cuentas bancarias.
 
 
 ![Slide 248](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-14.jpg)
+
 Incluso se dio el caso de un refugiado que consiguió viajar a Polonia con 2.000 dólares en bitcoin, almacenados en una simple memoria USB. Si no hubiera sido por el bitcoin en autocustodia, ese refugiado de guerra nunca habría podido llevarse nada del dinero; al fin y al cabo, todas las cuentas de los ciudadanos habían sido bloqueadas. Sólo se pudieron entregar chalecos antibalas, cascos y suministros para proteger a la población porque se hicieron donativos en Bitcoin a los que estaban en primera línea. Mientras tanto, el dinero del sistema bancario estaba cerrado y era inaccesible para la población local.
 
 Al final, la autocustodia es la única forma de garantizar que tus bitcoins estén fuera del alcance de quiebras, hackeos, crisis o confiscaciones gubernamentales. Y en un mundo tan incierto, ésta es la mejor manera de proteger tu libertad financiera.
@@ -104,6 +117,7 @@ Bien, ahora que has entendido que sacar tu bitcoin de los exchanges es important
 
 
 ![Slide 249](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-15.jpg)
+
 La forma más segura de almacenar bitcoin es en tu propia billetera.
 
 Hay diferentes tipos de billeteras y todas cumplen exactamente la misma función, que es almacenar tus claves que te permiten mover tu saldo de bitcoin. Los dispositivos dedicados son billeteras que almacenan claves fuera de línea, lejos de la computadora o del teléfono móvil, y pretenden ofrecer mayor seguridad a quienes desean almacenar bitcoin a largo plazo. 
@@ -118,20 +132,24 @@ Pero aquí hay una ironía....
 
 
 ![Slide 250](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-16.jpg)
+
 ¡Las billeteras Bitcoin no tienen bitcoins! Parece una broma, ¡pero no lo es! Los bitcoins no se almacenan en billeteras, siempre están en la blockchain (o timechain) y nunca la abandonan. Lo que hace la billetera es almacenar y proteger las claves que dan acceso al saldo y permitir mover bitcoin de una dirección a otra. Ya los bitcoins siempre están en una dirección de la red y no dentro de la aplicación o dispositivo.
 
 
 ![Slide 251](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-17.jpg)
+
 Las billeteras son como un llavero digital que almacena los códigos que autorizan las transacciones con tu saldo, demostrando criptográficamente que eres el verdadero propietario de ese saldo y que puedes utilizarlo. Igual que en un llavero puedes tener distintas llaves que abren distintas puertas en distintos lugares, en tu billetera digital tus llaves te dan acceso a distintos tipos de saldos y transacciones. Por eso tu billetera digital funciona como un llavero digital.
 
 
 ![Slide 252](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-18.jpg)
+
 Cuando configures una billetera por primera vez, te generará una secuencia de palabras, como ésta de la pantalla. Esas palabras se conocen como frases semilla ("seed phrases"). Son las palabras utilizada para recuperar tu cartera. Con ellas puedes recuperar tu saldo en cualquier otro dispositivo o aplicación, incluso si tu dispositivo original se rompe, se pierde o se destruye por alguna desgracia inesperada.
 
 Por eso debes tener cuidado con esas palabras, son las que recuperan tu saldo y te permiten mover tus BTC. Así que es importante escribirlas con cuidado, de forma legible, en el orden exacto en que aparecen y guardarlas en un lugar seguro donde sólo tú sepas dónde están. Si guardas bien tus palabras, siempre tendrás acceso a tus bitcoins, pero si no las cuidas bien y alguien los encuentra, podrá mover tu saldo y quedarse con tus bitcoins.
 
 
 ![Slide 253](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-19.jpg)
+
 A muchas personas que empiezan a acumular bitcoin les parece un poco arcaico guardar sus palabras en un trozo de papel, pero la ventaja de guardar tus palabras semilla escritas en papel o en un material más resistente, como el metal, es que ese tipo de copia de seguridad reduce drásticamente las posibilidades de hackeos o de que alguien obtenga acceso digital a tu bitcoin.
 
 El papel o el metal son "tecnologías" antiguas que nadie puede hackear porque siempre están desconectadas. Es más, cualquiera puede escribir una lista de palabras en un trozo de papel.
@@ -140,6 +158,7 @@ Bitcoin es información, incluso puedes memorizar tus palabras y llevar tu bitco
 
 
 ![Slide 254](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-20.jpg)
+
 La expresión frase semilla es intencionada. Desde aquí puedes generar miles de claves privadas y direcciones de Bitcoin diferentes para distintos saldos, del mismo modo que de una semilla en la tierra puede crecer un árbol que se ramifique en miles de ramas fructíferas.
 
 Las palabras clave también facilitan el almacenamiento y evitan errores en la autocustodia. Eso se debe a que representan un gran código con letras y números aleatorios que es muy fácil equivocarse al escribir. Las palabras, en cambio, son más intuitivas, tienen significados que incluso puedes memorizar y son más fáciles de escribir con menos posibilidades de error.
@@ -154,6 +173,7 @@ Es infinitamente más fácil que alguien robe tus bitcoins robando tu semilla, s
 
 
 ![Slide 256](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%209/slide-22.jpg)
+
 Bien, ahora que has comprendido que las billeteras te dan la soberanía de almacenar, recibir y enviar bitcoin cómo, cuándo y dónde quieras, que generan palabras que te permiten recuperar tu saldo incluso si el monedero original se estropea... Por último, veamos qué tipos de billeteras hay y en qué situaciones utilizar cada uno.
 
 Hay dos categorías principales de billeteras: las frías y las calientes.

@@ -13,6 +13,7 @@ Guión de clase 7 - Cómo tener bitcoin?
 La carrera por tener bitcoin ya ha empezado y si estás pensando en poseer un bitcoin entero, será mejor que te des prisa, porque el tiempo se acaba y cada vez va a ser más difícil. Pero la buena noticia es que hay 2,1 cuatrillones de satoshis y puedes ir acumulando fracciones de bitcoin hasta llegar a tu bitcoin entero.
 
 ![Slide 164](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-01.jpg)
+
 Hoy en día, el mundo tiene unos 8.000 millones de habitantes. Como el Bitcoin tiene un límite máximo de emisión de 21 millones de unidades, que se emitirán por completo en el año 2140, y la mayoría de ellas ya han sido minadas, esto significa que, si todo el mundo quisiera poseer Bitcoin, cada uno podría tener un máximo de 0,002625 BTC. Esto equivale aproximadamente a 260.000 satoshis, o unos 245 dólares, teniendo en cuenta el precio actual de 94.000 dólares por Bitcoin.
 
 No hay Bitcoin suficiente para todos en el mundo, ni siquiera para todos los millonarios. Pero hay muchos satoshis para repartir entre todos los habitantes de la Tierra. Esto se debe a que 1 bitcoin se compone de 100 millones de satoshis, lo que hace que un bitcoin entero no sea más que una forma de redondeo.
@@ -21,6 +22,7 @@ Recuerde que esta estimación se basa en un límite de 21 millones de Bitcoin. P
 
 
 ![Slide 165](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-02.jpg)
+
 Hay tres formas de tener Bitcoin. La primera forma, y la más clásica, es la minería. Es a través de la minería que nuevos bitcoins entran en el mercado y es una forma de recibir bitcoins directamente de la red trabajando para ella. Empleando potencia de cálculo, ayudas a minar un bloque y recibes bitcoin como recompensa. Por supuesto, hoy en día se necesita un equipo potente para minar una gran cantidad de bitcoins, pero es algo que se puede estudiar, especializarse y empezar a competir en la minería.
 
 La segunda forma de tener bitcoin es comprárselo a alguien que lo tenga. Hoy en día también existen plataformas que facilitan esta compra, como exchanges, plataformas, vales e incluso bancos que vendan bitcoin. Hoy es mucho más fácil comprar bitcoin que hace 10 años.
@@ -28,14 +30,17 @@ La segunda forma de tener bitcoin es comprárselo a alguien que lo tenga. Hoy en
 Y la forma más independiente y cypherpunk de conseguir bitcoin, sin minarlo, es aceptarlo como pago a cambio de productos o servicios que ofrezcas. Entendamos cómo funciona cada uno de ellos.
 
 ![Slide 166](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-03.jpg)
+
 La minería es una forma de recibir bitcoin directamente de la red, sin tener que comprar a otra persona o plataforma. La minería se ha convertido en una industria muy especializada, con explotaciones que van desde pequeños mineros individuales hasta grandes explotaciones mineras. Estos sitios utilizan tecnologías avanzadas y, en muchos casos, aprovechan la energía que desperdiciarían industrias menos eficientes. 
 
 
 ![Slide 167](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-04.jpg)
+
 No necesitas un gran sitio minero para empezar. Es posible extraer Bitcoin en casa, siempre que se esté dispuesto a aprender cómo funcionan las máquinas, realizar el mantenimiento, optimizar la eficiencia energética y tener buenos conocimientos de cableado eléctrico. Además, fue la minería casera la que lo empezó todo y es a través de ella que esta práctica podría ser cada vez más accesible y común en el futuro.
 
 
 ![Slide 168](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-05.jpg)
+
 Hoy en día, existen máquinas como el Bitaxe y el Nerdminer, que tienen menos potencia de cálculo que los potentes ASICS. No obstante, pueden conectarse a un pool minero para recibir pequeñas recompensas en satoshis o incluso utilizarse para probar suerte en la minería en solitario. Hacer minería en solitario y encontrar un bloque es como si te tocara la lotería: las probabilidades son escasas, pero el premio merece la pena.
 
 La minería de Bitcoin está en constante evolución, y quién sabe, ¡quizás en el futuro hasta los electrodomésticos de cocina ayuden a minar Bitcoin!
@@ -44,41 +49,49 @@ Además de minar, también puede comprar bitcoin a otra persona o empresa que lo
 
 
 ![Slide 169](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-06.jpg)
+
 Y cuando se trata de comprar bitcoin, hay varias formas de hacerlo. Puedes comprar a través de exchanges, que son plataformas que funcionan como oficinas de cambio digitales. Puedes comprar a otra persona que tenga bitcoin, el famoso P2P (peer-to-peer). Puede comprar vales o certificados de regalo canjeables en bitcoin. Puedes comprar a través de redes sociales que tengan canales de compra y venta de bitcoin, como Telegram o Nostr. Por último, incluso los bancos venden bitcoin y se puede comprar a través de ellos.
 
 Pero ¿cuáles son las ventajas y desventajas de cada uno?
 
 
 ![Slide 170](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-07.jpg)
+
 Las exchanges son empresas que conectan a compradores y vendedores, garantizando que ambas partes reciban lo que se negocia de forma práctica. La exchange es un intermediario entre dos personas que no se conocen y que quieren comerciar con bitcoin.
 
 
 ![Slide 171](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-08.jpg)
+
 Así, por ejemplo, aquí tenemos a Ana y Juan. Ambos tienen cuentas en la misma bolsa, no se conocen y no quieren verse. Ana quiere comprar bitcoin y Juan quiere vender bitcoin. Los dos pusieron orden en la exchange.
 
 Ana coloca una orden de compra de bitcoin a un precio de 100 mil dólares y Juan coloca una orden de venta de bitcoin a un precio de 100 mil dólares. Así, en este ejemplo, uno quiere comprar y el otro quiere vender al mismo valor que el precio del bitcoin en ese momento. Y así esta negociación se sucedió. Las órdenes de cada uno se ejecutan en la exchange, el saldo de bitcoins de Juan se liquida en fiat y Ana recibe el saldo de bitcoins que antes era de Juan en su cuenta de la exchange.
 
 
 ![Slide 172](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-09.jpg)
+
 Esas órdenes de compra y venta que he mencionado se colocan a través de un mecanismo llamado libro de órdenes. Esta es la forma clásica de operar en la exchange, pero hoy en día hay otras formas además de esta; incluso hay formas simplificadas en las que no se ven estas órdenes.
 
 En esta imagen podemos ver la lista de órdenes de venta en rojo y la lista de órdenes de compra en verde. Cada orden del libro incluye el precio al que alguien está dispuesto a comprar o vender bitcoin, así como la cantidad de bitcoin que desea comprar o vender a ese precio. Los pedidos suelen organizarse por orden de precio. Allí puede ver que las órdenes de compra están organizadas del precio más alto al más bajo que los compradores están dispuestos a pagar. Las órdenes de venta se organizan del precio más bajo al más alto que los vendedores están dispuestos a aceptar.
 
 
 ![Slide 173](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-10.jpg)
+
 La gran ventaja de comprar en exchanges es la practicidad. En sólo unos minutos puedes abrir una cuenta, transferir dinero fiat y empezar a comprar bitcoin. Sin embargo, si lo que buscas es privacidad, esta no es la mejor forma de comprar, porque se trata de empresas y, como tales, siguen la normativa de sus países. La mayoría de las exchanges KYC, que significa know your customer, es decir, datos del cliente en el momento del registro. Suelen tener un límite inferior para negociar con datos básicos y si quieres negociar cantidades superiores, te piden más documentos.
 
 
 ![Slide 174](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-11.jpg)
+
 Y aunque hoy el mercado está más maduro y es relativamente seguro comprar en estas empresas, sigue habiendo riesgos. Hoy en día, si quieres intentar abrir una exchange, tendrás que pasar por muchos trámites burocráticos: tendrás que pedir permiso al gobierno para operar en este mercado y tendrás que seguir las normas del país en el que abras la empresa. Aunque no son bancos, las bolsas funcionan como tales y están sometidas al escrutinio de los reguladores.
 
 La idea de la regulación es eliminar a los malos actores del mercado, pero sigue sin evitar que estas empresas quiebren por mala gestión o hackeos. En las exchanges, el mayor riesgo son las intrusiones, los hackeos y las filtraciones de datos privados. En el pasado, los hackers ya han entrado en exchanges y han robado saldos de bitcoins, lo que ha llevado a varias exchanges a cerrar sus puertas. 
 
 ![Slide 175](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-12.jpg)
+
 Otro riesgo es la quiebra. En caso de que los socios y gestores no sepan llevar el negocio, o realicen operaciones ilegales, como ocurrió con FTX, las exchanges quiebran. Si ocurre un ataque hacker o la exchange quiebra, podría llevar años de procedimientos legales hasta que recuperes tu dinero, o puede que nunca recuperes tu bitcoin. Muchas personas han perdido Bitcoin de esta forma.
 
 
 ![Slide 176](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-13.jpg)
+
 Por eso las exchanges no son carteras y no deberías dejar tus bitcoins en ellas durante largos periodos de tiempo. Exchange es una plataforma de acceso sólo para comprar y retirar Bitcoin para tu propia custodia. Dejar bitcoin en una exchange significa exponerse al riesgo de que la plataforma quiebre o sea pirateada y se lleve sus monedas.
 
 Son plataformas que facilitan los intercambios entre personas, pero no proporcionan las claves privadas de las billeteras de sus clientes, sólo la dirección, por lo que el bitcoin no es tuyo en la exchange, ya que no tienes las claves privadas que te permiten mover tus monedas de forma independiente. Hablaremos más de esto en las siguientes lecciones sobre billeteras y soberanía.
@@ -87,10 +100,12 @@ Pasemos ahora a las formas de compra P2P.
 
 
 ![Slide 177](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-14.jpg)
+
 ¿Recuerda el libro blanco de Bitcoin? ¿Qué tenía escrito? Satoshi escribió en el título del libro blanco "Bitcoin: un sistema de pago electrónico entre iguales, de persona a persona", y al principio de la red Bitcoin el comercio se hacía básicamente así, directamente entre personas. Hoy en día, incluso con tantas exchanges y cuentas digitales entre las que elegir, la forma de comercio P2P se mantiene firme y fuerte y probablemente nunca dejará de existir, porque no importa cuántos países prohíban el uso de Bitcoin, está descentralizado y es de código abierto, por lo que no hay nada que impida a la gente comerciar entre sí de forma P2P.
 
 
 ![Slide 178](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-15.jpg)
+
 La mayor ventaja de comprar P2P es menos burocracia y un poco más de privacidad. Así, por ejemplo, al comprar a través de P2P no es necesario enviar todos los documentos que suele pedir una exchange, hacer un reconocimiento facial, enviar un justificante de ingresos y de domicilio. Algunas exchanges son tan burocráticas como los bancos.
 
 Otra ventaja es que P2P envía el saldo de bitcoins directamente a la dirección, que podría ser tu billetera fría, por ejemplo. Es muy práctico y un paso menos que dar. Por otro lado, existen desventajas y riesgos. Como todo se suele hacer directamente online, no hay ninguna empresa intermediaria, por lo que hay que asegurarse de que el P2P que se elige es de confianza. Tienes que confiar en que la persona no desaparecerá con tu dinero y que recuperarás el equivalente en Bitcoins en tu billetera. Hay P2P que llevan mucho tiempo trabajando en el mercado y que son gente honrada, pero también hay estafadores, como en todos los mercados.
@@ -103,6 +118,7 @@ Pero ¿dónde encontrar P2P fiables? Cualquiera puede venderte bitcoin, ya sea u
 
 
 ![Slide 179](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-16.jpg)
+
 Hay un total de 4 pasos para comprar a través de P2P.
 
 La primera es tener ya una dirección en una billetera de bitcoin. Aprenderás cómo hacerlo en las próximas lecciones de Bitcoin4all.
@@ -113,6 +129,7 @@ Otra forma de comprar Bitcoin es utilizar vales.
 
 
 ![Slide 180](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-17.jpg)
+
 Los vales son cheques regalo en los que compras una cantidad y la canjeas en tu billetera digital, como es el caso de AZTECO y Bitrefill. Comprar bitcoin a través de vales es más privado que a través de intercambios y recibes el saldo canjeado directamente en tu billetera. 
 
 
@@ -124,12 +141,14 @@ Lo importante en este tipo de compras es asegurarse de que se está utilizando l
 
 
 ![Slide 182](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-19.jpg)
+
 Hoy en día, los bancos y las cuentas digitales también permiten comprar bitcoin. La principal diferencia entre estas cuentas digitales y las bolsas es que, en las cuentas digitales, compras bitcoin directamente a la entidad, mientras que, en las bolsas, la compra se realiza a otras personas que han introducido órdenes de venta en la plataforma.
 
 Independientemente de dónde adquiera tus bitcoins, es esencial transferirlos desde estas plataformas a su propia billetera y evitar dejarlos en custodia de terceros. Tanto los bancos como las exchanges están sujetos a los mismos riesgos, como la quiebra, los ataques de piratas informáticos o incluso las confiscaciones gubernamentales.
 
 
 ![Slide 183](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-20.jpg)
+
 Estamos en 2025 y las entidades financieras tradicionales compiten por ofrecer sus ETFs de Bitcoin. ETF quiere decir Exchange Traded Fund, que significa fondo cotizado en bolsa. Estos fondos permiten a los inversores comprar y vender participaciones directamente en bolsa, de forma similar a las acciones, y pueden utilizarse para negociar distintos tipos de activos, como materias primas y, ahora, Bitcoin.
 
 Los ETFs de Bitcoin pretenden replicar el precio de Bitcoin en el mercado al contado siguiendo su cotización. La principal ventaja de los ETFs de Bitcoin es que ofrecen una vía regulada para que empresas e inversores, que normalmente no tendrían o no podrían tener Bitcoin bajo su propia custodia, obtengan una exposición indirecta a Bitcoin. 
@@ -138,6 +157,7 @@ Estos ETFs han creado un puente entre Bitcoin y el mercado financiero tradiciona
 
 
 ![Slide 184](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-21.jpg)
+
 Pero ¡cuidado! Los ETFs no son Bitcoin real, son Bitcoin de papel que sólo representa el precio del Bitcoin. No tienen las propiedades monetarias ni el efecto de red de Bitcoin. Necesitan un gestor que emita estos documentos y necesitan confiar en estas instituciones.
 
 No puedes retirar tu bitcoin a tu billetera, tienes que venderlo y convertirlo a fiat. Al menos hasta ahora no hay forma de comprar ETFs y retirar Bitcoin a tu propia billetera. Esto significa que cuando compras un ETF, no tiene realmente Bitcoin, sino que depende de intermediarios que hagan la custodia. Esto contradice el propósito de Bitcoin. Al final sólo estás expuesto al precio, pero no tienes libertad para negociar tus monedas.
@@ -154,6 +174,7 @@ Otro riesgo es la aprensión del gobierno. Si el bitcoin se convierte en un acti
 
 
 ![Slide 185](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-22.jpg)
+
 Y, por último, la forma más soberana de conseguir bitcoin es ofrecer tu trabajo, tus productos y servicios, tu tiempo, a cambio de bitcoin. Conviertes tu trabajo y tu margen de beneficios en una estrategia de acumulación y cobras directamente sin tener que convertir nada, va directo a tu billetera. Incluso se ahorra en impuestos.
 
 Existen sitios web y plataformas como Bitcoiner Jobs donde puedes buscar trabajo en empresas que pagan en bitcoin. Ya sea temporal o fijo. Behance también tiene una pestaña en la que puedes elegir pagar por trabajos de design en bitcoin.
@@ -162,6 +183,7 @@ Puedes ofrecer tus servicios a otros bitcoiners que conozcas e iniciar tu propia
 
 
 ![Slide 186](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-23.jpg)
+
 Aceptar bitcoin como forma de pago ofrece varias ventajas que pueden modernizar y simplificar las operaciones financieras. Una de las principales es la ausencia de KYC (Know Your Customer). La red Bitcoin no obliga a nadie a identificarse, basta con descargar una billetera y empezar a recibir bitcoin. También tiene la ventaja de aprovechar la valoración actual. Cuando recibes pagos en bitcoin, el importe se transfiere inmediatamente, con la valoración actual, evitando los enormes diferenciales y retrasos habituales en las transacciones que dependen de intermediarios financieros.
 
 La Lightning Network también facilita mucho las cosas, ya que permite realizar transacciones rápidas con tasas extremadamente bajas, lo que la hace especialmente ventajosa para los pequeños pagos. En comparación con las tasas que cobran las tarjetas de crédito u otras plataformas de pago, esto supone un enorme ahorro en comisiones para los comerciantes, que pueden repercutirlas como descuento a los clientes. 
@@ -178,6 +200,7 @@ Pero poco a poco, las economías circulares son cada vez más conocidas, y quien
 
 
 ![Slide 187](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%207/slide-24.jpg)
+
 Una economía Bitcoin circular es aquella en la que Bitcoin se utiliza continuamente dentro de un ciclo sostenible, sin la necesidad frecuente de convertir a monedas fiat. Este modelo aumenta la adopción, refuerza las comunidades locales y reduce la dependencia de los intermediarios financieros, creando un sistema más autónomo y eficiente.
 
 Una economía circular comienza con la adquisición o recepción de bitcoin. Puedes adquirir bitcoin minándolo, comprándolo en exchanges, aceptándolo como pago por productos o servicios o incluso recibiéndolo como salario. Como resultado, la gente tiene un activo descentralizado y global que puede utilizarse sin necesidad de bancos ni intermediarios.

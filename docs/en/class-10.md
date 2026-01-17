@@ -21,6 +21,7 @@ But before doing this in practice, let's understand what addresses are and how a
 
 
 ![Slide 260](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-01.jpg)
+
 When you set up your bitcoin wallet, it generates a list of words called a "seed phrase". These words represent codes that allow you to receive, store and send bitcoin. From the seeds, your wallet will generate other encrypted codes called public and private keys.
 
 The private key is a sequence of letters and numbers that allows you to sign transactions and control your wallet balance. With it you can move bitcoin from one address to another or import a specific balance. When you send bitcoin from one wallet to another, it is the private key that authorizes the balance to be moved. That's why you shouldn't share your seed or private wallet keys with anyone. That's why it has this name: it's private, it's information that you should keep to yourself.
@@ -31,12 +32,14 @@ The addresses are generated from these keys and are public. When you make a tran
 
 
 ![Slide 261](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-02.jpg)
+
 A wallet can generate thousands of different addresses from the public key. Its function is to generate addresses. One of the best practices with Bitcoin is to never reuse addresses. Wallets are always generating new addresses after you've made a transaction, precisely to give you more privacy and prevent reuse. If you've ever used a Bitcoin wallet, you'll notice that the address changes with each transaction -- this feature is there on purpose. After all, once a transaction has been made, the addresses are publicly visible on the blockchain and it would be easier to track balances by association.
 
 In short, a private key unlocks the wallet owner's "right to spend", move and trade the coins associated with that wallet. As the name implies, it's private and you shouldn't show it to other people. The address is where you will send Bitcoin when you make a transaction. No one can guess your private key from your address.
 
 
 ![Slide 262](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-03.jpg)
+
 You can think of the address as your home address. You share it with other people, it's relatively public, but you don't go around with a megaphone telling everyone where you live. Sometimes you need to show your address to receive a delivery, but that doesn't mean that anyone else will be able to access your home. For that, you need the keys to the door. In the case of wallets: the private keys.
 
 So the address is like your home address and the private keys are what gives you access to what's inside: your bitcoin balance.
@@ -47,10 +50,12 @@ But how does a transaction work?
 
 
 ![Slide 263](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-04.jpg)
+
 You open your wallet, type in the amount you want to send, paste in the receiver's address and click on "Send". When you click on "Send", you are signing the transaction with your private key. That's what happens behind the codes in the wallet.
 
 
 ![Slide 264](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010/slide-05.jpg)
+
 When you sign the transaction proving to the Bitcoin network that you are the true owner of the wallet address's private key, that transaction goes to a waiting room, known as a mempool. This is the waiting room for the transactions that are waiting to be inserted into a block by the miners. Transactions are recorded on the blockchain when a miner selects the transactions to be part of the block of information. As soon as a miner enters a transaction into a block, that block is verified by the network and it updates its blockchain records. This block is then propagated throughout the network as a valid block, with the transaction inside it.
 
 When a transaction is inserted into a block, it is said to have been confirmed. As more blocks get mined, more confirmations occur. Generally, a transaction is considered irreversible after 6 confirmations, when six blocks have passed. When the confirmations take place, the wallet notifies the user, the transaction is considered to have been received and the balance is available to be spent. This is how on-chain transactions happen when you send bitcoin.

@@ -203,6 +203,30 @@
         max-width: 120px;
       }
     }
+
+    /* Slide Images - Larger and Centered */
+    .markdown-section img[alt^="Slide"] {
+      display: block;
+      max-width: 100%;
+      width: 100%;
+      margin: 30px auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(247, 147, 26, 0.15);
+    }
+
+    /* All images in content */
+    .markdown-section img {
+      display: block;
+      max-width: 100%;
+      margin: 20px auto;
+      border-radius: 8px;
+    }
+
+    /* Slide caption styling */
+    .markdown-section img[alt^="Slide"] + p {
+      margin-top: 25px;
+    }
+
   </style>
 </head>
 <body>

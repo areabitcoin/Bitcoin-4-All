@@ -16,10 +16,12 @@ The first step to understanding why Bitcoin is better money is to understand tha
 
 
 ![Slide 54](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-01.jpg)
+
 Since its launch in 2009, Bitcoin has appreciated impressively. Initially, it had no price: its value was literally zero. However, over the years, Bitcoin has accumulated a growth of over 8 billion percent in dollars between 2010 and 2024. In 2024, it reached the 100,000 dollars per unit, consolidating its trajectory -- volatile in the short term, but one of continuous growth over 15 years.
 
 
 ![Slide 55](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-02.jpg)
+
 Bitcoin is fundamentally different from fiat currencies. The term "fiat" derives from Latin and means "let it be done". It refers to money made by decree, imposed by governments through laws of forced circulation: money adopted artificially instead of an adoption due to its natural monetary properties. People use fiat currencies because they are forced to, while Bitcoin and gold are freely adopted because of their natural properties.
 
 As I mentioned in the previous lesson, gold has unique atomic properties, formed by cosmic processes such as nuclear shocks during the formation of the Earth. Bitcoin, on the other hand, is based on mathematical properties that are protected by its decentralized structure. This decentralization, both in its code and in its records, ensures that no one, no matter how powerful, can change the fundamental properties of Bitcoin -- just as no one can change the natural atomic properties of gold. To change gold would be to recreate any other metal but real gold. The same thing happens with Bitcoin. That's why, although there are millions of cryptocurrencies, none of them can do what Bitcoin does and none of them even comes close to the relevance that Bitcoin has.
@@ -28,6 +30,7 @@ For these reasons, both gold and Bitcoin have valued over time, while fiat curre
 
 
 ![Slide 56](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-03.jpg)
+
 Central banks justify the existence of fiat currencies and their monetary policies by claiming that they serve to "control the economy and ensure financial stability". But reality shows a different story. Since 1971, when the gold standard was abandoned, we have faced recurrent global and local economic crises. In practice, the Central Bank can't even protect the value of its own currency, which should be its main responsibility.
 
 Many economists and investors critical of Bitcoin argue that it is too volatile to be considered money. However, they forget that fiat currencies are also extremely volatile, just in a different way. The so-called "stability" of fiat money is an illusion, as it constantly loses value over time. Bitcoin, on the other hand, despite its volatility, has shown a significant increase in value and purchasing power over the years.
@@ -159,6 +162,7 @@ This radical transparency is something that has never been offered by any other 
 
 
 ![Slide 69](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-16.jpg)
+
 Scarcity is the property that defines the difficulty of creating new units of money and is essential for protecting value over time.
 
 Fiat currencies are not scarce. Central banks can print unlimited amounts of money, which often results in inflation, devaluation and loss of purchasing power. This lack of scarcity is one of the main weaknesses of fiat money.
@@ -169,11 +173,13 @@ Scarcity is a crucial factor in determining a money's resistance to inflation an
 
 
 ![Slide 70](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-17.jpg)
+
 Although it is extremely difficult and expensive to produce gold in a laboratory, the global supply of gold continues to grow due to the constant discovery of new deposits. Advances in mining and technology allow gold to be extracted in previously inaccessible locations, gradually increasing the amount of gold available on the market.
 
 This unpredictability in the supply of gold means that it is not absolutely scarce. This differentiates gold from Bitcoin, which has its supply fixed and known from the start, being even more predictable as a store of value.
 
 ![Slide 71](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-18.jpg)
+
 In addition to terrestrial deposits, new frontiers for gold mining are being explored, such as asteroid mining and ocean mining. These futuristic technologies aim to extract resources from places that were previously inaccessible.
 
 Some asteroids contain large quantities of precious metals, including gold. Space companies are already developing technologies to exploit these resources in the future. The deep sea is also a potential source of gold and other valuable metals and there are already projects underway to make it possible to extract these submerged deposits.
@@ -182,18 +188,21 @@ Although these technologies are still in their early stages, they represent the 
 
 
 ![Slide 72](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-19.jpg)
+
 Reports like this show that there are asteroids full of precious metals, including gold, worth an estimated 100,000 quadrillion dollars. If space mining becomes viable, it could completely eliminate the scarcity of gold, one of its main monetary properties.
 
 If gold became abundant, it would lose its ability to act as a reliable store of value. In this scenario, its use would be limited to more specific functions, such as in jewelry making, where its shine and beauty continue to be valued, or in industrial applications, such as in the production of electronic chips, thanks to its excellent conductivity.
 
 
 ![Slide 73](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-20.jpg)
+
 Ocean mining is becoming another major technological frontier, with countries such as Norway already exploring the feasibility of extracting gold and other precious metals from the seabed. However, this type of mining is generating intense debate with environmentalists, who warn of the ecological impacts of this activity.
 
 Although ocean mining faces technical and ethical challenges, it is likely that, over time, technological advances will make these operations viable. This scenario reinforces the fragility of gold as a long-term store of value as technology advances. 
 
 
 ![Slide 74](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-23.jpg)
+
 Unlike gold, Bitcoin does not depend on external factors to maintain scarcity. The maximum supply of 21 million units is fixed and programmed from the start. No technological innovation or future discovery can increase the supply of Bitcoin without consensus in the network.
 
 This means that Bitcoin is mathematically scarce. This equation reflects how the supply of Bitcoin is calculated and how it tends to become increasingly limited over time. In the next lesson on halvings you will understand this equation in detail, but the main point is that Bitcoin is absolutely scarce, while other types of money, commodities or assets are only relatively scarce.
@@ -204,6 +213,7 @@ In the case of Bitcoin, the supply is unchanged. It is possible to accurately pr
 
 
 ![Slide 75](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-22.jpg)
+
 By 2024, Bitcoin officially became scarcer than gold, according to the stock-to-flow (S2F) metric. This metric is used to measure the scarcity of an asset by calculating the ratio between the total stock available (stock) and the quantity produced annually (flow). Assets with a high S2F, such as gold and Bitcoin, have a limited supply, which makes them more valuable because they are more difficult to create new units of.
 
 In the case of gold, its relative scarcity is linked to its annual production, which depends on factors such as land mining and the possibility of ocean or space mining in the future. Bitcoin, on the other hand, is programmed to become increasingly scarce over time, thanks to halvings, which halve the issuance of new bitcoins every four years. This process ensures that, over the years, the supply of new bitcoin decreases dramatically, increasing the stock-to-flow ratio.
@@ -212,10 +222,12 @@ Bitcoin's high S2F suggests that it has enormous potential to continue appreciat
 
 
 ![Slide 76](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-24.jpg)
+
 In short, Bitcoin's scarcity tends to increase over time, while gold and other assets tend to become less scarce. Fiat money, on the other hand, is not at all scarce, which is why it has melted in value in all countries under the current fiat standard. 
 
 
 ![Slide 77](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-25.jpg)
+
 The last monetary property is acceptance, which measures the level of adoption and the extent to which people recognize something as money. In the case of fiat currencies, acceptance is limited. Each country has its own currency, which is not always recognized or accepted outside its borders. This creates barriers in international transactions, making it difficult for money to be universal.
 
 Gold has been widely accepted in the past and has established itself as solid money throughout history. To this day, gold is recognized globally as a store of value, even though its use as a means of exchange has diminished with the emergence of fiat currencies.
@@ -224,6 +236,7 @@ Bitcoin is still in the process of being accepted. It is not widely recognized a
 
 
 ![Slide 78](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-26.jpg)
+
 Bitcoin has made significant progress on the adoption curve. The Lindy curve is a good illustration of the stages money goes through until it becomes a global standard. This model explains how Bitcoin is evolving:
 
 1.  In the beginning, money was born as a collectible, something that few people value or accumulate out of curiosity or foresight.
@@ -240,6 +253,7 @@ The crucial point is that we are still at an early stage of this technological a
 
 
 ![Slide 79](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-27.png)
+
 Bitcoin is a superior form of money because its purchasing power increases over time, while the opposite happens with fiat money. With fiat currencies, such as the dollar, the euro or pesos, the value constantly decreases due to inflation and money printing. This means that the same banknotes buy fewer and fewer goods and services over the years. They lose their function as money.
 
 Bitcoin follows the opposite path. Its limited and programmed supply of 21 million units means that, as adoption grows and demand increases, its value and purchasing power will also increase. Historically, those who have kept Bitcoin have seen their purchasing power grow, unlike those who have kept their savings in fiat currencies, which continually lose value. Bitcoin is gaining function as money.
@@ -248,22 +262,26 @@ This difference reflects one of Bitcoin's main advantages: it is money designed 
 
 
 ![Slide 80](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-28.jpg)
+
 Gold itself is gradually being demonetized by Bitcoin. When priced in bitcoin, gold has lost almost 100% of its value. This shows us how Bitcoin is replacing gold as the world's oldest store of value.
 
 But Bitcoin goes further, being not only an evolution of gold as a store of value but also a superior form of money, since it has much better monetary properties than gold. While gold faces limitations such as portability, divisibility and verifiability, Bitcoin overcomes all these barriers with its digital nature, programmed absolute scarcity and ease of transfer and store. Bitcoin is better money. 
 
 
 ![Slide 81](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-29.jpg)
+
 Another important point of this lesson is that Bitcoin is better money because it is fairer money.
 
 
 ![Slide 82](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-30.jpg)
+
 Fiat money suffers from a phenomenon called the Cantillon Effect, described by Richard Cantillon in 1730 in the book "The Cantillon Effect". This concept illustrates how those closest to the source of the new money benefit disproportionately, while those furthest away suffer more.
 
 In the past, the creation of new money was controlled by kings, who distributed the money first to dukes, nobles and other close allies. These "friends of the king" used the new money to acquire goods and assets such as horses, houses and gold. As the newly created money circulated through the economy, it led to price rises. By the time it finally reached the hands of ordinary people, the poorest, purchasing power had been deeply eroded. And so the people at the end of the circulation chain were always the ones who suffered the most. The money that reached them was already devalued and its real value was much lower.
 
 
 ![Slide 83](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-31.jpg)
+
 In the modern world, money still follows the same flow as in the days of kings, but with updated characters. Now, central banks create money and the first to receive it are the big banks and corporations. These institutions use the newly created money to invest in or repurchase their own assets, such as shares and stocks. The money is then used to pay executives, directors and other senior staff. Finally, it reaches the employees and customers of the economic base.
 
 This flow explains why those who receive the money first are better able to protect their purchasing power: they have access to the money before prices rise. On the other hand, those at the end of the queue, usually the poorest people, suffer the consequences. When the money finally reaches them, the prices of goods, services and assets have already risen, making everything more expensive and unaffordable.
@@ -275,6 +293,7 @@ This effect is perverse because it traps people in a vicious cycle of devaluatio
 These same central banks and governments have the exclusive power to print money and unleash this cascade of events, which benefits banks and fiat corporations and penalizes the majority of the population, perpetuating the economic abyss.
 
 ![Slide 84](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-32.jpg)
+
 Bitcoin reverses the Cantillon Effect because it does not depend on the printers controlled by governments or central banks. There's no way to print more bitcoin and dilute the circulating supply. Inverting the usual fiat logic, it ends up generating more value for those furthest from the printing presses: first for ordinary people, who began to accumulate bitcoin individually, then for companies, later for banks and corporations and, only recently, for governments, which are beginning to recognize the importance and are finally "giving in" to Bitcoin.
 
 This dynamic is revolutionary because it redistributes economic power organically. As Bitcoin appreciates in value, it offers an alternative to the traditional system, freeing people from the vicious cycle of devaluing fiat currencies, the so-called "rat wheel", where people work tirelessly just to maintain purchasing power in a system supported by inflationary theft.
@@ -283,32 +302,38 @@ By accumulating Bitcoin, people become less dependent on money controlled by gov
 
 
 ![Slide 85](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-33.jpg)
+
 Bitcoin's distribution history reflects all this. Practically 70% of all bitcoin are in the hands of individuals, showing that most ordinary people are the main holders; 3.9% are with companies and businesses that use or invest in Bitcoin; 5.9% are in ETFs and funds, representing the entry of institutions into the ecosystem; 1.5% belong to governments, which are only now beginning to recognize Bitcoin; 7.5% are lost due to people not taking good care of their private keys; 4.6% are in addresses belonging to Satoshi Nakamoto, who has never moved or sold his balances, keeping these coins out of circulation, and 5.8% remain to be mined and will be distributed gradually until the year 2140.
 
 
 ![Slide 86](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-34.jpg)
+
 Bitcoin is fairer money because the supply cannot be manipulated. It is impossible to "print" more of it. Since its inception, Bitcoin's monetary policy has been transparent and predictable, with everyone knowing exactly how and when new coins would be issued, even before the first block was mined.
 
 The creation of Bitcoin was open and fair. Anyone can connect to the network. Unlike any other monetary system created, Bitcoin does not depend on intermediaries, does not favor elites close to power and offers a fairer alternative for individuals anywhere in the world. The rules are clear, predictable and the same for everyone. Everyone follows the same rules, without exception.
 
 
 ![Slide 87](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-35.jpg)
+
 Bitcoin is incredibly powerful because it has the greatest global network effect ever seen. It is an independent global monetary network, not controlled by any country or government. No government or entity can monopolize, censor or completely ban Bitcoin, since it is decentralized and sustained by a global infrastructure of independent users, miners and nodes that verify everything.
 
 Bitcoin's network effect is unparalleled, surpassing any monetary network of the past or present. The more people and initiatives adopt it, the stronger and more valuable the network becomes, creating an exponential growth cycle resistant to external interference. This combination of independence and network effect makes Bitcoin a money revolution. It is much more robust and resilient than any monetary system ever created. That's why Bitcoin is better money: because it's not just money, it's a superior financial system.
 
 
 ![Slide 88](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-36.jpg)
+
 It unites everything in one place, a true 3 in 1. Unlike fiat money, which is fragmented, with each country having its own currency, Bitcoin is universal. In the fiat system, commercial banks control access to money and act according to their own interests, while central banks define monetary policies and distribute money through banks. With Bitcoin, all of this is integrated into a single, global network, independent of intermediaries.
 
 So Bitcoin is better at these three functions.
 
 
 ![Slide 89](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-37.jpg)
+
 Bitcoin is money that doesn't melt away in value. On the contrary: it appreciates in value, bringing more prosperity to everyone. Bitcoin has a monetary network without depending on any bank, without a manager, without requesting any personal data. Just download a wallet and you can receive Bitcoin from anywhere on the planet without any barrier whatsoever. Also, Bitcoin is even better than any central bank because it gives more predictability, transparency and guarantee of wealth and property preservation than any central bank ever has. That's why Bitcoin is not only better money, but a better and fairer global monetary system. It benefits all countries, not just the one that owns the reserve currency in force.
 
 
 ![Slide 90](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-38.jpg)
+
 Bitcoin is fully independent money, an independent financial network, with an independent, immutable and borderless monetary policy.
 
 That's why Bitcoin is seeing more and more adoption and should continue to do so, feeding back into all of its monetary properties that we've talked about here in this lesson.

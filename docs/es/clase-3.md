@@ -16,10 +16,12 @@ El primer paso para entender por qué Bitcoin es mejor dinero es entender que ti
 
 
 ![Slide 51](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-01.jpg)
+
 Desde su lanzamiento en 2009, Bitcoin se ha revalorizado de forma impresionante. Al principio, no tenía precio: su valor era literalmente cero. Sin embargo, a lo largo de los años, Bitcoin ha acumulado un crecimiento de más de 8.000 millones por ciento en dólares entre 2010 y 2024. En 2024, alcanzó la marca de los 100.000 dólares por unidad, consolidando su trayectoria de volatilidad a corto plazo, pero de crecimiento continuo a lo largo de 15 años.
 
 
 ![Slide 52](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-02.jpg)
+
 Bitcoin es fundamentalmente diferente de las monedas fiat. El término "fiat" viene del latín y significa "hágase". Es dinero por decreto, impuesto por los gobiernos mediante leyes de circulación forzosa, es decir, adoptado artificialmente y no por sus propiedades monetarias naturales. La gente utiliza monedas fiat porque se ve obligada a ello, mientras que el Bitcoin y el oro se adoptan libremente debido a sus propiedades naturales.
 
 Como mencionamos en la lección anterior, el oro tiene propiedades atómicas únicas, formadas por procesos cósmicos como los choques nucleares durante la formación de la Tierra. Bitcoin, en cambio, se basa en propiedades matemáticas que están protegidas por su estructura descentralizada. Su descentralización, tanto en el código como en los registros, garantiza que nadie, por muy poderoso que sea, pueda cambiar las propiedades fundamentales de Bitcoin, igual que nadie puede cambiar las propiedades atómicas naturales del oro. Cambiar el oro es recrear un metal cualquiera que no es oro auténtico. Lo mismo ocurre con Bitcoin. Por eso, aunque hay millones de criptomonedas, ninguna de ellas puede hacer lo que hace Bitcoin y acercarse a la relevancia que tiene Bitcoin.
@@ -28,6 +30,7 @@ Por esas razones, tanto el oro como el Bitcoin se han revalorizado con el tiempo
 
 
 ![Slide 53](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-03.jpg)
+
 Los bancos centrales justifican la existencia de las monedas fiat y sus políticas monetarias afirmando que sirven para "controlar la economía y garantizar la estabilidad financiera". Pero la realidad muestra una historia diferente. Desde 1971, cuando se abandonó el patrón oro, nos hemos enfrentado a crisis económicas mundiales y locales recurrentes. En la práctica, el banco central ni siquiera consigue proteger el valor de la moneda, que debería ser su principal responsabilidad.
 
 Muchos economistas e inversores críticos al Bitcoin argumentan que es demasiado volátil para ser considerado dinero. Pero olvidan que las monedas fiat también son extremadamente volátiles, sólo que de forma diferente. La supuesta "estabilidad" del dinero fiat es una ilusión, ya que pierde valor constantemente con el paso del tiempo. El Bitcoin, por otra parte, a pesar de su volatilidad, ha mostrado un aumento significativo de valor y poder adquisitivo a lo largo de los años.
@@ -38,6 +41,7 @@ Eso sucede porque Bitcoin tiene propiedades monetarias superiores. Así como el 
 
 
 ![Slide 54](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-04.jpg)
+
 Esa imagen muestra las principales características que definen el buen dinero, es decir, el dinero con fuertes propiedades monetarias. Sus características son:
 
 1.  Durabilidad
@@ -50,6 +54,7 @@ Esa imagen muestra las principales características que definen el buen dinero, 
 
 
 ![Slide 55](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-05.jpg)
+
 La primera característica es la durabilidad. El buen dinero debe resistir el desgaste y el paso del tiempo, garantizando su utilidad como medio de cambio y depósito de valor sin deteriorarse.
 
 Las monedas fiat son billetes de papel moneda no duradero. El papel puede arrugarse, mojarse, rasgarse y deteriorarse rápidamente. Los bancos centrales gastan regularmente millones de dólares en sustituir los billetes deteriorados por otros nuevos. Además, el dinero fiat como red depende de bancos centrales que pueden cambiar las reglas de cada moneda localmente. En otras palabras, aunque los gobiernos creen monedas digitales, no tendrán propiedades monetarias duraderas e inmutables a largo plazo.
@@ -58,12 +63,14 @@ El oro  es naturalmente duradero porque no se oxida ni se degrada. Por otra part
 
 
 ![Slide 56](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-06.jpg)
+
 ¿Te has notado que las monedas de oro antiguas tienen bordes irregulares? Eso se debe a que las monedas de oro se desgastan, lo que degrada el valor original de la moneda. La moneda acaba perdiendo la cantidad de oro inscrita en su cara.
 
 Bitcoin, en cambio, es extremadamente duradero porque es digital. No hay desgaste físico. Además, mientras haya un nodo funcionando y procesando la red, ésta sigue existiendo. La red Bitcoin también es muy resistente. En sus 16 años de existencia, se ha enfrentado a constantes ataques, pero sigue funcionando ininterrumpidamente como la red más segura y computacionalmente potente del mundo. Por eso Bitcoin es más duradero como moneda y resistente como red que el dinero fiat o el oro.
 
 
 ![Slide 57](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-07.jpg)
+
 La divisibilidad es la capacidad del dinero de dividirse en unidades más pequeñas, lo que permite realizar transacciones de cualquier valor. Eso es esencial para facilitar el uso del dinero, sea para las grandes negociaciones o para las compras cotidianas. Un ejemplo práctico: una casa no puede considerarse dinero porque no es fácil dividirla en partes más pequeñas. Las casas, por supuesto, no son dinero, son activos o pasivos que valen una cantidad de dinero.
 
 El dinero fiat es muy divisible y puede descomponerse en céntimos, lo que facilita su uso en transacciones de distintos importes.
@@ -74,6 +81,7 @@ Por otra parte, Bitcoin es aún más divisible que el dinero fiat: puede fraccio
 
 
 ![Slide 58](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-08.jpg)
+
 Con el dólar o el peso, necesitas más billetes con el tiempo porque esas monedas pierden valor, ¿verdad? Con un bitcoin ocurre lo contrario: a medida que aumenta su valor, necesitas menos unidades para comprar las mismas cosas. Por eso un bitcoin es extremadamente divisible; tiene varios decimales para facilitar el precio de los bienes y servicios a medida que se utilizan fracciones más pequeñas.
 
 Un bitcoin entero está formado por 100 millones de satoshis, siendo el satoshi la unidad más pequeña de bitcoin. Para entenderlo mejor, imagina que un bitcoin es como una pizza que se puede cortar en 100 millones de porciones. Cuando compras 50, 100 o 1.000 pesos, euros o dólares en bitcoin, en realidad estás comprando miles de satoshis.\
@@ -83,6 +91,7 @@ Actualmente, un satoshi vale menos de un centavo de dólar: aproximadamente un d
 
 
 ![Slide 59](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-09.jpg)
+
 La fungibilidad es la propiedad del dinero por la que todas sus unidades son equivalentes y pueden intercambiarse entre sí, independientemente de su origen o historia. Es la propiedad que garantiza que el dinero será aceptado universalmente, sin discriminación entre unidades.
 
 Las monedas fiat no son completamente fungibles. Por ejemplo, 1 peso no es igual a 1 dólar y las monedas de distintos países no son intercambiables. Aunque dentro de un país un billete de 100 pesos es igual a otro billete de 10 pesos, el dólar, por ejemplo, no se acepta como moneda de curso legal en todos los países. Por no hablar de las diferencias entre los tipos de países con alta inflación, como Argentina, que tenía una cotización de "dólar blue" y la cotización oficial del gobierno, cuyo valor estaba desfasado. En otras palabras, en tiempos de crisis, la moneda fiduciaria pierde su fungibilidad.
@@ -93,6 +102,7 @@ Bitcoin también es fungible. Un bitcoin es igual que cualquier otro bitcoin, in
 
 
 ![Slide 60](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-10.jpg)
+
 La portabilidad es la capacidad del dinero para ser transportado y almacenado fácilmente, lo que permite realizar transacciones en distintos lugares y situaciones.
 
 Aunque las monedas y las pequeñas cantidades de oro son portátiles, volúmenes más grandes, como millones en lingotes de oro, son pesados y caros de transportar y almacenar. Para trasladar lingotes de oro entre países, es habitual que los bancos centrales fundan los lingotes para verificar su autenticidad. Además, el transporte conlleva elevados costes logísticos y de seguridad.
@@ -103,18 +113,21 @@ Bitcoin los supera a todos en ese aspecto. Al ser digital, no tiene peso, no ocu
 
 
 ![Slide 61](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-11.jpg)
+
 La portabilidad es un reto importante para los activos analógicos, como los bienes inmuebles o commodities. No puedes, por ejemplo, trasladar un terreno, e incluso una casa sólo podría transportarse con gran esfuerzo y mucho coste, como se muestra en la imagen de la izquierda.
 
 Con el oro, la situación es igual de complicada. No puedes llevarlo en un avión sin informar a terceros de que llevas ese patrimonio, lo que compromete la intimidad, implica burocracia y más costes con tasas.
 
 
 ![Slide 62](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-12.jpg)
+
 Bitcoin, en cambio, no tiene rival en cuanto a portabilidad. Al ser nativamente digital, puede transportarse al instante, sin depender de intermediarios ni de procesos complicados y costosos.
 
 Ese post de Tuur Demeester demuestra muy bien la gran diferencia de portabilidad. Mientras que 1.500 millones de dólares en lingotes de oro ocupan una habitación entera y una costosa estructura de seguridad, los mismos 1.500 millones de dólares en bitcoin son pura información y caben en un trozo de papel o en unos pocos bytes de información. Es el dinero y el activo más portátil del mundo.
 
 
 ![Slide 63](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-13.jpg)
+
 La verificabilidad es la facilidad con la que el dinero puede ser identificado y autentificado como legítimo. Esa propiedad es esencial para evitar el fraude y la falsificación. Cuanto más sencillo y fiable sea el proceso de verificación, más barato y práctico será utilizar el dinero como depósito de valor y medio de intercambio.
 
 El dinero fiat es relativamente fácil de falsificar, hasta el punto de que los billetes falsos circulan con frecuencia por el mercado. Eso obliga a comerciantes y consumidores a aprender técnicas básicas de identificación, como comprobar si hay marcas de agua o elementos de seguridad en los billetes.
@@ -125,6 +138,7 @@ La facilidad para verificar la autenticidad del dinero es esencial para garantiz
 
 
 ![Slide 64](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-14.jpg)
+
 Incluso el oro puede falsificarse, lo que revela importantes limitaciones en su verificabilidad. Hay muchos ejemplos de fraude relacionados con el oro, como los lingotes de oro adulterados. Se han encontrado algunos lingotes almacenados incluso en las cajas fuertes de los bancos centrales con tungsteno en el núcleo y recubiertos sólo con una capa de oro puro. Las monedas chapadas en oro y las joyas fabricadas con aleaciones metálicas de baja calidad también son ejemplos de falsificación. 
 
 Como ya hemos dicho, verificar la autenticidad del oro es caro y complicado. El proceso suele requerir equipos especializados y certificados emitidos por terceros de confianza. Todo eso burocratiza el proceso y dificulta su uso como dinero, sobre todo a gran escala.
@@ -133,6 +147,7 @@ Esas limitaciones hacen que el oro sea menos eficaz en términos de verificabili
 
 
 ![Slide 65](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-15.jpg)
+
 Bitcoin es extremadamente fácil y barato de verificar, gracias a su naturaleza digital y descentralizada. A diferencia de otros tipos de dinero, no hay lugar para la falsificación. No es posible enviar o recibir "bitcoin falso" porque la red valida todas las transacciones antes de confirmarlas. Si alguien intenta enviar una "transacción falsa", simplemente no se propagará. 
 
 Y la verificación es global. Con un simple comando en la computadora, cualquiera puede verificar la autenticidad no sólo de un único bitcoin, sino de todas las monedas que ya están en la red. Eso incluye la oferta total de bitcoins y el ritmo al que se emiten nuevas monedas, garantizando una transparencia absoluta del sistema en su totalidad.
@@ -141,6 +156,7 @@ Esa transparencia radical es algo que nunca ha ofrecido ningún otro sistema mon
 
 
 ![Slide 66](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-16.jpg)
+
 Escasez es la propiedad que define la dificultad de crear nuevas unidades de dinero y es esencial para proteger el valor a lo largo del tiempo.
 
 Las monedas fiat no son escasas. Los bancos centrales pueden imprimir cantidades ilimitadas de dinero, lo que a menudo provoca inflación, devaluación y pérdida de poder adquisitivo. Esa falta de escasez es una de las principales debilidades del dinero fiat.
@@ -151,12 +167,14 @@ La escasez es un factor crucial para determinar la resistencia de un dinero a la
 
 
 ![Slide 67](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-17.jpg)
+
 Aunque es extremadamente difícil y caro producir oro en un laboratorio, la oferta mundial de oro sigue creciendo debido al descubrimiento constante de nuevos yacimientos. Los avances de la minería y la tecnología permiten extraer oro en lugares antes inaccesibles, lo que aumenta gradualmente la cantidad de oro disponible en el mercado.
 
 Esa imprevisibilidad de la oferta de oro significa que no es absolutamente escaso. Eso diferencia al oro del Bitcoin, que tiene su suministro fijo y conocido desde el principio, y es aún más predecible como depósito de valor.
 
 
 ![Slide 68](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-18.jpg)
+
 Además de los yacimientos terrestres, se están explorando nuevas fronteras para la extracción de oro, como la minería de asteroides y la minería oceánica. Esas tecnologías futuristas pretenden extraer recursos de sitios que antes eran inaccesibles.
 
 Algunos asteroides contienen grandes cantidades de metales preciosos, incluido el oro. Las empresas espaciales ya están desarrollando tecnologías para explotar esos recursos en el futuro. El lecho marino es también una fuente potencial de oro y otros metales valiosos, y ya hay proyectos en marcha para hacer viable la extracción de estos yacimientos sumergidos.
@@ -165,17 +183,20 @@ Aunque estas tecnologías están aún en sus primeras fases, representan la posi
 
 
 ![Slide 69](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-19.jpg)
+
 Informes como éste demuestran que hay asteroides llenos de metales preciosos, incluido el oro, con un valor estimado de 100.000 cuatrillones de dólares. Si la minería espacial llega a ser viable, podría eliminar por completo la escasez de oro, una de sus principales propiedades monetarias.
 
 Si el oro se volviera abundante, perdería su capacidad de actuar como depósito fiable de valor. En ese escenario, su uso se limitaría a funciones más específicas, como la fabricación de joyas, donde se sigue valorando su brillo y belleza, o en aplicaciones industriales, como la producción de chips electrónicos, gracias a su excelente conductividad.
 
 
 ![Slide 70](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-20.jpg)
+
 La minería oceánica se está convirtiendo en otra gran frontera tecnológica, y países como Noruega ya exploran la viabilidad de extraer oro y otros metales preciosos del fondo marino. Pero ese tipo de minería está generando un intenso debate con los ecologistas, que advierten de los impactos ecológicos de esta actividad.
 
 Aunque la minería oceánica se enfrenta a retos técnicos y éticos, es probable que, con el tiempo, los avances tecnológicos hagan viables estas operaciones. Ese escenario refuerza la fragilidad del oro como depósito de valor a largo plazo a medida que avanza la tecnología. 
 
 ![Slide 71](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-23.jpg)
+
 A diferencia del oro, Bitcoin no depende de factores externos para mantener la escasez. El suministro máximo de 21 millones de unidades está fijado y programado desde el principio. Ninguna innovación tecnológica o descubrimiento futuro puede aumentar la oferta de Bitcoin sin consenso en la red.
 
 Eso significa que Bitcoin es matemáticamente escaso. Esa ecuación refleja cómo se calcula la oferta de Bitcoin y cómo tiende a ser cada vez más limitada con el tiempo. En la próxima lección sobre los halvings, entenderás esta ecuación en detalle, pero el punto principal es que Bitcoin es absolutamente escaso, mientras que otros tipos de dinero, commodities o activos son sólo relativamente escasos.
@@ -185,6 +206,7 @@ La escasez de oro se basa en estimaciones estadísticas y datos limitados, sujet
 En el caso de Bitcoin, la oferta es inalterable. Es posible predecir con exactitud la emisión de nuevos bitcoins con décadas de antelación, algo que ninguna moneda o activo tradicional consigue ofrecer. Esa transparencia y previsibilidad secular hacen que Bitcoin sea mucho más fiable y estable como depósito de valor.
 
 ![Slide 72](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-22.jpg)
+
 En 2024, Bitcoin será oficialmente más escaso que el oro, según la métrica stock-to-flow (S2F). Esa métrica se utiliza para medir la escasez de un bien, calculando la relación entre el stock total disponible (stock) y la cantidad producida anualmente (flow). Los activos con un S2F elevado, como el oro y el Bitcoin, tienen una oferta limitada, lo que los hace más valiosos porque es más difícil crear nuevas unidades de ellos.
 
 En el caso del oro, su escasez relativa está ligada a su producción anual, que depende de factores como la extracción terrestre y la posibilidad de extracción oceánica o espacial en el futuro. Bitcoin, por otra parte, está programado para volverse cada vez más escaso con el tiempo, gracias a los halvings, que reducen a la mitad la emisión de nuevos bitcoins cada cuatro años. Este proceso garantiza que, con el paso de los años, la oferta de nuevos bitcoins disminuya drásticamente, aumentando su relación stock-to-flow.
@@ -193,10 +215,12 @@ El elevado S2F de Bitcoin sugiere que tiene un enorme potencial para seguir apre
 
 
 ![Slide 73](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-24.jpg)
+
 En resumen, la escasez de Bitcoin tiende a aumentar con el tiempo, mientras que el oro y otros activos tienden a ser menos escasos. El dinero fiat, en cambio, no es en absoluto escaso, razón por la cual se ha fundido en valor en todos los países bajo el actual patrón fiduciario. 
 
 
 ![Slide 74](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-25.jpg)
+
 La última propiedad monetaria es la aceptación, que mide el nivel de adopción y el grado en que la gente reconoce algo como dinero. En el caso de las monedas fiduciarias, la aceptación es limitada. Cada país tiene su propia moneda y no siempre es reconocida o aceptada fuera de sus fronteras. Eso crea barreras en las transacciones internacionales, dificultando la universalización del dinero.
 
 El oro, en cambio, ha sido ampliamente aceptado en el pasado y se ha establecido como dinero sólido a lo largo de la historia. A día de hoy, se reconoce mundialmente como depósito de valor, aunque su uso como medio de cambio haya disminuido con la aparición de las monedas fiat.
@@ -205,6 +229,7 @@ Bitcoin aún está en proceso de aceptación. No está ampliamente reconocido co
 
 
 ![Slide 75](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-26.jpg)
+
 Bitcoin ha avanzado mucho en la curva de adopción y la curva de Lindy ilustra bien las etapas por las que pasa un dinero hasta que se convierte en una norma mundial. Ese modelo explica cómo evoluciona Bitcoin:
 
 1.  Al principio, el dinero nació como un objeto de colección, algo que poca gente valora o acumula por curiosidad o previsión.
@@ -217,6 +242,7 @@ El punto crucial es que aún estamos en una fase temprana de esta revolución te
 
 
 ![Slide 76](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-27.jpg)
+
 Bitcoin es un dinero superior porque su poder adquisitivo aumenta con el tiempo, mientras que con el dinero fiduciario ocurre lo contrario. Con monedas fiat, como los pesos o el dólar, el valor disminuye constantemente debido a la inflación y a la impresión de dinero. Eso significa que los mismos billetes compran cada vez menos bienes y servicios a lo largo de los años. En otras palabras, pierden su función como dinero.
 
 Bitcoin, en cambio, sigue el camino opuesto. Su oferta limitada y programada de 21 millones de unidades significa que, a medida que crece la adopción y aumenta la demanda, también aumentan su valor y su poder adquisitivo. Históricamente, quienes han guardado Bitcoin han visto crecer su poder adquisitivo, a diferencia de quienes han guardado sus ahorros en monedas fiat -- que pierden valor continuamente. Bitcoin está ganando función como dinero.
@@ -225,21 +251,25 @@ Esa diferencia refleja una de las principales ventajas de Bitcoin: es un dinero 
 
 
 ![Slide 77](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-28.jpg)
+
 El propio oro está siendo desmonetizado gradualmente por el Bitcoin. Cotizado en bitcoins, el oro ha perdido casi el 100% de su valor. Eso nos muestra cómo el Bitcoin está sustituyendo al oro como el depósito de valor más antiguo del mundo.
 
 Pero Bitcoin va más allá. No es sólo una evolución del oro como depósito de valor: es un dinero superior, ya que tiene propiedades monetarias mucho mejores que el oro. Mientras que el oro se enfrenta a limitaciones como la portabilidad, divisibilidad y verificabilidad, Bitcoin supera todas esas barreras con su naturaleza digital, escasez absoluta programada y facilidad de transferencia y almacenamiento. Bitcoin es mejor dinero. 
 
 
 ![Slide 78](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-29.jpg)
+
 Otro punto importante de esta lección es que Bitcoin es mejor dinero porque es un dinero más justo.
 
 
 ![Slide 79](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-30.jpg)
+
 El dinero fiduciario sufre un fenómeno llamado Efecto Cantillon, descrito por Richard Cantillon en 1730 en el libro "El Efecto Cantillon". Ese concepto ilustra cómo los más cercanos a la fuente del nuevo dinero se benefician desproporcionadamente, mientras que los más alejados sufren.
 
 En el pasado, la creación de dinero estaba controlada por los reyes, que lo distribuían primero entre duques, nobles y otros aliados cercanos. Esos "amigos del rey" utilizaron el nuevo dinero para adquirir bienes y activos como caballos, casas y oro. A medida que el dinero recién creado circulaba por la economía, provocaba subidas de precios. Cuando finalmente llegó a manos de la gente corriente, los más pobres, el poder adquisitivo se había visto profundamente erosionado. Y así, las personas que se encontraban al final de la cadena de circulación eran siempre las más perjudicadas. El dinero que les llegaba ya estaba caducado y su valor real era mucho menor.
 
 ![Slide 80](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-31.jpg)
+
 En el mundo moderno, el dinero sigue el mismo flujo que en tiempos de los reyes, pero con personajes actualizados. Ahora, los bancos centrales crean dinero y los primeros en recibirlo son los grandes bancos y empresas. Esos actores utilizan el dinero recién creado para invertir o recomprar sus propios activos, como acciones. El dinero se utiliza para pagar a ejecutivos, directores y otros altos cargos. Por último, llega a los empleados y clientes de la base económica.
 
 Ese flujo explica por qué los que reciben primero el dinero pueden proteger mejor su poder adquisitivo: tienen acceso al dinero antes de que suban los precios. Por otra parte, los que están al final de la cola, normalmente los más pobres, sufren las consecuencias. Cuando por fin les llega el dinero, los precios de los bienes, servicios y activos ya han subido, haciendo que todo sea más caro e inasequible.
@@ -252,6 +282,7 @@ Esos mismos bancos centrales y gobiernos tienen el poder exclusivo de imprimir d
 
 
 ![Slide 81](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-32.jpg)
+
 Bitcoin invierte el Efecto Cantillon porque no depende de imprentas controladas por gobiernos o bancos centrales. No hay forma de imprimir más Bitcoin y diluir la oferta circulante. Invirtiendo la lógica fiduciaria, acaba generando más valor para los más alejados de las imprentas: primero para la gente corriente, que empezó a acumular Bitcoin individualmente, luego para las empresas, más tarde para los bancos y corporaciones y, sólo recientemente, para los gobiernos, que están empezando a reconocer la importancia y por fin están "dando el visto bueno" a Bitcoin.
 
 Esa dinámica es revolucionaria porque redistribuye orgánicamente el poder económico. A medida que el Bitcoin se revaloriza, ofrece una alternativa al sistema tradicional, liberando a la gente del círculo vicioso de la devaluación de las monedas fiduciarias, la llamada "rueda de la rata", en la que la gente trabaja incansablemente sólo para mantener el poder adquisitivo en un sistema sostenido por el robo inflacionista.
@@ -260,32 +291,38 @@ Al acumular Bitcoin, la gente se vuelve menos dependiente del dinero controlado 
 
 
 ![Slide 82](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-33.jpg)
+
 La historia de la distribución de Bitcoin refleja todo eso. Prácticamente el 70% de los bitcoins están en manos de particulares, lo que demuestra que la mayoría de la gente corriente son los principales poseedores; el 3,9% están en empresas y negocios que utilizan o invierten en Bitcoin; el 5,9% están en ETFs y fondos, lo que representa la entrada de las instituciones en el ecosistema; el 1,5% pertenecen a gobiernos, que sólo ahora están empezando a reconocer Bitcoin; el 7,5% se pierden debido a que la gente no cuida bien sus claves privadas; el 4,6% están en direcciones que pertenecen a Satoshi Nakamoto, que nunca ha movido ni vendido sus saldos, manteniendo estas monedas fuera de circulación y el 5,8% quedan por minar y se distribuirán gradualmente hasta el año 2140.
 
 
 ![Slide 83](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-34.jpg)
+
 Bitcoin es un dinero más justo porque la oferta no se puede manipular. Es imposible "imprimir" más bitcoins. Desde su creación, la política monetaria de Bitcoin ha sido transparente y predecible, y todo el mundo sabía exactamente cómo y cuándo se emitirían nuevos bitcoins, incluso antes de que se minara el primer bloque.
 
 La creación de Bitcoin fue asequible y justa. Cualquiera puede conectarse a la red. A diferencia de cualquier otro sistema monetario creado, Bitcoin no depende de intermediarios, no favorece a las élites cercanas al poder y ofrece una alternativa más justa para los individuos de cualquier parte del mundo. Las normas son claras, previsibles e iguales para todos. Todos siguen las mismas reglas, sin excepción.
 
 
 ![Slide 84](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-35.jpg)
+
 Bitcoin es increíblemente poderoso porque tiene el mayor efecto de red global jamás visto. Es una red monetaria mundial independiente, no controlada por ningún país ni gobierno. Ningún gobierno o entidad puede monopolizar, censurar o prohibir completamente Bitcoin, porque está descentralizado y sustentado por una infraestructura global de usuarios, mineros y verificadores independientes.
 
 El efecto de red de Bitcoin no tiene rival, superando a cualquier red monetaria del pasado o del presente. Cuantas más personas e iniciativas adopten Bitcoin, más fuerte y valiosa se hará la red, creando un ciclo de crecimiento exponencial resistente a interferencias externas. Esa combinación de independencia y efecto de red convierte a Bitcoin en una revolución monetaria. Es mucho más robusto y resistente que cualquier sistema monetario jamás creado. Por eso Bitcoin es mejor dinero, porque no es sólo dinero, es un sistema financiero superior.
 
 
 ![Slide 85](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-36.jpg)
+
 Bitcoin es un sistema financiero superior porque une todo en un solo lugar, un verdadero 3 en 1. A diferencia del dinero fiat, fragmentado, donde cada país tiene su propia divisa, Bitcoin es universal. En el sistema fiat, los bancos comerciales controlan el acceso al dinero y actúan según sus propios intereses, mientras que los bancos centrales definen las políticas monetarias y distribuyen el dinero a través de los bancos. Con Bitcoin, todo eso se integra en una red única y global, independiente de intermediarios.
 
 Así que Bitcoin es mejor en esas tres funciones.
 
 
 ![Slide 86](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-37.jpg)
+
 Bitcoin es dinero que no pierde valor: al contrario, gana, trayendo más prosperidad a todos. Bitcoin dispone de una red monetaria sin depender de ningún banco: sin sucursales, sin gestor, sin solicitar ningún dato personal. Sólo tienes que descargarte un monedero y podrás recibir bitcoins desde cualquier lugar del planeta sin ninguna barrera. Y Bitcoin es mejor que cualquier banco central porque proporciona más previsibilidad, transparencia y garantías de conservación de la riqueza y la propiedad que cualquier banco central. Por eso Bitcoin no sólo es mejor dinero, sino un sistema monetario mejor y más justo a nivel mundial. Beneficia a todos los países, no sólo a los que tienen la moneda de reserva en vigor.
 
 
 ![Slide 87](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%203/slide-38.jpg)
+
 Bitcoin es un dinero independiente, es una red financiera independiente y tiene una política monetaria independiente, inmutable y sin fronteras.
 
 Por eso Bitcoin está viendo cada vez más adopción y probablemente va a seguir haciéndolo, retroalimentándose de todas sus propiedades monetarias de las que hemos hablado aquí en esta lección.
