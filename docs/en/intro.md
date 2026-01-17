@@ -1,8 +1,15 @@
-#  Bitcoin 4 All - Complete Course
+#  Bitcoin 4 All
 
 Welcome to **Bitcoin 4 All**, a comprehensive course designed to take you from zero to understanding Bitcoin deeply.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086493595?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Introduction"></iframe></div>
+
+
+
+##  Todos os Vídeos do Curso
+
+<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11719599/embed' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media' frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;'></iframe></div>
+
 
 ---
 
@@ -46,7 +53,7 @@ Welcome to **Bitcoin 4 All**, a comprehensive course designed to take you from z
 
 Ready to begin? Click below to start with Class 1:
 
-[**Start Class 1: What is Bitcoin?** :arrow_right:](en/class-1.md)
+[**Start Class 1: What is Bitcoin?** ](en/class-1.md)
 
 ---
 

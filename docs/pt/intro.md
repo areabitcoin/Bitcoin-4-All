@@ -1,14 +1,21 @@
-# :book: Introdução ao Bitcoin 4 All
+#  Bitcoin 4 All
 
 Bem-vindo ao curso **Bitcoin 4 All**! Uma jornada completa, gratuita e de código aberto para entender Bitcoin do zero.
 
-## :movie_camera: Apresentação do Curso
+##  Apresentação do Curso
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077758630?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Introdução ao Bitcoin4All"></iframe></div>
 
+
+
+##  Todos os Vídeos do Curso
+
+<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11677092/embed' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media' frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;'></iframe></div>
+
+
 ---
 
-## :page_facing_up: Roteiro Completo
+##  Roteiro Completo
 
 Olá! Seja muito bem-vindo ao Bitcoin4All, um curso gratuito e open source criado pela Area Bitcoin.
 
@@ -26,7 +33,7 @@ A gente acredita que o conhecimento sobre Bitcoin precisa ser universal e acess�
 
 ---
 
-## :dart: Conteúdo Programático
+##  Conteúdo Programático
 
 Nós preparamos um curso com **10 aulas**, cada uma com cerca de 10 minutos, para te guiar pelos principais conceitos e responder às dúvidas mais comuns sobre o Bitcoin.
 
@@ -45,7 +52,7 @@ Nós preparamos um curso com **10 aulas**, cada uma com cerca de 10 minutos, par
 
 ---
 
-## :bulb: O que você pode fazer?
+##  O que você pode fazer?
 
  **Aprenda**: assista ao curso no seu ritmo e descubra como o Bitcoin funciona, por que ele é importante e como proteger bem seus satoshis.
 
@@ -63,15 +70,15 @@ Estamos aqui para te ajudar a entender, adotar e espalhar essa ideia transformad
 
 ---
 
-## :rocket: Começar Agora
+##  Começar Agora
 
-[Começar Aula 1 :arrow_right:](pt/aula-1.md)
+[Começar Aula 1 ](pt/aula-1.md)
 
 ---
 
-## :link: Links
+##  Links
 
-- :globe_with_meridians: [Area Bitcoin](https://areabitcoin.co)
+-  [Area Bitcoin](https://areabitcoin.co)
 - :bird: [Twitter/X](https://x.com/areabitcoin)
 - :tv: [YouTube](https://youtube.com/@AreaBitcoin)
 - :camera: [Instagram](https://instagram.com/area.bitcoin)

@@ -1,12 +1,12 @@
-# :five: Class 5 - Inside Bitcoin: Mining, Halving and the Cycles
+# 5 Class 5 - Inside Bitcoin: Mining, Halving and the Cycles
 
-## :movie_camera: Class Video
+##  Class Video
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1083556896?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 5"></iframe></div>
 
 ---
 
-## :page_facing_up: Full Script
+##  Full Script
 
 # Script Class 5 - Inside Bitcoin: How Does Bitcoin Work? (mining, halving and the cycles)
 

@@ -1,12 +1,12 @@
-# :one: Class 1 - What is Bitcoin and why was it created?
+# 1 Class 1 - What is Bitcoin and why was it created?
 
-## :movie_camera: Video
+##  Class Video
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086492716?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 1"></iframe></div>
 
 ---
 
-## :page_facing_up: Full Script
+##  Full Script
 
 # Script Class 1 - What is Bitcoin and why was it created?
 
@@ -205,11 +205,11 @@ See you next class!
 
 ---
 
-## :books: Additional Resources
+##  Additional Resources
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%201)
 
 ---
 
-[:arrow_left: Previous](en/intro.md) | [Next :arrow_right:](en/class-2.md)
+[ Previous](en/intro.md) | [Next ](en/class-2.md)

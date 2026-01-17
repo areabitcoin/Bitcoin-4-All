@@ -1,12 +1,12 @@
-# :six: Class 6 - Why should Bitcoin continue to appreciate?
+# 6 Class 6 - Why should Bitcoin continue to appreciate?
 
-## :movie_camera: Video
+##  Class Video
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086488561?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 6"></iframe></div>
 
 ---
 
-## :page_facing_up: Full Script
+##  Full Script
 
 # Script Class 6 - Why should Bitcoin continue to appreciate?
 
@@ -196,11 +196,11 @@ Ultimately, Bitcoin is a global, long-term trend. Preparing today is easier than
 
 ---
 
-## :books: Additional Resources
+##  Additional Resources
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%206)
 
 ---
 
-[:arrow_left: Previous](en/class-5.md) | [Next :arrow_right:](en/class-7.md)
+[ Previous](en/class-5.md) | [Next ](en/class-7.md)

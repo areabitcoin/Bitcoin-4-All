@@ -1,17 +1,17 @@
 ﻿# About the Course
 
-## :book: What is Bitcoin 4 All?
+##  What is Bitcoin 4 All?
 
 Bitcoin 4 All is a **free, open-source educational project** designed to teach Bitcoin fundamentals to anyone, regardless of their technical background.
 
-## :dart: Goals
+##  Goals
 
 - Make Bitcoin education accessible to everyone
 - Provide high-quality materials in multiple languages
 - Enable educators to teach Bitcoin at meetups and events
 - Create a community of Bitcoin knowledge multipliers
 
-## :sparkles: Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
@@ -28,11 +28,11 @@ Bitcoin 4 All is a **free, open-source educational project** designed to teach B
 - **Meetup organizers** looking for quality content
 - **Translators** wanting to bring Bitcoin education to new languages
 
-## :moneybag: Funding
+##  Funding
 
 This project is funded by [OpenSats](https://opensats.org), supporting Bitcoin education worldwide.
 
-## :link: Links
+##  Links
 
 - [GitHub Repository](https://github.com/areabitcoin/Bitcoin-4-All)
 - [Area Bitcoin Website](https://areabitcoin.co)

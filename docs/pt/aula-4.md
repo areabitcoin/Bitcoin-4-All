@@ -1,12 +1,12 @@
-# :four: Aula 4 - Por dentro do Bitcoin: Descentralização, Blockchain e Teoria dos Jogos
+# 4 Aula 4 - Por dentro do Bitcoin: Descentralização, Blockchain e Teoria dos Jogos
 
-## :movie_camera: Video da Aula
+##  Vídeo da Aula
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077682277?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 4"></iframe></div>
 
 ---
 
-## :page_facing_up: Roteiro Completo
+##  Roteiro Completo
 
 ﻿#Roteiro Aula 4- Por dentro do Bitcoin: como Bitcoin funciona? (descentralização, blockchain e teoria dos jogos)
 

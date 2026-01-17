@@ -8,35 +8,35 @@ Curso gratuito e de código aberto sobre Bitcoin para todos!
 
 ## :world_map: Choose Your Language / Escolha seu Idioma
 
-| :brazil: Português | :us: English | :es: Español |
+|  Português |  English |  Español |
 |:------------------:|:------------:|:------------:|
 | [Começar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
 
 ---
 
-## :books: About the Course
+##  About the Course
 
 **Bitcoin 4 All** is a complete course designed to teach anyone about Bitcoin, from zero to self-custody.
 
 ### What you will learn:
 
-- :question: What is Bitcoin and why was it created
-- :moneybag: Problems with fiat money
-- :chart_with_upwards_trend: Why Bitcoin is better money
+-  What is Bitcoin and why was it created
+-  Problems with fiat money
+-  Why Bitcoin is better money
 - :gear: How Bitcoin works (decentralization, blockchain, mining)
-- :rocket: Why Bitcoin should continue to appreciate
+-  Why Bitcoin should continue to appreciate
 - :shopping_cart: How to get bitcoin
 - :shield: Debunking FUDs about Bitcoin
-- :key: How to store Bitcoin safely
+-  How to store Bitcoin safely
 - :crown: Financial sovereignty through self-custody
 
 ---
 
-## :link: Links
+##  Links
 
 | | |
 |---|---|
-| :globe_with_meridians: **Website** | [areabitcoin.co](https://areabitcoin.co) |
+|  **Website** | [areabitcoin.co](https://areabitcoin.co) |
 | :bird: **Twitter/X** | [@areabitcoin](https://x.com/areabitcoin) |
 | :tv: **YouTube** | [Area Bitcoin](https://youtube.com/@AreaBitcoin) |
 | :camera: **Instagram** | [@area.bitcoin](https://instagram.com/area.bitcoin) |
@@ -44,7 +44,7 @@ Curso gratuito e de código aberto sobre Bitcoin para todos!
 
 ---
 
-## :balance_scale: License
+##  License
 
 This content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -52,4 +52,4 @@ You are free to share and adapt this material, as long as you give appropriate c
 
 ---
 
-Made with :orange_heart: by [Area Bitcoin](https://areabitcoin.co)
+Made with  by [Area Bitcoin](https://areabitcoin.co)

@@ -1,12 +1,12 @@
-# :keycap_ten: Class 10 - How to withdraw from exchange and have sovereignty with your Bitcoin?
+#  Class 10 - How to withdraw from exchange and have sovereignty with your Bitcoin?
 
-## :movie_camera: Video
+##  Class Video
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086487470?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 10"></iframe></div>
 
 ---
 
-## :page_facing_up: Full Script
+##  Full Script
 
 # Script Class 10 - How to withdraw from the exchange and have sovereignty with your Bitcoin? 
 
@@ -229,11 +229,11 @@ Until next time and Opt Out!
 
 ---
 
-## :books: Additional Resources
+##  Additional Resources
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%2010)
 
 ---
 
-[:arrow_left: Previous](en/class-9.md) | [Next :arrow_right:](en/intro.md)
+[ Previous](en/class-9.md) | [Next ](en/intro.md)

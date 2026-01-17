@@ -1,12 +1,12 @@
-# :seven: Class 7 - How to get Bitcoin? Mining, Exchange, P2P or Circular Economies
+# 7 Class 7 - How to get Bitcoin? Mining, Exchange, P2P or Circular Economies
 
-## :movie_camera: Video
+##  Class Video
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1086487800?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Class 7"></iframe></div>
 
 ---
 
-## :page_facing_up: Full Script
+##  Full Script
 
 #Script Class 7 - How to get bitcoin?
 
@@ -213,11 +213,11 @@ Well, I hope this lesson has helped you understand that there are multiple ways 
 
 ---
 
-## :books: Additional Resources
+##  Additional Resources
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%207)
 
 ---
 
-[:arrow_left: Previous](en/class-6.md) | [Next :arrow_right:](en/class-8.md)
+[ Previous](en/class-6.md) | [Next ](en/class-8.md)

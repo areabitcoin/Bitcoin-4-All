@@ -1,12 +1,12 @@
-# :six: Clase 6 - Por qué Bitcoin debería seguir valorizándose?
+# 6 Clase 6 - Por qué Bitcoin debería seguir valorizándose?
 
-## :movie_camera: Video de la Clase
+##  Video de la Clase
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085129268?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Clase 6"></iframe></div>
 
 ---
 
-## :page_facing_up: Guión Completo
+##  Guión Completo
 
 Guión de clase 6- Por qué debería seguir apreciando el valor de Bitcoin?
 
@@ -194,11 +194,11 @@ Al fin y al cabo, Bitcoin es una tendencia global a largo plazo. Prepararse hoy 
 
 ---
 
-## :books: Material Complementario
+##  Material Complementario
 
 - [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
 - [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%206)
 
 ---
 
-[:arrow_left: Anterior](es/clase-5.md) | [Siguiente :arrow_right:](es/clase-7.md)
+[ Anterior](es/clase-5.md) | [Siguiente ](es/clase-7.md)

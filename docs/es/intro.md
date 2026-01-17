@@ -7,9 +7,16 @@ title: "Bitcoin 4 All - Curso Completo en Español"
 
 Bienvenido al curso completo de Bitcoin en español. Este curso te llevará desde los conceptos básicos hasta una comprensión profunda de cómo funciona Bitcoin y cómo puedes participar en esta revolución monetaria.
 
-## Video de Introducción
+##  Video de la Clase
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085119221?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Introducción"></iframe></div>
+
+
+
+##  Todos os Vídeos do Curso
+
+<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11676414/embed' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media' frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;'></iframe></div>
+
 
 ---
 
@@ -70,4 +77,4 @@ Este curso fue creado por Área Bitcoin para educar a la comunidad hispanohablan
 
 Listo para comenzar? Haz clic en la primera clase!
 
-[Comenzar Clase 1 :arrow_right:](es/clase-1.md)
+[Comenzar Clase 1 ](es/clase-1.md)

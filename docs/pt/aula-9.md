@@ -1,12 +1,12 @@
-# :nine: Aula 9 - Qual a melhor forma de guardar Bitcoin e o que são carteiras?
+# 9 Aula 9 - Qual a melhor forma de guardar Bitcoin e o que são carteiras?
 
-## :movie_camera: Vídeo da Aula
+##  Vídeo da Aula
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077683071?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Aula 9"></iframe></div>
 
 ---
 
-## :page_facing_up: Roteiro Completo
+##  Roteiro Completo
 
 # Roteiro Aula 9 - Qual a melhor forma de guardar Bitcoin e o que são carteiras?
 
@@ -186,11 +186,11 @@ Então nessa aula você aprendeu porque fazer a própria custódia é importante
 
 ---
 
-## :books: Material Complementar
+##  Material Complementar
 
 - [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
 - [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%209)
 
 ---
 
-[:arrow_left: Anterior](pt/aula-8.md) | [Próxima :arrow_right:](pt/aula-10.md)
+[ Anterior](pt/aula-8.md) | [Próxima ](pt/aula-10.md)
