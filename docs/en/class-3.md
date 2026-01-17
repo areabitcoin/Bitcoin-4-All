@@ -1,29 +1,26 @@
-# 3 Class 3 - Why Bitcoin is better money
+# Class 3 - Why Bitcoin is better money
 
-## :movie_camera: Class Video
+### :movie\_camera: Class Video
 
 [![Watch Video](https://img.youtube.com/vi/Z64I8iTy0no/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z64I8iTy0no)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=Z64I8iTy0no)**
+:point\_right: [**Click here to watch on YouTube**](https://www.youtube.com/watch?v=Z64I8iTy0no)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/Z64I8iTy0no?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Full Script
+### Full Script
 
-# Script Class 3 - Why Bitcoin is better money
+## Class 3 - Why Bitcoin is better money
 
 In the previous lesson, you learned about the history of money and why fiat money is an ice cube. Now, in this lesson, you will understand how Bitcoin solves many of the age-old problems that both fiat money and gold failed to solve.
 
 The first step to understanding why Bitcoin is better money is to understand that it has better monetary properties. The main one is to preserve value. If fiat money melts in value, Bitcoin is the opposite, it gains value.
 
-
 ![Slide 54](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-01.jpg)
 
 Since its launch in 2009, Bitcoin has appreciated impressively. Initially, it had no price: its value was literally zero. However, over the years, Bitcoin has accumulated a growth of over 8 billion percent in dollars between 2010 and 2024. In 2024, it reached the 100,000 dollars per unit, consolidating its trajectory -- volatile in the short term, but one of continuous growth over 15 years.
-
 
 ![Slide 55](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-02.jpg)
 
@@ -32,7 +29,6 @@ Bitcoin is fundamentally different from fiat currencies. The term "fiat" derives
 As I mentioned in the previous lesson, gold has unique atomic properties, formed by cosmic processes such as nuclear shocks during the formation of the Earth. Bitcoin, on the other hand, is based on mathematical properties that are protected by its decentralized structure. This decentralization, both in its code and in its records, ensures that no one, no matter how powerful, can change the fundamental properties of Bitcoin -- just as no one can change the natural atomic properties of gold. To change gold would be to recreate any other metal but real gold. The same thing happens with Bitcoin. That's why, although there are millions of cryptocurrencies, none of them can do what Bitcoin does and none of them even comes close to the relevance that Bitcoin has.
 
 For these reasons, both gold and Bitcoin have valued over time, while fiat currencies, which depend on arbitrary political and economic decisions, constantly lose value.
-
 
 ![Slide 56](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-03.jpg)
 
@@ -44,25 +40,17 @@ For example, the real, the Brazilian currency, has lost 87% of its value since i
 
 This is because Bitcoin has superior monetary properties. Just as gold was historically adopted as money by various civilizations because of its monetary properties, Bitcoin has even more robust characteristics as money.
 
-
 ![Slide 57](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-04.jpg)
 
 This image shows the main characteristics that define good money, that is, money with strong monetary properties. These characteristics are:
 
-1.  Durability
-
-2.  Divisibility
-
-3.  Fungibility
-
-4.  Portability
-
-5.  Verifiability
-
-6.  Scarcity
-
-7.  Acceptance
-
+1. Durability
+2. Divisibility
+3. Fungibility
+4. Portability
+5. Verifiability
+6. Scarcity
+7. Acceptance
 
 ![Slide 58](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-05.jpg)
 
@@ -70,15 +58,13 @@ The first feature is durability. Good money must resist wear and the passage of 
 
 Fiat currencies are non-durable paper money. They can crumple, get wet, tear and deteriorate quickly. Central banks regularly spend millions of dollars replacing damaged banknotes with new ones. Moreover, fiat money as a network depends on central banks that can change the rules of each currency locally. Even if governments create digital currencies, they won't have durable and immutable monetary properties in the long term.
 
-Gold  is naturally durable, since it doesn't rust or degrade. On the other hand, because it is a physical asset, it can suffer some wear and tear over time. 
-
+Gold is naturally durable, since it doesn't rust or degrade. On the other hand, because it is a physical asset, it can suffer some wear and tear over time.&#x20;
 
 ![Slide 59](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-06.jpg)
 
 Have you ever noticed how old gold coins have irregular edges? This is because gold coins wear down, which degrades the original value of the coin. It ends up losing the amount of gold that was settled in it.
 
 Bitcoin, on the other hand, is extremely durable because it is digital. There is no physical wear and tear and, as long as there is a node running and processing the network, it continues to exist. In addition, the Bitcoin network is highly resilient. In its 16 years of existence, it has faced constant attacks, but it continues to function uninterruptedly as the most secure and powerful network in terms of computing in the world. That's why Bitcoin is more durable as a currency and resilient as a network than fiat money or gold.
-
 
 ![Slide 60](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-07.jpg)
 
@@ -90,7 +76,6 @@ Gold is divisible into units such as ounces of gold, which allowed it to be used
 
 Bitcoin, on the other hand, is even more divisible than fiat and can be fractionalized to up to 8 decimal places. Bitcoin's smallest unit is called a satoshi, which allows it to be used for transactions of any value, including microtransactions. This makes Bitcoin an ultra-divisible money. Let's understand how this works.
 
-
 ![Slide 61](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-08.jpg)
 
 With the dollar, you need more notes over time because these currencies lose value, right? With Bitcoin, the opposite happens: as it rises in value, you need fewer units to buy the same things. That's why Bitcoin is extremely divisible, it has several decimal places, to make it easier to price goods and services as smaller fractions of it are used.
@@ -100,7 +85,6 @@ One satoshi is equivalent to 0.00000001 BTC (seven zeros before the number 1). O
 
 Currently, a satoshi is worth less than one cent of a dollar, about a tenth of a cent. In the future, as Bitcoin continues to rise in value and the dollar keeps on losing its value, it is possible that a satoshi will be worth the same as a cent or even a dollar. This reflects Bitcoin's strength as a store of value and medium of exchange. As they absorb value, it becomes easier to price products and services.
 
-
 ![Slide 62](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-09.jpg)
 
 Fungibility is the property of money in which all its units are equivalent and can be exchanged for each other, regardless of their origin or history. It is the property that guarantees that money will be accepted universally, without discrimination between units.
@@ -109,8 +93,7 @@ Fiat currencies are not completely fungible. For example, 1 euro is not equal to
 
 Gold is highly fungible. An ounce of pure gold is always the same as another ounce of pure gold, regardless of where you are in the world. This makes it more fungible than fiat currencies.
 
-Bitcoin is fungible as well. A bitcoin is the same as any other bitcoin to the network, regardless of where it was traded or its history. This characteristic is essential for its global acceptance as digital money; after all, the Bitcoin network does not discriminate, a bitcoin is always the same as a bitcoin for the network. 
-
+Bitcoin is fungible as well. A bitcoin is the same as any other bitcoin to the network, regardless of where it was traded or its history. This characteristic is essential for its global acceptance as digital money; after all, the Bitcoin network does not discriminate, a bitcoin is always the same as a bitcoin for the network.&#x20;
 
 ![Slide 63](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-10.jpg)
 
@@ -122,20 +105,17 @@ Fiat money is more portable than gold. Paper notes or metal coins are light and 
 
 Bitcoin surpasses them all in this respect. Because it's digital, it doesn't weigh, doesn't take up physical space and can be transported globally in a matter of seconds. Whether it's a small fraction or billions of dollars in bitcoin, transportation is just as fast, secure and absurdly cheaper than any other way of transporting value. It's the most portable form of money ever created. After all, not only is it digital and weightless, it doesn't need anyone's permission to move across borders.
 
-
 ![Slide 64](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-11.jpg)
 
 Portability is a major challenge for analog assets such as real estate or commodities. For example, you can't move a plot of land, and even a house could only be transported with great effort in an expensive process, as shown in the image on the left.
 
 With gold, the situation is also complicated. You can't carry it on an airplane without informing third parties that you're carrying this wealth, which compromises privacy, involves bureaucracy and more fees.
 
-
 ![Slide 65](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-12.jpg)
 
 Bitcoin, is unrivaled in portability. Because it is natively digital, it can be transported instantly, without relying on intermediaries or complicated and expensive processes.
 
 This post by Tuur Demeester demonstrates the big difference in portability very well. While $1.5 billion in gold bars takes up an entire room and an expensive security structure, the same $1.5 billion in bitcoin is pure information and fits on a piece of paper or in a few bytes of information. It is the most portable money and/or asset in the world.
-
 
 ![Slide 66](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-13.jpg)
 
@@ -147,24 +127,21 @@ In the case of gold, verifiability is even more complex. Practices such as bitin
 
 The ease with which you can verify the authenticity of money is essential to guaranteeing trust and efficiency in everyday use.
 
-
 ![Slide 67](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-14.jpg)
 
-Even gold can be counterfeited, revealing important limitations in its verifiability. There are many examples of fraud involving gold, such as adulterated gold bars. Even some bars have already been found with tungsten in their core, coated only with a layer of pure gold. Gold-plated coins and jewelry made from low-quality metal alloys are also examples of counterfeiting. 
+Even gold can be counterfeited, revealing important limitations in its verifiability. There are many examples of fraud involving gold, such as adulterated gold bars. Even some bars have already been found with tungsten in their core, coated only with a layer of pure gold. Gold-plated coins and jewelry made from low-quality metal alloys are also examples of counterfeiting.&#x20;
 
 Like we said, verifying the authenticity of gold is expensive and complicated. The process often requires specialized equipment and certificates issued by trusted third parties. This makes the process bureaucratic and difficults gold's use as money, especially on a large scale.
 
 These limitations make gold less efficient in verifiability when compared to Bitcoin, because Bitcoin's authenticity can be proven instantly by anyone using a wallet app or software connected to the network.
 
-
 ![Slide 68](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-15.jpg)
 
-Bitcoin is extremely easy and cheap to verify, thanks to its digital and decentralized nature. Unlike other types of money, there is no room for counterfeiting. It is not possible to send or receive "fake bitcoin", because the network validates all transactions before confirming each one. If someone tries to send a "fake transaction", it simply won't be propagated. 
+Bitcoin is extremely easy and cheap to verify, thanks to its digital and decentralized nature. Unlike other types of money, there is no room for counterfeiting. It is not possible to send or receive "fake bitcoin", because the network validates all transactions before confirming each one. If someone tries to send a "fake transaction", it simply won't be propagated.&#x20;
 
 The verification is global as well. With a simple command on the computer, anyone can verify the authenticity not only of a single bitcoin, but of all the coins already on the network. This includes the total supply of Bitcoin and the rate at which new coins are issued, guaranteeing absolute transparency of the system as a whole.
 
 This radical transparency is something that has never been offered by any other monetary system in history. All participants have access to the same information about the state of the network, cutting the need to rely on intermediaries or centralized institutions. There is no information asymmetry in the Bitcoin network: the records are public and verifiable by anyone.
-
 
 ![Slide 69](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-16.jpg)
 
@@ -175,7 +152,6 @@ Fiat currencies are not scarce. Central banks can print unlimited amounts of mon
 Gold is relatively scarce because its extraction depends on physical processes and limited resources on Earth. But even so, the discovery of new deposits or technological advances can increase the supply of gold over time, which reduces predictability and scarcity compared to Bitcoin.
 
 Scarcity is a crucial factor in determining a money's resistance to inflation and its ability to preserve value.
-
 
 ![Slide 70](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-17.jpg)
 
@@ -191,20 +167,17 @@ Some asteroids contain large quantities of precious metals, including gold. Spac
 
 Although these technologies are still in their early stages, they represent the possibility of significantly expanding the supply of gold in the future and constantly reducing scarcity.
 
-
 ![Slide 72](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-19.jpg)
 
 Reports like this show that there are asteroids full of precious metals, including gold, worth an estimated 100,000 quadrillion dollars. If space mining becomes viable, it could completely eliminate the scarcity of gold, one of its main monetary properties.
 
 If gold became abundant, it would lose its ability to act as a reliable store of value. In this scenario, its use would be limited to more specific functions, such as in jewelry making, where its shine and beauty continue to be valued, or in industrial applications, such as in the production of electronic chips, thanks to its excellent conductivity.
 
-
 ![Slide 73](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-20.jpg)
 
 Ocean mining is becoming another major technological frontier, with countries such as Norway already exploring the feasibility of extracting gold and other precious metals from the seabed. However, this type of mining is generating intense debate with environmentalists, who warn of the ecological impacts of this activity.
 
-Although ocean mining faces technical and ethical challenges, it is likely that, over time, technological advances will make these operations viable. This scenario reinforces the fragility of gold as a long-term store of value as technology advances. 
-
+Although ocean mining faces technical and ethical challenges, it is likely that, over time, technological advances will make these operations viable. This scenario reinforces the fragility of gold as a long-term store of value as technology advances.
 
 ![Slide 74](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-23.jpg)
 
@@ -216,7 +189,6 @@ The scarcity of gold is based on statistical estimates and limited data, subject
 
 In the case of Bitcoin, the supply is unchanged. It is possible to accurately predict, decades in advance, how the issuance of new bitcoin will take place, something that no traditional currency or asset can offer. This transparency and secular predictability make Bitcoin much more reliable and stable as a store of value.
 
-
 ![Slide 75](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-22.jpg)
 
 By 2024, Bitcoin officially became scarcer than gold, according to the stock-to-flow (S2F) metric. This metric is used to measure the scarcity of an asset by calculating the ratio between the total stock available (stock) and the quantity produced annually (flow). Assets with a high S2F, such as gold and Bitcoin, have a limited supply, which makes them more valuable because they are more difficult to create new units of.
@@ -225,11 +197,9 @@ In the case of gold, its relative scarcity is linked to its annual production, w
 
 Bitcoin's high S2F suggests that it has enormous potential to continue appreciating as demand for a truly scarce asset increases.
 
-
 ![Slide 76](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-24.jpg)
 
-In short, Bitcoin's scarcity tends to increase over time, while gold and other assets tend to become less scarce. Fiat money, on the other hand, is not at all scarce, which is why it has melted in value in all countries under the current fiat standard. 
-
+In short, Bitcoin's scarcity tends to increase over time, while gold and other assets tend to become less scarce. Fiat money, on the other hand, is not at all scarce, which is why it has melted in value in all countries under the current fiat standard.&#x20;
 
 ![Slide 77](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-25.jpg)
 
@@ -239,23 +209,18 @@ Gold has been widely accepted in the past and has established itself as solid mo
 
 Bitcoin is still in the process of being accepted. It is not widely recognized as money or a store of value by all people, companies and countries. But this scenario is changing. In recent years, governments, large companies and investors have begun to adopt Bitcoin and recognize it as a legitimate form of digital asset or money. Although it's not yet a global unanimity, that doesn't mean it never will be.
 
-
 ![Slide 78](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-26.jpg)
 
 Bitcoin has made significant progress on the adoption curve. The Lindy curve is a good illustration of the stages money goes through until it becomes a global standard. This model explains how Bitcoin is evolving:
 
-1.  In the beginning, money was born as a collectible, something that few people value or accumulate out of curiosity or foresight.
+1. In the beginning, money was born as a collectible, something that few people value or accumulate out of curiosity or foresight.
+2. Over time, it has established itself as a store of value and is recognized as a reliable way of preserving wealth.
+3. The following stage is when Bitcoin is used as a medium of exchange, facilitating everyday transactions.
+4. The final stage comes when people start pricing goods and services directly in Bitcoin, indicating that it has become a global monetary standard.
 
-2.  Over time, it has established itself as a store of value and is recognized as a reliable way of preserving wealth.
-
-3.  The following stage is when Bitcoin is used as a medium of exchange, facilitating everyday transactions.
-
-4.  The final stage comes when people start pricing goods and services directly in Bitcoin, indicating that it has become a global monetary standard.
-
-This graph shows that although Bitcoin is still far from being a global standard, it has already made considerable progress. The recent milestone of reaching 100,000 dollars is a reflection of its growing acceptance as a store of value. Governments and institutions around the world are beginning to recognize its potential. 
+This graph shows that although Bitcoin is still far from being a global standard, it has already made considerable progress. The recent milestone of reaching 100,000 dollars is a reflection of its growing acceptance as a store of value. Governments and institutions around the world are beginning to recognize its potential.&#x20;
 
 The crucial point is that we are still at an early stage of this technological and monetary revolution. The great opportunity of the century is the possibility of accumulating and getting involved with Bitcoin now, while its global adoption is only just beginning.
-
 
 ![Slide 79](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-27.png)
 
@@ -265,25 +230,21 @@ Bitcoin follows the opposite path. Its limited and programmed supply of 21 milli
 
 This difference reflects one of Bitcoin's main advantages: it is money designed to appreciate and protect the purchasing power of its users over time, something that fiat money, due to its inflationary nature, has never been able to offer.
 
-
 ![Slide 80](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-28.jpg)
 
 Gold itself is gradually being demonetized by Bitcoin. When priced in bitcoin, gold has lost almost 100% of its value. This shows us how Bitcoin is replacing gold as the world's oldest store of value.
 
-But Bitcoin goes further, being not only an evolution of gold as a store of value but also a superior form of money, since it has much better monetary properties than gold. While gold faces limitations such as portability, divisibility and verifiability, Bitcoin overcomes all these barriers with its digital nature, programmed absolute scarcity and ease of transfer and store. Bitcoin is better money. 
-
+But Bitcoin goes further, being not only an evolution of gold as a store of value but also a superior form of money, since it has much better monetary properties than gold. While gold faces limitations such as portability, divisibility and verifiability, Bitcoin overcomes all these barriers with its digital nature, programmed absolute scarcity and ease of transfer and store. Bitcoin is better money.&#x20;
 
 ![Slide 81](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-29.jpg)
 
 Another important point of this lesson is that Bitcoin is better money because it is fairer money.
-
 
 ![Slide 82](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-30.jpg)
 
 Fiat money suffers from a phenomenon called the Cantillon Effect, described by Richard Cantillon in 1730 in the book "The Cantillon Effect". This concept illustrates how those closest to the source of the new money benefit disproportionately, while those furthest away suffer more.
 
 In the past, the creation of new money was controlled by kings, who distributed the money first to dukes, nobles and other close allies. These "friends of the king" used the new money to acquire goods and assets such as horses, houses and gold. As the newly created money circulated through the economy, it led to price rises. By the time it finally reached the hands of ordinary people, the poorest, purchasing power had been deeply eroded. And so the people at the end of the circulation chain were always the ones who suffered the most. The money that reached them was already devalued and its real value was much lower.
-
 
 ![Slide 83](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-31.jpg)
 
@@ -305,11 +266,9 @@ This dynamic is revolutionary because it redistributes economic power organicall
 
 By accumulating Bitcoin, people become less dependent on money controlled by governments and central banks. Bitcoin represents a way of preserving wealth that empowers individuals and not the cantillionaires benefiting from proximity to central banks and governments. It's a route out of the economic traps imposed by the fiat system.
 
-
 ![Slide 85](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-33.jpg)
 
 Bitcoin's distribution history reflects all this. Practically 70% of all bitcoin are in the hands of individuals, showing that most ordinary people are the main holders; 3.9% are with companies and businesses that use or invest in Bitcoin; 5.9% are in ETFs and funds, representing the entry of institutions into the ecosystem; 1.5% belong to governments, which are only now beginning to recognize Bitcoin; 7.5% are lost due to people not taking good care of their private keys; 4.6% are in addresses belonging to Satoshi Nakamoto, who has never moved or sold his balances, keeping these coins out of circulation, and 5.8% remain to be mined and will be distributed gradually until the year 2140.
-
 
 ![Slide 86](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-34.jpg)
 
@@ -317,13 +276,11 @@ Bitcoin is fairer money because the supply cannot be manipulated. It is impossib
 
 The creation of Bitcoin was open and fair. Anyone can connect to the network. Unlike any other monetary system created, Bitcoin does not depend on intermediaries, does not favor elites close to power and offers a fairer alternative for individuals anywhere in the world. The rules are clear, predictable and the same for everyone. Everyone follows the same rules, without exception.
 
-
 ![Slide 87](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-35.jpg)
 
 Bitcoin is incredibly powerful because it has the greatest global network effect ever seen. It is an independent global monetary network, not controlled by any country or government. No government or entity can monopolize, censor or completely ban Bitcoin, since it is decentralized and sustained by a global infrastructure of independent users, miners and nodes that verify everything.
 
 Bitcoin's network effect is unparalleled, surpassing any monetary network of the past or present. The more people and initiatives adopt it, the stronger and more valuable the network becomes, creating an exponential growth cycle resistant to external interference. This combination of independence and network effect makes Bitcoin a money revolution. It is much more robust and resilient than any monetary system ever created. That's why Bitcoin is better money: because it's not just money, it's a superior financial system.
-
 
 ![Slide 88](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-36.jpg)
 
@@ -331,11 +288,9 @@ It unites everything in one place, a true 3 in 1. Unlike fiat money, which is fr
 
 So Bitcoin is better at these three functions.
 
-
 ![Slide 89](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-37.jpg)
 
 Bitcoin is money that doesn't melt away in value. On the contrary: it appreciates in value, bringing more prosperity to everyone. Bitcoin has a monetary network without depending on any bank, without a manager, without requesting any personal data. Just download a wallet and you can receive Bitcoin from anywhere on the planet without any barrier whatsoever. Also, Bitcoin is even better than any central bank because it gives more predictability, transparency and guarantee of wealth and property preservation than any central bank ever has. That's why Bitcoin is not only better money, but a better and fairer global monetary system. It benefits all countries, not just the one that owns the reserve currency in force.
-
 
 ![Slide 90](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%203/slide-38.jpg)
 
@@ -345,41 +300,21 @@ That's why Bitcoin is seeing more and more adoption and should continue to do so
 
 In the next class, we'll understand how Bitcoin works in detail and you'll get an inside look at the protocol. We'll dive into how mining, blockchain, halvings, nodes and much more. Until then.
 
+***
 
----
+### Additional Resources
 
-##  Additional Resources
+* [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
+* [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%203)
 
-- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
-- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%203)
+***
 
----
+### [Previous](class-2.md) | [Next](class-4.md)
 
-[ Previous](class-2.md) | [Next ](class-4.md)
----
+#### :loudspeaker: Share this lesson!
 
-### :loudspeaker: Share this lesson!
+[Twitter ](https://twitter.com/intent/tweet?text=I%27m%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3)[WhatsApp ](https://wa.me/?text=I%27m%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-3)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3\&text=I%27m%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20)
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-3" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3&text=I'm%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+#### :chart\_with\_upwards\_trend: Your Course Progress
 
-### :chart_with_upwards_trend: Your Course Progress
-
-<div class="course-progress">
-<strong>Class 3 de 10</strong> (30% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 30%"></div>
-</div>
-</div>
+**Class 3 de 10** (30% completo)

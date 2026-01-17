@@ -1,20 +1,16 @@
-# 2 Clase 2 - El problema del dinero fiat
+# Clase 2 - El problema del dinero fiat
 
-## :movie_camera: Video de la Clase
+### :movie\_camera: Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085117525.jpg)](https://vimeo.com/1085117525)
 
-:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085117525)**
+:point\_right: [**Haz clic aqui para ver en Vimeo**](https://vimeo.com/1085117525)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085117525?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
----
+### Guión Completo
 
-##  Guión Completo
-
-# Guión de clase 2 - El problema del dinero fiat
+## Clase 2 - El problema del dinero fiat
 
 El dinero fiat -- es decir, el dinero creado por los gobiernos -- tiene un problema:
 
@@ -22,16 +18,13 @@ El dinero fiat -- es decir, el dinero creado por los gobiernos -- tiene un probl
 
 Es un gran cubito de hielo. Su valor se derrite constantemente. Quizá aún no te hayas dado cuenta, pero hay un efecto que seguramente percibes: todo se hace más caro con el tiempo.
 
-
 ![Slide 19](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-02.jpg)
 
 Cada año las compras en el supermercado cuestan más. El coste de llenar el carrito con productos básicos es cada vez más alto y los salarios no están a la altura de este aumento generalizado de los precios. ¿Y por qué? Eso se debe a que tu dinero se debilita constantemente y pierde valor.
 
-
 ![Slide 20](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-03.jpg)
 
 El dólar ha perdido el 97% de su valor desde que se creó la Reserva Federal, el banco central estadounidense, en 1913. El poder adquisitivo de 100 dólares de hoy equivale al de 3 dólares de hace 120 años. Eso significa que hoy necesitas tener 100 dólares para comprar las mismas cosas que podías comprar con 3 dólares cuando se creó la moneda estadounidense. Impresionante, ¿verdad?
-
 
 ![Slide 21](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-04.png)
 
@@ -45,11 +38,9 @@ Según los datos del Banco Mundial, todas las monedas mundiales han perdido valo
 
 TODAS las monedas gubernamentales han perdido valor en sólo 25 años. Eso destruye generaciones que trabajan todos los días de su vida para recibir un dinero que no tiene ningún valor. Es un cubito de hielo.
 
-
 ![Slide 23](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-06.jpg)
 
 Por eso sientes que todo se encarece y sube de precio, pero en realidad es tu dinero el que pierde valor. Parece que los precios suben, pero lo que sigue barranca abajo es el dinero.
-
 
 ![Slide 24](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-07.jpg)
 
@@ -61,7 +52,6 @@ Eso significa que el dinero pierde valor frente a los productos y servicios. Eso
 
 Y como ha dicho el economista austriaco Milton Friedman desde los años 70, sólo los bancos centrales pueden crear inflación generalizada porque sólo ellos pueden imprimir dinero. Sólo los bancos centrales pueden manipular la oferta monetaria existente.
 
-
 ![Slide 25](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-08.jpg)
 
 Los precios en la economía vienen determinados por la oferta y la demanda de todas las cosas, incluso del dinero. Al fin y al cabo, el dinero nos ayuda a correlacionar el valor entre distintas cosas y nos ayuda a comprender si algo es caro o barato.
@@ -72,42 +62,35 @@ Por eso la oferta y la demanda es lo que determina el precio de cualquier cosa e
 
 Pero la misma cosa ocurre con el dinero. Si se crea más dinero en relación con lo que produce la gente, el dinero perderá valor en relación con los productos y servicios, ya que su oferta aumentó. En cambio, si se detiene la creación de dinero y la demanda de éste permanece estable, su valor tiende a aumentar.
 
-El dinero creado por los gobiernos se conoce como dinero fiat porque es dinero hecho por decreto. La palabra "fiat" procede del latín y significa "hágase". En otras palabras, es dinero que terceros determinan que tiene valor y obligan a la gente a utilizarlo: puede crearse de la nada imprimiendo más billetes o simplemente tecleándolo en la computadora del banco central. 
-
+El dinero creado por los gobiernos se conoce como dinero fiat porque es dinero hecho por decreto. La palabra "fiat" procede del latín y significa "hágase". En otras palabras, es dinero que terceros determinan que tiene valor y obligan a la gente a utilizarlo: puede crearse de la nada imprimiendo más billetes o simplemente tecleándolo en la computadora del banco central.&#x20;
 
 ![Slide 26](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-09.jpg)
 
 Cuando los bancos centrales de los gobiernos imprimen dinero o crean dinero digital pulsando un botón, están aumentando la oferta monetaria. Lo que sucede es la expansión de la base monetaria. Y está claro: a medida que los bancos centrales imprimen más dinero, destruyen el poder adquisitivo de la moneda local, que se devalúa. Eso ocurre en todos los países.
 
-
 ![Slide 27](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-10.jpg)
 
 En Brasil, el banco central ha ampliado la base monetaria en más de un 5.000% desde que se creó el real y, desde entonces, la moneda brasileña ha perdido el 99% de su valor frente al dólar.
-
 
 ![Slide 28](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-11.jpg)
 
 Lo mismo ocurrió en Venezuela recientemente, de 2012 a 2018. A medida que el banco central creaba más dinero, el valor se degradaba.
 
-
 ![Slide 29](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-12.jpg)
 
-En Turquía es la misma historia: tenemos la impresión de dinero, en la imagen de la izquierda, y la consiguiente devaluación de la moneda en el mismo periodo, en la imagen de la derecha. 
-
+En Turquía es la misma historia: tenemos la impresión de dinero, en la imagen de la izquierda, y la consiguiente devaluación de la moneda en el mismo periodo, en la imagen de la derecha.&#x20;
 
 ![Slide 30](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-13.jpg)
 
-Por no hablar de Argentina. Es lo mismo. Los gráficos y los datos hablan por sí solos. 
+Por no hablar de Argentina. Es lo mismo. Los gráficos y los datos hablan por sí solos.&#x20;
 
 Los bancos centrales imprimen dinero y la moneda pierde valor. Cuanto más imprimen, más se funde el dinero.
-
 
 ![Slide 31](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-14.jpg)
 
 Incluso el dólar, la moneda más fuerte y con mayor demanda mundial, ha aumentado constantemente su oferta y también ha perdido valor.
 
 Entonces date cuenta de que, a medida que el valor se agota, el dinero empieza a fracasar en su función de dinero. Y cuando el dinero falla, la gente es la que más sufre.
-
 
 ![Slide 32](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-15.jpg.png)
 
@@ -121,7 +104,6 @@ Ese ciclo conduce a una escasez generalizada. No porque los productos hayan desa
 
 Ese escenario extremo nos muestra la importancia de replantearnos qué es el dinero y cómo debería funcionar.
 
-
 ![Slide 33](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-16.jpg)
 
 Cuando la inflación se descontrola, los gobiernos suelen recurrir a medidas desesperadas -- y a menudo absurdas -- que acaban perjudicando directamente a la población. Uno de los ejemplos más impactantes en Brasil ocurrió en 1990, cuando el gobierno confiscó los ahorros de los brasileños. Sí, parece algo sacado de una película, pero ocurrió de verdad.
@@ -134,11 +116,9 @@ Lo que estos casos nos muestran es sencillo: si tu dinero está en el banco o de
 
 Pero no sólo en los países en desarrollo los gobiernos confiscan a la población a la primera de cambio, ¡también ha ocurrido en Estados Unidos!
 
-
 ![Slide 34](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-17.jpg)
 
 En 1933, el gobierno de EEUU confiscó el oro de la población en una especie de "robo regulado". La Orden Ejecutiva 6102 decretó que todos los ciudadanos tenían que entregar su oro a la Reserva Federal. Esta medida obligaba a los ciudadanos a entregar su riqueza al gobierno, so pena de sanciones legales. Fue una gran confiscación.
-
 
 ![Slide 35](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-18.jpg)
 
@@ -146,13 +126,11 @@ Si no entregabas el oro, te enfrentarías a una multa de 10.000 dólares, a 10 a
 
 La cuestión es: no siempre fue así. El dinero fiat (fiduciario), tal como lo conocemos hoy, es en realidad la excepción a lo largo de la historia, el mayor experimento jamás realizado por los gobiernos.
 
-
 ![Slide 36](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-19.jpg)
 
 En el pasado, el oro se utilizó ampliamente como dinero a lo largo de civilizaciones enteras. El oro era una forma de riqueza que la gente podía llevar consigo, sin depender de intermediarios. No necesitaba bancos que la almacenaran ni gobiernos que validaran su valor. El valor del oro fue validado orgánicamente por las propias personas. El oro era literalmente dinero "al portador": si tenías oro en las manos, era tuyo, sin depender de nadie más.
 
 Hoy el sistema financiero es muy diferente, y lo que consideramos "normal" (dinero emitido por los gobiernos y almacenado en los bancos) es en realidad una auténtica anomalía en la historia del dinero. Durante miles de años, el oro fue la base del comercio y la riqueza, mientras que el dinero fiduciario que utilizamos hoy, sin ningún respaldo real, es un invento reciente, creado en las últimas décadas.
-
 
 ![Slide 37](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-20.jpg)
 
@@ -160,13 +138,11 @@ El oro es increíble porque puedes guardarlo, enterrarlo o dejarlo olvidado dura
 
 Esa durabilidad es una de las razones por las que el oro se ha utilizado tanto como dinero a lo largo de la historia de la humanidad. No depende de gobiernos o bancos para su valor. No se oxida cuando se entierra en el suelo. Por eso el oro se ha utilizado como dinero durante milenios.
 
-
 ![Slide 38](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-21.jpg.png)
 
-El oro conservaba su valor porque tenía propiedades monetarias muy específicas que lo situaban en la posición de dinero elegido orgánicamente por la gente como la mejor forma de almacenar valor a lo largo del tiempo, para el futuro. El oro es duradero, divisible, fungible, portátil, verificable, relativamente escaso y aceptado mundialmente como depósito de valor. En la próxima lección desentrañaremos todas esas propiedades y compararemos cada una de ellas entre el oro, el dinero fiduciario y el Bitcoin. 
+El oro conservaba su valor porque tenía propiedades monetarias muy específicas que lo situaban en la posición de dinero elegido orgánicamente por la gente como la mejor forma de almacenar valor a lo largo del tiempo, para el futuro. El oro es duradero, divisible, fungible, portátil, verificable, relativamente escaso y aceptado mundialmente como depósito de valor. En la próxima lección desentrañaremos todas esas propiedades y compararemos cada una de ellas entre el oro, el dinero fiduciario y el Bitcoin.&#x20;
 
 Son esas propiedades las que explican por qué el oro ha sido elegido como dinero durante gran parte de la historia y aún hoy se considera un depósito de valor fiable.
-
 
 ![Slide 39](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-22.jpg)
 
@@ -174,10 +150,9 @@ Si comparas el rendimiento de las monedas emitidas por los gobiernos con el oro 
 
 Pero ¿por qué? La respuesta está en la naturaleza del oro y en cómo se diferencia de las monedas fiduciarias, las emitidas por los gobiernos. El oro es relativamente escaso, y su oferta no puede aumentarse fácil o arbitrariamente. Antes de la aparición del Bitcoin, el oro era la mercancía más difícil de ampliar la oferta. Extraer oro de la tierra es caro, requiere mucha mano de obra y está limitado por las reservas naturales. Eso ha creado una oferta estable y resistente a la manipulación durante muchos años, preservando el valor a lo largo del tiempo.
 
-Además, el oro tiene estabilidad atómica. Eso significa que, incluso con los avances de la ciencia, recrear oro en un laboratorio es económicamente inviable y prácticamente imposible, ya que es tan caro. 
+Además, el oro tiene estabilidad atómica. Eso significa que, incluso con los avances de la ciencia, recrear oro en un laboratorio es económicamente inviable y prácticamente imposible, ya que es tan caro.&#x20;
 
 Así que el oro se convirtió en el dinero más utilizado de la historia. Al convertirse en dinero asumió 3 funciones:
-
 
 ![Slide 40](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-23.jpg)
 
@@ -186,7 +161,6 @@ Se convirtió en un depósito de valor porque la gente sabía que era capaz de c
 Además, el oro se destacó como medio de cambio eficaz. Por ser divisible, se puede fabricar en distintos tamaños, desde lingotes grandes a monedas pequeñas. Eso facilitaba las transacciones, ya que la gente podía utilizar el oro para comprar tanto cosas sencillas, como alimentos, como objetos de gran valor, como tierras. La posibilidad de acuñar oro en monedas estandarizadas también contribuyó a que los intercambios fueran más prácticos, por lo que se aceptó como medio de cambio.
 
 Con la acuñación de moneda, se hizo obvio fijar el precio de los bienes y servicios en cantidades de oro. Eso significa que la gente empezó a evaluar el valor de todo lo que les rodeaba en términos de oro. ¿Cuánto vale un saco de trigo? X monedas de oro. ¿Cuánto vale un caballo? Otra cantidad de oro. Esta normalización aportó claridad al comercio y ayudó a construir economías más organizadas y funcionales. Las propiedades monetarias del oro crearon la base de un buen dinero para las economías antiguas y modernas.
-
 
 ![Slide 41](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-24.jpg)
 
@@ -198,16 +172,13 @@ Una historia fascinante que ayuda a comprender esta evolución es la de las pied
 
 La piedra caliza necesaria para fabricar estas piedras no existía en la isla de Yap. Por esa razón, las piedras tenían que proceder de las islas vecinas, lo que hacía que su producción fuera un proceso extremadamente laborioso y largo. Mover una piedra rai requería esfuerzo, energía y planificación, lo que limitaba la producción y ayudaba así a mantener el valor de las piedras como dinero. Ese proceso, que implicaba un trabajo considerable para crear y transportar las piedras, fue un precursor del concepto de prueba del trabajo, que exploraremos más adelante en este curso.
 
-Durante un tiempo, las piedras rai funcionaron bien como dinero. Eran difíciles de falsificar, su producción era limitada y requerían esfuerzo, características importantes para conservar el valor. 
-
+Durante un tiempo, las piedras rai funcionaron bien como dinero. Eran difíciles de falsificar, su producción era limitada y requerían esfuerzo, características importantes para conservar el valor.&#x20;
 
 ![Slide 42](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-25.jpg)
 
 Cuando la piedra gigante llegó a la isla, todo el pueblo sabía de quién era, porque todos tuvieron que trabajar juntos para transportarla. Si la piedra se utilizaba en un intercambio, los yapenses sólo anunciaban quién era el nuevo propietario. Se trata de un buen ejemplo de grabación de dinero descentralizada, con la diferencia de que era analógica en lugar de digital.
 
-
-Pero la llegada de un empresario irlandés a la isla puso fin a esta norma monetaria. El irlandés vio que los yapenses producían mucho coco y quiso comerciar con él, pero ellos no aceptaban dinero extranjero, sólo piedras rai. Y luego mira lo que hizo el irlandés. Llevó explosivos y herramientas metálicas a las islas vecinas, extrajo muchas piedras rai con menos esfuerzo, las llevó a la isla de Yap y compró todas las reservas de coco. 
-
+Pero la llegada de un empresario irlandés a la isla puso fin a esta norma monetaria. El irlandés vio que los yapenses producían mucho coco y quiso comerciar con él, pero ellos no aceptaban dinero extranjero, sólo piedras rai. Y luego mira lo que hizo el irlandés. Llevó explosivos y herramientas metálicas a las islas vecinas, extrajo muchas piedras rai con menos esfuerzo, las llevó a la isla de Yap y compró todas las reservas de coco.&#x20;
 
 ![Slide 43](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-26.jpg)
 
@@ -215,18 +186,15 @@ De esa manera, las piedras rai se hicieron abundantes en la isla y el valor de l
 
 Lo mismo ocurrió con el oro, que acabó sustituyendo a las piedras, la sal y otras monedas del pasado. La sal, las piedras, las conchas y otros objetos antes eran dinero, pero ya no porque se pueden producir ilimitadamente. En el momento en que la gente se da cuenta de que puede coger las conchas de la costa y llevarlas al desierto, acaba con la función del objeto como dinero en el desierto, porque acaba con la escasez.
 
-
 ![Slide 44](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-27.jpg)
 
 Por eso el oro es hasta hoy el principal depósito de valor entre las mercancías y la acuñación de monedas en oro ha sido la principal forma de dinero durante siglos. Debido a estas propiedades, incluso el dinero fiat estaba respaldado por oro en el pasado.
 
 El dinero fiat sustituyó al oro como principal patrón monetario porque consiguió transferir la confianza en el oro a la confianza en los gobiernos.
 
-
 ![Slide 45](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-28.jpg)
 
 Ese billete es de esa época y era convertible en oro: incluso tenía un sello de certificado de oro. En otras palabras, el dinero era emitido por el gobierno estadounidense, pero estaba respaldado por oro, y los billetes actuaban como un contrato que lo certificaba. La escasez del oro aportaba la confianza en que los gobiernos no imprimirían más dinero del que tenían en oro en sus cajas fuertes y no destruirían el valor del contrato, es decir, el billete de papel.
-
 
 ![Slide 46](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-29.jpg)
 
@@ -234,11 +202,9 @@ Gracias a las grandes reservas de oro de Estados Unidos, en 1944 se celebró el 
 
 Los países fijaron sus tipos de cambio y sus monedas en relación con el dólar estadounidense, empezaron a tener dólares y bonos estadounidenses en sus tesorerías y los Estados Unidos prometieron fijar el precio del oro en aproximadamente 35 dólares por onza troy, lo que significaba que cada 31 gramos de oro costarían 35 dólares. De este modo, todas las monedas vinculadas al dólar tendrían también un valor fijo en oro. Fue el oro lo que dio al dólar la confianza necesaria para convertirse en el depósito mundial de valor en el siglo pasado.
 
-
 ![Slide 47](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-30.jpg)
 
 Pero esa confianza ha sido atacada constantemente a lo largo de la historia, y no ha sido diferente con los estadounidenses. En 1971, el presidente Richard Nixon promulgó un decreto que ponía fin al respaldo en oro y a la convertibilidad del dólar en oro. En otras palabras, ningún país podría volver a convertir dólares en oro: era una especie de impago global.
-
 
 ![Slide 48](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-31.jpg)
 
@@ -260,10 +226,9 @@ Sin embargo, ese modelo tiene un punto débil: la confianza. Si en algún moment
 
 Ese escenario nos hace reflexionar sobre la fragilidad de un sistema basado en la deuda infinita y en la confianza en el "poder de las impresoras de dinero". A diferencia del oro, un bien tangible y escaso, el dinero y el sistema financiero mundial actuales se basan en algo intangible e infinitamente ampliable: la deuda.
 
-Los gobiernos imprimen dinero, aumentan la deuda pública y destruyen el poder adquisitivo de la moneda para salvar de la quiebra a los bancos ineficaces. 
+Los gobiernos imprimen dinero, aumentan la deuda pública y destruyen el poder adquisitivo de la moneda para salvar de la quiebra a los bancos ineficaces.&#x20;
 
-Aquí llegamos a por qué Satoshi creó Bitcoin y a la cita que sacó en el bloque génesis, refiriéndose al segundo rescate de unos bancos en quiebra mediante la impresión de dinero. 
-
+Aquí llegamos a por qué Satoshi creó Bitcoin y a la cita que sacó en el bloque génesis, refiriéndose al segundo rescate de unos bancos en quiebra mediante la impresión de dinero.&#x20;
 
 ![Slide 50](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-33.jpg)
 
@@ -271,50 +236,29 @@ Satoshi sabía que el dinero que utiliza todo el mundo es un cubito de hielo que
 
 Ese escenario nos lleva a una reflexión importante: ¿qué ocurre cuando el dinero pierde la confianza como depósito de valor? Como hemos visto a lo largo de la historia, cuando se rompe la confianza, el dinero es sustituido por una tecnología monetaria mejor.
 
-
 ![Slide 51](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202/slide-34.jpg)
 
 En ese contexto, Bitcoin ha surgido como una alternativa revolucionaria, mejor que el dinero fiat y también mejor que el oro. No depende de gobiernos, bancos o confianza en terceros. Reaviva la idea de un sistema financiero sólido, más parecido a lo que representó el oro en el pasado, pero incluso mejor que el propio oro porque es digital, descentralizado, verificable globalmente y, sobre todo, matemáticamente escaso.
 
-Observando el escenario actual, es fácil ver cómo Bitcoin representa un cambio de paradigma frente a un sistema insostenible y en constante colapso. 
+Observando el escenario actual, es fácil ver cómo Bitcoin representa un cambio de paradigma frente a un sistema insostenible y en constante colapso.&#x20;
 
 Bitcoin es un dinero (y un sistema financiero) mejor. En la próxima lección, comprenderás más a fondo los motivos.
 
+***
 
----
+### Material Complementario
 
-##  Material Complementario
+* [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
+* [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202)
 
-- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
-- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%202)
+***
 
----
+### [Anterior](clase-1.md) | [Siguiente](clase-3.md)
 
-[ Anterior](clase-1.md) | [Siguiente ](clase-3.md)
----
+#### :loudspeaker: Comparte esta clase!
 
-### :loudspeaker: Comparte esta clase!
+[Twitter ](https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%202%20del%20curso%20Bitcoin%204%20All%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2)[WhatsApp ](https://wa.me/?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%202%20del%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2\&text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%202%20del%20curso%20Bitcoin%204%20All%20)
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%202%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%202%20del%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-2&text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%202%20del%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+#### :chart\_with\_upwards\_trend: Tu Progreso en el Curso
 
-### :chart_with_upwards_trend: Tu Progreso en el Curso
-
-<div class="course-progress">
-<strong>Clase 2 de 10</strong> (20% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 20%"></div>
-</div>
-</div>
+**Clase 2 de 10** (20% completo)

@@ -1,20 +1,16 @@
-# 1 Clase 1 - Qué es Bitcoin y por qué fue creado?
+# Clase 1 - Qué es Bitcoin y por qué fue creado?
 
-## :movie_camera: Video de la Clase
+## :movie\_camera: Video de la Clase
 
 [![Ver Video](https://vumbnail.com/1085118505.jpg)](https://vimeo.com/1085118505)
 
-:point_right: **[Haz clic aqui para ver en Vimeo](https://vimeo.com/1085118505)**
+:point\_right: [**Haz clic aqui para ver en Vimeo**](https://vimeo.com/1085118505)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1085118505?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
----
+## Guión Completo
 
-##  Guión Completo
-
-Guión de clase 1 - ¿Qué es Bitcoin y por qué se creó?
+## Clase 1 - ¿Qué es Bitcoin y por qué se creó?
 
 Hace más de 15 años, Bitcoin nació como una idea revolucionaria, y desde entonces ha pasado de ser un asunto desconocido a convertirse en uno de los temas más comentados del mundo. Hoy en día, mucha gente ha oído hablar de Bitcoin o ya tiene una opinión al respecto. Pero, por desgracia, para mucha gente sigue considerándose una cosa de frikis, una inversión arriesgada o algo que sólo sirve para la especulación financiera. Esa visión limitada al final ignora el verdadero propósito y el enorme potencial de Bitcoin: ser dinero accesible para todos.
 
@@ -24,20 +20,17 @@ Hoy, más que nunca, es importante comprender cómo Bitcoin puede marcar la dife
 
 Bitcoin no es sólo una moneda y una tecnología, es también una invitación a que nos replanteemos nuestra relación con el dinero y cómo podemos construir un nuevo sistema financiero más libre, seguro y accesible para todos.
 
-
 ![Slide 1](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-01.jpg)
 
 Cuando la mayoría de la gente piensa en dinero, se imagina inmediatamente billetes de papel o el saldo de una cuenta bancaria. En otras palabras, la noción de dinero que la mayoría de la gente entiende como real está directamente vinculada a algo controlado por terceros, como los bancos, las casas de bolsa o los valores creados por los gobiernos a través de los bancos centrales en billetes de papel.
 
 Bitcoin es diferente. Es dinero digital que no depende de gobiernos ni bancos, así que no tienes que confiar en estas instituciones que han fracasado muchísimas veces a lo largo de la historia. Aunque la idea del dinero digital pueda parecer nueva, en realidad es el resultado de siglos de investigaciones, ensayos, errores y aprendizajes.
 
-
 A lo largo de la historia, varias mentes brillantes -- físicos, economistas austriacos, ingenieros informáticos e inversores descontentos con la inflación -- han imaginado que algún día existiría algo como Bitcoin.
 
 Nikola Tesla y Henry Ford previeron la creación de dinero respaldado por energía que fomentaría la paz. Friedrich Hayek y Milton Friedman, economistas austriacos, señalaron los problemas de dejar las políticas monetarias en manos de los gobiernos y cómo el dinero digital, movido libremente, podría aportar más prosperidad a la gente al ser resistente a la corrupción e imparable.
 
 Entonces, date cuenta de que Bitcoin, en cierto modo, siempre ha estado ahí como una idea esperando el momento adecuado para convertirse en realidad. Pero lo que esos genios del pasado no sabían era cómo se crearía exactamente este dinero digital ni qué avances tecnológicos lo harían posible.
-
 
 ![Slide 2](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-02.jpg)
 
@@ -47,11 +40,9 @@ Por eso mucha gente dice que Satoshi Nakamoto, el creador de Bitcoin, no invent�
 
 Vale. Pero ¿cómo surgió Bitcoin?
 
-
 ![Slide 3](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-03.jpg.png)
 
 Los primeros registros de Bitcoin comienzan con un correo electrónico del 31 de octubre de 2008. Ese día, un cypherpunk anónimo llamado Satoshi Nakamoto publicó en una lista de correo electrónico sobre criptografía que estaba trabajando en un documento sobre un sistema de dinero electrónico totalmente punto a punto (P2P), es decir, sin necesidad de intermediarios de confianza.
-
 
 ![Slide 4](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-04.jpg)
 
@@ -69,10 +60,9 @@ Satoshi Nakamoto permaneció varios años más trabajando en el código e interc
 
 Bitcoin es el resultado de la combinación de varias tecnologías. Por separado, esas tecnologías no tendrían las mismas características y propiedades que hacen que Bitcoin sea único. Es esa unión la que ha hecho posible crear algo tan revolucionario.
 
-
 ![Slide 5](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-05.jpg)
 
-La primera tecnología que utilizó Satoshi fueron los timestamps, sellos de fecha y hora que crean una línea temporal (una timechain) que no se puede modificar.  Esa línea temporal es esencial para garantizar que los registros no puedan ser alterados. Mucha gente la conoce como "blockchain", donde los bloques de información están conectados entre sí. Esos bloques registran las transacciones de forma inmutable y en el orden en que se producen, garantizando la integridad y la transparencia del sistema.
+La primera tecnología que utilizó Satoshi fueron los timestamps, sellos de fecha y hora que crean una línea temporal (una timechain) que no se puede modificar. Esa línea temporal es esencial para garantizar que los registros no puedan ser alterados. Mucha gente la conoce como "blockchain", donde los bloques de información están conectados entre sí. Esos bloques registran las transacciones de forma inmutable y en el orden en que se producen, garantizando la integridad y la transparencia del sistema.
 
 Satoshi también utilizó la criptografía y los algoritmos criptográficos, como SHA-256, para hacer que la red funcionara de forma segura y mediante códigos y secretos. Eso significa que sólo los que tienen la "clave" correcta, es decir, sólo los que conocen la respuesta a ese secreto, pueden mover fondos. La criptografía es una tecnología fundamental en el conjunto de la red Bitcoin.
 
@@ -86,7 +76,6 @@ Por último, Satoshi también mantuvo todo el proyecto Bitcoin en open source, e
 
 Antes de Satoshi, nadie había combinado todas esas tecnologías en un único protocolo. En la lección 4 sobre cómo funciona Bitcoin, comprenderás mejor cada uno de esos puntos.
 
-
 ![Slide 6](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-06.jpg)
 
 Dos meses después de enviar el correo electrónico a la lista de correo de cypherpunks, lanzar el sitio web y poner el libro blanco a disposición de cualquiera para que lo consultara, colaborara o incluso lo copiara, Satoshi minó su primer bloque de Bitcoin.
@@ -95,15 +84,13 @@ Ese primer bloque extraído el 3 de enero de 2009 se denomina "bloque génesis»
 
 "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" (The Times 03/Ene/2009 Canciller al borde de un segundo rescate a los bancos). Ese es el titular de la portada del periódico británico The Times del 3 de enero de 2009. Esta portada de aquí:
 
-
 ![Slide 7](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-07.jpg)
 
 Muestra cómo la historia del Bitcoin está directamente relacionada con las grandes crisis mundiales recientes. Bitcoin surgió justo cuando estalló la crisis de 2008, como respuesta a la manipulación de la economía y la centralización por parte de los bancos centrales y comerciales. La cita de The Times no era para menos: refuerza la crítica al sistema financiero tradicional.
 
 Ese informe señalaba que en 2009 el canciller británico iba a rescatar por segunda vez a un banco en quiebra. Eso nos da varias pistas sobre por qué Satoshi creó Bitcoin y qué pensaba del sistema financiero.
 
-En mensajes escritos en foros de internet, Satoshi demostró lo profundamente que comprendía el funcionamiento de la economía y cómo veía Bitcoin como una alternativa completamente opuesta al sistema tradicional. Ha creado una moneda descentralizada que no puede ser confiscada, monopolizada ni devaluada por ningún gobierno ni banco. 
-
+En mensajes escritos en foros de internet, Satoshi demostró lo profundamente que comprendía el funcionamiento de la economía y cómo veía Bitcoin como una alternativa completamente opuesta al sistema tradicional. Ha creado una moneda descentralizada que no puede ser confiscada, monopolizada ni devaluada por ningún gobierno ni banco.
 
 ![Slide 8](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-08.jpg)
 
@@ -117,8 +104,7 @@ Bitcoin funcionó durante casi un año y medio sin ningún valor monetario; no v
 
 El crecimiento de la red Bitcoin fue totalmente orgánico porque no tuvo financiación inicial, ni participación de capital de riesgo, ni expectativas de beneficios. Era un protocolo mantenido por cypherpunks que estaban descubriendo cómo podía funcionar y evolucionar todo ese montón de código.
 
-Y a diferencia de todos los demás fundadores de proyectos de monedas digitales que surgieron después, no hay constancia de que Satoshi vendiera ni un solo bitcoin.  Creó Bitcoin y, tras construir las bases del protocolo, desapareció sin obtener nunca beneficios. Satoshi dejó Bitcoin como un legado inestimable a la humanidad y no recibió nada a cambio.
-
+Y a diferencia de todos los demás fundadores de proyectos de monedas digitales que surgieron después, no hay constancia de que Satoshi vendiera ni un solo bitcoin. Creó Bitcoin y, tras construir las bases del protocolo, desapareció sin obtener nunca beneficios. Satoshi dejó Bitcoin como un legado inestimable a la humanidad y no recibió nada a cambio.
 
 ![Slide 9](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-09.jpg)
 
@@ -136,21 +122,19 @@ En 2010 tuvo lugar la primera transacción de Bitcoin, que incluso se convirtió
 
 Aunque parezca un error por parte de Laszlo y un despilfarro cuando lo miramos en retrospectiva, el Pizza Day subraya la importancia de adoptar y hacer circular Bitcoin como dinero. Laszlo demostró que Bitcoin puede utilizarse de forma práctica, sin depender de bancos, bolsas o intermediarios. Para conseguir Bitcoin, todo lo que tienes que hacer es encontrar a alguien dispuesto a intercambiar un producto o servicio por Bitcoin. Es la forma más soberana e independiente de negociación entre dos personas.
 
-
 Otro hito importante en la historia de Bitcoin tuvo lugar en octubre de 2013, cuando se cerró la plataforma Silk Road. Silk Road era un mercado online en la Deep Web que permitía a la gente comerciar con una amplia variedad de productos y servicios a través de Tor y Bitcoin.
 
 Creado por Ross Ulbricht, Silk Road pretendía ser un mercado verdaderamente libre en el que los usuarios pudieran comerciar con cualquier cosa de forma anónima, basándose en los principios de consentimiento y privacidad. Fue un audaz experimento de mercado sin restricciones, en el que la gente era libre de intercambiar bienes y servicios sin interferencias de gobiernos o empresas.
 
-
 ![Slide 11](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-11.jpg)
 
-Silk Road ofrecía cientos de productos, equipos, servicios e incluso drogas.  Todos los productos y quienes trabajaron en la plataforma cobraron el 100% en bitcoin. En aquel momento, un bitcoin valía unos 50 céntimos de dólar. El objetivo era ser como Amazon o eBay, pero totalmente gratis y respaldado por Bitcoin.
+Silk Road ofrecía cientos de productos, equipos, servicios e incluso drogas. Todos los productos y quienes trabajaron en la plataforma cobraron el 100% en bitcoin. En aquel momento, un bitcoin valía unos 50 céntimos de dólar. El objetivo era ser como Amazon o eBay, pero totalmente gratis y respaldado por Bitcoin.
 
-Sin embargo, el éxito de la plataforma llamó la atención de las autoridades. El mercado Silk Road fue finalmente cerrado y su fundador, Ross Ulbricht, fue detenido y condenado a cadena perpetua. Eso se debe a que, aunque Ross tenía buenas intenciones, Silk Road se convirtió rápidamente en un mercado para el comercio de drogas y productos ilegales, a pesar de tener normas internas que prohibían la comercialización de estos artículos. 
+Sin embargo, el éxito de la plataforma llamó la atención de las autoridades. El mercado Silk Road fue finalmente cerrado y su fundador, Ross Ulbricht, fue detenido y condenado a cadena perpetua. Eso se debe a que, aunque Ross tenía buenas intenciones, Silk Road se convirtió rápidamente en un mercado para el comercio de drogas y productos ilegales, a pesar de tener normas internas que prohibían la comercialización de estos artículos.
 
 Durante la operación, el gobierno estadounidense se incautó de más de 200.000 bitcoins de Silk Road, convirtiéndolo, irónicamente, en uno de los mayores tenedores de Bitcoin del mundo. La condena de Ross se considera desproporcionada, injusta y políticamente motivada, sobre todo porque se han dictado condenas más leves en casos similares.
 
-El caso de Ross también suscitó un debate mundial sobre la responsabilidad del propietario de un sitio web por el comportamiento de sus usuarios. Aunque la familia de Ross consiguió reunir 1 millón de dólares para pagar su fianza, los jueces estadounidenses no aprobaron su puesta en libertad de todos modos. 
+El caso de Ross también suscitó un debate mundial sobre la responsabilidad del propietario de un sitio web por el comportamiento de sus usuarios. Aunque la familia de Ross consiguió reunir 1 millón de dólares para pagar su fianza, los jueces estadounidenses no aprobaron su puesta en libertad de todos modos.
 
 Otro hito importante en la historia de Bitcoin fue el lanzamiento del libro blanco de la Lightning Network, una solución de segunda capa para pagos rápidos y baratos basada en Bitcoin. La red Lightning empezó a funcionar en 2017, después de la actualización de SegWit, lo que facilitó que Bitcoin se utilizara como moneda en el día a día, reduciendo los costes de transacción y aumentando la velocidad, sin sacrificar la seguridad y la descentralización de la red principal.
 
@@ -164,7 +148,6 @@ Ya en 2023, el protocolo NOSTR empezó a ganar tracción. Inspirado en los princ
 
 En 2024, dos acontecimientos importantes marcaron la historia de Bitcoin. El primero fue el lanzamiento del primer ETF de Bitcoin en EEUU, que batió récords de negociación y crecimiento, consolidando aún más a Bitcoin como activo financiero dominante. La segunda fue una declaración histórica del entonces expresidente estadounidense Donald Trump, que prometió crear una reserva estratégica de Bitcoin, destacando el reconocimiento mundial de Bitcoin como herramienta económica y estratégica.
 
-
 ![Slide 12](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-12.jpg)
 
 En sólo 15 años, Bitcoin ha crecido mucho más rápido que cualquier empresa, mercancía o país. Al mismo tiempo que rescata antiguas propiedades monetarias, ha visto una adopción exponencial, incluso más rápida que la propia internet. Eso es lo que muestra esta imagen: las barras gris oscuro muestran el crecimiento de Bitcoin, mientras que las barras gris claro muestran la adopción de internet desde la década de 1990. Hoy en día, Bitcoin ya tiene el mismo número de usuarios que internet en 1999.
@@ -173,21 +156,19 @@ Y si internet se ha convertido en la principal herramienta para acceder a la inf
 
 Aunque está creciendo más rápido que internet, Bitcoin aún se encuentra en las primeras fases de adopción.
 
-
 ![Slide 13](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-13.jpg)
 
-El gráfico de la curva de adopción es un modelo clásico utilizado para explicar cómo las personas adoptan las nuevas tecnologías a lo largo del tiempo. Divide a los usuarios en cinco grupos: innovadores, adoptadores tempranos, mayoría temprana, mayoría tardía y rezagados. 
+El gráfico de la curva de adopción es un modelo clásico utilizado para explicar cómo las personas adoptan las nuevas tecnologías a lo largo del tiempo. Divide a los usuarios en cinco grupos: innovadores, adoptadores tempranos, mayoría temprana, mayoría tardía y rezagados.
 
 El punto más desafiante de este modelo es el "abismo" (o chasm) que aparece entre los adoptantes tempranos y la mayoría temprana. Ese "abismo" representa el momento crítico en que una innovación tiene que dejar de ser algo de nicho y convertirse en una tecnología ampliamente aceptada y utilizada en la vida cotidiana. Muchas tecnologías ni siquiera cruzan ese punto del abismo.
 
 En el caso de Bitcoin, el "abismo" representa la transición entre quienes adoptan Bitcoin por ideología, curiosidad o intereses específicos (como los innovadores y los entusiastas del mercado) y la gran masa de usuarios que sólo adoptarán la tecnología cuando se perciba como segura, útil y fácil de usar. Bitcoin se encuentra en ese punto crítico, al principio del proceso de cruzar el abismo.
 
-
 ![Slide 14](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-14.jpg)
 
 Incluso cuando comparamos Bitcoin con otras clases de activos, está claro lo pequeño que es todavía y el enorme potencial de crecimiento de la capitalización del mercado a medida que más gente adopta Bitcoin como activo y como dinero.
 
-En esta imagen vemos cómo Bitcoin tiene sólo dos billones de dólares de capitalización bursátil, mientras que otras clases de activos, como los bienes inmuebles, las acciones y el oro, tienen decenas o cientos de billones de dólares. 
+En esta imagen vemos cómo Bitcoin tiene sólo dos billones de dólares de capitalización bursátil, mientras que otras clases de activos, como los bienes inmuebles, las acciones y el oro, tienen decenas o cientos de billones de dólares.
 
 Bitcoin es un nuevo tipo de activo, dinero y un nuevo sistema financiero, descentralizado y de código abierto. Si sigue esta trayectoria, Bitcoin puede alcanzar o incluso superar el valor de mercado de otras clases de activos tradicionales.
 
@@ -195,11 +176,9 @@ Bitcoin es un nuevo tipo de activo, dinero y un nuevo sistema financiero, descen
 
 Pero la cuestión principal es que Bitcoin tiende a seguir apreciando su valor porque es simplemente mejor dinero.
 
-
 ![Slide 16](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-16.jpg)
 
 Para entender por qué Bitcoin es mejor dinero, es importante observar la evolución del dinero a lo largo de la historia y cómo ha perdido algunas de sus propiedades fundamentales. Bitcoin tiene el potencial de redimir esas propiedades esenciales y transformar profundamente nuestra relación con el dinero. Puede revolucionar nuestra forma de ahorrar, invertir y realizar transacciones, ofreciendo una alternativa transparente, resistente a la manipulación y accesible a todos.
-
 
 ![Slide 17](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201/0-17.jpg)
 
@@ -209,41 +188,21 @@ En la próxima lección, exploraremos esos problemas en detalle y comprenderás 
 
 ¡Hasta la próxima lección!
 
+***
 
----
+## Material Complementario
 
-##  Material Complementario
+* [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
+* [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201)
 
-- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Ebooks)
-- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Spanish/Slides/AULA%201)
+***
 
----
-
-[ Anterior](intro.md) | [Siguiente ](clase-2.md)
----
+## [Anterior](intro.md) | [Siguiente](clase-2.md)
 
 ### :loudspeaker: Comparte esta clase!
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%201%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%201%20del%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1&text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%201%20del%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+[Twitter ](https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%201%20del%20curso%20Bitcoin%204%20All%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1)[WhatsApp ](https://wa.me/?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%201%20del%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-1\&text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%201%20del%20curso%20Bitcoin%204%20All%20)
 
-### :chart_with_upwards_trend: Tu Progreso en el Curso
+### :chart\_with\_upwards\_trend: Tu Progreso en el Curso
 
-<div class="course-progress">
-<strong>Clase 1 de 10</strong> (10% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 10%"></div>
-</div>
-</div>
+**Clase 1 de 10** (10% completo)

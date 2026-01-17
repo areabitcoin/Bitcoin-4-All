@@ -1,27 +1,24 @@
-# 4 Class 4 - Inside Bitcoin: Decentralization, Blockchain and Game Theory
+# Class 4 - Decentralization, Blockchain and Game Theory
 
-## :movie_camera: Class Video
+### :movie\_camera: Class Video
 
 [![Watch Video](https://img.youtube.com/vi/81z_nZbmoIc/maxresdefault.jpg)](https://www.youtube.com/watch?v=81z_nZbmoIc)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=81z_nZbmoIc)**
+:point\_right: [**Click here to watch on YouTube**](https://www.youtube.com/watch?v=81z_nZbmoIc)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/81z_nZbmoIc?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Full Script
+### Full Script
 
-# Script Class 4 - Inside Bitcoin: How Does Bitcoin Work? (decentralization, blockchain and game theory)
+## Class 4 - Inside Bitcoin: How Does Bitcoin Work? (decentralization, blockchain and game theory)
 
 In this class you will dive into how Bitcoin works, learning about its characteristics, how the blockchain works, mining, halvings and fundamental technical concepts. Don't worry if you don't understand everything at first. It's normal to need to review and rewatch several times for the learning to consolidate. Over time, the concepts will fit together and make more and more sense.
-
 
 ![Slide 88](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-01.jpg)
 
 As you saw in class 1, Bitcoin is the combination of several technologies and concepts. Decentralization is what separates Bitcoin from any other invention in recent history.
-
 
 ![Slide 89](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-02.jpg)
 
@@ -29,20 +26,17 @@ And what has been happening in recent decades is the action of two technological
 
 Bitcoin continues this evolutionary and technological change by bringing both of these effects to the economy and to money. In other words, bitcoin decentralizes access to value for anyone from anywhere in the world without access restrictions and also dematerializes the banking financial system of branches, vaults, ATMs and safes. And if the internet has already decentralized information and changed the world, imagine what Bitcoin can do by decentralizing value and decision-making power. Besides dematerializing central banks, commercial banks and the properties of sound money.
 
-
 ![Slide 90](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-03.jpg)
 
 Bitcoin can only do this because it is decentralized. Without decentralization, Bitcoin would be a company. It is decentralization that differentiates Bitcoin from everything else and provides immutability. If there is no one making decisions for other people, it means it is a network that is difficult to change. For any change to be made, almost all participants need to agree to change. And this is not easy at all, neither in Bitcoin nor in any system involving thousands of human beings making decisions. Decentralization is what guarantees the immutability of properties and that Bitcoin's rules will remain the same. It brings confidence that no one could monopolize or corrupt bitcoin authoritatively.
 
 Bitcoin's decentralization happens because it is a P2P network, peer to peer. It is formed by computers that connect to each other and follow rules that everyone agrees on. There is no central server coordinating or storing data, as happens in centralized networks. It also means there is no single point of failure. If any computer connected to the network goes down, is destroyed or attacked, the network survives and continues to function because there are thousands of others performing the same function independently.
 
-
 ![Slide 91](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-04.jpg)
 
 In practice, it means there are no intermediaries in Bitcoin. Each person can connect to the network without depending on anyone, without needing to ask permission and without the possibility of being prevented by third parties. Unlike fiat money which is centralized and where you depend on numerous entities, minister of economy, central bank director, payment institutions, mint, banks, etc. to have access to the system.
 
 Central banks determine monetary policies and you don't have the option of not following the rules, you are forced to follow them. That's where the expression "legal tender" comes from. Commercial banks give access to the system. To participate you need to ask them for permission and, if you don't meet the requirements, you may not have a bank account or they may even close your account.
-
 
 ![Slide 92](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-05.jpg)
 
@@ -54,7 +48,6 @@ With Bitcoin it's like making a physical cash transaction, just like when you bu
 
 It was through cryptography, timestamps, P2P networks and a robust consensus mechanism that Satoshi Nakamoto managed to digitize the financial system as a whole, but without needing governments or banks.
 
-
 ![Slide 93](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-06.jpg)
 
 The Bitcoin network is formed by the code, the miners and the nodes. The code is a set of rules in the form of computational codes and cryptography that guide participants to coordinate with each other. It determines how records will be made and how the bitcoin network should work. The code is public and anyone can suggest modifications, audit to find bugs and even copy it. It is this code that is difficult to modify and monopolize, it is run by thousands of participants and to modify it validly it is necessary for practically the entire network to agree to run a modified version.
@@ -65,18 +58,15 @@ The miners are the participants who propose the blocks, insert the transactions 
 
 And the third type of network participant are the nodes. Nodes are common computers that verify whether miners are following the consensus determined by the code. Nodes are powerful agents of decentralization, because it is from them that anyone can have a copy of the Bitcoin blockchain on their own computer, decide which version of the code to run and be part of the bitcoin network with autonomy to send their own transactions without depending on anyone. In fact, if miners get together to attack Bitcoin, it is the nodes that have the power to prevent that attack from being effective. This has actually happened in the so-called [blocksize war](https://www.amazon.com.br/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM) that happened in 2016.
 
-
 ![Slide 94](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-07.jpg)
 
 According to the [Bitnodes](https://bitnodes.io/) website, there are more than 65 thousand Bitcoin nodes operating globally and most of them, 65%, do not have an exact identified location. It is these thousands of nodes on common computers connected to each other that make the Bitcoin network the strongest, most resistant and accessible computational system for anyone anywhere in the world to verify. Anyone can run a node and the cost is low, you can even run a node on an old computer you have at home.
 
 The nodes verify the records all the time. That's why the Bitcoin network's accounting is perfect, because the nodes constantly verify whether the transactions balance and whether the number of coins circulating is correct. It is a distributed record system, where the accounting always matches perfectly, this is also something powerful and unique.
 
-
 ![Slide 95](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-08.jpg)
 
 Central banks do not allow you to look at their internal accounts or give your opinion directly in meetings. Central bank accounting is private and done behind closed doors. The population depends on data provided by the Central Bank and cannot independently verify or directly opine on monetary policies. The population doesn't even choose who will preside over the Central Bank! With Bitcoin, anyone can audit the network and suggest improvements, because it is freely accessible.
-
 
 ![Slide 96](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-09.jpg)
 
@@ -88,16 +78,13 @@ That's why Bitcoin is so resilient. There's no way to censor or prevent people f
 
 In fact, many protocols claim to be decentralized, but when you analyze them deeply they are the opposite: they are like companies. They have leaders, they have concentration of decision-making power, they are easily censored and would not survive hacker attacks or government censorship. Bitcoin has been constantly attacked and continues to run non-stop for more than 10 years because of this resilient and decentralized structure.
 
-
 ![Slide 97](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-10.jpg)
 
 Even with hundreds of copies existing, none of them has managed to surpass Bitcoin, not even any other cryptocurrency that emerged later. This image shows the forks, the copies that have already been made of Bitcoin from 2015 to 2018. Many call themselves "the real bitcoin" and tried to steal narrative, visibility and liquidity, but none actually succeeded. No project can steal the properties and network effect that Bitcoin has. Any level of centralization is already a point of mutability, of monopoly of decision-making power and also a potential point of failure that can be exploited by attackers.
 
-
 ![Slide 98](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-11.jpg)
 
 Satoshi knew from the beginning that decentralization was the key point of Bitcoin and one of the main reasons previous digital money projects didn't succeed. He even wrote in 2009: "a lot of people automatically dismiss digital currencies because so many companies have failed since the 90s. I hope it's obvious it was the centrally controlled nature of those systems that doomed them."
-
 
 ![Slide 99](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-12.jpg)
 
@@ -108,7 +95,6 @@ In Bitcoin's game theory, collaboration is always more profitable than sabotage.
 Furthermore, for this collaboration to be possible and reliable, Bitcoin operates with total transparency. Its code is open source, meaning open and accessible to all, allowing continuous auditing and ensuring that no rule is changed without network consensus. This alignment between decentralization, economic incentives and transparency is what makes Bitcoin the most robust and secure monetary network ever created.
 
 Satoshi managed to unite these points by solving one of the oldest problems: the Byzantine Generals Problem.
-
 
 ![Slide 100](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-13.jpg)
 
@@ -124,11 +110,9 @@ Bitcoin managed to solve the Byzantine Generals Problem by having: complete coor
 
 Through this system all the generals would be able to coordinate on the right moment to attack Byzantium without depending on third parties, in a synchronized, secure way and without anyone hesitating to attack.
 
-
 ![Slide 101](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-14.jpg)
 
 I just mentioned Proof of Work and consensus mechanisms, these terms are the rules that guide the protocol. They are algorithms that establish how the network will coordinate. This set of rules seeks, from an initial situation, an input, to reach a final result, an output.
-
 
 ![Slide 102](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-15.jpg)
 
@@ -136,11 +120,9 @@ All of this works by recording information in a chained, distributed system that
 
 Some people say that blockchain is the true innovation behind Bitcoin, but this is the biggest nonsense. Blockchain is important, but alone and without other properties, it is just a slow, expensive database as centralized as a company's Excel spreadsheet!
 
-
 ![Slide 103](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-16.jpg)
 
 Blockchain or timechain means chain of blocks. They are blocks of information linked to each other and that are processed by the network every 10 minutes on average. This means that many times it takes less than 10 minutes and other times it can take hours. It depends on the miners' computational power and the network difficulty.
-
 
 ![Slide 104](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-17.jpg)
 
@@ -156,7 +138,6 @@ Hash 2 summarizes all the content of its block and also of the previous block, b
 
 Hash 3 will be the cryptographic summary of block 3, which contains the hash of the previous block 2. Through these hash functions is how the network chaining happens. That is, the following blocks will always have a summary of the previous blocks. This is how the information is always correlated.
 
-
 ![Slide 105](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-18.jpg)
 
 It is because of this chaining of information that the network is always confirming everything before mining the next block. So, if anything changes in block 1, the hash of all the following blocks also changes. If you change a comma, a space, a letter, anything, it already changes the Hash. If something is altered after being recorded on the blockchain, the miners or nodes that verify the network will identify the alteration through the hash and will not accept that information as valid.
@@ -167,13 +148,11 @@ This is one of the constant verification factors that makes the Bitcoin network 
 
 Still, if someone decides to modify the way the network works, that person can cause a fork.
 
-
 ![Slide 106](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-19.jpg)
 
 Blockchain version updates are called forks. There are two types of updates: soft forks and hard forks.
 
 Fork comes from branching and that's why you'll see images of forks when someone talks about forks. Forks are different versions of the initial rules.
-
 
 ![Slide 107](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/a19ce066fbc36ee59fae867c4ee69f062071f796/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%204/Sem%20ti%CC%81tulo-11-20.jpg)
 
@@ -187,30 +166,12 @@ Bitcoin does not do hard forks, only soft forks. Because hard forks are centrali
 
 Well, in this class we started to dive into how Bitcoin works, but this is just a part, there is much more content for you to learn. Absorb this knowledge, give your brain a break and when you're ready to continue I'll be waiting for you in the next class.
 
----
+***
 
-### :loudspeaker: Share this lesson!
+#### :loudspeaker: Share this lesson!
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%204%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-4&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-4" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%204%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-4" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-4&text=I'm%20learning%20about%20Bitcoin!%20Class%204%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+[Twitter ](https://twitter.com/intent/tweet?text=I%27m%20learning%20about%20Bitcoin!%20Class%204%20from%20Bitcoin%204%20All%20course%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-4\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-4)[WhatsApp ](https://wa.me/?text=I%27m%20learning%20about%20Bitcoin!%20Class%204%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-4)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-4\&text=I%27m%20learning%20about%20Bitcoin!%20Class%204%20from%20Bitcoin%204%20All%20course%20)
 
-### :chart_with_upwards_trend: Your Course Progress
+#### :chart\_with\_upwards\_trend: Your Course Progress
 
-<div class="course-progress">
-<strong>Class 4 de 10</strong> (40% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 40%"></div>
-</div>
-</div>
+**Class 4 de 10** (40% completo)

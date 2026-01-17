@@ -1,24 +1,22 @@
-# 9 Class 9 - What is the best way to store Bitcoin and what are wallets?
+# Class 9 - Wallets and how to store Bitcoin
 
-## :movie_camera: Class Video
+## :movie\_camera: Class Video
 
 [![Watch Video](https://img.youtube.com/vi/AP5h_Ph-wVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=AP5h_Ph-wVU)
 
-:point_right: **[Click here to watch on YouTube](https://www.youtube.com/watch?v=AP5h_Ph-wVU)**
+:point\_right: [**Click here to watch on YouTube**](https://www.youtube.com/watch?v=AP5h_Ph-wVU)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/AP5h_Ph-wVU?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius:12px;" title="Video"></iframe></div>
+***
 
----
----
+***
 
-##  Full Script
+## Full Script
 
-#Script Class 9 - What is the best way to store Bitcoin and what are wallets?
+## Class 9 - What is the best way to store Bitcoin and what are wallets?
 
 Why is storing bitcoin so important? If you're just starting out in Bitcoin, this question makes a lot of sense! It's normal to think: "Well, don't you just buy and wait for the price to go up?" And here comes the surprise: you also have to learn how to safekeep it.
 
 But relax, storing your bitcoin is no big deal! It is, though, a fundamental part of ensuring that, in a few years' time, all of today's effort will pay off and your bitcoin will still be with you, safe and untouched.
-
 
 ![Slide 239](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-01.jpg)
 
@@ -26,16 +24,13 @@ Bitcoin works differently from banks and the traditional financial system becaus
 
 In the traditional financial system, the money you have in your bank account is not exactly under your control. Actually, it's the bank that takes care of it, and they do so under the promise that YOUR money will be safe with them.┬á
 
-
 ![Slide 240](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-02.jpg)
 
 But history has proven that the money in the bank isn't even in the bank, it isn't yours and it isn't real money. This is because banks don't truly keep their customers' money: if everyone who has a bank account decides to withdraw their own money, the banks will go bust. They wouldn't stand for mass withdrawal movements.┬á
 
-
 ![Slide 241](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-03.jpg)
 
 This is what happened in the 2023 banking crisis in the US, when banks went bankrupt as customers rushed to withdraw money in fear of the bankruptcy of these intermediaries. Even Credit Suisse had to be rescued by UBS, otherwise it would go bankrupt. History is full of evidence of how banks don't have people's money in case everyone needs to withdraw their balances at once.
-
 
 ![Slide 242](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-04.jpg)
 
@@ -48,7 +43,6 @@ Sounds safe, right? But it's not quite like that. Banks can go broke, as happene
 And if that wasn't enough, when you need to withdraw a larger amount, the bank can make life rather difficult for you. Endless questions, blocked transactions, daily limits... All because, while your money is there, the bank uses it to lend and invest as it sees fit.
 
 Now picture this: in a real crisis, when you most need access to your money, the bank may simply not release it. That's why so many people are waking up to the importance of Bitcoin, where you have total control of your money, without depending on anyone.
-
 
 ![Slide 244](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-06.jpg)
 
@@ -66,7 +60,6 @@ Situations like this make it clear that, in the traditional financial system, th
 
 These examples show that when the financial system crashes or collapses, the people who end up paying the price are the ordinary people who believed that their money was safe in these companies or institutions.
 
-
 ![Slide 246](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-08.jpg)
 
 Also, the money you leave in the bank isn't real money. It's fiat, it's an ice cube with no monetary properties that melts in value. Bitcoin is real money. It has sound monetary properties and tends to appreciate in value over time. Since you don't need anyone to store it, it gives people back control over their own money. But along with this freedom comes responsibility.┬á
@@ -75,13 +68,11 @@ Bitcoin is a bearer asset, which means that only those who have the private keys
 
 Protecting your bitcoin means ensuring that no one but you has access to your keys and, consequently, your money. It's a huge power!
 
-
 ![Slide 247](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-09.jpg)
 
 With Bitcoin, for the first time in history, your money is inaccessible to third parties. Only you can move it. That's why self-custody is the best way to store bitcoin. When you do this, you eliminate the vulnerabilities of relying on third parties who may fail. Either because they didn't take good care of it or because they wanted to get their hands on other people's money on purpose.
 
 True financial freedom is back in your hands. So why not use this superpower that Bitcoin offers, right?
-
 
 ![Slide 248](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-10.jpg)
 
@@ -91,7 +82,6 @@ Exchanges, which were supposed to be just a place to buy bitcoin, ended up becom
 
 If you leave your bitcoin on the exchange, you are running the same risk that people run when they leave everything in the bank. The difference? With Bitcoin, you have the option of being your own bank.
 
-
 ![Slide 249](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-11.jpg)
 
 This became more than clear with the case of Mt. Gox, which was the largest exchange in the world back in 2014. The platform was hacked and poof... 740,000 customers' bitcoin disappeared. At the time, that was already an absurd amount of money: millions of dollars. Today, it would be billions.
@@ -100,9 +90,7 @@ And it wasn't just Mt. Gox. More recent cases, such as the collapse of FTX, show
 
 The lesson is simple: leaving your bitcoin with a broker is asking for a gamble. It's best to get them out and put them away yourself. When you take care of your keys, you take care of your money.
 
-
-![Slide 250](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-12.jpg) 
-FTX was one of the biggest examples of why not to leave your bitcoin on exchanges. In 2022, overnight, it turned out to be a gigantic fraud. Thousands of clients lost what they had and are still fighting in court to try to recover their funds. And you know what's worse? These processes can take years, and many people may never see their money returned.
+![Slide 250](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-12.jpg) FTX was one of the biggest examples of why not to leave your bitcoin on exchanges. In 2022, overnight, it turned out to be a gigantic fraud. Thousands of clients lost what they had and are still fighting in court to try to recover their funds. And you know what's worse? These processes can take years, and many people may never see their money returned.
 
 ![Slide 251](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-13.jpg)
 
@@ -112,7 +100,6 @@ The final argument in favor of self-custody as the best way to store bitcoin is 
 
 During the war between Ukraine and Russia, many bank accounts were frozen. But those who had bitcoin safely stored were able to cross borders and take their money with them.
 
-
 ![Slide 252](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-14.jpg)
 
 There was even the case of a refugee who managed to travel to Poland with 2,000 dollars in bitcoin, stored on a simple USB stick. If it hadn't been for the bitcoin in self-custody, this war refugee would never have been able to take any of the money, as all citizens' accounts have been blocked. Bulletproof vests, helmets and supplies could only be delivered to protect the population because donations were made in bitcoin to those on the front line. Meanwhile, the money in the banking system was closed and inaccessible to the local population.
@@ -120,7 +107,6 @@ There was even the case of a refugee who managed to travel to Poland with 2,000 
 In the end, self-custody is the only way to ensure that your bitcoin are out of reach of bankruptcies, hacks, crises or government seizures. And in such an uncertain world, this is the best way to protect your financial freedom.
 
 OK, now that you've understood that getting Bitcoin off the exchange is important, along comes the question: "where exactly do I store my bitcoin"?
-
 
 ![Slide 253](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-15.jpg)
 
@@ -136,23 +122,19 @@ Each type of wallet has a function, but not all are suitable for all situations.
 
 But there's an irony here....
 
-
 ![Slide 254](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-16.jpg)
 
 Bitcoin wallets don't have any bitcoin in them! It sounds like a joke, but it's not! Bitcoin are never stored in wallets. They're always on the blockchain (or timechain) and never leave it. What a wallet does is store and protect the keys that give access to the balance and allow bitcoin to be moved from one address to another. They are always at an address on the network and not inside the wallet app or device.
 
-
 ![Slide 255](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-17.jpg)
 
 Wallets are like a digital keychain that stores the codes that authorize transactions with your balance, cryptographically proving that you are the true owner of that balance and can move it around. Just as on a physical keychain, where you can have different keys that open different doors in different places, in your digital wallet your keys give you access to different types of balances and transactions. That's why your digital wallet works like a digital keychain.
-
 
 ![Slide 256](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-18.jpg)
 
 When you set up a wallet for the first time, it will generate a sequence of words for you, like this one on the screen. These words are known as seed phrases. These are words for recovering your wallet. With them you can recover your balance on any other device or application, even if your original device breaks, is lost or destroyed by some unexpected misfortune.
 
 That's why you need to be careful with these words. They are the ones that recover your balance and allow you to move your BTC. That's why it's important to write them down carefully, legibly, in the exact order in which they appear and keep them in a safe place where only you know where they are. If you store your words well, you'll always have access to your bitcoin, but if you don't take good care of it and someone else finds it, they'll be able to move your balance and take your bitcoin for themselves.
-
 
 ![Slide 257](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-19.jpg)
 
@@ -174,7 +156,6 @@ The number of combinations of possible seeds is so great that it's almost incomp
 
 It's infinitely easier for someone to steal your bitcoin by stealing your seed, if you don't store it well, than to try and guess by trial and error. That's why most people who lose their bitcoin do so because they didn't watch their words -- and not because someone else guessed. Bitcoin has no bank account, no manager and no support. Bitcoin is a language, it's a tool. It's up to you to use your keys responsibly and take good care of them.
 
-
 ![Slide 259](https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Bitcoin%204%20All%20-%20English/Slides/Class%209/slide-22.jpg)
 
 Okay, now that you've understood that wallets give you the sovereignty to store, receive and send bitcoin how, when and where you want, that they generate words that allow you to recover your balance even if the original wallet breaks down... Lastly, let's look at the types of wallet and in which situation to use each one.
@@ -193,41 +174,21 @@ That's why choosing a wallet depends on how you want to use it, what your goal i
 
 So in this lesson you learned why self-custody is important, what Bitcoin wallets are and how they work. In the next lesson we'll take the first step towards your sovereignty and show you how to set up a wallet from scratch and withdraw your bitcoin from the exchange. See you next time!
 
+***
 
----
+## Additional Resources
 
-##  Additional Resources
+* [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
+* [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%209)
 
-- [E-book](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Ebooks)
-- [Slides](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20English/Slides/Class%209)
+***
 
----
-
-[ Previous](class-8.md) | [Next ](class-10.md)
----
+## [Previous](class-8.md) | [Next](class-10.md)
 
 ### :loudspeaker: Share this lesson!
 
-<div class="share-buttons">
-<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%209%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-9&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
- Twitter
-</a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-9" target="_blank" class="share-btn share-btn-linkedin">
- LinkedIn
-</a>
-<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%209%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-9" target="_blank" class="share-btn share-btn-whatsapp">
- WhatsApp
-</a>
-<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-9&text=I'm%20learning%20about%20Bitcoin!%20Class%209%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
- Telegram
-</a>
-</div>
+[Twitter ](https://twitter.com/intent/tweet?text=I%27m%20learning%20about%20Bitcoin!%20Class%209%20from%20Bitcoin%204%20All%20course%20\&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-9\&via=aaborges_)[LinkedIn ](https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-9)[WhatsApp ](https://wa.me/?text=I%27m%20learning%20about%20Bitcoin!%20Class%209%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-9)[Telegram](https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-9\&text=I%27m%20learning%20about%20Bitcoin!%20Class%209%20from%20Bitcoin%204%20All%20course%20)
 
-### :chart_with_upwards_trend: Your Course Progress
+### :chart\_with\_upwards\_trend: Your Course Progress
 
-<div class="course-progress">
-<strong>Class 9 de 10</strong> (90% completo)
-<div class="course-progress-bar">
-<div class="course-progress-fill" style="width: 90%"></div>
-</div>
-</div>
+**Class 9 de 10** (90% completo)
