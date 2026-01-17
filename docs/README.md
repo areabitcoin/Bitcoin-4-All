@@ -2,15 +2,15 @@
 
 **Free and open source Bitcoin course for everyone!**
 
-*Curso gratuito e de código aberto sobre Bitcoin para todos!*
+Curso gratuito e de código aberto sobre Bitcoin para todos!
 
 ---
 
 ## :world_map: Choose Your Language / Escolha seu Idioma
 
-| :brazil: Portugues | :us: English | :es: Espanol |
+| :brazil: Português | :us: English | :es: Español |
 |:------------------:|:------------:|:------------:|
-| [Comecar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
+| [Começar](pt/intro.md) | [Start](en/intro.md) | [Comenzar](es/intro.md) |
 
 ---
 
@@ -18,16 +18,16 @@
 
 **Bitcoin 4 All** is a complete course designed to teach anyone about Bitcoin, from zero to self-custody.
 
-### :bookmark_tabs: What you will learn:
+### What you will learn:
 
-- :orange_circle: What is Bitcoin and why was it created
-- :money_with_wings: Problems with fiat money
-- :white_check_mark: Why Bitcoin is better money
+- :question: What is Bitcoin and why was it created
+- :moneybag: Problems with fiat money
+- :chart_with_upwards_trend: Why Bitcoin is better money
 - :gear: How Bitcoin works (decentralization, blockchain, mining)
-- :chart_with_upwards_trend: Why Bitcoin should continue to appreciate
+- :rocket: Why Bitcoin should continue to appreciate
 - :shopping_cart: How to get bitcoin
 - :shield: Debunking FUDs about Bitcoin
-- :lock: How to store Bitcoin safely
+- :key: How to store Bitcoin safely
 - :crown: Financial sovereignty through self-custody
 
 ---
