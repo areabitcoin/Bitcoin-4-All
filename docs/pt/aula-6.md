@@ -181,6 +181,35 @@ Na próxima aula você vai aprender formas de ter Bitcoin e como começar a acum
 * [E-book da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Ebooks)
 * [Slides da Aula](https://github.com/areabitcoin/Bitcoin-4-All/tree/main/Bitcoin%204%20All%20-%20Portuguese/Slides/AULA%206)
 
+---
+
+### :loudspeaker: Compartilhe esta aula!
+
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%206%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-6&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
+ Twitter
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-6" target="_blank" class="share-btn share-btn-linkedin">
+ LinkedIn
+</a>
+<a href="https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%206%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-6" target="_blank" class="share-btn share-btn-whatsapp">
+ WhatsApp
+</a>
+<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-6&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%206%20do%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
+ Telegram
+</a>
+</div>
+
+### :chart_with_upwards_trend: Seu Progresso no Curso
+
+<div class="course-progress">
+<strong>Aula 6 de 10</strong> (60% completo)
+<div class="course-progress-bar">
+<div class="course-progress-fill" style="width: 60%"></div>
+</div>
+</div>
+
+
 ***
 
 [Anterior](aula-5.md) | [Próxima](aula-7.md)

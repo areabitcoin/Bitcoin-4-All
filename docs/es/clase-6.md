@@ -208,3 +208,30 @@ Al fin y al cabo, Bitcoin es una tendencia global a largo plazo. Prepararse hoy 
 ---
 
 [ Anterior](clase-5.md) | [Siguiente ](clase-7.md)
+---
+
+### :loudspeaker: Comparte esta clase!
+
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%206%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-6&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
+ Twitter
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-6" target="_blank" class="share-btn share-btn-linkedin">
+ LinkedIn
+</a>
+<a href="https://wa.me/?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%206%20del%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/es/clase-6" target="_blank" class="share-btn share-btn-whatsapp">
+ WhatsApp
+</a>
+<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-6&text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%206%20del%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
+ Telegram
+</a>
+</div>
+
+### :chart_with_upwards_trend: Tu Progreso en el Curso
+
+<div class="course-progress">
+<strong>Clase 6 de 10</strong> (60% completo)
+<div class="course-progress-bar">
+<div class="course-progress-fill" style="width: 60%"></div>
+</div>
+</div>

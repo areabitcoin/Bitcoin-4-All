@@ -165,3 +165,31 @@ Já os hard forks são quando atualizações radicais são feitas, a ponto de mu
 Bitcoin não faz hard forks, apenas soft forks. Porque hard forks são forças centralizadoras, excluem usuários que podem não concordar com a nova versão e acabam com a imutabilidade de rede. Hard forks são mais frequentemente observados em outros protocolos de criptomoedas e em blockchains privadas de empresas.
 
 Bom, nessa aula nós começamos a mergulhar no funcionamento do Bitcoin, mas essa é só uma parte, tem muito mais conteúdo para você aprender. Absorva esse conhecimento, dê uma pausa no seu cérebro e quando estiver pronto para continuar eu te espero na próxima aula.
+
+---
+
+### :loudspeaker: Compartilhe esta aula!
+
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%204%20do%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-4&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
+ Twitter
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-4" target="_blank" class="share-btn share-btn-linkedin">
+ LinkedIn
+</a>
+<a href="https://wa.me/?text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%204%20do%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-4" target="_blank" class="share-btn share-btn-whatsapp">
+ WhatsApp
+</a>
+<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/pt/aula-4&text=Estou%20aprendendo%20sobre%20Bitcoin!%20Aula%204%20do%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
+ Telegram
+</a>
+</div>
+
+### :chart_with_upwards_trend: Seu Progresso no Curso
+
+<div class="course-progress">
+<strong>Aula 4 de 10</strong> (40% completo)
+<div class="course-progress-bar">
+<div class="course-progress-fill" style="width: 40%"></div>
+</div>
+</div>

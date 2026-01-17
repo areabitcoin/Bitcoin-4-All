@@ -207,3 +207,30 @@ Entonces en esta lección has aprendido por qué es importante la autocustodia, 
 ---
 
 [ Anterior](clase-8.md) | [Siguiente ](clase-10.md)
+---
+
+### :loudspeaker: Comparte esta clase!
+
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%209%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-9&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
+ Twitter
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-9" target="_blank" class="share-btn share-btn-linkedin">
+ LinkedIn
+</a>
+<a href="https://wa.me/?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%209%20del%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/es/clase-9" target="_blank" class="share-btn share-btn-whatsapp">
+ WhatsApp
+</a>
+<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-9&text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%209%20del%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
+ Telegram
+</a>
+</div>
+
+### :chart_with_upwards_trend: Tu Progreso en el Curso
+
+<div class="course-progress">
+<strong>Clase 9 de 10</strong> (90% completo)
+<div class="course-progress-bar">
+<div class="course-progress-fill" style="width: 90%"></div>
+</div>
+</div>

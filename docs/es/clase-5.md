@@ -237,3 +237,31 @@ Lo que se observa también es que Bitcoin ha tenido mínimas cada vez mayores a 
 Es decir, por más que Bitcoin caiga mucho, ha mantenido precios mínimos cada vez más altos con el paso del tiempo. Pero será que va a ser siempre así? Bitcoin va a continuar valorizándose para siempre?
 
 Este es el tema de la próxima clase. Ahora que aprendiste cómo funciona bitcoin y el historial de ciclos de Bitcoin, llegó la hora de que entiendas por qué tiende a continuar creciendo a largo plazo. Hasta entonces.
+
+---
+
+### :loudspeaker: Comparte esta clase!
+
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%205%20del%20curso%20Bitcoin%204%20All%20&url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-5&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
+ Twitter
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-5" target="_blank" class="share-btn share-btn-linkedin">
+ LinkedIn
+</a>
+<a href="https://wa.me/?text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%205%20del%20curso%20Bitcoin%204%20All%20%20https://areabitcoin.github.io/Bitcoin-4-All/es/clase-5" target="_blank" class="share-btn share-btn-whatsapp">
+ WhatsApp
+</a>
+<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/es/clase-5&text=Estoy%20aprendiendo%20sobre%20Bitcoin!%20Clase%205%20del%20curso%20Bitcoin%204%20All%20" target="_blank" class="share-btn share-btn-telegram">
+ Telegram
+</a>
+</div>
+
+### :chart_with_upwards_trend: Tu Progreso en el Curso
+
+<div class="course-progress">
+<strong>Clase 5 de 10</strong> (50% completo)
+<div class="course-progress-bar">
+<div class="course-progress-fill" style="width: 50%"></div>
+</div>
+</div>

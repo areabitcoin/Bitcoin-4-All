@@ -2,11 +2,41 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Bitcoin 4 All - Free Open Source Course</title>
+  <title>Bitcoin 4 All - Free Open Source Bitcoin Course | Curso Gratuito</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Free and open source Bitcoin course for everyone - Curso gratuito e open source sobre Bitcoin">
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Free and open source Bitcoin course in Portuguese, English and Spanish. Learn about Bitcoin, blockchain, wallets, and financial sovereignty. Curso gratuito sobre Bitcoin.">
+  <meta name="keywords" content="Bitcoin, BTC, cryptocurrency, blockchain, curso bitcoin, bitcoin course, learn bitcoin, satoshi, lightning network, wallet, carteira bitcoin, criptomoeda">
+  <meta name="author" content="Área Bitcoin">
+  <meta name="robots" content="index, follow">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://areabitcoin.github.io/Bitcoin-4-All/">
+  <meta property="og:title" content="Bitcoin 4 All - Free Open Source Bitcoin Course">
+  <meta property="og:description" content="Learn Bitcoin for free! Complete course with 10 lessons about Bitcoin, blockchain, wallets and financial sovereignty. Available in Portuguese, English and Spanish.">
+  <meta property="og:image" content="https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Visuals/Logos/Logo.png">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="pt_BR">
+  <meta property="og:locale:alternate" content="es_ES">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@aaborges_">
+  <meta name="twitter:title" content="Bitcoin 4 All - Free Bitcoin Course">
+  <meta name="twitter:description" content="Learn Bitcoin for free! Complete course with 10 lessons. Available in PT/EN/ES.">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Visuals/Logos/Logo.png">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://areabitcoin.github.io/Bitcoin-4-All/">
+  
+  <!-- Viewport -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <!-- Favicon -->
   <link rel="icon" href="https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Visuals/Logos/Logo.png">
+  <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Visuals/Logos/Logo.png">
   
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,6 +45,30 @@
   
   <!-- Theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Bitcoin 4 All",
+    "description": "Free and open source Bitcoin course. Learn about Bitcoin, blockchain, wallets, and financial sovereignty.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Área Bitcoin",
+      "url": "https://areabitcoin.com.br"
+    },
+    "educationalLevel": "Beginner",
+    "isAccessibleForFree": true,
+    "inLanguage": ["pt-BR", "en", "es"],
+    "numberOfLessons": 10,
+    "hasCourseInstance": {
+      "@type": "CourseInstance",
+      "courseMode": "online",
+      "courseWorkload": "PT5H"
+    }
+  }
+  </script>
   
   <style>
     :root {
@@ -43,7 +97,7 @@
       --code-theme-background: #1a1f26;
       --code-inline-background: rgba(247, 147, 26, 0.15);
       --code-inline-color: #f7931a;
-      
+
       /* Headings */
       --heading-color: #ffffff;
       --heading-h1-color: #f7931a;
@@ -54,7 +108,7 @@
       --base-font-size: 16px;
       --base-line-height: 1.7;
       --base-color: #c9d1d9;
-      
+
       /* Tables */
       --table-head-background: rgba(247, 147, 26, 0.2);
       --table-row-odd-background: rgba(255, 255, 255, 0.02);
@@ -63,16 +117,58 @@
       --notice-tip-border-color: #f7931a;
       --notice-important-border-color: #f7931a;
     }
-    
+
+    /* Progress Bar */
+    .progress-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 4px;
+      background: #30363d;
+      z-index: 9999;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, #f7931a, #ffa940);
+      width: 0%;
+      transition: width 0.3s ease;
+    }
+
+    /* Course Progress Indicator */
+    .course-progress {
+      background: rgba(247, 147, 26, 0.1);
+      border: 1px solid #f7931a;
+      border-radius: 8px;
+      padding: 15px;
+      margin: 20px 0;
+    }
+
+    .course-progress-bar {
+      background: #30363d;
+      border-radius: 10px;
+      height: 20px;
+      overflow: hidden;
+      margin-top: 10px;
+    }
+
+    .course-progress-fill {
+      background: linear-gradient(90deg, #f7931a, #ffa940);
+      height: 100%;
+      border-radius: 10px;
+      transition: width 0.5s ease;
+    }
+
     /* Custom Styles */
     body {
       background: var(--base-background-color);
     }
-    
+
     .sidebar {
       border-right: 1px solid var(--sidebar-border-color);
     }
-    
+
     .sidebar-nav > ul > li > a {
       font-weight: 600;
       text-transform: uppercase;
@@ -80,51 +176,51 @@
       letter-spacing: 0.5px;
       color: #8b949e;
     }
-    
+
     .sidebar-nav > ul > li > ul > li > a {
       font-weight: 500;
     }
-    
+
     .app-name-link img {
       max-width: 180px;
       filter: drop-shadow(0 0 10px rgba(247, 147, 26, 0.3));
     }
-    
+
     /* Bitcoin styled scrollbar */
     ::-webkit-scrollbar {
       width: 8px;
       height: 8px;
     }
-    
+
     ::-webkit-scrollbar-track {
       background: #0d1117;
     }
-    
+
     ::-webkit-scrollbar-thumb {
       background: #30363d;
       border-radius: 4px;
     }
-    
+
     ::-webkit-scrollbar-thumb:hover {
       background: #f7931a;
     }
-    
+
     /* Headers with Bitcoin accent */
     h1 {
       border-bottom: 3px solid #f7931a;
       padding-bottom: 10px;
     }
-    
+
     h2 {
       border-bottom: 1px solid #30363d;
       padding-bottom: 8px;
     }
-    
+
     /* Emoji styling */
     .emoji {
       font-size: 1.2em;
     }
-    
+
     /* Video container */
     .video-container {
       position: relative;
@@ -136,7 +232,7 @@
       margin: 20px 0;
       box-shadow: 0 4px 20px rgba(247, 147, 26, 0.2);
     }
-    
+
     .video-container iframe {
       position: absolute;
       top: 0;
@@ -146,19 +242,19 @@
       border: none;
       border-radius: 12px;
     }
-    
+
     /* Tables */
     table {
       border-radius: 8px;
       overflow: hidden;
     }
-    
+
     table th {
       background: rgba(247, 147, 26, 0.2) !important;
       color: #f7931a;
       font-weight: 600;
     }
-    
+
     /* Blockquotes */
     blockquote {
       border-left: 4px solid #f7931a;
@@ -167,38 +263,38 @@
       border-radius: 0 8px 8px 0;
       margin: 20px 0;
     }
-    
+
     /* Links with hover effect */
     a {
       transition: color 0.2s ease, text-shadow 0.2s ease;
     }
-    
+
     a:hover {
       text-shadow: 0 0 8px rgba(247, 147, 26, 0.5);
     }
-    
+
     /* Navigation arrows */
     .pagination-item-title {
       color: #f7931a !important;
     }
-    
+
     /* Footer */
     .markdown-section {
       padding-bottom: 40px;
     }
-    
+
     /* Loading animation */
     #app {
       color: #f7931a;
       font-family: 'Inter', sans-serif;
     }
-    
+
     /* Mobile responsive */
     @media screen and (max-width: 768px) {
       :root {
         --content-max-width: 100%;
       }
-      
+
       .app-name-link img {
         max-width: 120px;
       }
@@ -227,12 +323,61 @@
       margin-top: 25px;
     }
 
+    /* Share buttons */
+    .share-buttons {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin: 20px 0;
+    }
+
+    .share-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 500;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .share-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .share-btn-twitter {
+      background: #1da1f2;
+      color: white;
+    }
+
+    .share-btn-linkedin {
+      background: #0077b5;
+      color: white;
+    }
+
+    .share-btn-whatsapp {
+      background: #25d366;
+      color: white;
+    }
+
+    .share-btn-telegram {
+      background: #0088cc;
+      color: white;
+    }
+
   </style>
 </head>
 <body>
+  <!-- Progress Bar -->
+  <div class="progress-container">
+    <div class="progress-bar" id="progressBar"></div>
+  </div>
+
   <div id="app">Loading Bitcoin 4 All...</div>
   <script>
-    window.$docsify = {
+    window.\ = {
       name: '<img src="https://raw.githubusercontent.com/areabitcoin/Bitcoin-4-All/main/Visuals/Logos/Logo.png" alt="Bitcoin 4 All">',
       nameLink: '/',
       repo: 'areabitcoin/Bitcoin-4-All',
@@ -260,11 +405,19 @@
         sync: true
       }
     }
+
+    // Reading Progress Bar
+    window.addEventListener('scroll', function() {
+      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height) * 100;
+      document.getElementById('progressBar').style.width = scrolled + '%';
+    });
   </script>
 
   <!-- Docsify -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-
+  
   <!-- Plugins -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>

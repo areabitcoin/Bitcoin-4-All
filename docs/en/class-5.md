@@ -236,3 +236,31 @@ What is also observed is that Bitcoin has had increasingly higher lows over the 
 That is, no matter how much Bitcoin drops, it has maintained increasingly higher minimum prices over time. But will it always be like this? Will Bitcoin continue to appreciate forever?
 
 That is the subject of the next class. Now that you've learned how bitcoin works and Bitcoin's cycle history, it's time for you to understand why it tends to continue growing in the long term. See you there.
+
+---
+
+### :loudspeaker: Share this lesson!
+
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%205%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-5&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
+ Twitter
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-5" target="_blank" class="share-btn share-btn-linkedin">
+ LinkedIn
+</a>
+<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%205%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-5" target="_blank" class="share-btn share-btn-whatsapp">
+ WhatsApp
+</a>
+<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-5&text=I'm%20learning%20about%20Bitcoin!%20Class%205%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
+ Telegram
+</a>
+</div>
+
+### :chart_with_upwards_trend: Your Course Progress
+
+<div class="course-progress">
+<strong>Class 5 de 10</strong> (50% completo)
+<div class="course-progress-bar">
+<div class="course-progress-fill" style="width: 50%"></div>
+</div>
+</div>

@@ -16,6 +16,8 @@
   * [Aula 8 - Rebatendo mentiras (FUDs) sobre Bitcoin](pt/aula-8.md)
   * [Aula 9 - Carteiras e como guardar Bitcoin](pt/aula-9.md)
   * [Aula 10 - Soberania com seu Bitcoin](pt/aula-10.md)
+  * [:trophy: Certificado](pt/certificado.md)
+  * [:book: Glossário](pt/glossario.md)
 
 * **:us: English**
   * [Introduction](en/intro.md)
@@ -29,6 +31,8 @@
   * [Class 8 - Debunking lies (FUDs) about Bitcoin](en/class-8.md)
   * [Class 9 - Wallets and how to store Bitcoin](en/class-9.md)
   * [Class 10 - Sovereignty with your Bitcoin](en/class-10.md)
+  * [:trophy: Certificate](en/certificate.md)
+  * [:book: Glossary](en/glossary.md)
 
 * **:es: Español**
   * [Introducción](es/intro.md)
@@ -42,6 +46,8 @@
   * [Clase 8 - Desmintiendo mentiras (FUDs) sobre Bitcoin](es/clase-8.md)
   * [Clase 9 - Billeteras y cómo guardar Bitcoin](es/clase-9.md)
   * [Clase 10 - Soberanía con tu Bitcoin](es/clase-10.md)
+  * [:trophy: Certificado](es/certificado.md)
+  * [:book: Glosario](es/glosario.md)
 
 * **Resources**
   * [Contributing](contributing.md)

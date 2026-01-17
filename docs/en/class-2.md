@@ -287,3 +287,30 @@ Bitcoin is better money and a better financial system. In the next lesson, you'l
 ---
 
 [ Previous](class-1.md) | [Next ](class-3.md)
+---
+
+### :loudspeaker: Share this lesson!
+
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
+ Twitter
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2" target="_blank" class="share-btn share-btn-linkedin">
+ LinkedIn
+</a>
+<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-2" target="_blank" class="share-btn share-btn-whatsapp">
+ WhatsApp
+</a>
+<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-2&text=I'm%20learning%20about%20Bitcoin!%20Class%202%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
+ Telegram
+</a>
+</div>
+
+### :chart_with_upwards_trend: Your Course Progress
+
+<div class="course-progress">
+<strong>Class 2 de 10</strong> (20% completo)
+<div class="course-progress-bar">
+<div class="course-progress-fill" style="width: 20%"></div>
+</div>
+</div>

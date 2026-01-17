@@ -356,3 +356,30 @@ In the next class, we'll understand how Bitcoin works in detail and you'll get a
 ---
 
 [ Previous](class-2.md) | [Next ](class-4.md)
+---
+
+### :loudspeaker: Share this lesson!
+
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=I'm%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20&url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3&via=aaborges_" target="_blank" class="share-btn share-btn-twitter">
+ Twitter
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3" target="_blank" class="share-btn share-btn-linkedin">
+ LinkedIn
+</a>
+<a href="https://wa.me/?text=I'm%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20%20https://areabitcoin.github.io/Bitcoin-4-All/en/class-3" target="_blank" class="share-btn share-btn-whatsapp">
+ WhatsApp
+</a>
+<a href="https://t.me/share/url?url=https://areabitcoin.github.io/Bitcoin-4-All/en/class-3&text=I'm%20learning%20about%20Bitcoin!%20Class%203%20from%20Bitcoin%204%20All%20course%20" target="_blank" class="share-btn share-btn-telegram">
+ Telegram
+</a>
+</div>
+
+### :chart_with_upwards_trend: Your Course Progress
+
+<div class="course-progress">
+<strong>Class 3 de 10</strong> (30% completo)
+<div class="course-progress-bar">
+<div class="course-progress-fill" style="width: 30%"></div>
+</div>
+</div>
