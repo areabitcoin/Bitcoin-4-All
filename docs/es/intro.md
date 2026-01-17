@@ -65,7 +65,7 @@ Estamos aquí para ayudarte a entender, adoptar y esparcir esta idea transformad
 
 ## :rocket: Empezar Ahora
 
-[Empezar Clase 1 :arrow_right:](es/clase-1.md)
+[Empezar Clase 1 :arrow_right:](clase-1.md)
 
 ---
 

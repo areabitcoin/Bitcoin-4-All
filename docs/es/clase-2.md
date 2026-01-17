@@ -290,4 +290,4 @@ Bitcoin es un dinero (y un sistema financiero) mejor. En la próxima lección, c
 
 ---
 
-[ Anterior](es/clase-1.md) | [Siguiente ](es/clase-3.md)
+[ Anterior](clase-1.md) | [Siguiente ](clase-3.md)

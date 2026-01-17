@@ -355,4 +355,4 @@ In the next class, we'll understand how Bitcoin works in detail and you'll get a
 
 ---
 
-[ Previous](en/class-2.md) | [Next ](en/class-4.md)
+[ Previous](class-2.md) | [Next ](class-4.md)

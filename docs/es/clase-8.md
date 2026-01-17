@@ -374,4 +374,4 @@ Ahora que ya sabes qué es Bitcoin, cómo funciona, las formas de poseerlo y las
 
 ---
 
-[ Anterior](es/clase-7.md) | [Siguiente ](es/clase-9.md)
+[ Anterior](clase-7.md) | [Siguiente ](clase-9.md)

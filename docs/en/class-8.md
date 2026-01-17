@@ -375,4 +375,4 @@ Now that you know what Bitcoin is, how it works, ways to own it and the main lie
 
 ---
 
-[ Previous](en/class-7.md) | [Next ](en/class-9.md)
+[ Previous](class-7.md) | [Next ](class-9.md)

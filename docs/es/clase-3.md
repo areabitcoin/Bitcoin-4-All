@@ -345,4 +345,4 @@ En la próxima lección, entenderemos cómo funciona Bitcoin en detalle y podrá
 
 ---
 
-[ Anterior](es/clase-2.md) | [Siguiente ](es/clase-4.md)
+[ Anterior](clase-2.md) | [Siguiente ](clase-4.md)

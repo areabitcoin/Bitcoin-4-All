@@ -208,4 +208,4 @@ Ultimately, Bitcoin is a global, long-term trend. Preparing today is easier than
 
 ---
 
-[ Previous](en/class-5.md) | [Next ](en/class-7.md)
+[ Previous](class-5.md) | [Next ](class-7.md)

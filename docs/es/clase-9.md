@@ -206,4 +206,4 @@ Entonces en esta lección has aprendido por qué es importante la autocustodia, 
 
 ---
 
-[ Anterior](es/clase-8.md) | [Siguiente ](es/clase-10.md)
+[ Anterior](clase-8.md) | [Siguiente ](clase-10.md)

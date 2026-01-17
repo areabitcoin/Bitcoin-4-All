@@ -217,4 +217,4 @@ See you next class!
 
 ---
 
-[ Previous](en/intro.md) | [Next ](en/class-2.md)
+[ Previous](intro.md) | [Next ](class-2.md)

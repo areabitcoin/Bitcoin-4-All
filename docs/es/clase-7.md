@@ -229,4 +229,4 @@ Bueno, espero que esta lección te haya ayudado a entender que hay muchas formas
 
 ---
 
-[ Anterior](es/clase-6.md) | [Siguiente ](es/clase-8.md)
+[ Anterior](clase-6.md) | [Siguiente ](clase-8.md)

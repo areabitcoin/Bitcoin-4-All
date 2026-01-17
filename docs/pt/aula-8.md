@@ -323,4 +323,4 @@ Agora que você já sabe o que é bitcoin, como ele funciona, formas de ter e as
 
 ***
 
-[Anterior](pt/aula-7.md) | [Próxima](pt/aula-9.md)
+[Anterior](aula-7.md) | [Próxima](aula-9.md)

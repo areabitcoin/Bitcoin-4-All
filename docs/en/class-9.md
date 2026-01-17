@@ -203,4 +203,4 @@ So in this lesson you learned why self-custody is important, what Bitcoin wallet
 
 ---
 
-[ Previous](en/class-8.md) | [Next ](en/class-10.md)
+[ Previous](class-8.md) | [Next ](class-10.md)

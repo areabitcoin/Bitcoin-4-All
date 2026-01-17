@@ -205,4 +205,4 @@ Bom, espero que essa aula tenha te ajudado a entender que existem múltiplas for
 
 ***
 
-[Anterior](pt/aula-6.md) | [Próxima](pt/aula-8.md)
+[Anterior](aula-6.md) | [Próxima](aula-8.md)

@@ -183,4 +183,4 @@ Então nessa aula você aprendeu porque fazer a própria custódia é importante
 
 ***
 
-[Anterior](pt/aula-8.md) | [Próxima](pt/aula-10.md)
+[Anterior](aula-8.md) | [Próxima](aula-10.md)

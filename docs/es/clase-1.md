@@ -219,4 +219,4 @@ En la próxima lección, exploraremos esos problemas en detalle y comprenderás 
 
 ---
 
-[ Anterior](es/intro.md) | [Siguiente ](es/clase-2.md)
+[ Anterior](intro.md) | [Siguiente ](clase-2.md)

@@ -286,4 +286,4 @@ Bitcoin is better money and a better financial system. In the next lesson, you'l
 
 ---
 
-[ Previous](en/class-1.md) | [Next ](en/class-3.md)
+[ Previous](class-1.md) | [Next ](class-3.md)

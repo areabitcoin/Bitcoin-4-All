@@ -306,4 +306,4 @@ Na próxima, vamos entender o funcionamento do Bitcoin no detalhe e você vai ol
 
 ***
 
-[Anterior](pt/aula-2.md) | [Próxima](pt/aula-4.md)
+[Anterior](aula-2.md) | [Próxima](aula-4.md)

@@ -149,4 +149,4 @@ Comparte este curso con amigos, parientes y otras personas que también tienen c
 
 ---
 
-[ Anterior](es/clase-9.md) | [Siguiente ](es/intro.md)
+[ Anterior](clase-9.md) | [Siguiente ](intro.md)

@@ -199,4 +199,4 @@ Até a próxima aula!
 
 ***
 
-[Anterior](pt/intro.md) | [Próxima](pt/aula-2.md)
+[Anterior](intro.md) | [Próxima](aula-2.md)

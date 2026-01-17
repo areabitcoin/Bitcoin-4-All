@@ -69,7 +69,7 @@ We're here to help you understand, adopt and spread this transformative idea.
 
 ## :rocket: Start Now
 
-[Start Class 1 :arrow_right:](en/class-1.md)
+[Start Class 1 :arrow_right:](class-1.md)
 
 ---
 

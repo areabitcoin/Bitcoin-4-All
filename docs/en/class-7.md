@@ -225,4 +225,4 @@ Well, I hope this lesson has helped you understand that there are multiple ways 
 
 ---
 
-[ Previous](en/class-6.md) | [Next ](en/class-8.md)
+[ Previous](class-6.md) | [Next ](class-8.md)

@@ -239,4 +239,4 @@ Bitcoin é um dinheiro e um sistema financeiro melhor e na próxima aula você v
 
 ***
 
-[Anterior](pt/aula-1.md) | [Próxima](pt/aula-3.md)
+[Anterior](aula-1.md) | [Próxima](aula-3.md)

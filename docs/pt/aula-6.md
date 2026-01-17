@@ -183,4 +183,4 @@ Na próxima aula você vai aprender formas de ter Bitcoin e como começar a acum
 
 ***
 
-[Anterior](pt/aula-5.md) | [Próxima](pt/aula-7.md)
+[Anterior](aula-5.md) | [Próxima](aula-7.md)

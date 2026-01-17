@@ -65,7 +65,7 @@ Estamos aqui para te ajudar a entender, adotar e espalhar essa ideia transformad
 
 ## Começar Agora
 
-[Começar Aula 1](pt/aula-1.md)
+[Começar Aula 1](aula-1.md)
 
 ***
 

@@ -207,4 +207,4 @@ Al fin y al cabo, Bitcoin es una tendencia global a largo plazo. Prepararse hoy 
 
 ---
 
-[ Anterior](es/clase-5.md) | [Siguiente ](es/clase-7.md)
+[ Anterior](clase-5.md) | [Siguiente ](clase-7.md)
